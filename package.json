@@ -1,12 +1,14 @@
 {
-  "name": "n8n-workflow-hub",
+  "name": "automation-hub",
   "version": "1.0.0",
-  "description": "The first centralised, searchable, and hosted directory of n8n workflows.",
+  "description": "The universal, searchable, and hosted directory for automation workflows across n8n, OpenClaw, and more.",
   "main": "generator/build.js",
   "scripts": {
-    "clean": "node -e \"require('fs-extra').removeSync('./docs'); require('fs-extra').removeSync('./tmp');\"",
-    "build": "npm run clean && node generator/build.js",
-    "dev": "npm run build && http-server docs"
+    "clean": "bun -e \"require('fs-extra').removeSync('./docs'); require('fs-extra').removeSync('./tmp');\"",
+    "build": "npm run clean && bun generator/build.js",
+    "dev": "npm run build && bun x http-server docs",
+    "update:n8n": "bun generator/providers/n8n.js",
+    "update:openclaw": "bun generator/providers/openclaw.js"
   },
   "repository": {
     "type": "git",
