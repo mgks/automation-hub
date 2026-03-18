@@ -1,0 +1,41 @@
+name: Daily Workflow Discovery
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install Dependencies
+        run: bun install
+
+      - name: Update n8n Index
+        run: bun run update:n8n
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update OpenClaw Index
+        run: bun run update:openclaw
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build Static Site
+        run: bun run build
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "Workflow Hub Bot"
+          git config --global user.email "bot@mgks.dev"
+          git add data/*.json docs/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: daily workflow discovery and build [skip ci]" && git push)
