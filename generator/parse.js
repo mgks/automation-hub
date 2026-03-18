@@ -1,23 +1,54 @@
 // generator/parse.js
-const zie619Provider = require('./providers/zie619.js');
+const fs = require('fs-extra');
+const path = require('path');
+
+const DATA_DIR = path.join(__dirname, '../data');
 
 /**
- * Orchestrates the parsing of workflows from all configured providers.
- * For now, it only calls the Zie619 provider.
- * In the future, this function could aggregate data from multiple sources.
+ * Aggregates workflows from all JSON files in the data directory.
+ * Each workflow's path is updated to be prefixed by its source (filename).
  */
 async function parseWorkflows() {
-    console.log('Starting workflow parsing orchestration...');
+    console.log('Starting multi-source workflow aggregation...');
     
-    // Call the provider to get the standardized workflow data
-    const data = await zie619Provider.parse();
-    
-    // Here you could add logic to merge data from other providers if needed
-    // For example: const otherData = await otherProvider.parse();
-    // const combinedData = { ... };
+    if (!await fs.pathExists(DATA_DIR)) {
+        console.warn('Data directory not found. Please ensure workflows exist in /data.');
+        return { workflows: [], tools: {} };
+    }
 
-    console.log(`Parsing complete. Total workflows processed: ${data.workflows.length}`);
-    return data;
+    const files = await fs.readdir(DATA_DIR);
+    const allWorkflows = [];
+    const toolsMap = {};
+
+    for (const file of files) {
+        if (path.extname(file) === '.json') {
+            const sourceName = path.basename(file, '.json');
+            const filePath = path.join(DATA_DIR, file);
+            const workflows = await fs.readJson(filePath, { throws: false }) || [];
+            
+            console.log(`Processing ${workflows.length} workflows from source: ${sourceName}`);
+            
+            for (const wf of workflows) {
+                // Normalize workflow data
+                wf.source = sourceName;
+                
+                // Restructure path: SOURCE/SLUG/
+                // extract slug from current path if ID is not clean
+                const slugMatch = wf.path ? wf.path.match(/\/([^\/]+)\/?$/) : null;
+                const slug = slugMatch ? slugMatch[1] : wf.id.split('-').pop();
+                wf.path = `${sourceName}/${slug}/`;
+                
+                allWorkflows.push(wf);
+
+                // Track tool counts
+                if (!toolsMap[wf.tool]) toolsMap[wf.tool] = 0;
+                toolsMap[wf.tool]++;
+            }
+        }
+    }
+
+    console.log(`Aggregation complete. Total workflows: ${allWorkflows.length}`);
+    return { workflows: allWorkflows, tools: toolsMap };
 }
 
 module.exports = { parseWorkflows };
