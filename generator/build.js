@@ -21,6 +21,12 @@ async function main() {
     console.log('Copying static assets...');
     await fs.copy(STATIC_DIR, path.join(OUTPUT_DIR, 'src'));
 
+    // Ensure robots.txt is at the root of /docs/
+    if (await fs.pathExists(path.join(STATIC_DIR, 'robots.txt'))) {
+        await fs.copy(path.join(STATIC_DIR, 'robots.txt'), path.join(OUTPUT_DIR, 'robots.txt'));
+        console.log('Copied robots.txt to the root of /docs/');
+    }
+
     // 2. Generate the searchable index file
     await fs.writeJson(path.join(OUTPUT_DIR, 'index.json'), data.workflows);
     console.log(`Created index.json with ${data.workflows.length} workflows.`);

@@ -6,16 +6,37 @@
     <title>{{title}}</title>
     <meta name="description" content="{{meta_description}}">
     <link rel="canonical" href="{{canonical_url}}" />
+    <link rel="manifest" href="/src/manifest.json">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+    
+    <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{title}}" />
     <meta property="og:description" content="{{meta_description}}" />
     <meta property="og:url" content="{{canonical_url}}" />
-    <meta property="og:site_name" content="n8n Workflow Hub" />
+    <meta property="og:site_name" content="Automation Hub" />
     <meta property="og:image" content="{{og_image}}" />
+
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{title}}" />
     <meta name="twitter:description" content="{{meta_description}}" />
     <meta name="twitter:image" content="{{og_image}}" />
+
+    <!-- Schema.org JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Automation Hub",
+      "url": "https://hub.mgks.dev/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://hub.mgks.dev/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SS2QVHPJ2J"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -67,7 +88,7 @@
     </main>
     <footer>
         <div class="footer-content">
-             <p>Built by <a href="https://github.com/mgks" target="_blank">@mgks</a></p>
+             <p>Built by <a href="https://github.com/mgks" target="_blank">@mgks</a> | <a href="/sitemap.xml">Sitemap</a></p>
         </div>
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>

@@ -444,27 +444,60 @@ async function generateSitemap(data) {
 
         const lastmod = new Date().toISOString();
 
-        const links = [
-            { url: '/', changefreq: 'daily', priority: 1.0, lastmod }
-        ];
+        // 1. Homepage
+        stream.write({ url: '/', changefreq: 'daily', priority: 1.0, lastmod });
 
-        for (const toolName in data.tools) {
-            links.push({ url: `/tool/${toolName.toLowerCase()}/`, changefreq: 'daily', priority: 0.8, lastmod });
+        // 2. Tool & Platform Pages (including pagination)
+        const workflowsByTool = data.workflows.reduce((acc, wf) => {
+            const tool = wf.tool || 'unknown';
+            if (!acc[tool]) acc[tool] = [];
+            acc[tool].push(wf);
+            if (wf.source && wf.source !== tool) {
+                if (!acc[wf.source]) acc[wf.source] = [];
+                acc[wf.source].push(wf);
+            }
+            return acc;
+        }, {});
+
+        for (const toolName in workflowsByTool) {
+            const totalPages = Math.ceil(workflowsByTool[toolName].length / PAGE_SIZE);
+            const baseUrl = `/tool/${toolName.toLowerCase()}/`;
+            for (let page = 1; page <= totalPages; page++) {
+                const url = page === 1 ? baseUrl : `${baseUrl}page/${page}/`;
+                stream.write({ url, changefreq: 'daily', priority: 0.8, lastmod });
+            }
         }
 
+        // 3. Tag Pages (including pagination)
+        const workflowsByTag = data.workflows.reduce((acc, wf) => {
+            if (!wf.tags) return acc;
+            for (const tag of wf.tags) {
+                const t = tag.toLowerCase().replace(/[^a-z0-9-]/g, '-');
+                if (!acc[t]) acc[t] = 0;
+                acc[t]++;
+            }
+            return acc;
+        }, {});
+
+        for (const tagSlug in workflowsByTag) {
+            const totalPages = Math.ceil(workflowsByTag[tagSlug] / PAGE_SIZE);
+            const baseUrl = `/tag/${tagSlug}/`;
+            for (let page = 1; page <= totalPages; page++) {
+                const url = page === 1 ? baseUrl : `${baseUrl}page/${page}/`;
+                stream.write({ url, changefreq: 'weekly', priority: 0.7, lastmod });
+            }
+        }
+
+        // 4. Individual Workflow Pages
         for (const wf of data.workflows) {
-            links.push({ url: `/${wf.path}`, changefreq: 'weekly', priority: 0.6, lastmod });
+            stream.write({ url: `/${wf.path}`, changefreq: 'weekly', priority: 0.6, lastmod });
         }
 
-        links.forEach(link => stream.write(link));
         stream.end();
-
         const sitemapXml = (await streamToPromise(stream)).toString();
-        console.log(`[Sitemap] Generated XML content (${sitemapXml.length} bytes).`);
-
         const sitemapPath = path.join(DOCS_DIR, 'sitemap.xml');
         await fs.writeFile(sitemapPath, sitemapXml);
-        console.log(`[Sitemap] Successfully written to ${sitemapPath}`);
+        console.log(`[Sitemap] Successfully written to ${sitemapPath} with ${data.workflows.length} workflows and many dynamic pages.`);
 
     } catch (error) {
         console.error('[Sitemap] Failed to generate sitemap:', error);
