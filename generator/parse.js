@@ -19,6 +19,8 @@ async function parseWorkflows() {
     const files = await fs.readdir(DATA_DIR);
     const allWorkflows = [];
     const toolsMap = {};
+    const seenIds = new Set();
+    const seenUrls = new Set();
 
     for (const file of files) {
         if (path.extname(file) === '.json') {
@@ -29,6 +31,16 @@ async function parseWorkflows() {
             console.log(`Processing ${workflows.length} workflows from source: ${sourceName}`);
             
             for (const wf of workflows) {
+                // Deduplicate by ID and URLs
+                const uniqueUrl = wf.repoUrl || wf.downloadUrl || wf.sourceFile;
+                
+                if (!wf.id || seenIds.has(wf.id) || (uniqueUrl && seenUrls.has(uniqueUrl))) {
+                    continue; // Skip duplicate or invalid entries
+                }
+                
+                seenIds.add(wf.id);
+                if (uniqueUrl) seenUrls.add(uniqueUrl);
+
                 // Normalize workflow data
                 wf.source = sourceName;
                 
