@@ -87,12 +87,7 @@ function createWorkflowListItem(wf) {
                 <p class="item-description">${trimmedDescription}</p>
                 <div class="pills-container">${toolPill}${tagsHTML}</div>
             </div>
-            <div class="item-actions">
-                <a href="${actionUrl}" class="icon-button" ${wf.type === 'repo' ? '' : 'download'} target="_blank" title="${actionTitle}">
-                    ${actionIcon}
-                </a>
             </div>
-        </div>
     `;
 }
 
@@ -281,9 +276,9 @@ async function renderSite(data) {
                 </a>
             `;
             usageHTML = `
-                <div class="instructions-container card">
-                    <h3>How to Use This Repository</h3>
-                    <p>This is a community-contributed repository for ${wf.tool}. To use these workflows:</p>
+                <div class="instructions-container card" style="height: 100%;">
+                    <h3 style="margin-top:0; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem;">How to Use This Repository</h3>
+                    <p style="margin-top: 1rem;">This is a community-contributed repository for ${wf.tool}. To use these workflows:</p>
                     <ol>
                         <li>Clone the repository to your local machine:
                             <div class="code-block-container">
@@ -308,9 +303,9 @@ async function renderSite(data) {
                 </a>
             `;
             usageHTML = `
-                <div class="instructions-container card">
-                    <h3>How to Import This Workflow</h3>
-                    <ol>
+                <div class="instructions-container card" style="height: 100%;">
+                    <h3 style="margin-top:0; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem;">How to Import This Workflow</h3>
+                    <ol style="margin-top: 1rem; padding-left: 1.5rem;">
                         <li>Click the "Download JSON" button to save the file: <code>${wf.rawFilename || 'workflow.json'}</code>.</li>
                         <li>Open your ${wf.tool} canvas. In the top menu, go to <strong>File > Import from File...</strong></li>
                         <li>Select the downloaded file.</li>
