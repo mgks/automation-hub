@@ -44,6 +44,7 @@ jobs:
         with:
           commit_message: 'docs: Auto-update workflows and site'
           file_pattern: 'docs/* index.json'
+          add_options: '-f'
           commit_user_name: 'github-actions[bot]'
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'
 

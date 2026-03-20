@@ -30,12 +30,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build Static Site
-        run: bun run build
-
       - name: Commit and Push Changes
         run: |
           git config --global user.name "Workflow Hub Bot"
           git config --global user.email "bot@mgks.dev"
-          git add data/*.json docs/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: daily workflow discovery and build [skip ci]" && git push)
+          git add data/*.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: daily workflow discovery" && git push)
