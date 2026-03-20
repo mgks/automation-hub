@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mgks/n8n.git"
+    "url": "git+https://github.com/mgks/automation-hub.git"
   },
   "author": "mgks",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mgks/n8n/issues"
+    "url": "https://github.com/mgks/automation-hub/issues"
   },
-  "homepage": "https://github.com/mgks/n8n#readme",
+  "homepage": "https://github.com/mgks/automation-hub#readme",
   "dependencies": {
     "fs-extra": "^11.2.0",
     "fuse.js": "^7.0.0",
