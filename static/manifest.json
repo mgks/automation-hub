@@ -1,0 +1,16 @@
+{
+  "name": "Automation Hub",
+  "short_name": "Hub",
+  "description": "Universal automation workflows directory",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0b10",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/src/og-image.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

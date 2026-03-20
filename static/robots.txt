@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hub.mgks.dev/sitemap.xml
