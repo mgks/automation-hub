@@ -18,7 +18,7 @@ body {
 
 footer,
 header {
-    padding: 1rem 5%
+    padding: .5rem 5%
 }
 
 .pill,
@@ -113,8 +113,8 @@ header {
 }
 
 .logo-svg {
-    width: 2.5em;
-    height: 2.5em
+    width: 2em;
+    height: 2em
 }
 
 .search-container {
@@ -124,7 +124,7 @@ header {
 
 .search-input {
     width: 94%;
-    padding: .9rem 3%;
+    padding: .5rem 5%;
     font-size: 1rem;
     border-radius: 50px;
     border: 1px solid var(--border-color);
@@ -370,7 +370,6 @@ footer {
 }
 
 .workflow-description {
-    margin: 1.5rem 0;
     color: var(--subtle-text-color)
 }
 
