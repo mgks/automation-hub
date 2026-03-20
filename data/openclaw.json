@@ -722,5 +722,154 @@
     "type": "repo",
     "repoUrl": "https://github.com/jrleon30/awesome-openclaw-usecases-zh",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1181317548",
+    "title": "wallpaper-claw-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-image-generation",
+      "claude-skill",
+      "llm-tool",
+      "open-claw",
+      "openclaw",
+      "wallpaper"
+    ],
+    "description": "Generate stunning mobile & desktop wallpapers via AI — OpenClaw skill",
+    "path": "openclaw/barbaraledbettergq-wallpaper-claw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BarbaraLedbettergq/wallpaper-claw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1181320234",
+    "title": "blog-image-claw-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-image-generation",
+      "blog",
+      "claude-skill",
+      "content-creation",
+      "llm-tool",
+      "open-claw",
+      "openclaw"
+    ],
+    "description": "Auto-generate header and inline images for blog posts — OpenClaw skill",
+    "path": "openclaw/barbaraledbettergq-blog-image-claw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BarbaraLedbettergq/blog-image-claw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1178727652",
+    "title": "redis-collab",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Redis collaboration skill for OpenClaw - shared memory, task distribution, role/network/compute capabilities",
+    "path": "openclaw/zfw1226-redis-collab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zfw1226/redis-collab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186792956",
+    "title": "openclawmaneger",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "🦐 OpenClaw Manager - A cross-platform desktop app for managing OpenClaw with ease. Monitor Gateway status, configure channels (Telegram/Discord/Feishu), manage agents & skills, view logs - all in a beautiful GUI. Perfect for beginners!",
+    "path": "openclaw/stliuexp-openclawmaneger/",
+    "type": "repo",
+    "repoUrl": "https://github.com/stliuexp/openclawmaneger",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182699036",
+    "title": "glazyr-viz",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: Cloud-isolated browser automation with Zero-Copy Vision.",
+    "path": "openclaw/glazyr-glazyr-viz/",
+    "type": "repo",
+    "repoUrl": "https://github.com/glazyr/glazyr-viz",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186753723",
+    "title": "project-loop-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Lean project orchestration skill for OpenClaw",
+    "path": "openclaw/sebclawops-project-loop-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sebclawops/project-loop-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1033778670",
+    "title": "AionUi",
+    "tool": "openclaw",
+    "tags": [
+      "acp",
+      "ai",
+      "ai-agent",
+      "chat",
+      "chatbot",
+      "claude-code",
+      "clawd",
+      "clawdbot",
+      "codex",
+      "cowork",
+      "gemini",
+      "gemini-cli",
+      "llm",
+      "nano-banana",
+      "office",
+      "openclaw",
+      "opencode",
+      "skills",
+      "webui"
+    ],
+    "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+    "path": "openclaw/iofficeai-aionui/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iOfficeAI/AionUi",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182772272",
+    "title": "openclaw-revenium",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Budget enforcement and token metering skill for OpenClaw agents. Tracks AI spend via Revenium, enforces configurable budget guardrails, and reports   usage automatically — so agents never silently blow through your token budget.",
+    "path": "openclaw/revenium-openclaw-revenium/",
+    "type": "repo",
+    "repoUrl": "https://github.com/revenium/openclaw-revenium",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1165649408",
+    "title": "openclaw-skills-explorer",
+    "tool": "openclaw",
+    "tags": [
+      "openclaw",
+      "openclaw-security",
+      "openclaw-skills"
+    ],
+    "description": "ClawEye: a catalog for the OpenClaw agentic skills registry",
+    "path": "openclaw/nitzzzu-openclaw-skills-explorer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nitzzzu/openclaw-skills-explorer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186510865",
+    "title": "openclaw-evo",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Self-evolving AI assistant engine for OpenClaw — monitors performance, generates skill fixes, A/B tests them, deploys winners, and auto-restarts the gateway if it goes down.",
+    "path": "openclaw/devvgwardo-openclaw-evo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DevvGwardo/openclaw-evo",
+    "source": "github-discovery"
   }
 ]
