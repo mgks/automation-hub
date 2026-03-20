@@ -6,8 +6,9 @@ const { SitemapStream, streamToPromise } = require('sitemap');
 const DOCS_DIR = path.join(__dirname, '../docs');
 const TEMPLATES_DIR = path.join(__dirname, 'templates');
 const HIGHLIGHT_FILE = path.join(__dirname, '../highlight.json');
-const BASE_URL = 'https://n8n.mgks.dev';
+const BASE_URL = 'https://hub.mgks.dev';
 const MAIN_TOOLS = ['n8n', 'openclaw'];
+const PAGE_SIZE = 25;
 
 let templates;
 async function loadTemplates() {
@@ -133,6 +134,66 @@ function createRelatedWorkflowCard(wf) {
             </div>
         </a>
     `;
+}
+
+function createPaginationHTML(currentPage, totalPages, baseUrl) {
+    if (totalPages <= 1) return '';
+    
+    let html = '<div class="pagination">';
+    
+    // Helper to get page URL
+    const getPageUrl = (p) => p === 1 ? baseUrl : `${baseUrl}page/${p}/`;
+
+    // Previous Link
+    if (currentPage > 1) {
+        html += `<a href="${getPageUrl(currentPage - 1)}" class="pagination-link">&larr;</a>`;
+    } else {
+        html += `<span class="pagination-link disabled">&larr;</span>`;
+    }
+    
+    // Page Numbers
+    const delta = 2; // Number of pages to show around current
+    const range = [];
+    const rangeWithDots = [];
+    let l;
+
+    for (let i = 1; i <= totalPages; i++) {
+        if (i === 1 || i === totalPages || (i >= currentPage - delta && i <= currentPage + delta)) {
+            range.push(i);
+        }
+    }
+
+    for (let i of range) {
+        if (l) {
+            if (i - l === 2) {
+                rangeWithDots.push(l + 1);
+            } else if (i - l !== 1) {
+                rangeWithDots.push('...');
+            }
+        }
+        rangeWithDots.push(i);
+        l = i;
+    }
+
+    for (let i of rangeWithDots) {
+        if (i === '...') {
+            html += `<span class="pagination-dots">...</span>`;
+        } else if (i === currentPage) {
+            html += `<span class="pagination-link active">${i}</span>`;
+        } else {
+            html += `<a href="${getPageUrl(i)}" class="pagination-link">${i}</a>`;
+        }
+    }
+
+    // Next Link
+    if (currentPage < totalPages) {
+        html += `<a href="${getPageUrl(currentPage + 1)}" class="pagination-link">&rarr;</a>`;
+    } else {
+        html += `<span class="pagination-link disabled">&rarr;</span>`;
+    }
+    
+    html += '</div>';
+    return html;
 }
 
 async function renderSite(data) {
@@ -268,24 +329,55 @@ async function renderSite(data) {
         await fs.writeFile(path.join(wfDir, 'index.html'), wfHtml);
     }
 
-    // 3. Render Tool Pages
+    // 3. Render Tool & Platform Pages
     const workflowsByTool = data.workflows.reduce((acc, wf) => {
+        // Group by specific tool
         if (!acc[wf.tool]) acc[wf.tool] = [];
         acc[wf.tool].push(wf);
+        
+        // ALSO group by platform for higher-level pages
+        const platform = (wf.tool === 'openclaw' || wf.source === 'openclaw') ? 'openclaw' : 'n8n';
+        if (platform !== wf.tool) {
+            if (!acc[platform]) acc[platform] = [];
+            acc[platform].push(wf);
+        }
         return acc;
     }, {});
 
     for (const toolName in workflowsByTool) {
         const toolWorkflows = workflowsByTool[toolName];
-        const workflowListHtml = toolWorkflows.map(createWorkflowListItem).join('');
-        const toolContent = templates.tool.replace('{{title}}', `Tool: ${toolName}`).replace('{{list}}', workflowListHtml);
-        const meta = { title: `Workflows for ${toolName}`, description: `Find n8n workflows for the ${toolName} tool.` };
-        
-        const toolHtml = renderInLayout(toolContent, meta, 'subpage', data);
-        
-        const toolDir = path.join(DOCS_DIR, 'workflow', toolName);
-        await fs.ensureDir(toolDir);
-        await fs.writeFile(path.join(toolDir, 'index.html'), toolHtml);
+        const totalPages = Math.ceil(toolWorkflows.length / PAGE_SIZE);
+        const titlePrefix = MAIN_TOOLS.includes(toolName.toLowerCase()) ? '' : 'Tool: ';
+        const baseUrl = `/workflow/${toolName.toLowerCase()}/`;
+
+        for (let page = 1; page <= totalPages; page++) {
+            const start = (page - 1) * PAGE_SIZE;
+            const end = start + PAGE_SIZE;
+            const pageWorkflows = toolWorkflows.slice(start, end);
+            
+            const workflowListHtml = pageWorkflows.map(createWorkflowListItem).join('');
+            const paginationHTML = createPaginationHTML(page, totalPages, baseUrl);
+            
+            const toolContent = templates.tool
+                .replace('{{title}}', `${titlePrefix}${toolName.toUpperCase()}${totalPages > 1 ? ` (Page ${page})` : ''}`)
+                .replace('{{list}}', workflowListHtml)
+                .replace('{{pagination}}', paginationHTML);
+                
+            const meta = { 
+                title: `${toolName.toUpperCase()} Workflows - Page ${page} | Automation Hub`, 
+                description: `Find ${toolWorkflows.length} automation workflows for ${toolName} in our universal directory. Page ${page}.`,
+                url: page === 1 ? baseUrl : `${baseUrl}page/${page}/`
+            };
+            
+            const toolHtml = renderInLayout(toolContent, meta, 'subpage', data);
+            
+            const pageDir = page === 1 
+                ? path.join(DOCS_DIR, 'workflow', toolName.toLowerCase())
+                : path.join(DOCS_DIR, 'workflow', toolName.toLowerCase(), 'page', page.toString());
+                
+            await fs.ensureDir(pageDir);
+            await fs.writeFile(path.join(pageDir, 'index.html'), toolHtml);
+        }
     }
 }
 
