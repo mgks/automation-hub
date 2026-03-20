@@ -2,7 +2,7 @@
 
 > The universal, searchable, and hosted directory for automation workflows across n8n, OpenClaw, and more.
 
-**Live Site:** [**workflows.mgks.dev**](https://workflows.mgks.dev)
+**Live Site:** [**hub.mgks.dev**](https://hub.mgks.dev)
 
 ## About The Project
 
