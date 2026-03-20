@@ -1,24 +1,17 @@
 name: Build and Deploy to GitHub Pages
 
 on:
-  # 1. Automatic Trigger: Runs every 2 days at 3 AM UTC.
-  # You can adjust the cron schedule. '0 3 */2 * *' means:
-  # 0: minute, 3: hour, */2: every 2nd day of the month, *: any month, *: any day of the week.
   schedule:
     - cron: '0 3 */7 * *'
 
-  # 2. Manual Trigger: Allows you to run this workflow manually from the Actions tab.
   workflow_dispatch:
 
-  # Allow other workflows to call this
   workflow_call:
 
-  # 3. On Push: Runs when you push changes to the main branch (e.g., template updates).
   push:
     branches:
-      - main # Or master, depending on your default branch name
+      - main
 
-# Permissions needed for the deployment actions to work correctly.
 permissions:
   contents: write 
   pages: write 
@@ -57,7 +50,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # The path to the folder that contains the built site
           path: './docs'
 
       - name: Deploy to GitHub Pages

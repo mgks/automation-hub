@@ -42,3 +42,7 @@ jobs:
   build-site:
     needs: update-index
     uses: ./.github/workflows/build.yml
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
