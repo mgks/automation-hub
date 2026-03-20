@@ -10,6 +10,9 @@ on:
   # 2. Manual Trigger: Allows you to run this workflow manually from the Actions tab.
   workflow_dispatch:
 
+  # Allow other workflows to call this
+  workflow_call:
+
   # 3. On Push: Runs when you push changes to the main branch (e.g., template updates).
   push:
     branches:

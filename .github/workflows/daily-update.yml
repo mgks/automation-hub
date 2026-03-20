@@ -38,3 +38,7 @@ jobs:
           git config --global user.email "bot@mgks.dev"
           git add data/*.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: daily workflow discovery" && git push)
+
+  build-site:
+    needs: update-index
+    uses: ./.github/workflows/build.yml
