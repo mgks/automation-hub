@@ -362,5 +362,175 @@
     "type": "repo",
     "repoUrl": "https://github.com/pinpox/opencrow",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1175243649",
+    "title": "clawlodge",
+    "tool": "openclaw",
+    "tags": [
+      "agent-config",
+      "agent-workflows",
+      "agentic-ai",
+      "ai-agent",
+      "ai-assistant",
+      "ai-automation",
+      "developer-tools",
+      "llm-agents",
+      "open-source",
+      "openclaw",
+      "openclaw-community",
+      "openclaw-config",
+      "openclaw-setup",
+      "openclaw-skills",
+      "prompt-engineering"
+    ],
+    "description": "Community hub for sharing and discovering well-tuned OpenClaw setups, skills, and agent workflows.",
+    "path": "openclaw/memepilot-clawlodge/",
+    "type": "repo",
+    "repoUrl": "https://github.com/memepilot/clawlodge",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1181568752",
+    "title": "echo-fade-memory",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "agent-memory",
+      "ai",
+      "ai-memory",
+      "go",
+      "memory",
+      "openclaw",
+      "openclaw-skills",
+      "skills",
+      "vector-search"
+    ],
+    "description": "AI memory middleware that forgets. Remember, decay, recall, ground—explainable lifecycle for agent memory.",
+    "path": "openclaw/hiparker-echo-fade-memory/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hiparker/echo-fade-memory",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1177520407",
+    "title": "look",
+    "tool": "openclaw",
+    "tags": [
+      "agentskill",
+      "agentskills",
+      "openclaw",
+      "openclaw-skills"
+    ],
+    "description": "Image-to-action skill. Converts user-provided images into validated, decision-ready drafts across real-world action domains.",
+    "path": "openclaw/indigokarasu-look/",
+    "type": "repo",
+    "repoUrl": "https://github.com/indigokarasu/look",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1177520236",
+    "title": "forge",
+    "tool": "openclaw",
+    "tags": [
+      "agentskill",
+      "agentskills",
+      "openclaw",
+      "openclaw-skills"
+    ],
+    "description": "Skill architect and builder. Designs, builds, and validates complete Agent Skill packages through a mandatory six-phase pipeline.",
+    "path": "openclaw/indigokarasu-forge/",
+    "type": "repo",
+    "repoUrl": "https://github.com/indigokarasu/forge",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1177520642",
+    "title": "mentor",
+    "tool": "openclaw",
+    "tags": [
+      "agentskill",
+      "agentskills",
+      "openclaw",
+      "openclaw-skills"
+    ],
+    "description": "Self-improving orchestration and evaluation engine for long-running multi-skill workflows. Analyzes journals, evaluates variants, and proposes skill improvements.",
+    "path": "openclaw/indigokarasu-mentor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/indigokarasu/mentor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1183846930",
+    "title": "ToyKind-World",
+    "tool": "openclaw",
+    "tags": [
+      "agentnet",
+      "agents",
+      "agentskills",
+      "openclaw",
+      "skills",
+      "travel"
+    ],
+    "description": "ToyKind World 旅えび is a unique world for OpenClaw and other AI agents to freely play and socialize with each other while experiencing intriguing storylines at destinations around the world — and beyond.",
+    "path": "openclaw/halfabridge-toykind-world/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HalfABridge/ToyKind-World",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1183703909",
+    "title": "calendar-sync",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Cross-provider calendar synchronization skill for OpenClaw (Google Calendar + Microsoft 365)",
+    "path": "openclaw/ajb5502-calendar-sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ajb5502/calendar-sync",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1185896879",
+    "title": "openclaw-qdrant-rag",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Automatic deep memory retrieval for OpenClaw agents using Qdrant. Plugin + Skill + Shared Core.",
+    "path": "openclaw/zaytas-openclaw-qdrant-rag/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Zaytas/openclaw-qdrant-rag",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1185129233",
+    "title": "gemini-deep-research-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: Automate Gemini Advanced Deep Research via Playwright",
+    "path": "openclaw/ot1-roy-gemini-deep-research-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OT1-roy/gemini-deep-research-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1022917846",
+    "title": "OpenAshare",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ashare",
+      "finance",
+      "openclaw",
+      "skill",
+      "skills",
+      "stock",
+      "stock-market",
+      "stock-market-analysis",
+      "stockstrategy"
+    ],
+    "description": "🤖 AI-Powered Chinese Stock Market Analysis. 一个基于 AI 的 A 股智能分析系统，提供技术分析、交易信号和智能投资建议。内置 OpenClaw 内核，Agent 编排与记忆采用本地优先、分层记忆与心跳总结，支持单股分析、消息与热点追踪、持仓管理与统一问答。",
+    "path": "openclaw/zhiweichen-coder-openashare/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ZhiweiChen-coder/OpenAshare",
+    "source": "github-discovery"
   }
 ]
