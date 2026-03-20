@@ -205,5 +205,162 @@
     "type": "repo",
     "repoUrl": "https://github.com/deathhunter1249/japan-gyousei-data",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1151885323",
+    "title": "rivonclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "RivonClaw is an easy-mode runtime and UI layer built on top of OpenClaw, designed to turn long-lived AI agents into personal digital butlers. Instead of configuring skills or workflows, users interact through natural-language rules and feedback, allowing a single agent to evolve, adapt, and better understand its owner over time.",
+    "path": "openclaw/gaoyangz77-rivonclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gaoyangz77/rivonclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1185187462",
+    "title": "openclaw-chat-history-import",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for importing external chat history into archive, daily memory, and MEMORY.md workflows.",
+    "path": "openclaw/dashhuang-openclaw-chat-history-import/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dashhuang/openclaw-chat-history-import",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1178511579",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skills collection by miliger",
+    "path": "openclaw/zhaog100-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zhaog100/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186769546",
+    "title": "openclaw-digital-office",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "chakrahq",
+      "chatbot",
+      "claude",
+      "digital-office",
+      "docker",
+      "meta-api",
+      "multi-agent",
+      "openclaw",
+      "security",
+      "self-hosted",
+      "skills",
+      "whatsapp"
+    ],
+    "description": "Free WhatsApp read-only via official Meta API (ChakraHQ) + complete digital office setup for OpenClaw. Docker, multi-agent, security hardening, budget governance. Production-tested.",
+    "path": "openclaw/marketingboer-openclaw-digital-office/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MarketingBoer/openclaw-digital-office",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186447992",
+    "title": "soul-companion",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw emotional companion skill - A warm and caring AI companion for OpenClaw",
+    "path": "openclaw/tiankong0101-byte-soul-companion/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tiankong0101-byte/soul-companion",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1162707105",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw agent skills for autonomous development workflows",
+    "path": "openclaw/best-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/best/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186036137",
+    "title": "wechat-mp-auto",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "微信公众号自动化Skill，可直接在openclaw等支持skill的平台中使用。实现微信公众号文章从**选题、写作，配图、审核、草稿、到发布**的全流程自动化。",
+    "path": "openclaw/wzhaojin-wechat-mp-auto/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wzhaojin/wechat-mp-auto",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1128712337",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "archive",
+      "backup",
+      "clawhub",
+      "openclaw",
+      "skill"
+    ],
+    "description": "All versions of all skills that are on clawhub.com archived",
+    "path": "openclaw/openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/openclaw/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182701040",
+    "title": "ontoskills",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "description-logics",
+      "deterministic-ai",
+      "enterprise-ai",
+      "knowledge-graph",
+      "llm-tools",
+      "mcp",
+      "mcp-server",
+      "ontology",
+      "openclaw",
+      "owl2",
+      "python",
+      "rdf",
+      "rust",
+      "semantic-web",
+      "shacl",
+      "skill-compiler",
+      "sparql",
+      "turtle"
+    ],
+    "description": "OWL 2 skill compiler for deterministic AI agents — transforms SKILL.md into validated RDF/ Turtle ontologies with SHACL gatekeeper",
+    "path": "openclaw/mareasoftware-ontoskills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mareasoftware/ontoskills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1158624538",
+    "title": "opencrow",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "assistant",
+      "openclaw",
+      "skills"
+    ],
+    "description": "Personal AI assistant via Matrix Chat - A slightly saner alternative to OpenClaw",
+    "path": "openclaw/pinpox-opencrow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pinpox/opencrow",
+    "source": "github-discovery"
   }
 ]
