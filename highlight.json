@@ -2,7 +2,7 @@
   "enabled": true,
   "workflow": {
     "title": "Linkedin Telegram Automation Scheduled",
-    "url": "http://n8n.mgks.dev/workflow/Linkedin/linkedin-telegram-automation-scheduled/",
+    "url": "https://hub.mgks.dev/workflow/Linkedin/linkedin-telegram-automation-scheduled/",
     "category": "FEATURED",
     "tags": ["AI", "Status", "Linkedin", "Automation"]
   }
