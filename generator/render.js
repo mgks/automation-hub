@@ -40,7 +40,7 @@ function renderInLayout(content, meta, bodyClass = '', data) {
     
     // Top 5 platforms for nav
     const navHTML = formattedPlatforms.slice(0, 5)
-        .map(t => `<a href="/workflow/${t}/" class="nav-link">${t.toUpperCase()} <span>(${platformCounts[t]})</span></a>`)
+        .map(t => `<a href="/tool/${t.toLowerCase()}/" class="nav-link">${t.toUpperCase()} <span>(${platformCounts[t]})</span></a>`)
         .join('');
 
     return templates.layout
@@ -64,8 +64,11 @@ function createPill(text, type, url = null) {
 // --- THIS FUNCTION IS NOW THE TEMPLATE FOR ALL WORKFLOW CARDS ---
 function createWorkflowListItem(wf) {
     const sourcePath = wf.source || 'n8n';
-    const toolPill = createPill(wf.tool, 'tool', `/workflow/${wf.tool}/`); // Now a link
-    const tagsHTML = wf.tags.slice(0, 4).map(tag => createPill(tag, 'tag')).join('');
+    const toolPill = createPill(wf.tool, 'tool', `/tool/${wf.tool.toLowerCase()}/`); // Now a link
+    const tagsHTML = wf.tags.slice(0, 4).map(tag => {
+        const tagSlug = tag.toLowerCase().replace(/[^a-z0-9-]/g, '-');
+        return createPill(tag, 'tag', `/tag/${tagSlug}/`);
+    }).join('');
     
     const trimmedDescription = wf.description.length > 120 
         ? wf.description.substring(0, 120) + '...' 
@@ -212,7 +215,7 @@ async function renderSite(data) {
 
     const toolCardsHTML = sortedTools.slice(0, 4)
         .map(tool => `
-            <a href="/workflow/${tool}/" class="tool-card">
+            <a href="/tool/${tool.toLowerCase()}/" class="tool-card">
                 <div class="tool-card-icon">${tool.charAt(0).toUpperCase()}</div>
                 <div class="tool-card-info">
                     <h4>${tool.toUpperCase()} ${tool.toLowerCase() === 'openclaw' ? 'Skills' : 'Automations'}</h4>
@@ -225,7 +228,7 @@ async function renderSite(data) {
         <div class="tool-showcase">
             <div class="section-header">
                 <h3>${title}</h3>
-                <a href="/workflow/${workflows[0]?.tool || workflows[0]?.source || 'unknown'}/" class="view-all">View All →</a>
+                <a href="/tool/${(workflows[0]?.tool || workflows[0]?.source || 'unknown').toLowerCase()}/" class="view-all">View All →</a>
             </div>
             <div class="showcase-grid">
                 ${workflows.map(createWorkflowListItem).join('')}
@@ -261,7 +264,10 @@ async function renderSite(data) {
     // 2. Render Workflow Pages
     for (const wf of data.workflows) {
         const isRepo = wf.type === 'repo';
-        const pillsHTML = createPill(wf.tool, 'tool', `/workflow/${wf.tool}/`) + wf.tags.map(t => createPill(t, 'tag')).join('');
+        const pillsHTML = createPill(wf.tool, 'tool', `/tool/${wf.tool.toLowerCase()}/`) + wf.tags.map(tag => {
+            const tagSlug = tag.toLowerCase().replace(/[^a-z0-9-]/g, '-');
+            return createPill(tag, 'tag', `/tag/${tagSlug}/`);
+        }).join('');
         
         let actionsHTML = '';
         let usageHTML = '';
@@ -351,7 +357,7 @@ async function renderSite(data) {
         const toolWorkflows = workflowsByTool[toolName];
         const totalPages = Math.ceil(toolWorkflows.length / PAGE_SIZE);
         const titlePrefix = '';
-        const baseUrl = `/workflow/${toolName.toLowerCase()}/`;
+        const baseUrl = `/tool/${toolName.toLowerCase()}/`;
 
         for (let page = 1; page <= totalPages; page++) {
             const start = (page - 1) * PAGE_SIZE;
@@ -375,11 +381,58 @@ async function renderSite(data) {
             const toolHtml = renderInLayout(toolContent, meta, 'subpage', data);
             
             const pageDir = page === 1 
-                ? path.join(DOCS_DIR, 'workflow', toolName.toLowerCase())
-                : path.join(DOCS_DIR, 'workflow', toolName.toLowerCase(), 'page', page.toString());
+                ? path.join(DOCS_DIR, 'tool', toolName.toLowerCase())
+                : path.join(DOCS_DIR, 'tool', toolName.toLowerCase(), 'page', page.toString());
                 
             await fs.ensureDir(pageDir);
             await fs.writeFile(path.join(pageDir, 'index.html'), toolHtml);
+        }
+    }
+
+    // 4. Render Tag Pages
+    const workflowsByTag = data.workflows.reduce((acc, wf) => {
+        if (!wf.tags) return acc;
+        for (const tag of wf.tags) {
+            const t = tag.toLowerCase().replace(/[^a-z0-9-]/g, '-');
+            if (!acc[t]) acc[t] = { name: tag, workflows: [] };
+            acc[t].workflows.push(wf);
+        }
+        return acc;
+    }, {});
+
+    for (const tagSlug in workflowsByTag) {
+        const tagData = workflowsByTag[tagSlug];
+        const tagWorkflows = tagData.workflows;
+        const totalPages = Math.ceil(tagWorkflows.length / PAGE_SIZE);
+        const baseUrl = `/tag/${tagSlug}/`;
+
+        for (let page = 1; page <= totalPages; page++) {
+            const start = (page - 1) * PAGE_SIZE;
+            const end = start + PAGE_SIZE;
+            const pageWorkflows = tagWorkflows.slice(start, end);
+            
+            const workflowListHtml = pageWorkflows.map(createWorkflowListItem).join('');
+            const paginationHTML = createPaginationHTML(page, totalPages, baseUrl);
+            
+            const tagContent = templates.tool
+                .replace('{{title}}', `Tag: ${tagData.name}${totalPages > 1 ? ' (Page ' + page + ')' : ''}`)
+                .replace('{{list}}', workflowListHtml)
+                .replace('{{pagination}}', paginationHTML);
+                
+            const meta = { 
+                title: `${tagData.name} Automations - Page ${page} | Automation Hub`, 
+                description: `Find ${tagWorkflows.length} automation workflows tagged with ${tagData.name}. Page ${page}.`,
+                url: page === 1 ? baseUrl : `${baseUrl}page/${page}/`
+            };
+            
+            const tagHtml = renderInLayout(tagContent, meta, 'subpage', data);
+            
+            const pageDir = page === 1 
+                ? path.join(DOCS_DIR, 'tag', tagSlug)
+                : path.join(DOCS_DIR, 'tag', tagSlug, 'page', page.toString());
+                
+            await fs.ensureDir(pageDir);
+            await fs.writeFile(path.join(pageDir, 'index.html'), tagHtml);
         }
     }
 }
@@ -401,7 +454,7 @@ async function generateSitemap(data) {
         ];
 
         for (const toolName in data.tools) {
-            links.push({ url: `/workflow/${toolName}/`, changefreq: 'daily', priority: 0.8, lastmod });
+            links.push({ url: `/tool/${toolName.toLowerCase()}/`, changefreq: 'daily', priority: 0.8, lastmod });
         }
 
         for (const wf of data.workflows) {

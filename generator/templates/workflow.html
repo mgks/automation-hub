@@ -1,13 +1,24 @@
 <div class="page-content">
-    <h1>{{title}}</h1>
-    <div class="pills-container">{{pills}}</div>
-
-    <!-- NEW: Description Section -->
-    <div class="workflow-description card">
-        <p>{{description}}</p>
+    <div class="workflow-header" style="margin-bottom: 2rem;">
+        <h1 style="font-size: 2.2rem; margin-bottom: 0.5rem;">{{title}}</h1>
+        <div class="pills-container">{{pills}}</div>
     </div>
 
-    <div class="actions-container">
+    <div class="workflow-main-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+        <div class="workflow-left-column">
+            <!-- NEW: Description Section -->
+            <div class="workflow-description card" style="height: 100%;">
+                <h3 style="margin-top:0; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem;">About this automation</h3>
+                <p style="font-size: 1.05rem; line-height: 1.7; color: var(--subtle-text-color);">{{description}}</p>
+            </div>
+        </div>
+        
+        <div class="workflow-right-column">
+            {{usageInstructions}}
+        </div>
+    </div>
+
+    <div class="actions-container" style="justify-content: center; margin-top: 3rem;">
         {{actions}}
         <div class="share-container" id="shareContainer">
             <button class="button button-secondary" id="share-button">
@@ -27,9 +38,6 @@
             </div>
         </div>
     </div>
-
-    {{usageInstructions}}
-
     <!-- NEW: Related Workflows Section for SEO -->
     <div class="related-workflows-container">
         <h3>More Automations for You</h3>
