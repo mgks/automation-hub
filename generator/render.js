@@ -7,7 +7,6 @@ const DOCS_DIR = path.join(__dirname, '../docs');
 const TEMPLATES_DIR = path.join(__dirname, 'templates');
 const HIGHLIGHT_FILE = path.join(__dirname, '../highlight.json');
 const BASE_URL = 'https://hub.mgks.dev';
-const MAIN_TOOLS = ['n8n', 'openclaw'];
 const PAGE_SIZE = 25;
 
 let templates;
@@ -30,15 +29,17 @@ function renderInLayout(content, meta, bodyClass = '', data) {
     const canonicalUrl = `${BASE_URL}${meta.url || ''}`;
     const ogImage = `${BASE_URL}/src/og-image.png`;
     
-    // Generate Navigation HTML - Only the two main platforms
+    // Generate Navigation HTML dynamically
     const platformCounts = data.workflows.reduce((acc, wf) => {
-        const platform = (wf.tool === 'openclaw' || wf.source === 'openclaw') ? 'openclaw' : 'n8n';
+        const platform = wf.tool || wf.source || 'unknown';
         acc[platform] = (acc[platform] || 0) + 1;
         return acc;
     }, {});
     
-    const navHTML = MAIN_TOOLS
-        .filter(t => platformCounts[t])
+    const formattedPlatforms = Object.keys(platformCounts).sort((a,b) => platformCounts[b] - platformCounts[a]);
+    
+    // Top 5 platforms for nav
+    const navHTML = formattedPlatforms.slice(0, 5)
         .map(t => `<a href="/workflow/${t}/" class="nav-link">${t.toUpperCase()} <span>(${platformCounts[t]})</span></a>`)
         .join('');
 
@@ -202,32 +203,29 @@ async function renderSite(data) {
 
     // 1. Prepare Hub Data
     const platformCounts = data.workflows.reduce((acc, wf) => {
-        const platform = (wf.tool === 'openclaw' || wf.source === 'openclaw') ? 'openclaw' : 'n8n';
+        const platform = wf.tool || wf.source || 'unknown';
         acc[platform] = (acc[platform] || 0) + 1;
         return acc;
     }, {});
 
-    const toolCardsHTML = MAIN_TOOLS
-        .filter(t => platformCounts[t])
+    const sortedTools = Object.keys(platformCounts).sort((a, b) => platformCounts[b] - platformCounts[a]);
+
+    const toolCardsHTML = sortedTools.slice(0, 4)
         .map(tool => `
             <a href="/workflow/${tool}/" class="tool-card">
                 <div class="tool-card-icon">${tool.charAt(0).toUpperCase()}</div>
                 <div class="tool-card-info">
-                    <h4>${tool === 'n8n' ? 'n8n Workflows' : 'OpenClaw Skills'}</h4>
+                    <h4>${tool.toUpperCase()} ${tool.toLowerCase() === 'openclaw' ? 'Skills' : 'Automations'}</h4>
                     <span>${platformCounts[tool]} items</span>
                 </div>
             </a>
         `).join('');
 
-    // Pick 4 representative workflows for the main tools to show on home
-    const n8nFeatured = data.workflows.filter(w => w.tool === 'n8n').slice(0, 4);
-    const openClawFeatured = data.workflows.filter(w => w.tool === 'openclaw').slice(0, 4);
-
     const createShowcase = (title, workflows) => `
         <div class="tool-showcase">
             <div class="section-header">
                 <h3>${title}</h3>
-                <a href="/workflow/${workflows[0]?.tool}/" class="view-all">View All →</a>
+                <a href="/workflow/${workflows[0]?.tool || workflows[0]?.source || 'unknown'}/" class="view-all">View All →</a>
             </div>
             <div class="showcase-grid">
                 ${workflows.map(createWorkflowListItem).join('')}
@@ -235,8 +233,15 @@ async function renderSite(data) {
         </div>
     `;
 
-    const showcasesHTML = (n8nFeatured.length ? createShowcase('Top n8n Workflows', n8nFeatured) : '') +
-                        (openClawFeatured.length ? createShowcase('Latest OpenClaw Skills', openClawFeatured) : '');
+    let showcasesHTML = '';
+    // dynamically create showcase blocks for top 3 tools
+    for (const tool of sortedTools.slice(0, 3)) {
+        const toolFeatured = data.workflows.filter(w => (w.tool || w.source || 'unknown') === tool).slice(0, 4);
+        if (toolFeatured.length > 0) {
+            const title = `Top ${tool.charAt(0).toUpperCase() + tool.slice(1)} ${tool.toLowerCase() === 'openclaw' ? 'Skills' : 'Workflows'}`;
+            showcasesHTML += createShowcase(title, toolFeatured);
+        }
+    }
 
     // 2. Render Homepage
     let homepageContent = templates.homepage
@@ -331,15 +336,13 @@ async function renderSite(data) {
 
     // 3. Render Tool & Platform Pages
     const workflowsByTool = data.workflows.reduce((acc, wf) => {
-        // Group by specific tool
-        if (!acc[wf.tool]) acc[wf.tool] = [];
-        acc[wf.tool].push(wf);
+        const tool = wf.tool || 'unknown';
+        if (!acc[tool]) acc[tool] = [];
+        acc[tool].push(wf);
         
-        // ALSO group by platform for higher-level pages
-        const platform = (wf.tool === 'openclaw' || wf.source === 'openclaw') ? 'openclaw' : 'n8n';
-        if (platform !== wf.tool) {
-            if (!acc[platform]) acc[platform] = [];
-            acc[platform].push(wf);
+        if (wf.source && wf.source !== tool) {
+            if (!acc[wf.source]) acc[wf.source] = [];
+            acc[wf.source].push(wf);
         }
         return acc;
     }, {});
@@ -347,7 +350,7 @@ async function renderSite(data) {
     for (const toolName in workflowsByTool) {
         const toolWorkflows = workflowsByTool[toolName];
         const totalPages = Math.ceil(toolWorkflows.length / PAGE_SIZE);
-        const titlePrefix = MAIN_TOOLS.includes(toolName.toLowerCase()) ? '' : 'Tool: ';
+        const titlePrefix = '';
         const baseUrl = `/workflow/${toolName.toLowerCase()}/`;
 
         for (let page = 1; page <= totalPages; page++) {
