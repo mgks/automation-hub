@@ -871,5 +871,127 @@
     "type": "repo",
     "repoUrl": "https://github.com/DevvGwardo/openclaw-evo",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187661987",
+    "title": "seedance-2-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Seedance 2.0 视频提示词生成器 - OpenClaw Skill（纯净版）",
+    "path": "openclaw/smsgazer-hud-seedance-2-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/smsgazer-hud/seedance-2-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1164477708",
+    "title": "context-mode",
+    "tool": "openclaw",
+    "tags": [
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-plugins",
+      "codex",
+      "copilot",
+      "kiro",
+      "mcp",
+      "openclaw",
+      "opencode",
+      "skills"
+    ],
+    "description": "Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context.",
+    "path": "openclaw/mksglu-context-mode/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mksglu/context-mode",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187661753",
+    "title": "clawd-skill-manus",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill that enables Manus-like extreme autonomy",
+    "path": "openclaw/alpha-park-clawd-skill-manus/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Alpha-Park/clawd-skill-manus",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187661677",
+    "title": "clawd-skill-manus",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill that enables Manus-like extreme autonomy",
+    "path": "openclaw/alphaparkinc-clawd-skill-manus/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alphaparkinc/clawd-skill-manus",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187659307",
+    "title": "openclaw-seedance-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Seedance 2.0 视频提示词生成器 - OpenClaw Skill",
+    "path": "openclaw/smsgazer-hud-openclaw-seedance-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/smsgazer-hud/openclaw-seedance-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1185503976",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/shreydesai-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shreydesai/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186483207",
+    "title": "SherpaMind",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw SherpaDesk API Ingestion Skill",
+    "path": "openclaw/kklouzal-sherpamind/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kklouzal/SherpaMind",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187648003",
+    "title": "smfworks-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Free OpenClaw skills for small businesses",
+    "path": "openclaw/smfworks-smfworks-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/smfworks/smfworks-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187656259",
+    "title": "google-play-store-lookup",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Look up public Google Play Store listings by app name and region. An OpenClaw skill (also compatible with Claude Code).",
+    "path": "openclaw/alizeeblack-code-google-play-store-lookup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alizeeblack-code/google-play-store-lookup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187655992",
+    "title": "durable-task-runner",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Durable task orchestration skill for OpenClaw",
+    "path": "openclaw/wonko6x9-durable-task-runner/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wonko6x9/durable-task-runner",
+    "source": "github-discovery"
   }
 ]
