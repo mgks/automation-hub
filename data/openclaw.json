@@ -1155,5 +1155,172 @@
     "type": "repo",
     "repoUrl": "https://github.com/shanggqm/openclaw-security-hardening",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1188858294",
+    "title": "daily-reminder_VPS",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw daily reminder skill with Feishu scheduling and stable task state",
+    "path": "openclaw/phiclin-daily-reminder_vps/",
+    "type": "repo",
+    "repoUrl": "https://github.com/phiclin/daily-reminder_VPS",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1189122357",
+    "title": "openclaw-browser-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Browser Operations Skill — Chrome Relay, AppleScript JS, Peekaboo, Playwright best practices",
+    "path": "openclaw/catgodtwno4-openclaw-browser-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/catgodtwno4/openclaw-browser-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1170326509",
+    "title": "openclaw-master-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agentskills",
+      "ai-agent",
+      "curated",
+      "myclaw",
+      "openclaw",
+      "skill-collection",
+      "skills",
+      "weekly"
+    ],
+    "description": "🧠 Curated collection of 339+ best OpenClaw skills — weekly updated by MyClaw.ai from ClawHub, GitHub & community. AI, productivity, dev, marketing, finance & more.",
+    "path": "openclaw/leoyeai-openclaw-master-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LeoYeAI/openclaw-master-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1184447872",
+    "title": "cc-venv",
+    "tool": "openclaw",
+    "tags": [
+      "claude",
+      "claudecode",
+      "openclaw",
+      "vibe-coding"
+    ],
+    "description": "cc-venv 是一个面向 Claude Code 的命名环境管理器，用来隔离不同工作流的 CLAUDE.md、MCP、Skills、Rules、环境变量和 LLM 配置，   并支持 Web 管理界面以及整环境导入导出。cc-venv is a named environment manager for Claude Code that isolates workflow-specific CLAUDE.md, MCP, Skills, Rules,   environment variables, and LLM settings, with an embedded Web UI and full environment import/export",
+    "path": "openclaw/timerzz-cc-venv/",
+    "type": "repo",
+    "repoUrl": "https://github.com/timerzz/cc-venv",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-542185751",
+    "title": "manifest",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-observability",
+      "clawdbot",
+      "cost-tracking",
+      "llm-observability",
+      "llm-router",
+      "moltbot",
+      "observability",
+      "open",
+      "openclaw",
+      "openclaw-extension",
+      "openclaw-plugin",
+      "opentelemetry",
+      "otlp",
+      "skills",
+      "telemetry",
+      "token-tracking"
+    ],
+    "description": "Smart LLM Routing for OpenClaw. Cut Costs up to 70% 🦞🦚",
+    "path": "openclaw/mnfst-manifest/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mnfst/manifest",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1189120640",
+    "title": "openclaw-workspace",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw workspace backup - configs, skills, and memories",
+    "path": "openclaw/devercry-openclaw-workspace/",
+    "type": "repo",
+    "repoUrl": "https://github.com/devercry/openclaw-workspace",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186874679",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agent-workflow",
+      "ai-agents",
+      "ai-tools",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "codex",
+      "cursor",
+      "llm",
+      "mcp",
+      "npx-skills",
+      "openclaw",
+      "skill-marketplace",
+      "skills"
+    ],
+    "description": "The largest open collection of AI agent skills — 1,000+ verified skills for Claude, Cursor, Codex, and more.",
+    "path": "openclaw/agentskillexchange-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/agentskillexchange/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1174836084",
+    "title": "openclaw-codex-pm-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Adapts phuryn/pm-skills concepts for OpenClaw + Codex-style agents (portable, OpenClaw-friendly skill pack)",
+    "path": "openclaw/sonwr-openclaw-codex-pm-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sonwr/openclaw-codex-pm-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1148501185",
+    "title": "CordysCRM-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "CordysCRM 技能仓库，提供可复用的自动化能力，并可集成至 OpenClaw",
+    "path": "openclaw/1panel-dev-cordyscrm-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/1Panel-dev/CordysCRM-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1170370148",
+    "title": "TradingAgents-AShare",
+    "tool": "openclaw",
+    "tags": [
+      "agents",
+      "ai",
+      "finance",
+      "llm",
+      "openclaw",
+      "openclaw-skills",
+      "skills",
+      "stock"
+    ],
+    "description": "这是一个基于15个 AI Agent 协作的深度股票分析与决策系统，专为 A 股场景打造。系统已接入 A 股行情、新闻、情绪、基本面与技术面等多维数据，模拟专业交易机构的协作模式，对单只股票或股票池进行自动化推演，并通过结构化辩论收敛出最终的交易建议。  让 OpenClaw 不只会聊天，也能真正调用 A 股数据和多智能体投研流程，替你盯盘、选股、分析和回收结论。",
+    "path": "openclaw/kylinmountain-tradingagents-ashare/",
+    "type": "repo",
+    "repoUrl": "https://github.com/KylinMountain/TradingAgents-AShare",
+    "source": "github-discovery"
   }
 ]
