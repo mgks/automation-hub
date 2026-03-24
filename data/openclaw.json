@@ -1322,5 +1322,141 @@
     "type": "repo",
     "repoUrl": "https://github.com/KylinMountain/TradingAgents-AShare",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1189293121",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skills - Web3 项目调研工具",
+    "path": "openclaw/tonyfeng2018-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tonyfeng2018/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1189579034",
+    "title": "weiqi-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": " weiqi skills for openclaw",
+    "path": "openclaw/zhangbin2025-weiqi-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zhangbin2025/weiqi-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1188870329",
+    "title": "northstar-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Northstar: AI-powered daily business briefing skill for OpenClaw/ClawHub",
+    "path": "openclaw/daveglaser0823-northstar-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Daveglaser0823/northstar-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1177631143",
+    "title": "openclaw-recommended-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "🦞 OpenClaw 官方推荐 Skill 清单 - 持续更新",
+    "path": "openclaw/xxuan66-openclaw-recommended-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xxuan66/openclaw-recommended-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190048202",
+    "title": "bounty-hunter-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for Niuma Bounty Platform (task.niuma.works) on XLayer",
+    "path": "openclaw/futeyaoshi-bounty-hunter-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/futeyaoshi/bounty-hunter-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190120676",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "行情接入AI与OpenClaw",
+    "path": "openclaw/fiu-ai-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fiu-ai/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1031912724",
+    "title": "cc-switch",
+    "tool": "openclaw",
+    "tags": [
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "desktop-app",
+      "mcp",
+      "minimax",
+      "omo",
+      "open-source",
+      "openclaw",
+      "openclaw-ui",
+      "opencode",
+      "provider-management",
+      "rust",
+      "skills",
+      "skills-management",
+      "tauri",
+      "typescript",
+      "wsl-support"
+    ],
+    "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.",
+    "path": "openclaw/farion1231-cc-switch/",
+    "type": "repo",
+    "repoUrl": "https://github.com/farion1231/cc-switch",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182212878",
+    "title": "OfficeCLI",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai",
+      "cli",
+      "office",
+      "openclaw",
+      "skills"
+    ],
+    "description": "OfficeCLI is the world's first Office suite designed for AI agents.It is a free, open-source command-line tool for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Single binary, no Office installation required.",
+    "path": "openclaw/iofficeai-officecli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iOfficeAI/OfficeCLI",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190125673",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw AI Assistant Skills - 技能集合",
+    "path": "openclaw/hsyhph-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hsyhph/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1188303544",
+    "title": "skillbenchmark",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Automated skill benchmarking platform for Claude Code and OpenClaw skills",
+    "path": "openclaw/runeweaverstudios-skillbenchmark/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RuneweaverStudios/skillbenchmark",
+    "source": "github-discovery"
   }
 ]
