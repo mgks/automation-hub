@@ -47534,5 +47534,152 @@
     "type": "repo",
     "repoUrl": "https://github.com/KC23br/n8n-ai-calendar-agent-chat",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1174396325",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/githubfolks-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/githubfolks/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1075693295",
+    "title": "n8n_claude",
+    "tool": "n8n",
+    "tags": [],
+    "description": "CLI tool for managing n8n workflows programmatically via the REST API with git-based version control",
+    "path": "n8n/darrenoakey-n8n_claude/",
+    "type": "repo",
+    "repoUrl": "https://github.com/darrenoakey/n8n_claude",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192198876",
+    "title": "n8n-ai-automation-suite",
+    "tool": "n8n",
+    "tags": [],
+    "description": "3-in-1 AI automation workflows for n8n — Content Suite + Customer Engine + Multi-Agent Campaign. Provider-agnostic: swap Claude/OpenAI/Gemini.",
+    "path": "n8n/quoctri-dev-n8n-ai-automation-suite/",
+    "type": "repo",
+    "repoUrl": "https://github.com/quoctri-dev/n8n-ai-automation-suite",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-948491206",
+    "title": "studio",
+    "tool": "n8n",
+    "tags": [
+      "agents",
+      "ai",
+      "bun",
+      "deco",
+      "llm",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "n8n",
+      "n8n-workflow",
+      "nodejs",
+      "typescript",
+      "workflows"
+    ],
+    "description": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+    "path": "n8n/decocms-studio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/decocms/studio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192188066",
+    "title": "n8n_snake_video",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Repo with config files for a n8n workflow to generate and post snake videos to instagram",
+    "path": "n8n/jesperfritsch-n8n_snake_video/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JesperFritsch/n8n_snake_video",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1136615675",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "N8N workflow development with SYNRG orchestration patterns, voice agent tools, and PostgreSQL integration",
+    "path": "n8n/jayconnorsynrg-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JayConnorSynrg/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192155813",
+    "title": "wf_aut_publicacion_webpageWordP",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Este workflow de n8n automatiza la gestión y publicación de contenidos culturales integrando herramientas de oficina, IA local y CMS. El sistema transforma datos estructurados en entradas de blog profesionales, optimizando la comunicación de organizaciones sociales.",
+    "path": "n8n/vale706-wf_aut_publicacion_webpagewordp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Vale706/wf_aut_publicacion_webpageWordP",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1084681625",
+    "title": "flowagent",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "langchain",
+      "langgraph",
+      "n8n",
+      "nextjs",
+      "supabase"
+    ],
+    "description": "AI agent for n8n developers that creates and updates automation workflows via conversation.",
+    "path": "n8n/gama2219-flowagent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gama2219/flowagent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1134745226",
+    "title": "n8n-nodes-xr2",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A community node for n8n that integrates with the xR2 API to fetch prompts and track analytics events in your workflows.",
+    "path": "n8n/xirukmfc-n8n-nodes-xr2/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xirukmfc/n8n-nodes-xr2",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1136641177",
+    "title": "n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail",
+    "tool": "n8n",
+    "tags": [
+      "chatgpt",
+      "chatgpt-4o-mini",
+      "content-recommendation",
+      "gmail",
+      "google-gmail",
+      "lead-management",
+      "lead-scoring",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "n8n-workflows",
+      "process-automation",
+      "sales-enablement",
+      "workflow-template",
+      "zoho-crm"
+    ],
+    "description": "🚀 Generate tailored deal content recommendations using Zoho CRM, GPT-4o-mini, and Gmail for smarter sales follow-ups.",
+    "path": "n8n/okaykar-n8n-generate-personalized-deal-content-recommendations-with-zoho-crm-gpt-4o-mini-gmail/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail",
+    "source": "github-discovery"
   }
 ]
