@@ -1894,5 +1894,149 @@
     "type": "repo",
     "repoUrl": "https://github.com/slob-coder/werewolf-openclaw-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1184475020",
+    "title": "ibkr-cli",
+    "tool": "openclaw",
+    "tags": [
+      "ibkr",
+      "openclaw",
+      "skills"
+    ],
+    "description": "A local-first CLI for Interactive Brokers built for Agent",
+    "path": "openclaw/fatwang2-ibkr-cli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fatwang2/ibkr-cli",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1189114497",
+    "title": "aiclaw",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "golang",
+      "openclaw",
+      "skills"
+    ],
+    "description": "Go Ai Claw 基于 Go 构建的OpenClaw，支持多模型供应商接入、工具调用、技能编排和多轮对话。支持企微，微信等多平台接入",
+    "path": "openclaw/chowyu12-aiclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chowyu12/aiclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193220765",
+    "title": "aoju-memory",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Long-term memory + self-evolution skill for OpenClaw AI agents`",
+    "path": "openclaw/chaibaoqing-aoju-memory/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chaibaoqing/aoju-memory",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193224610",
+    "title": "hardware-wiki-generator",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for generating bilingual (Chinese/English) hardware product wiki documentation for Docusaurus/Seeed Studio/Adafruit platforms.",
+    "path": "openclaw/lsw031105guge-bit-hardware-wiki-generator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lsw031105guge-bit/hardware-wiki-generator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1127248221",
+    "title": "clawhub",
+    "tool": "openclaw",
+    "tags": [
+      "directory",
+      "skill"
+    ],
+    "description": "Skill Directory for OpenClaw",
+    "path": "openclaw/openclaw-clawhub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/openclaw/clawhub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190458394",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/fangda-max-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fangda-max/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193221170",
+    "title": "ui-ux-pro-max",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Openclaw适配的专业UI/UX设计师skill",
+    "path": "openclaw/easylong-ui-ux-pro-max/",
+    "type": "repo",
+    "repoUrl": "https://github.com/easyLong/ui-ux-pro-max",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1166243835",
+    "title": "nexu",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "byok",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawbot",
+      "codex",
+      "discord",
+      "feishu",
+      "llm",
+      "open-source",
+      "openclaw",
+      "openclaw-desktop",
+      "openclaw-feishu",
+      "openclaw-slack",
+      "openclaw-wechat",
+      "openclaw-weixin",
+      "skills",
+      "slack"
+    ],
+    "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
+    "path": "openclaw/nexu-io-nexu/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nexu-io/nexu",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192821250",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw agent skills collection",
+    "path": "openclaw/xiongjianlan-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xiongjianlan/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1178390741",
+    "title": "skill-pincer",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: connect to Pincer hub via WebSocket — real-time task dispatch for agents",
+    "path": "openclaw/claw-works-skill-pincer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/claw-works/skill-pincer",
+    "source": "github-discovery"
   }
 ]

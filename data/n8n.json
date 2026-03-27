@@ -47681,5 +47681,150 @@
     "type": "repo",
     "repoUrl": "https://github.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193113103",
+    "title": "testedapps-dashboard",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Real‑time launchjacking monitoring dashboard for TestedApps.com affiliate operations. Tracks Muncheye alerts, active launches, commissions, and integrates with n8n workflows for automated review video generation.",
+    "path": "n8n/kamalsahni44-testedapps-dashboard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kamalsahni44/testedapps-dashboard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193149035",
+    "title": "daily-fun-fact-mailer",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated daily animal fact email workflow built with n8n, OpenAI, and Gmail.",
+    "path": "n8n/dgsz250700-daily-fun-fact-mailer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dgsz250700/daily-fun-fact-mailer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193190493",
+    "title": "n8ntest-demo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "a list of demo workflow in n8n",
+    "path": "n8n/tepi24-n8ntest-demo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tepi24/n8ntest-demo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193174971",
+    "title": "n8n-ai-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI workflows using n8n including RAG chatbot and AI chatbot",
+    "path": "n8n/lamiaabahgat-n8n-ai-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LamiaaBahgat/n8n-ai-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1191775616",
+    "title": "automation-de-Agendamento-n8n-whatsapp",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow de automação criado no n8n para atendimento de barbearias e clinicas.",
+    "path": "n8n/kaua-tech1-automation-de-agendamento-n8n-whatsapp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kaua-tech1/automation-de-Agendamento-n8n-whatsapp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1191754559",
+    "title": "marketing-automation-system",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "marketing-automation",
+      "n8n",
+      "notebooklm",
+      "workshop"
+    ],
+    "description": "Agentic AI-assisted marketing system with NotebookLM research, n8n workflows, feedback loops, and workshop-ready examples.",
+    "path": "n8n/maxlauriehutchinson-marketing-automation-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MaxLaurieHutchinson/marketing-automation-system",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190955768",
+    "title": "n8n-g4f-proxy-fastify",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A lightweight LLM proxy inspired by n8n-g4f-proxy by korotovsky, built to expose Gpt4Free providers as an OpenAI-compatible API endpoint — making it easy to integrate free LLM inference into n8n workflows, local agents, or any tool that speaks the OpenAI API format.",
+    "path": "n8n/gabrielduartemg-n8n-g4f-proxy-fastify/",
+    "type": "repo",
+    "repoUrl": "https://github.com/GabrielDuarteMG/n8n-g4f-proxy-fastify",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187656401",
+    "title": "festung-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Festung Portfolio Monitoring - n8n Workflows + Telegram Bot",
+    "path": "n8n/pkwit-festung-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pkwit/festung-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1013499637",
+    "title": "n8n_ExecutiveBot_Platform",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "ai-assistant",
+      "ai-chatbot",
+      "automation",
+      "bot",
+      "gmini",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "ollama"
+    ],
+    "description": "Amin's Smart Telegram Bot integrates Docker, Ollama, and Gemini AI for seamless communication. Enhance your Telegram experience with advanced AI capabilities. 🤖🌟",
+    "path": "n8n/hidetheweed11-n8n_executivebot_platform/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hidetheweed11/n8n_ExecutiveBot_Platform",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-497565480",
+    "title": "Node-flow-diagram",
+    "tool": "n8n",
+    "tags": [
+      "figjam",
+      "flow",
+      "flowchart",
+      "flowcharts",
+      "html-to-image",
+      "javascript",
+      "mindmap",
+      "mindmap-editor",
+      "n8n-workflow",
+      "node-based-ui",
+      "react",
+      "react-flow",
+      "react-flow-renderer",
+      "reactflow",
+      "reactjs",
+      "whiteboard",
+      "workflow"
+    ],
+    "description": "A node based diagram which is built by Reactflow | Reactflow example reactflow examples",
+    "path": "n8n/azim-ahmed-node-flow-diagram/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Azim-Ahmed/Node-flow-diagram",
+    "source": "github-discovery"
   }
 ]
