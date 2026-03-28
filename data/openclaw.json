@@ -2038,5 +2038,165 @@
     "type": "repo",
     "repoUrl": "https://github.com/claw-works/skill-pincer",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1177766115",
+    "title": "daily-stock-analysis-openclaw-skill",
+    "tool": "openclaw",
+    "tags": [
+      "openclaw-skills",
+      "stock-analysis"
+    ],
+    "description": "基于 OpenClaw 的股票分析技能，支持 A 股/港股/美股数据分析。  AI-powered stock analysis skill for OpenClaw, supporting A-share/HK-share/US-stock analysis.",
+    "path": "openclaw/webleon-daily-stock-analysis-openclaw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/webleon/daily-stock-analysis-openclaw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1129786550",
+    "title": "notebooklm-py",
+    "tool": "openclaw",
+    "tags": [
+      "agentic-skill",
+      "api",
+      "claude",
+      "claude-skills",
+      "google-notebooklm",
+      "notebooklm",
+      "notebooklm-api",
+      "notebooklm-skill",
+      "openclaw-skills",
+      "podcast-generator",
+      "python",
+      "python-api",
+      "sdk",
+      "skills"
+    ],
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+    "path": "openclaw/teng-lin-notebooklm-py/",
+    "type": "repo",
+    "repoUrl": "https://github.com/teng-lin/notebooklm-py",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1173767678",
+    "title": "openclaw-workspace",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw workspace config for arifOS — AGENTS, SOUL, TOOLS, USER, IDENTITY, skills",
+    "path": "openclaw/ariffazil-openclaw-workspace/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ariffazil/openclaw-workspace",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193496123",
+    "title": "openclaw-smart-agent",
+    "tool": "openclaw",
+    "tags": [
+      "agent-orchestration",
+      "fastapi",
+      "multi-agent",
+      "openclaw",
+      "plugin",
+      "python",
+      "skill",
+      "sqlite",
+      "typescript"
+    ],
+    "description": "OpenClaw smart agent runtime, plugin, and workspace skill for single-machine multi-agent orchestration.",
+    "path": "openclaw/xinlingzhifei-openclaw-smart-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xinlingzhifei/openclaw-smart-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187797187",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "米仔原创 OpenClaw 技能集合 - 自主任务管理、API 连接器等",
+    "path": "openclaw/tangh5017-bit-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tangh5017-bit/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194130427",
+    "title": "client-manager-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Client management skill for Openclaw",
+    "path": "openclaw/lostdakota-client-manager-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LostDakota/client-manager-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1189805570",
+    "title": "evo-agents",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai-memory",
+      "bge-m3",
+      "chinese-nlp",
+      "fts5",
+      "local-ai",
+      "markdown",
+      "memory-system",
+      "ollama",
+      "openclaw",
+      "rag",
+      "self-evolution",
+      "semantic-search",
+      "sqlite",
+      "workspace-template"
+    ],
+    "description": "Complete Workspace Template for OpenClaw - Full agent lifecycle with unified memory system (Markdown + SQLite), self-evolution, RAG. Not for SubAgent/Skill use.",
+    "path": "openclaw/luoboask-evo-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/luoboask/evo-agents",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193816416",
+    "title": "ragflow-skills-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "ragflow-skills-openclaw",
+    "path": "openclaw/guge199205-byte-ragflow-skills-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/guge199205-byte/ragflow-skills-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1170230750",
+    "title": "simpleclaw",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "agent-skills",
+      "claude",
+      "openai",
+      "openclaw"
+    ],
+    "description": "The 121-line \"Claw\" agent. High-tier autonomy on Free Tier hardware. Browser + MCP + Skills.",
+    "path": "openclaw/stancsz-simpleclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/stancsz/simpleclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193256067",
+    "title": "pa",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "a Skill of pa for Openclaw",
+    "path": "openclaw/guanlinlee-pa/",
+    "type": "repo",
+    "repoUrl": "https://github.com/GuanlinLee/pa",
+    "source": "github-discovery"
   }
 ]
