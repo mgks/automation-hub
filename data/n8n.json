@@ -47989,5 +47989,151 @@
     "type": "repo",
     "repoUrl": "https://github.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194929408",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "automation-ai",
+      "docker",
+      "n8n",
+      "workflows"
+    ],
+    "description": "n8n environment with docker and postegres",
+    "path": "n8n/felipesantos2-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/felipesantos2/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1153676068",
+    "title": "pipel8ne",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Application to manage your CI/CD pipelines as if you were building a n8n workflow",
+    "path": "n8n/ogb4n-pipel8ne/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ogb4n/pipel8ne",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1123545293",
+    "title": "self-correcting-rag-chatbot",
+    "tool": "n8n",
+    "tags": [
+      "machine-learning",
+      "multi-agent-systems",
+      "n8n-workflow",
+      "rag-chatbot",
+      "rag-pipeline",
+      "retrieval-augmented-generation",
+      "self-correction",
+      "telegrambot",
+      "vector-database"
+    ],
+    "description": "🤖 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates responses in real-time.",
+    "path": "n8n/edublackk-self-correcting-rag-chatbot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Edublackk/self-correcting-rag-chatbot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1062469661",
+    "title": "AI-Powered-Resume-Analyzer",
+    "tool": "n8n",
+    "tags": [
+      "ats-optimization",
+      "chatboat",
+      "data-science",
+      "job",
+      "jobmatching",
+      "n8n-workflow",
+      "nlp",
+      "nodejs",
+      "pandas",
+      "pypdf2",
+      "python",
+      "python-project",
+      "react",
+      "scikit-learn",
+      "streamlit",
+      "typescript",
+      "web-development",
+      "zustand"
+    ],
+    "description": "🤖 Streamline your hiring process with this AI-powered tool that extracts and analyzes resume skills using NLP for quick evaluations.",
+    "path": "n8n/kokozaid785-ai-powered-resume-analyzer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kokozaid785/AI-Powered-Resume-Analyzer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1062165966",
+    "title": "ai-agents-masterclass",
+    "tool": "n8n",
+    "tags": [
+      "agents",
+      "ai-agents",
+      "ai-workflows",
+      "app",
+      "automation",
+      "data-automation",
+      "databricks",
+      "genai",
+      "huggingface",
+      "langraph",
+      "llm",
+      "machine-learning",
+      "mlflow",
+      "n8n",
+      "n8n-workflow",
+      "openai",
+      "python",
+      "rag"
+    ],
+    "description": "🤖 Build AI agents to transform businesses and create powerful software with this comprehensive masterclass. Dive into practical insights and hands-on guidance.",
+    "path": "n8n/daboi2331-ai-agents-masterclass/",
+    "type": "repo",
+    "repoUrl": "https://github.com/daboi2331/ai-agents-masterclass",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1152369618",
+    "title": "Smart-BI-Project",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "html-css-javascript",
+      "json",
+      "n8n-workflow",
+      "powerbi"
+    ],
+    "description": "Graduation Project – MCI Academy 2026 Automated, AI-powered Business Intelligence reporting system using n8n and Excel.",
+    "path": "n8n/abdelwahab-ahmed-shandy-smart-bi-project/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abdelwahab-ahmed-shandy/Smart-BI-Project",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1123879918",
+    "title": "n8n-automations",
+    "tool": "n8n",
+    "tags": [
+      "approval-system",
+      "auto-reply",
+      "facebook-graph-api",
+      "human-in-the-loop",
+      "instagram-auto-post-windows",
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "Automation workflows and integrations built with n8n for Facebook and Instagram content publishing, data management, and social media automation. Includes ready-to-use nodes, templates, and examples for streamlining digital marketing tasks",
+    "path": "n8n/ahmad-code077-n8n-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ahmad-code077/n8n-automations",
+    "source": "github-discovery"
   }
 ]

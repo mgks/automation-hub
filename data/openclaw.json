@@ -2198,5 +2198,161 @@
     "type": "repo",
     "repoUrl": "https://github.com/GuanlinLee/pa",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194259491",
+    "title": "pdf-skill-for-openclaw",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "claude",
+      "evolink",
+      "openclaw",
+      "pdf",
+      "pdf-processing",
+      "skill"
+    ],
+    "description": "PDF Skill for OpenClaw - Comprehensive PDF manipulation toolkit. Powered by Evolink.ai",
+    "path": "openclaw/evolinkai-pdf-skill-for-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/EvoLinkAI/pdf-skill-for-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194912575",
+    "title": "openclaw-prethink",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw prethink hook and skill for model-driven planning before and after tool execution.",
+    "path": "openclaw/flyfoxai-openclaw-prethink/",
+    "type": "repo",
+    "repoUrl": "https://github.com/flyfoxai/openclaw-prethink",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1153826387",
+    "title": "swain-agents",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Swain — OpenClaw agents, skills, and templates",
+    "path": "openclaw/peteknowsai-swain-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/peteknowsai/swain-agents",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1191303721",
+    "title": "Dexter",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI agent ecosystem configurator — fusion of gentle-ai + OpenClaw. 44+ skills, cross-platform installer, ClawFlows support.",
+    "path": "openclaw/emiliougarte65-dexter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/EmilioUgarte65/Dexter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194178115",
+    "title": "agent-resources",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "A marketplace for OpenClaw Personas, Skills, and MCP Servers",
+    "path": "openclaw/berkaysurmeli-agent-resources/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BerkaySurmeli/agent-resources",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186540257",
+    "title": "conveyancing-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI agent skills for conveyancing — SDLT calculator, title register explainer, diligence tools. Works with OpenClaw, Claude Code, and any MCP-compatible agent platform.",
+    "path": "openclaw/moverlyltd-conveyancing-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MoverlyLtd/conveyancing-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186861951",
+    "title": "openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Student assets for the OpenClaw security lab using ZeroClaw, Skill Scanner, and MCP Scanner",
+    "path": "openclaw/barryqy-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/barryqy/openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1188458007",
+    "title": "heretek-openclaw",
+    "tool": "openclaw",
+    "tags": [
+      "agency",
+      "agentic-ai",
+      "heretek",
+      "heretic",
+      "installer",
+      "liberation",
+      "llm",
+      "ollama",
+      "openclaw"
+    ],
+    "description": "Heretek OpenClaw installer and identity framework - CLI tool for liberating OpenClaw agents with Tabula Myriad identity files, skills installation, and unbounded agency configuration.",
+    "path": "openclaw/heretek-ai-heretek-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Heretek-AI/heretek-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194932924",
+    "title": "wechat-claw-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepseek",
+      "directory",
+      "feishu-bot",
+      "linkai",
+      "llm-router",
+      "mcp",
+      "micropayments",
+      "moltbot",
+      "multi-agent",
+      "openclaw",
+      "qwen",
+      "sdk",
+      "skills",
+      "stablecoin-payment",
+      "usdc",
+      "wechat-sdk"
+    ],
+    "description": "Convert structured JSON into WeChat article HTML with tools for validation, image management, draft creation, and publishing automation.",
+    "path": "openclaw/coincollectioncord221-wechat-claw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/coincollectioncord221/wechat-claw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1180146284",
+    "title": "moneyclaw",
+    "tool": "openclaw",
+    "tags": [
+      "agent-commerce",
+      "ai-agents",
+      "fintech",
+      "openclaw",
+      "otp",
+      "payments",
+      "virtual-card"
+    ],
+    "description": "Real payments for OpenClaw agents: prepaid wallet, virtual card, OTP inbox, public docs, and skill.",
+    "path": "openclaw/elvismusli-moneyclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/elvismusli/moneyclaw",
+    "source": "github-discovery"
   }
 ]
