@@ -48135,5 +48135,121 @@
     "type": "repo",
     "repoUrl": "https://github.com/Ahmad-code077/n8n-automations",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1195731240",
+    "title": "n8n_ChatbotAI",
+    "tool": "n8n",
+    "tags": [],
+    "description": "berisi tentang workflow chatbotAi",
+    "path": "n8n/hafidz-yii-n8n_chatbotai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hafidz-yii/n8n_ChatbotAI",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1195726878",
+    "title": "Workflow-Analysis-Prompt-MiniMax",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This is an n8n Video Analyzer - a web application that helps users extract AI automation workflows from YouTube videos.",
+    "path": "n8n/dashon1-workflow-analysis-prompt-minimax/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dashon1/Workflow-Analysis-Prompt-MiniMax",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1195714600",
+    "title": "flowclaw",
+    "tool": "n8n",
+    "tags": [],
+    "description": "YAML-driven workflow orchestrator for AI agent teams with human-in-the-loop approval gates. Includes optional Notion, n8n, and Discord integrations.",
+    "path": "n8n/vanhuelsing-flowclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vanhuelsing/flowclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-975880650",
+    "title": "YouTube",
+    "tool": "n8n",
+    "tags": [],
+    "description": "N8N Workflows",
+    "path": "n8n/peter-aistralis-youtube/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Peter-Aistralis/YouTube",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194404727",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflows and CLI integration",
+    "path": "n8n/sakshamagrawal1993-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sakshamagrawal1993/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1195135294",
+    "title": "kevindelapena-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A **conversion-focused, single-page portfolio** for a **virtual assistant** who delivers **AI automation** and **n8n workflow** work. The site presents services, sample workflows, an about section, CTAs, and a contact path—styled as a modern SaaS landing page with clear hierarchy and subtle motion.",
+    "path": "n8n/johnmichealacera-kevindelapena-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/johnmichealacera/kevindelapena-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192619985",
+    "title": "ARGOS-2",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "fastapi",
+      "human-in-the-loop",
+      "n8n",
+      "rag"
+    ],
+    "description": "Autonomous agentic hub: n8n orchestrates I/O workflows, FastAPI runs the LLM reasoning engine. Features RAG memory, 4-layer cognitive security, and Human-in-the-Loop via Telegram.",
+    "path": "n8n/alexthunder01-argos-2/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AlexThunder01/ARGOS-2",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1195714047",
+    "title": "n8n-chatbot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow chatbot n8n menggunakan AI Gemini",
+    "path": "n8n/myuking-n8n-chatbot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mYuking/n8n-chatbot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193080692",
+    "title": "aprimo-mcp-streamlit-demo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "LLM-powered Aprimo DAM search using LangChain, multi-model (Anthropic & OpenAI), and n8n MCP workflows",
+    "path": "n8n/trirrr-aprimo-mcp-streamlit-demo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/trirrr/aprimo-mcp-streamlit-demo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192864568",
+    "title": "n8n-rayn-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/skbsasikumar-rgb-n8n-rayn-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/skbsasikumar-rgb/n8n-rayn-workflows",
+    "source": "github-discovery"
   }
 ]
