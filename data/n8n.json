@@ -48438,5 +48438,38 @@
     "type": "repo",
     "repoUrl": "https://github.com/kimjutu1996/n8n-Generate-weekly-energy-consumption-reports-with-EnergiDataService-email-and-Google-Drive",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1197921009",
+    "title": "imovs-api-dinamic",
+    "tool": "n8n",
+    "tags": [],
+    "description": "iMOVS API Dinamic - Workflow Automation Platform (n8n-inspired) with visual editor, HTTP requests, JavaScript code execution, and webhooks",
+    "path": "n8n/abraham-developer-imovs-api-dinamic/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abraham-developer/imovs-api-dinamic",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1197775635",
+    "title": "openclaw-saas",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Multi-Agent System to Generate and Sell n8n Workflows (OpenClaw Style)",
+    "path": "n8n/agenteouro06-art-openclaw-saas/",
+    "type": "repo",
+    "repoUrl": "https://github.com/agenteouro06-art/openclaw-saas",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1197869911",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI automation workflows built with n8n and Claude AI",
+    "path": "n8n/saranchandru11-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/saranchandru11/n8n-workflows",
+    "source": "github-discovery"
   }
 ]
