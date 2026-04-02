@@ -3005,5 +3005,157 @@
     "type": "repo",
     "repoUrl": "https://github.com/mriazi1982/octopai",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1143440578",
+    "title": "unbrowse",
+    "tool": "openclaw",
+    "tags": [
+      "agents",
+      "agentskills",
+      "browser-use",
+      "clawdbot",
+      "clawdbot-plugin",
+      "har",
+      "moltbot",
+      "openclaw",
+      "openclaw-skills",
+      "reverse-engineering",
+      "skills"
+    ],
+    "description": "Unbrowse — api native browser skill/cli for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.",
+    "path": "openclaw/unbrowse-ai-unbrowse/",
+    "type": "repo",
+    "repoUrl": "https://github.com/unbrowse-ai/unbrowse",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1125022145",
+    "title": "openclacky",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "openclaw",
+      "skills"
+    ],
+    "description": "Build your own brand openclaw, and monetize your skills.",
+    "path": "openclaw/clacky-ai-openclacky/",
+    "type": "repo",
+    "repoUrl": "https://github.com/clacky-ai/openclacky",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1196817232",
+    "title": "bootalk-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skills and configuration for Bootalk team — AI assistant integration across Slack and other channels",
+    "path": "openclaw/uitiorg-bootalk-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/uitiorg/bootalk-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199026951",
+    "title": "ai-harness-engineering",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw驾驭工程错题本Skill：记录OpenClaw所有被验证的错误、幻觉、缺陷、失误，形成可追溯错误台账，驱动模型自省与进化。",
+    "path": "openclaw/sqlskills-ai-harness-engineering/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SQLSkills/ai-harness-engineering",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1166436054",
+    "title": "apollo-toolkit",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "codex",
+      "openclaw",
+      "skills"
+    ],
+    "description": "Curated OpenClaw/Codex skills collection for Apollo Toolkit.",
+    "path": "openclaw/laitszkin-apollo-toolkit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LaiTszKin/apollo-toolkit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194699435",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skills 同步",
+    "path": "openclaw/elvis1314-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Elvis1314/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1191737450",
+    "title": "cube-pets-office",
+    "tool": "openclaw",
+    "tags": [
+      "agent-collaboration",
+      "agent-skills",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-assistant",
+      "dashboard",
+      "mobile-friendly",
+      "multi-agent",
+      "openclaw",
+      "pixel-art",
+      "status-visiualzation"
+    ],
+    "description": "Cube Pets Office turns invisible AI workflows into a cozy pixel office for your OpenClaw — dynamically assembling CEO, managers, and workers with roles, skills, and configs, then bringing the entire organization, workflow stages, and lively characters to life in a flexible 3D scene.",
+    "path": "openclaw/opencroc-cube-pets-office/",
+    "type": "repo",
+    "repoUrl": "https://github.com/opencroc/cube-pets-office",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182033716",
+    "title": "x-twitter-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Twitter/X API skill for OpenClaw - Read tweets, search, and manage timeline",
+    "path": "openclaw/bounce12340-x-twitter-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bounce12340/x-twitter-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199032686",
+    "title": "openclaw-money-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "🤑 100+ OpenClaw AI Agent Skills for Making Money | AI赚钱技能合集 | 中英双语",
+    "path": "openclaw/aiibaba-openclaw-money-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AIibaba/openclaw-money-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1173112841",
+    "title": "agent-library",
+    "tool": "openclaw",
+    "tags": [
+      "agent-personas",
+      "ai-agents",
+      "heyron",
+      "onboarding",
+      "openclaw",
+      "skills",
+      "tutorials"
+    ],
+    "description": "Beginner-friendly tutorials, agent personas, skills, and templates for heyron users.",
+    "path": "openclaw/heyron-ai-agent-library/",
+    "type": "repo",
+    "repoUrl": "https://github.com/heyron-ai/agent-library",
+    "source": "github-discovery"
   }
 ]

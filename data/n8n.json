@@ -48471,5 +48471,49 @@
     "type": "repo",
     "repoUrl": "https://github.com/saranchandru11/n8n-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1198930924",
+    "title": "ai-code-review-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered code review pipeline using n8n, Claude AI, PostgreSQL & GitHub API. 17-node workflow with parallel analysis and weighted scoring.",
+    "path": "n8n/vata74-ai-code-review-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Vata74/ai-code-review-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199015107",
+    "title": "LinkedIn-AI-Job-Alert-Pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated n8n workflow that scrapes LinkedIn for remote AI/ML internships across 6 countries, scores with AI, and sends alerts to Telegram",
+    "path": "n8n/hustledanie-linkedin-ai-job-alert-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HustleDanie/LinkedIn-AI-Job-Alert-Pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1180402737",
+    "title": "n8n-ai-chatbot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow AI chatbot menggunakan n8n dan Google Gemini",
+    "path": "n8n/natanzra-n8n-ai-chatbot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/natanzra/n8n-ai-chatbot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1198996129",
+    "title": "AxoMatrix-Core-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Custom LLM agent workflows, autonomous business logic, and integration scripts for n8n and Gumloop.",
+    "path": "n8n/axomatrix-axomatrix-core-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Axomatrix/AxoMatrix-Core-Automation",
+    "source": "github-discovery"
   }
 ]
