@@ -3157,5 +3157,142 @@
     "type": "repo",
     "repoUrl": "https://github.com/heyron-ai/agent-library",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1168279108",
+    "title": "lh-openclaw-kit",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "围绕 OpenClaw 的实用工具集：scripts、skills 和自动化工具",
+    "path": "openclaw/liuhedev-lh-openclaw-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/liuhedev/lh-openclaw-kit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200051572",
+    "title": "skills-backup",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Backup of installed ClawHub/OpenClaw skills",
+    "path": "openclaw/calvoclaudio400-skills-backup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/calvoclaudio400/skills-backup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1198448104",
+    "title": "Awesome-Skills-Paper",
+    "tool": "openclaw",
+    "tags": [
+      "clawdbot-skill",
+      "collections",
+      "hacktoberfest",
+      "jupyter-notebooks",
+      "minecraft-api",
+      "minecraft-performance",
+      "minecraft-server",
+      "moltbot",
+      "openclaw",
+      "openclaw-skills",
+      "python",
+      "python-frameworks",
+      "python-pandas",
+      "python-tools",
+      "skill"
+    ],
+    "description": "Discover and organize agent skills papers, benchmarks, and surveys in one curated list for research and review",
+    "path": "openclaw/sulfurized-chattanooga942-awesome-skills-paper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sulfurized-chattanooga942/Awesome-Skills-Paper",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193528478",
+    "title": "feishu-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "适用于 OpenClaw 和 EnClaws的完整飞书集成技能包。",
+    "path": "openclaw/hashstacs-global-feishu-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hashSTACS-Global/feishu-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190266170",
+    "title": "panda-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "🐾 小熊猫工具箱 — OpenClaw Skills by 小熊猫要冒泡",
+    "path": "openclaw/timeaground-panda-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TimeAground/panda-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192140559",
+    "title": "twelve-labs-clawhub-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw's ClawHub skill for TwelveLabs video understanding capabilities",
+    "path": "openclaw/james-le-twelve-labs-twelve-labs-clawhub-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/james-le-twelve-labs/twelve-labs-clawhub-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200054734",
+    "title": "cyberfuneral-",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "claude code/OpenClaw skill for cyber-funeral",
+    "path": "openclaw/zhrq-vis-cyberfuneral-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Zhrq-vis/cyberfuneral-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199176699",
+    "title": "dmx-multi-agent-engineering",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Multi-Agent Engineering System - OpenClaw Skill for multi-agent collaboration with TDD, CI Gate and model routing",
+    "path": "openclaw/wyn407473978-dmx-multi-agent-engineering/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wyn407473978/dmx-multi-agent-engineering",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199972841",
+    "title": "openclaw-marketing-lab",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "System that ingests marketing-related GitHub repositories, extracts reusable AI patterns (skills, agents, workflows), and normalizes them into a structured, versioned library.",
+    "path": "openclaw/kpradof-openclaw-marketing-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kpradof/openclaw-marketing-lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199389860",
+    "title": "capsolver-skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "ai-agents-automation",
+      "api",
+      "capsolver",
+      "cloudflare",
+      "openclaw",
+      "openclaw-skills",
+      "python",
+      "skills",
+      "turnstile"
+    ],
+    "description": "Automate CapSolver captcha solving skills for RPA, with support for ImageToText, reCAPTCHA v2, AWS WAF, and VisionEngine",
+    "path": "openclaw/pixcoconut-capsolver-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pixcoconut/capsolver-skills",
+    "source": "github-discovery"
   }
 ]

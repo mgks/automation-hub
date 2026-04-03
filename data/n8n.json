@@ -48515,5 +48515,71 @@
     "type": "repo",
     "repoUrl": "https://github.com/Axomatrix/AxoMatrix-Core-Automation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199163656",
+    "title": "22b-studio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "지브리 스타일 애니메이션 제작을 위한 n8n-first 워크플로우 템플릿 | n8n-first Ghibli animation workflow templates",
+    "path": "n8n/sinmb79-22b-studio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sinmb79/22b-studio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199835318",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/swashbuck1r-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/swashbuck1r/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200046707",
+    "title": "AgenticAI_IdeaBot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered n8n workflow to turn Telegram voice notes into organized ideas. Features automatic AI transcription, smart categorization, and custom HTML reporting. Save thoughts hands-free via voice; use /idealist to receive a beautifully styled summary instantly. A seamless bridge between spoken inspiration and structured knowledge.",
+    "path": "n8n/domenicodistasio-agenticai_ideabot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DomenicodiStasio/AgenticAI_IdeaBot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200042203",
+    "title": "n8n-automation-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow templates: Alibaba RFQ monitor + Facebook Marketplace free stuff scanner for SF",
+    "path": "n8n/lucyfeilu123-netizen-n8n-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lucyfeilu123-netizen/n8n-automation-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1136185680",
+    "title": "n8n-nodes-xrpl",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A comprehensive n8n community node for XRP Ledger (XRPL) enabling blockchain automation workflows. Supports payments, DEX trading, NFT minting, escrows, AMM pools, and more through a unified interface.",
+    "path": "n8n/velocity-bpa-n8n-nodes-xrpl/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Velocity-BPA/n8n-nodes-xrpl",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200029633",
+    "title": "n8n-llm-workflows-and-custom-node",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflows and custom node with a FastAPI microservice for LLM‑powered issue triage, API monitoring, and nightly data quality reports.",
+    "path": "n8n/arashrhmni-n8n-llm-workflows-and-custom-node/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Arashrhmni/n8n-llm-workflows-and-custom-node",
+    "source": "github-discovery"
   }
 ]
