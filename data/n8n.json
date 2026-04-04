@@ -48581,5 +48581,134 @@
     "type": "repo",
     "repoUrl": "https://github.com/Arashrhmni/n8n-llm-workflows-and-custom-node",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1147173566",
+    "title": "whatsapp-bridge",
+    "tool": "n8n",
+    "tags": [],
+    "description": "WhatsApp bridge with message batching and n8n integration for automated workflows",
+    "path": "n8n/github4adveryone-whatsapp-bridge/",
+    "type": "repo",
+    "repoUrl": "https://github.com/github4adveryOne/whatsapp-bridge",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200924258",
+    "title": "n8n-skills",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of Claude Code Skills for building n8n workflows — prototyping, node configuration, expression syntax, validation, testing, and more.",
+    "path": "n8n/jqlts1-n8n-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jqlts1/n8n-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1178595478",
+    "title": "vps-ai-stack",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "docker",
+      "docker-compose",
+      "homelab",
+      "llm",
+      "n8n",
+      "ollama",
+      "open-webui",
+      "privacy",
+      "self-hosted",
+      "small-business",
+      "traefik"
+    ],
+    "description": "Privacy-first AI stack for small businesses. Self-hosted ChatGPT + workflow automation in one docker-compose.",
+    "path": "n8n/l-cocuy-vps-ai-stack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/L-Cocuy/vps-ai-stack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200895195",
+    "title": "N8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/divyansh2005-arch-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/divyansh2005-arch/N8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200917152",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automação n8n, extrato bancario ",
+    "path": "n8n/italofonteles-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ItaloFonteles/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200892163",
+    "title": "n8n-playground",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Repositório para experimentação de workflows no n8n, incluindo integrações, automações, webhooks e casos de uso reais.",
+    "path": "n8n/reenans-n8n-playground/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ReenanS/n8n-playground",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199484920",
+    "title": "nbins",
+    "tool": "n8n",
+    "tags": [
+      "cloudflare-workers",
+      "hono",
+      "inspection-system",
+      "mvp",
+      "n8n",
+      "react",
+      "shipbuilding",
+      "typescript",
+      "workflow"
+    ],
+    "description": "NBINS (New Building Inspection System) is a collaborative inspection workflow platform for shipbuilding projects, covering inspection requests, results, comments, rounds, and MVP demo APIs/UI.",
+    "path": "n8n/xingkaijun-nbins/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xingkaijun/nbins",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200682790",
+    "title": "n8n-alertas-zabbix-twilio",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "monitoring",
+      "n8n",
+      "twilio",
+      "whatsapp",
+      "zabbix"
+    ],
+    "description": "Workflow para notificação automática de incidentes de infraestrutura, disparado pelo Zabbix e entregue simultaneamente como ligação telefônica e mensagem de WhatsApp usando o Twilio.",
+    "path": "n8n/brunogalamba-n8n-alertas-zabbix-twilio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/brunogalamba/n8n-alertas-zabbix-twilio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200904081",
+    "title": "ai-content-generator-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI content generation workflow using n8n that processes data from Google Sheets and APIs to automate structured content creation.",
+    "path": "n8n/bedeneche-ai-content-generator-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Bedeneche/ai-content-generator-n8n",
+    "source": "github-discovery"
   }
 ]

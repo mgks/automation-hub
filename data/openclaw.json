@@ -3294,5 +3294,178 @@
     "type": "repo",
     "repoUrl": "https://github.com/pixcoconut/capsolver-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200250857",
+    "title": "kaisSkills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "My personal OpenClaw skills collection",
+    "path": "openclaw/kaiger666888-kaisskills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kaiger666888/kaisSkills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1115851080",
+    "title": "lime",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "antigravity",
+      "claw",
+      "gemini",
+      "limeclaw",
+      "openclaw",
+      "skills"
+    ],
+    "description": "把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”",
+    "path": "openclaw/limecloud-lime/",
+    "type": "repo",
+    "repoUrl": "https://github.com/limecloud/lime",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1117207218",
+    "title": "vt-claw",
+    "tool": "openclaw",
+    "tags": [
+      "hardware-agent",
+      "openclaw",
+      "skills"
+    ],
+    "description": "以硬件技能为核心、面向行业用户的 Claw 软件 — 安全隔离 · 透明可控 · 主动智能",
+    "path": "openclaw/viitrix-vt-claw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/viitrix/vt-claw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1149761307",
+    "title": "hoomanity",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "agents",
+      "anthropic",
+      "artificial-intelligence",
+      "bedrock",
+      "claude",
+      "clawdbot",
+      "moltbot",
+      "openai",
+      "openclaw"
+    ],
+    "description": "Interactive CLI for multi-agent setups. Run `hoomanity` to pick an agent; `hoomanity configure` for create/edit, skills, MCP, and settings.",
+    "path": "openclaw/vaibhavpandeyvpz-hoomanity/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vaibhavpandeyvpz/hoomanity",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1159261054",
+    "title": "video-podcast-maker",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-video",
+      "bilibili",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skills",
+      "elevenlabs",
+      "openai-tts",
+      "openclaw",
+      "openclaw-skills",
+      "remotion",
+      "skill-md",
+      "skillsmp",
+      "tts",
+      "video-pipeline",
+      "video-podcast",
+      "youtube"
+    ],
+    "description": "AI-powered video podcast creation skill for coding agents. Supports Bilibili & YouTube, multi-language (zh-CN/en-US), 6 TTS engines (Edge/Azure/ElevenLabs/OpenAI/Doubao/CosyVoice), 4K Remotion rendering.",
+    "path": "openclaw/agents365-ai-video-podcast-maker/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Agents365-ai/video-podcast-maker",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199576911",
+    "title": "kiakun-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Kiakun的个人技能库 - 包含抖音达人研究助手等OpenClaw技能",
+    "path": "openclaw/kiakun-collab-kiakun-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kiakun-collab/kiakun-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1122107270",
+    "title": "xiuxian-artisan-workshop",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai-development",
+      "arrow",
+      "arrow-flight",
+      "arrow-flight-sql",
+      "claude",
+      "data-fusion",
+      "devenv",
+      "discord-bot",
+      "minimax",
+      "nix",
+      "openclaw",
+      "skills",
+      "telegrambot"
+    ],
+    "description": "WIP-designed to bridge the gap between human intent and machine execution. Built on a robust Tri-MCP architecture, it physically separates cognitive planning (The Brain), atomic execution (The Hands), and surgical coding (The Pen) to ensure context hygiene and safety.",
+    "path": "openclaw/tao3k-xiuxian-artisan-workshop/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tao3k/xiuxian-artisan-workshop",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1166441393",
+    "title": "getnote-openclaw",
+    "tool": "openclaw",
+    "tags": [
+      "ai-assistant",
+      "getnote",
+      "openclaw"
+    ],
+    "description": "Get 笔记 openclaw Skill",
+    "path": "openclaw/iswalle-getnote-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iswalle/getnote-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200769677",
+    "title": "tiktok-draft-poster",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: post TikTok carousel drafts from a real Android phone via ADB — finds draft, adds audio, posts. No TikTok API needed.",
+    "path": "openclaw/oh-ashen-one-tiktok-draft-poster/",
+    "type": "repo",
+    "repoUrl": "https://github.com/oh-ashen-one/tiktok-draft-poster",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1198891213",
+    "title": "openclaw-premium-portfolio",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw premium skills and hosting infrastructure",
+    "path": "openclaw/neroagent-openclaw-premium-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NeroAgent/openclaw-premium-portfolio",
+    "source": "github-discovery"
   }
 ]
