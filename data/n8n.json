@@ -48710,5 +48710,67 @@
     "type": "repo",
     "repoUrl": "https://github.com/Bedeneche/ai-content-generator-n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1201658612",
+    "title": "ModernContentPlatform",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered multi-topic intelligence and publishing platform with live alerts, daily summaries, video workflows, and automated delivery using n8n, Vue, Cloudflare, and GitHub.",
+    "path": "n8n/phelecks-moderncontentplatform/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Phelecks/ModernContentPlatform",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1201155596",
+    "title": "n8n-enterprise-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production n8n workflow templates — CI/CD alerts, AI code review (Claude), QA routing, standup bots",
+    "path": "n8n/mustafaautomation-n8n-enterprise-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mustafaautomation/n8n-enterprise-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1198692778",
+    "title": "valuable-n8n-ai",
+    "tool": "n8n",
+    "tags": [],
+    "description": "All n8n workflows, automations, and AI agents I made with real-life and business-oriented value.",
+    "path": "n8n/mintzs-valuable-n8n-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mintzs/valuable-n8n-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1116840539",
+    "title": "n8n-skills-pack",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "claude",
+      "n8n",
+      "n8n-skills",
+      "n8n-workflow",
+      "skills"
+    ],
+    "description": "Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite.",
+    "path": "n8n/haunchen-n8n-skills-pack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/haunchen/n8n-skills-pack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1201625716",
+    "title": "networking-followup-automation-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that automatically generates personalized follow-up emails after networking meetings using Google Gemini, then logs the contact to Google Sheets and saves a Gmail draft — ready to review and send.",
+    "path": "n8n/pushtishah11-networking-followup-automation-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pushtishah11/networking-followup-automation-n8n",
+    "source": "github-discovery"
   }
 ]
