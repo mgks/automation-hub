@@ -3663,5 +3663,133 @@
     "type": "repo",
     "repoUrl": "https://github.com/Smart-barley681/skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1163670808",
+    "title": "strudel-music",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "🎵 Strudel live-coding music composition, rendering, and Discord VC streaming. An OpenClaw skill by the dandelion cult.",
+    "path": "openclaw/karmaterminal-strudel-music/",
+    "type": "repo",
+    "repoUrl": "https://github.com/karmaterminal/strudel-music",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202280542",
+    "title": "video-analysis",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "YouTube video analysis skill for OpenClaw",
+    "path": "openclaw/neilkung-tech-video-analysis/",
+    "type": "repo",
+    "repoUrl": "https://github.com/neilkung-tech/video-analysis",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202414445",
+    "title": "OpenClaw-Skills-Loader",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/jia1995-openclaw-skills-loader/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jia1995/OpenClaw-Skills-Loader",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202384741",
+    "title": "openclaw-workspace",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw workspace backup with memory and skills",
+    "path": "openclaw/bsmart4solutions-code-openclaw-workspace/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bsmart4solutions-code/openclaw-workspace",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202415791",
+    "title": "strategic-analysis-tedh",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "天时·地利·人和 战略分析 OpenClaw Skill | TEDH Strategic Analysis Framework for AI Agent",
+    "path": "openclaw/ss0607-ss-strategic-analysis-tedh/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ss0607-ss/strategic-analysis-tedh",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202225618",
+    "title": "OpenClaude",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "🦀 A port of OpenClaw to Claude Code — personal AI assistant built with skills + minimal Python",
+    "path": "openclaw/reedmayhew18-openclaude/",
+    "type": "repo",
+    "repoUrl": "https://github.com/reedmayhew18/OpenClaude",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202361642",
+    "title": "oc-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "RAKU 小队 OpenClaw Skills 共享仓库",
+    "path": "openclaw/shazhou-ww-oc-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shazhou-ww/oc-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202092462",
+    "title": "handover-hangover",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Swift-Switch OpenClaw skill for smooth switch between models, solving problem of lost track and context of your agent",
+    "path": "openclaw/tensusds-handover-hangover/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TensusDS/handover-hangover",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1130426505",
+    "title": "codexmate",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "claude-code",
+      "cli",
+      "codex",
+      "config-management",
+      "developer-tools",
+      "json5",
+      "local-first",
+      "mcp",
+      "model-switching",
+      "nodejs",
+      "openclaw",
+      "provider-management",
+      "session-management",
+      "skills",
+      "skills-management"
+    ],
+    "description": "Local-first AI control plane for Codex, Claude Code, and OpenClaw — one-click   provider/model/profile switching, backup-safe config writes, unified session   browser, and MCP stdio.",
+    "path": "openclaw/sakurabytecore-codexmate/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SakuraByteCore/codexmate",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202405919",
+    "title": "xhs-ops",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "小红书全链路运营 Skill for OpenClaw — 选题→写作→配图→发布→复盘，基于 agent-browser 真实踩坑验证",
+    "path": "openclaw/kulakeepor-xhs-ops/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kulakeepor/xhs-ops",
+    "source": "github-discovery"
   }
 ]
