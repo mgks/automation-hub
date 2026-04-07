@@ -48891,5 +48891,16 @@
     "type": "repo",
     "repoUrl": "https://github.com/iprautomo2513-spec/catalog",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193108280",
+    "title": "n8n-to-claw",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A CLI tool that converts n8n workflow JSON into OpenClaw-compatible skills",
+    "path": "n8n/just-claw-it-n8n-to-claw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/just-claw-it/n8n-to-claw",
+    "source": "github-discovery"
   }
 ]
