@@ -48902,5 +48902,27 @@
     "type": "repo",
     "repoUrl": "https://github.com/just-claw-it/n8n-to-claw",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1204409945",
+    "title": "Detection-Rules",
+    "tool": "n8n",
+    "tags": [],
+    "description": "SOC lab demonstrating detection engineering through simulated attacks such as lateral movement via PsExec/Impacket. Uses Elastic Security for behavior-based detections and an automated pipeline with n8n and osTicket to simulate real-world incident response workflows.",
+    "path": "n8n/greg1125-detection-rules/",
+    "type": "repo",
+    "repoUrl": "https://github.com/greg1125/Detection-Rules",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199478200",
+    "title": "n8n-backups",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated backups of n8n workflows and PostgreSQL database",
+    "path": "n8n/peternsamodurau-n8n-backups/",
+    "type": "repo",
+    "repoUrl": "https://github.com/PeternSamodurau/n8n-backups",
+    "source": "github-discovery"
   }
 ]
