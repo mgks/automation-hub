@@ -48924,5 +48924,76 @@
     "type": "repo",
     "repoUrl": "https://github.com/PeternSamodurau/n8n-backups",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205234107",
+    "title": "polymarket-tools",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "crypto-trading",
+      "defi",
+      "n8n",
+      "n8n-community-node",
+      "n8n-nodes",
+      "polymarket",
+      "prediction-markets",
+      "trading-bot",
+      "workflow-automation"
+    ],
+    "description": "First n8n community node with full Polymarket trading support - EIP-712 signing, AI agent tools, workflow templates",
+    "path": "n8n/polymarket-tools-polymarket-tools/",
+    "type": "repo",
+    "repoUrl": "https://github.com/polymarket-tools/polymarket-tools",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1184845626",
+    "title": "Quvio",
+    "tool": "n8n",
+    "tags": [
+      "angular",
+      "laravel",
+      "n8n",
+      "stripe-payments"
+    ],
+    "description": "Built QUVIO, an automated Angular + Laravel app for creating, sending, and managing quotes and invoices with Stripe payments and n8n workflow automation.",
+    "path": "n8n/muhamedall-quvio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Muhamedall/Quvio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205455066",
+    "title": "ngaturduit-n8n-obsolete",
+    "tool": "n8n",
+    "tags": [],
+    "description": "The latest n8n workflow for Ngatur Duit. Abandoned.",
+    "path": "n8n/jordanmaulana-ngaturduit-n8n-obsolete/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jordanmaulana/ngaturduit-n8n-obsolete",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205333156",
+    "title": "n8n-tiktok-direct-uploader",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow for direct video uploads to TikTok via official API, without third-party middleware.",
+    "path": "n8n/alaa-ak-n8n-tiktok-direct-uploader/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alaa-ak/n8n-tiktok-direct-uploader",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186454817",
+    "title": "especialista_n8n_ongoing",
+    "tool": "n8n",
+    "tags": [],
+    "description": "N8N Workflow Generator - Integração Intercom ↔ Azure DevOps (Ongoing)",
+    "path": "n8n/eduarda-bueno-especialista_n8n_ongoing/",
+    "type": "repo",
+    "repoUrl": "https://github.com/eduarda-bueno/especialista_n8n_ongoing",
+    "source": "github-discovery"
   }
 ]
