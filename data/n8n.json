@@ -48995,5 +48995,124 @@
     "type": "repo",
     "repoUrl": "https://github.com/eduarda-bueno/especialista_n8n_ongoing",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1206519372",
+    "title": "n8n-workflow-ai-chat",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered workflow automation using n8n with WhatsApp chatbot integration, Google Sheets data logging, and simple memory handling.",
+    "path": "n8n/mariaeduardasouza001-n8n-workflow-ai-chat/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MariaEduardaSouza001/n8n-workflow-ai-chat",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1086692156",
+    "title": "awesome-claude-plugins",
+    "tool": "n8n",
+    "tags": [
+      "awesome-list",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-plugins",
+      "claude-code-plugins-marketplace"
+    ],
+    "description": "Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows",
+    "path": "n8n/quemsah-awesome-claude-plugins/",
+    "type": "repo",
+    "repoUrl": "https://github.com/quemsah/awesome-claude-plugins",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1206478150",
+    "title": "NSP-email-enquiry",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered n8n workflow that auto-handles NSP Cases customer email enquiries using GPT-4 and Google Sheets knowledge base",
+    "path": "n8n/vamshi-27072001-nsp-email-enquiry/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Vamshi-27072001/NSP-email-enquiry",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1132431222",
+    "title": "n8n-nodes-trooptrack",
+    "tool": "n8n",
+    "tags": [
+      "n8n-community-node",
+      "trooptrack"
+    ],
+    "description": "This package provides access to key TroopTrack resources to enable reporting, automation, and data integration workflows inside n8n.",
+    "path": "n8n/lazyshamrock-n8n-nodes-trooptrack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lazyshamrock/n8n-nodes-trooptrack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1063626169",
+    "title": "Allo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Allo is a voice AI assistant powered by ElevenLabs and n8n, enabling real-time conversations and automated workflows through API integrations",
+    "path": "n8n/amada22-allo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/amada22/Allo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1206438976",
+    "title": "n8n-automation-hub",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflows and Python scripts for business process automation.",
+    "path": "n8n/ruslanbega100495-cell-n8n-automation-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ruslanbega100495-cell/n8n-automation-hub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-755154757",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Todos os workflows utilizados pelo Mapa do Acolhimento no n8n.",
+    "path": "n8n/mapadoacolhimento-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mapadoacolhimento/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182402159",
+    "title": "keyforagents-automation-engine",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Unified AI automation engine for KeyforAgents.com — combines Manus agent core, sales automation, Telegram bot, n8n workflows, Stripe/PayPal billing, and AI lead generation into one master system.",
+    "path": "n8n/niorlusxai-keyforagents-automation-engine/",
+    "type": "repo",
+    "repoUrl": "https://github.com/niorlusxAI/keyforagents-automation-engine",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1206370695",
+    "title": "job-swipe",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A swipeable job application workflow on Netlify, connected to a personalized N8N workflow",
+    "path": "n8n/munkymack-job-swipe/",
+    "type": "repo",
+    "repoUrl": "https://github.com/munkymack/job-swipe",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1085965942",
+    "title": "Backup_n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Backups dos WorkFlows do n8n",
+    "path": "n8n/luis-inovamobil-backup_n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Luis-Inovamobil/Backup_n8n",
+    "source": "github-discovery"
   }
 ]
