@@ -49114,5 +49114,100 @@
     "type": "repo",
     "repoUrl": "https://github.com/Luis-Inovamobil/Backup_n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1206883130",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/yamashinat-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yamashinat/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1207452810",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Learn n8n automation - a powerful, low-code workflow automation tool that connects different applications to automate tasks without extensive programming.",
+    "path": "n8n/binitutor-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/binitutor/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205161196",
+    "title": "AutoCallAI",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Self-improving AI voice agent that simulates sales calls, analyzes outcomes, and iteratively optimizes its script using LLM reasoning + workflow orchestration (n8n)",
+    "path": "n8n/pranavmishra17-autocallai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/PranavMishra17/AutoCallAI",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1061312823",
+    "title": "flowmindlabs-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n AI automation workflows",
+    "path": "n8n/flowmindlabs-flowmindlabs-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/flowmindlabs/flowmindlabs-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1207439391",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/shreyaya16-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Shreyaya16/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1207402507",
+    "title": "n8n_pdf_technical_assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Ce dépôt contient un workflow n8n conçu pour automatiser entièrement la gestion de documents techniques. Dès qu'un fichier PDF est déposé dans un dossier Google Drive, l'assistant s'occupe de tout : lecture, résumé et archivage \"intelligent\" dans une base de données vectorielle.",
+    "path": "n8n/ghaithkhlif-n8n_pdf_technical_assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ghaithkhlif/n8n_pdf_technical_assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1207407258",
+    "title": "MemoryMesh-Conversational-AI-Agent-with-Persistent-PostgreSQL-Memory",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "ai-agent",
+      "applied-ai",
+      "chatbot",
+      "chatbot-framework",
+      "conversational-ai",
+      "generative-ai",
+      "gpt-4o-mini",
+      "langchain",
+      "n8n",
+      "n8n-workflow",
+      "nlp",
+      "openai",
+      "persistent-memory",
+      "postgresql",
+      "session-management",
+      "workflow-automation"
+    ],
+    "description": "Production-ready conversational AI agent built with n8n, PostgreSQL, and GPT-4o-mini — featuring persistent multi-session memory, structured conversation logging, and webhook-based API access.",
+    "path": "n8n/hrswatirai-debug-memorymesh-conversational-ai-agent-with-persistent-postgresql-memory/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hrswatirai-debug/MemoryMesh-Conversational-AI-Agent-with-Persistent-PostgreSQL-Memory",
+    "source": "github-discovery"
   }
 ]
