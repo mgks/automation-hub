@@ -49209,5 +49209,99 @@
     "type": "repo",
     "repoUrl": "https://github.com/hrswatirai-debug/MemoryMesh-Conversational-AI-Agent-with-Persistent-PostgreSQL-Memory",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205773902",
+    "title": "N8N-Workflows",
+    "tool": "n8n",
+    "tags": [
+      "cold-outreaching",
+      "javascript",
+      "managing-leads",
+      "n8n-workflow",
+      "notes-formatter",
+      "openai",
+      "product-analysis"
+    ],
+    "description": "This repository contains all the n8n automation systems with proper documentations.",
+    "path": "n8n/thelabscatalyst-ui-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thelabscatalyst-ui/N8N-Workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1208174416",
+    "title": "n8n-nodes-axway-securetransport-user",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Interact with Axway SecureTransport End-User API v2.0 from n8n workflows — files, transfers, and account management.",
+    "path": "n8n/edi-labs-system-n8n-nodes-axway-securetransport-user/",
+    "type": "repo",
+    "repoUrl": "https://github.com/edi-labs-system/n8n-nodes-axway-securetransport-user",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1206643330",
+    "title": "n8n-studio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Development Claude Code Plugin",
+    "path": "n8n/icednut-n8n-studio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/icednut/n8n-studio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1163643344",
+    "title": "automated-newsletter-n8n",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "AI-powered automation for turning RSS feeds into a well-structured Real-Time Briefing (RTB). Uses Google Gemini for summarization, Markdown for formatting, and n8n for workflow orchestration.",
+    "path": "n8n/chrysthy-automated-newsletter-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Chrysthy/automated-newsletter-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1164289969",
+    "title": "contract-generator-n8n",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "An n8n workflow designed to automate the creation and delivery of rental contracts (built for event venues/properties). ",
+    "path": "n8n/chrysthy-contract-generator-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Chrysthy/contract-generator-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205622207",
+    "title": "mildly-outdoorsy-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/trinhdavid120-mildly-outdoorsy-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/trinhdavid120/mildly-outdoorsy-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1163646274",
+    "title": "financial-controller-n8n",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": " Send your expenses in natural language, and let the AI organize and input the values straight into your Google Sheets.",
+    "path": "n8n/chrysthy-financial-controller-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Chrysthy/financial-controller-n8n",
+    "source": "github-discovery"
   }
 ]
