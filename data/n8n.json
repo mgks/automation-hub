@@ -49303,5 +49303,52 @@
     "type": "repo",
     "repoUrl": "https://github.com/Chrysthy/financial-controller-n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1208308778",
+    "title": "n8n-coupon-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated coupon campaign workflow built with n8n, Google Sheets, and Gmail",
+    "path": "n8n/aayush3-n8n-coupon-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aayush3/n8n-coupon-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187643681",
+    "title": "transformable-nodesui",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "self-hosted"
+    ],
+    "description": "Dashboard-focused Payload CMS app for monitoring n8n instances. It stores synced server, workflow, execution, credential, and data table metadata in Payload, then renders configurable dashboard pages with filters, pagination, chat embeds, and forms.",
+    "path": "n8n/transformable-app-transformable-nodesui/",
+    "type": "repo",
+    "repoUrl": "https://github.com/transformable-app/transformable-nodesui",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1207798682",
+    "title": "flowpilot-site",
+    "tool": "n8n",
+    "tags": [],
+    "description": "FlowPilot — n8n Workflow Command Center",
+    "path": "n8n/dbardi-flowpilot-site/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dbardi/flowpilot-site",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1208987424",
+    "title": "n8n-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow automation — self-hosted Docker setup",
+    "path": "n8n/chandrapraban-n8n-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Chandrapraban/n8n-workflow",
+    "source": "github-discovery"
   }
 ]
