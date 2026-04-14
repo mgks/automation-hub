@@ -49350,5 +49350,47 @@
     "type": "repo",
     "repoUrl": "https://github.com/Chandrapraban/n8n-workflow",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209238140",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/kpma1120-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kpma1120/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209172019",
+    "title": "auto-solution-downloader",
+    "tool": "n8n",
+    "tags": [],
+    "description": " Automated n8n workflow downloader with Claude Code",
+    "path": "n8n/miamisupportai-creator-auto-solution-downloader/",
+    "type": "repo",
+    "repoUrl": "https://github.com/miamisupportai-creator/auto-solution-downloader",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1206890414",
+    "title": "laibaazeem3250-ship-it",
+    "tool": "n8n",
+    "tags": [
+      "cpp",
+      "css3",
+      "github",
+      "html5",
+      "java",
+      "javascript",
+      "n8n-workflow",
+      "profile-readme"
+    ],
+    "description": "Aspiring Software Engineer | Java & Frontend Developer | Building real-world projects ",
+    "path": "n8n/laibaazeem3250-ship-it-laibaazeem3250-ship-it/",
+    "type": "repo",
+    "repoUrl": "https://github.com/laibaazeem3250-ship-it/laibaazeem3250-ship-it",
+    "source": "github-discovery"
   }
 ]
