@@ -49392,5 +49392,138 @@
     "type": "repo",
     "repoUrl": "https://github.com/laibaazeem3250-ship-it/laibaazeem3250-ship-it",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210999085",
+    "title": "lemlist-reply-ai",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-assisted Lemlist reply triage via Slack. n8n workflow + Claude Code deploy script.",
+    "path": "n8n/iamachilles-lemlist-reply-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iamachilles/lemlist-reply-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-979854270",
+    "title": "parseur-n8n-node",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Official n8n node for Parseur — Automate your workflows with document parsing events.",
+    "path": "n8n/parseur-parseur-n8n-node/",
+    "type": "repo",
+    "repoUrl": "https://github.com/parseur/parseur-n8n-node",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1189020885",
+    "title": "n8n-agent-flows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A curated collection of production-ready n8n workflows for AI agents and process automation. Each flow includes the JSON export and technical documentation covering architecture decisions, tool configuration, and design rationale.",
+    "path": "n8n/darioarteaga-n8n-agent-flows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DarioArteaga/n8n-agent-flows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209136539",
+    "title": "n8n-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Các workflow tự động hóa các công việc thông qua sử dụng n8n",
+    "path": "n8n/n1ml3-n8n-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/n1ml3/n8n-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210871086",
+    "title": "reputation-engine",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated multi-site SEO publishing system using n8n, AI agents, and structured data. 10 autonomous workflows manage content research, generation, publishing, QA, and SERP measurement across four domains.",
+    "path": "n8n/sinabarimd-reputation-engine/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sinabarimd/reputation-engine",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210999412",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/jandonaire-iarvix-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jandonaire-iarvix/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1188800815",
+    "title": "workflows-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "my workflows n8n",
+    "path": "n8n/thamirisvscosta-workflows-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thamirisvscosta/workflows-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1197359376",
+    "title": "loading-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow automation for CMP Platform - configured for DO Managed PostgreSQL",
+    "path": "n8n/loadingcloud001-loading-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/loadingcloud001/loading-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211037512",
+    "title": "ResultAnalyser",
+    "tool": "n8n",
+    "tags": [
+      "academic",
+      "agentic-workflow",
+      "ai-automation",
+      "automation",
+      "education",
+      "gemini",
+      "gemini-api",
+      "n8n",
+      "n8n-workflow",
+      "result-analyser",
+      "smart-automation-workflow",
+      "university"
+    ],
+    "description": "Analyze university result PDFs with Gmail and n8n to generate 5 AI-powered reports in 60 seconds using Gemini 2.0 Flash",
+    "path": "n8n/ljam5182-resultanalyser/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ljam5182/ResultAnalyser",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182043750",
+    "title": "chatbot-webhook-integration-botpress-n8n",
+    "tool": "n8n",
+    "tags": [
+      "botpress",
+      "docker-compose",
+      "json",
+      "n8n",
+      "n8n-automation",
+      "n8n-nodes",
+      "n8n-workflow",
+      "webhooks",
+      "webhooks-api"
+    ],
+    "description": "Chatbot Webhook Integration (Botpress + n8n)",
+    "path": "n8n/natanluz-chatbot-webhook-integration-botpress-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NatanLuz/chatbot-webhook-integration-botpress-n8n",
+    "source": "github-discovery"
   }
 ]

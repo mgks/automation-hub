@@ -5396,5 +5396,115 @@
     "type": "repo",
     "repoUrl": "https://github.com/folkerds13/signaai-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209495288",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skills for engineering team management",
+    "path": "openclaw/codetreker-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/codetreker/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211035301",
+    "title": "awesome-privacy-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Local sensitive data redaction and unmasking tool. Communicates with Agent via OpenClaw Skill protocol, compatible with all Agent runtimes.",
+    "path": "openclaw/echohaoran-awesome-privacy-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/echohaoran/awesome-privacy-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211033144",
+    "title": "openclaw-skill-bk",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "openclaw的skills备份",
+    "path": "openclaw/foreverxyoung-openclaw-skill-bk/",
+    "type": "repo",
+    "repoUrl": "https://github.com/foreverXyoung/openclaw-skill-bk",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210028739",
+    "title": "x-twitter-scraper",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: x-twitter-scraper",
+    "path": "openclaw/rrrrrredy-x-twitter-scraper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rrrrrredy/x-twitter-scraper",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210028670",
+    "title": "smart-weekly-report",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: smart-weekly-report",
+    "path": "openclaw/rrrrrredy-smart-weekly-report/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rrrrrredy/smart-weekly-report",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210028646",
+    "title": "smart-meeting-notes",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: smart-meeting-notes",
+    "path": "openclaw/rrrrrredy-smart-meeting-notes/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rrrrrredy/smart-meeting-notes",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210028572",
+    "title": "daxiang-inbox-assistant",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: daxiang-inbox-assistant",
+    "path": "openclaw/rrrrrredy-daxiang-inbox-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rrrrrredy/daxiang-inbox-assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210032427",
+    "title": "all-net-search-read",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: all-net-search-read",
+    "path": "openclaw/rrrrrredy-all-net-search-read/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rrrrrredy/all-net-search-read",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210028514",
+    "title": "ai-talent-graph",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: ai-talent-graph",
+    "path": "openclaw/rrrrrredy-ai-talent-graph/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rrrrrredy/ai-talent-graph",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210028451",
+    "title": "agent-job-monitor",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: agent-job-monitor",
+    "path": "openclaw/rrrrrredy-agent-job-monitor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rrrrrredy/agent-job-monitor",
+    "source": "github-discovery"
   }
 ]
