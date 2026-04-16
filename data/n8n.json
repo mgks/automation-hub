@@ -49525,5 +49525,105 @@
     "type": "repo",
     "repoUrl": "https://github.com/NatanLuz/chatbot-webhook-integration-botpress-n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211153214",
+    "title": "OpenCrab",
+    "tool": "n8n",
+    "tags": [
+      "agent-orchestration",
+      "agentic-ai",
+      "agentic-framework",
+      "automation",
+      "autonomous-agents",
+      "chinese",
+      "open-source",
+      "openclaw",
+      "opencrabs",
+      "recursive-self-improvement",
+      "rsi",
+      "self-healing",
+      "self-learning",
+      "social-media",
+      "socialmedia"
+    ],
+    "description": "Connect MetaOntology OS grammar to MCP agents for structured, ontology-driven workflows in Claude Code, n8n, LangGraph, and more",
+    "path": "n8n/2007ad2555-opencrab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/2007ad2555/OpenCrab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212032324",
+    "title": "n8n2Skills",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow convert to Skills",
+    "path": "n8n/ljylun-n8n2skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ljylun/n8n2Skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212028927",
+    "title": "headhunter-automatico-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow de n8n que automatiza la búsqueda de empleo con IA",
+    "path": "n8n/fsotoeu-cyber-headhunter-automatico-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fsotoeu-cyber/headhunter-automatico-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1204966957",
+    "title": "resume",
+    "tool": "n8n",
+    "tags": [
+      "a11y",
+      "ia",
+      "ops",
+      "pcd",
+      "ux",
+      "web"
+    ],
+    "description": "ai-automation n8n-workflows product-design devops-culture llm-integration ux-design accessibility guilherme-puentes equipe https://websolutions.eti.br/github  __",
+    "path": "n8n/gpuentes-resume/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gpuentes/resume",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212030129",
+    "title": "-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/samer-salah--n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/samer-salah/-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212018399",
+    "title": "n8n-google-places",
+    "tool": "n8n",
+    "tags": [],
+    "description": "workflow que permite scrapear datos desde google maps.",
+    "path": "n8n/aless2506-n8n-google-places/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aless2506/n8n-google-places",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211977486",
+    "title": "n8n-github-weekly-summary",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow for automated GitHub weekly activity summaries with AI-powered analysis",
+    "path": "n8n/cj-l920-n8n-github-weekly-summary/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cj-l920/n8n-github-weekly-summary",
+    "source": "github-discovery"
   }
 ]

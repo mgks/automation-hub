@@ -5506,5 +5506,128 @@
     "type": "repo",
     "repoUrl": "https://github.com/rrrrrredy/agent-job-monitor",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212045972",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw AgentSkill 集合 - 自动生成器与监控工具",
+    "path": "openclaw/leslie1422-gmail-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/leslie1422-gmail/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209042544",
+    "title": "moegirlpedia-mediawiki-api",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenCLaw Skill 通过身份认证访问萌娘百科的 MediaWiki API，用于页面搜索、获取页面内容、分类、分类成员、页面摘要、监视列表简报及最近更改简报",
+    "path": "openclaw/annangela-moegirlpedia-mediawiki-api/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AnnAngela/moegirlpedia-mediawiki-api",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212040732",
+    "title": "sonos-pure-play",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Sonos playback skill for OpenClaw",
+    "path": "openclaw/nakamotoliu-sonos-pure-play/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nakamotoliu/sonos-pure-play",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209978139",
+    "title": "OpenClawTutorial",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "会先帮助大家建立对 OpenClaw 自托管 Gateway 的整体认识，接着完成环境准备、安装部署、飞书接入，再用工作区 Markdown 固化人设与记忆，最后通过资讯简报、公众号采集、对话装 Skill 三个场景完成能力跑通。后续还会持续更新，让大家在能力跑通之后也能获得最新内容。",
+    "path": "openclaw/nangeplus-openclawtutorial/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NanGePlus/OpenClawTutorial",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212032045",
+    "title": "4090openclaw-transcribe-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: transcribe audio from Google Drive links using local Whisper + 4090 GPU",
+    "path": "openclaw/turboaitech-4090openclaw-transcribe-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Turboaitech/4090openclaw-transcribe-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202469264",
+    "title": "openclaw-rocky-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw自研技能包：记忆追踪、自我迭代、自我修复、自我更新等",
+    "path": "openclaw/rockytian-top-openclaw-rocky-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rockytian-top/openclaw-rocky-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200997754",
+    "title": "openeir",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "content-curation",
+      "openclaw",
+      "personalization",
+      "productivity",
+      "rss"
+    ],
+    "description": "AI reads the internet so you can think about what matters. An OpenClaw skill.",
+    "path": "openclaw/heyeir-openeir/",
+    "type": "repo",
+    "repoUrl": "https://github.com/heyeir/openeir",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1178417363",
+    "title": "atlasclaw-providers",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agentic-workflow",
+      "ai-integration",
+      "openclaw"
+    ],
+    "description": "atlasclaw-providers are the integration with enterprise systems through skills and webhook.",
+    "path": "openclaw/cloudchef-atlasclaw-providers/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CloudChef/atlasclaw-providers",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209115573",
+    "title": "cc-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Claude Code skills for managing OpenClaw deployments — scaffold agents, configure channels, manage secrets, set up memory systems, and operate your gateway",
+    "path": "openclaw/ezagent42-cc-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ezagent42/cc-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212020641",
+    "title": "openclaw-karpathy-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/daletyler1737-openclaw-karpathy-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/daletyler1737/openclaw-karpathy-skills",
+    "source": "github-discovery"
   }
 ]
