@@ -5629,5 +5629,161 @@
     "type": "repo",
     "repoUrl": "https://github.com/daletyler1737/openclaw-karpathy-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1185699119",
+    "title": "InvestorClaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Portfolio analysis and market intelligence skill for OpenClaw. v1.0.1 | FINOS CDM 5.x Inspired Data Model | Dual License: Apache 2.0 (free) + Proprietary (commercial)",
+    "path": "openclaw/perlowja-investorclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/perlowja/InvestorClaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211847033",
+    "title": "lobsterlink",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Chrome extension for remotely viewing and controlling browser tabs via WebRTC, with an OpenClaw agent integration skill.",
+    "path": "openclaw/davidguttman-lobsterlink/",
+    "type": "repo",
+    "repoUrl": "https://github.com/davidguttman/lobsterlink",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1207012926",
+    "title": "asds-mode",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "ASDS 全自动开发工作流 Skill for OpenClaw",
+    "path": "openclaw/kingjason229-png-asds-mode/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kingjason229-png/asds-mode",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1171934952",
+    "title": "trustedskills-site",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "TrustedSkills.dev - AI skills marketplace for OpenClaw agents",
+    "path": "openclaw/growsontrees-trustedskills-site/",
+    "type": "repo",
+    "repoUrl": "https://github.com/growsontrees/trustedskills-site",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1043515641",
+    "title": "CordysCRM",
+    "tool": "openclaw",
+    "tags": [
+      "ai-crm",
+      "cordys",
+      "crm",
+      "crm-skills",
+      "crm-system",
+      "dataease",
+      "openclaw",
+      "salesforce"
+    ],
+    "description": "🔥 Cordys CRM 是新一代开源 AI CRM 系统，融合信息化、数字化与智能化，支持私有化部署，Skills 技能现已上线，全面驱动 OpenClaw AI 助理。",
+    "path": "openclaw/1panel-dev-cordyscrm/",
+    "type": "repo",
+    "repoUrl": "https://github.com/1Panel-dev/CordysCRM",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210086770",
+    "title": "atlas",
+    "tool": "openclaw",
+    "tags": [
+      "agent-memory",
+      "agent-template",
+      "ai-agent",
+      "ai-marketing",
+      "brand-positioning",
+      "clawhub",
+      "marketing-ops",
+      "openclaw",
+      "openclaw-skills",
+      "sowork",
+      "template",
+      "workspace"
+    ],
+    "description": "Production-ready OpenClaw workspace for marketing teams. Real skills, SOUL/AGENTS/MEMORY system, 13-market validated. Clone & run.",
+    "path": "openclaw/cj-wang-sowork-atlas/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cj-wang-sowork/atlas",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212493002",
+    "title": "openclaw-pfsi",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "FTS5 full-text search skill for OpenClaw with LLM summarization, multi-language support, and onboarding",
+    "path": "openclaw/zcrystalc33-openclaw-pfsi/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ZCrystalC33/openclaw-pfsi",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211025027",
+    "title": "openclaw-whobot-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-phone",
+      "china",
+      "clawdbot",
+      "digital-employee",
+      "enterprise",
+      "knowledge-base",
+      "llm",
+      "open-source",
+      "openclaw",
+      "openclaw-skill",
+      "skills",
+      "voice-ai",
+      "whobot"
+    ],
+    "description": "Extend OpenClaw with WhoBot knowledge for AI phone agent tasks and accurate digital employee workflows",
+    "path": "openclaw/elizabethan-thortveitite288-openclaw-whobot-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Elizabethan-thortveitite288/openclaw-whobot-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1198604352",
+    "title": "cheetahclaws",
+    "tool": "openclaw",
+    "tags": [
+      "agentic-ai",
+      "claude",
+      "claude-code",
+      "memory",
+      "openclaw",
+      "python",
+      "skills"
+    ],
+    "description": "CheetahClaws (Nano Claude Code): A Fast, Easy-to-Use, Python-Native Personal AI Assistant for Any Model, Inspired by OpenClaw and Claude Code, Built to Work for You Autonomously 24/7.",
+    "path": "openclaw/saferl-lab-cheetahclaws/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SafeRL-Lab/cheetahclaws",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1164476953",
+    "title": "kanban-zone-agent-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Agent (Claude Code, OpenClaw, codex) skill for accessing KanbanZone boards.",
+    "path": "openclaw/maxgood-ai-kanban-zone-agent-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MaxGood-AI/kanban-zone-agent-skill",
+    "source": "github-discovery"
   }
 ]

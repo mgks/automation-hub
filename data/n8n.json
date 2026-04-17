@@ -49625,5 +49625,100 @@
     "type": "repo",
     "repoUrl": "https://github.com/cj-l920/n8n-github-weekly-summary",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211506115",
+    "title": "xinguang-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "太平新光分校 n8n 自動化 workflows",
+    "path": "n8n/miyutang1980-xinguang-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/miyutang1980/xinguang-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1213055629",
+    "title": "pxlpeak-public-resources",
+    "tool": "n8n",
+    "tags": [
+      "ai-chatbot",
+      "ai-implementation",
+      "ai-voice-agents",
+      "elevenlabs",
+      "n8n",
+      "pxlpeak",
+      "rag",
+      "smb-automation",
+      "vapi",
+      "webhook-security"
+    ],
+    "description": "Open reference for SMB AI implementation — voice agents, RAG chatbots, n8n workflows. Maintained by https://pxlpeak.com",
+    "path": "n8n/veyis-pxlpeak-public-resources/",
+    "type": "repo",
+    "repoUrl": "https://github.com/veyis/pxlpeak-public-resources",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1213020870",
+    "title": "n8n-mcp-server",
+    "tool": "n8n",
+    "tags": [],
+    "description": "MCP server that lets AI assistants create, debug, and deploy n8n workflows through natural language",
+    "path": "n8n/monstersebas1-n8n-mcp-server/",
+    "type": "repo",
+    "repoUrl": "https://github.com/monstersebas1/n8n-mcp-server",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212779119",
+    "title": "n8n-news",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My first workflow agent that powered by n8n",
+    "path": "n8n/qiqi114514-n8n-news/",
+    "type": "repo",
+    "repoUrl": "https://github.com/qiqi114514/n8n-news",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1213037194",
+    "title": "clinic-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/zugust28-clinic-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Zugust28/clinic-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212951904",
+    "title": "n8n-ai-workflows",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "ai-automation",
+      "ai-skills",
+      "api-integration",
+      "chatgpt-integration",
+      "claude",
+      "cursor",
+      "model-context-protocol",
+      "n8n-template",
+      "n8n-workflow",
+      "no-code-ai",
+      "rest-api",
+      "self-hosted",
+      "skills",
+      "typescript",
+      "webhook",
+      "workflow-automation"
+    ],
+    "description": "Build local AI n8n workflows with Ollama, no API keys, no cloud costs, and full data privacy",
+    "path": "n8n/vanillapfalz374-n8n-ai-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Vanillapfalz374/n8n-ai-workflows",
+    "source": "github-discovery"
   }
 ]
