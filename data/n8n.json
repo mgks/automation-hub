@@ -49720,5 +49720,81 @@
     "type": "repo",
     "repoUrl": "https://github.com/Vanillapfalz374/n8n-ai-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1213988305",
+    "title": "Alice-ai-agent",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "n8n",
+      "notion-api",
+      "notion-crm",
+      "openai",
+      "pinecone",
+      "rag",
+      "telegram-bot-ai-assistant",
+      "whisper-ai"
+    ],
+    "description": "n8n workflow for Altbots personal assistant",
+    "path": "n8n/neild-nyc-alice-ai-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NeilD-NYC/Alice-ai-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1213988144",
+    "title": "stripe-onboarding-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: Stripe subscription → welcome email + Notion CRM + Slack + Calendly. Demo from my Fiverr gig.",
+    "path": "n8n/computahbotmail-alt-stripe-onboarding-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/computahbotmail-alt/stripe-onboarding-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1213988116",
+    "title": "lead-capture-airtable-slack",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: form webhook → Airtable + Slack + instant welcome email. Demo from my Fiverr automation gig.",
+    "path": "n8n/computahbotmail-alt-lead-capture-airtable-slack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/computahbotmail-alt/lead-capture-airtable-slack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1213987621",
+    "title": "gmail-ai-digest",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: daily Gmail digest summarized by Claude. Part of my Fiverr automation gig demos.",
+    "path": "n8n/computahbotmail-alt-gmail-ai-digest/",
+    "type": "repo",
+    "repoUrl": "https://github.com/computahbotmail-alt/gmail-ai-digest",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1213767524",
+    "title": "n8n-weather-alerts",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Minimal n8n self-hosted setup with Docker. Includes workflow automation example.",
+    "path": "n8n/0xmar-n8n-weather-alerts/",
+    "type": "repo",
+    "repoUrl": "https://github.com/0xMar/n8n-weather-alerts",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-934870025",
+    "title": "documentation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Documentation, examples and demos for Open Paws tools, n8n workflows, AI models and datasets",
+    "path": "n8n/open-paws-documentation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Open-Paws/documentation",
+    "source": "github-discovery"
   }
 ]
