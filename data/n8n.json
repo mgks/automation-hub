@@ -49796,5 +49796,104 @@
     "type": "repo",
     "repoUrl": "https://github.com/Open-Paws/documentation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205689133",
+    "title": "OpenSIN-Neural-Bus",
+    "tool": "n8n",
+    "tags": [
+      "autonomous-agents",
+      "opnsin-agent",
+      "ouroboros-memory",
+      "software-3-0",
+      "sovereign-ai"
+    ],
+    "description": "The central Event-Driven Nervous System for OpenSIN-AI. Replacing static n8n workflows with a self-evolving, self-funding (Sovereign Automaton), and self-extending P2P Swarm Intelligence.",
+    "path": "n8n/opensin-ai-opensin-neural-bus/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OpenSIN-AI/OpenSIN-Neural-Bus",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1214755689",
+    "title": "n8n-blueprints",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Importable n8n self-hosted workflows for Spanish-speaking SMBs",
+    "path": "n8n/numoru-ia-n8n-blueprints/",
+    "type": "repo",
+    "repoUrl": "https://github.com/numoru-ia/n8n-blueprints",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1214705926",
+    "title": "jpax-signal-assets",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Reference photo assets for the JPax Signal Room n8n content workflow",
+    "path": "n8n/jpaxmedia-jpax-signal-assets/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JpaxMedia/jpax-signal-assets",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1214736827",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "example-workflow",
+    "path": "n8n/jdrincone-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jdrincone/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1213312768",
+    "title": "claude-code-workflows",
+    "tool": "n8n",
+    "tags": [
+      "agent",
+      "agentic-coding",
+      "agents",
+      "antigravity",
+      "claude-ai",
+      "claude-api",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "claude-skills",
+      "clawdbot",
+      "developer-tools",
+      "factory-ai",
+      "kilocode",
+      "manus-ai",
+      "mcp",
+      "n8n",
+      "prompt-engineering",
+      "workflow-automation",
+      "workflows"
+    ],
+    "description": "Build Claude Code workflows, templates, and best practices for faster software development, testing, docs, and code review",
+    "path": "n8n/pragmatical-transshipment598-claude-code-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Pragmatical-transshipment598/claude-code-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1197548132",
+    "title": "leetcode-notes",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "automation",
+      "bash-scripting",
+      "llms",
+      "n8n-workflow",
+      "quartz"
+    ],
+    "description": "This is a personal knowledge base that automatically converts LeetCode submissions into structured revision notes, also giving you, personalized code reviews.",
+    "path": "n8n/git-pratap-shrey-leetcode-notes/",
+    "type": "repo",
+    "repoUrl": "https://github.com/git-pratap-shrey/leetcode-notes",
+    "source": "github-discovery"
   }
 ]
