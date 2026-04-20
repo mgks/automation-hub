@@ -49895,5 +49895,82 @@
     "type": "repo",
     "repoUrl": "https://github.com/git-pratap-shrey/leetcode-notes",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212974037",
+    "title": "agentops-platform",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A governance web platform that supervises AI-driven workflows executed across external automation runtimes (Make and n8n) with central execution logging, AI prompt tracking, error detection, and monitoring dashboard · Built with a mashup of dev tools and augmented with AI.",
+    "path": "n8n/dkdesign254-agentops-platform/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dkDesign254/agentops-platform",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215529203",
+    "title": "store_n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A warehouse/store specializing in selling workflows and N8N tools.",
+    "path": "n8n/easyn8n-ctrl-store_n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/easyn8n-ctrl/store_n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215184067",
+    "title": "ai-delivery-platform",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Governed AI delivery platform — orchestrates software development lifecycle workflows using n8n, a TypeScript execution API, and PostgreSQL-backed state management.",
+    "path": "n8n/rnettles-ai-delivery-platform/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rnettles/ai-delivery-platform",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215528488",
+    "title": "n8n-github-release-digest-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A single-file importable n8n workflow that watches a configurable list of GitHub repositories, summarizes each fresh release in two Claude-written sentences (what changed / why it matters), and posts a consolidated daily digest to Slack.",
+    "path": "n8n/cognimata-n8n-github-release-digest-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cognimata/n8n-github-release-digest-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215507460",
+    "title": "ranking-restaurantes",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Tablero público de restaurantes construido con n8n + Supabase (PostgreSQL) + Chart.js. Muestra ranking en tiempo real, gráficas y tendencias semanales. Los datos se actualizan automáticamente cada noche mediante workflows de automatización, sin intervención manual. Cualquier persona puede acceder desde una URL pública.",
+    "path": "n8n/n8n-practicas-ranking-restaurantes/",
+    "type": "repo",
+    "repoUrl": "https://github.com/n8n-practicas/ranking-restaurantes",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215490636",
+    "title": "n8n-nodes-process-street",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Process Street workflow automation",
+    "path": "n8n/wwelti-n8n-nodes-process-street/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wwelti/n8n-nodes-process-street",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1197719817",
+    "title": "ScryVault-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "ScryVault n8n Edition -- Book inventory & eBay listing UI powered by n8n automation workflows",
+    "path": "n8n/mbcaldwell77-scryvault-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mbcaldwell77/ScryVault-n8n",
+    "source": "github-discovery"
   }
 ]
