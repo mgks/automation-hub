@@ -6370,5 +6370,145 @@
     "type": "repo",
     "repoUrl": "https://github.com/SKY-lv/skylv-system-design",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192792543",
+    "title": "alon-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Public agent skills by Alon for Claude, Codex, Gemini, and OpenClaw",
+    "path": "openclaw/alondotsh-alon-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alondotsh/alon-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212394371",
+    "title": "skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skills Collection",
+    "path": "openclaw/rockytian-top-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rockytian-top/skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1179531783",
+    "title": "clawpage-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "The skill for your openclaw to create a page or a webapp for you. A page is more than just text!",
+    "path": "openclaw/clawpage-clawpage-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/clawpage/clawpage-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215690454",
+    "title": "openclaw-guard-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Shared guard skills for OpenClaw runtimes and bots",
+    "path": "openclaw/cyberflowtech-openclaw-guard-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cyberFlowTech/openclaw-guard-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211973138",
+    "title": "graphify",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+    "path": "openclaw/rhanka-graphify/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rhanka/graphify",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1176703313",
+    "title": "guguya-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "咕咕丫知识库 OpenClaw Skill - AI 知识管理工具",
+    "path": "openclaw/kamiosgit-guguya-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kamiosgit/guguya-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1216464210",
+    "title": "skill-quality-eval",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "evaluation",
+      "openclaw",
+      "optimization",
+      "skill"
+    ],
+    "description": "Skill Quality Evaluator - Assess and score AI agent skill output quality. Trigger on: 'evaluate', 'quality check', 'score', 'how good is this', 'review quality'",
+    "path": "openclaw/aptratcn-skill-quality-eval/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aptratcn/skill-quality-eval",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1158124697",
+    "title": "agentic-payments-bot",
+    "tool": "openclaw",
+    "tags": [
+      "ap2",
+      "blockchain",
+      "clawdbot",
+      "compliance",
+      "moltbot",
+      "openclaw",
+      "payments",
+      "policy",
+      "web2",
+      "web3",
+      "x402"
+    ],
+    "description": "🤖💵 Agentic Payment Service for Open Agent Skills Ecosystem.",
+    "path": "openclaw/andrcmdr-agentic-payments-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/andrcmdr/agentic-payments-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1154945000",
+    "title": "agentic-payments-bot",
+    "tool": "openclaw",
+    "tags": [
+      "ap2",
+      "blockchain",
+      "clawdbot",
+      "compliance",
+      "moltbot",
+      "openclaw",
+      "payments",
+      "policy",
+      "web2",
+      "web3",
+      "x402"
+    ],
+    "description": "🤖💵 Agentic Payment Service for Open Agent Skills Ecosystem.",
+    "path": "openclaw/sentient-agi-agentic-payments-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sentient-agi/agentic-payments-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1188382964",
+    "title": "clawdia-home-kiosk",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "An open-source, AI-native home kiosk app for Android tablets. Features OpenClaw integration, a weekly meal planner, family calendar with ICS sync, to-do lists with auto-generation and a voice-enabled Claude AI chat. Built with Next.js 15, MongoDB, and Vercel. Customisable via a single config file or with Claude Code onboarding skill included. ",
+    "path": "openclaw/ririgriff-clawdia-home-kiosk/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ririgriff/clawdia-home-kiosk",
+    "source": "github-discovery"
   }
 ]
