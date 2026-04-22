@@ -50169,5 +50169,142 @@
     "type": "repo",
     "repoUrl": "https://github.com/CES-Ltd/TitanX",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217547090",
+    "title": "leadstrike-orchestrator",
+    "tool": "n8n",
+    "tags": [],
+    "description": "The first agentic orchestrator for autonomous workforce swarms. Mapping technical debt and equity leaks in high-margin verticals. Powered by LeadStrike Logic#ai-agents #agentic-workflows #autonomous-workforce #lead-generation #mcp-server #n8n #cybersecurity-audit",
+    "path": "n8n/tristenw443-crypto-leadstrike-orchestrator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tristenw443-crypto/leadstrike-orchestrator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217537315",
+    "title": "n8n-business-automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Repositorio centralizado de flujos de trabajo (Workflows) corporativos construidos sobre n8n para orquestar la interoperabilidad de sistemas.",
+    "path": "n8n/inger21-n8n-business-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/InGer21/n8n-business-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209741630",
+    "title": "n8n-revenue-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production n8n workflow library for B2B revenue automation — lead enrichment, CRM sync, HITL approval gates, outbound triggers, intent scoring.",
+    "path": "n8n/ssam8005-n8n-revenue-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ssam8005/n8n-revenue-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1214103504",
+    "title": "N8N-Automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automation workflows built with n8n for monitoring, alerts, and daily summaries of applications and infrastructure.",
+    "path": "n8n/pedroaugusto04-n8n-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pedroaugusto04/N8N-Automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217384160",
+    "title": "memberpass-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "The n8n community nodes package for MemberPass workflow automations.",
+    "path": "n8n/envigoinnovations-memberpass-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/envigoinnovations/memberpass-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217522201",
+    "title": "iwantaPUPPY",
+    "tool": "n8n",
+    "tags": [],
+    "description": "N8N puppy finding workflow for Facebook and craigslist (04/21/2026)",
+    "path": "n8n/sectrollz-iwantapuppy/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SecTrollz/iwantaPUPPY",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215497148",
+    "title": "coderia",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Healthcare AI Triage workflow on n8n self-hosted + OpenRouter (Gemini 2.0 Flash). ",
+    "path": "n8n/jeyzee23-coderia/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jeyzee23/coderia",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-985595150",
+    "title": "End-to-End-Agentic-Ai-Automation-Lab",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "agentic-rag",
+      "agno",
+      "ambient-ai",
+      "autogen",
+      "aws",
+      "docker",
+      "google-adk",
+      "langchain",
+      "langgraph",
+      "langsmit",
+      "mcp-server"
+    ],
+    "description": "This repository contains hands-on projects, code examples, and deployment workflows. Explore multi-agent systems, LangChain, LangGraph, AutoGen, CrewAI, RAG, MCP, automation with n8n, and scalable agent deployment using Docker, AWS, and BentoML.",
+    "path": "n8n/mdalamin5-end-to-end-agentic-ai-automation-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217475366",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "mloops",
+      "n8n",
+      "portfolio",
+      "tool-use"
+    ],
+    "description": "hree n8n workflows orchestrating a proprietary neural network for ad-creative performance forecasting (Eyes / Hands / Memory)",
+    "path": "n8n/aaronkuebler-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AaronKuebler/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1066282273",
+    "title": "AGENTPRI",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "claude",
+      "n8n",
+      "productivity"
+    ],
+    "description": "AI agent for automating professional workflows — research, task routing, and decision support. Built with Claude + n8n.",
+    "path": "n8n/phidalgosol-oss-agentpri/",
+    "type": "repo",
+    "repoUrl": "https://github.com/phidalgosol-oss/AGENTPRI",
+    "source": "github-discovery"
   }
 ]

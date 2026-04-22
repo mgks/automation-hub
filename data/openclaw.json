@@ -6510,5 +6510,149 @@
     "type": "repo",
     "repoUrl": "https://github.com/ririgriff/clawdia-home-kiosk",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1173832844",
+    "title": "jam-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI agent skills for local service businesses — sales, marketing, operations, pricing, referrals, and more. Built for OpenClaw + Claude Code.",
+    "path": "openclaw/mcerqua-jam-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MCERQUA/jam-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217025222",
+    "title": "openclaw-core-skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-assistant",
+      "ai-skills",
+      "claude-code",
+      "hermes-agent",
+      "openclaw",
+      "self-improving",
+      "task-orchestration"
+    ],
+    "description": "AI 助手自我进化核心技能包 - OpenClaw 7 个核心技能，对比 everything-claude-code (162K⭐) 全面领先",
+    "path": "openclaw/phamduchuong517-hub-openclaw-core-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/phamduchuong517-hub/openclaw-core-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215020505",
+    "title": "stock-analysis",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "📈 A股智能分析 Skill — 个股深度分析 + 市场复盘，三级数据源自动容灾，输出结构化评分与操作建议 | OpenClaw",
+    "path": "openclaw/derrors-stock-analysis/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Derrors/stock-analysis",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217482540",
+    "title": "openclaw-ai-chess-coach",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Generic OpenClaw chess-coach system: reusable chess skills, study sync/search tooling, game analysis, scouting, cheat-sheet generation, and docs. Public repo focused on reproducible workflows with example data and example opening families.",
+    "path": "openclaw/dash1971-openclaw-ai-chess-coach/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Dash1971/openclaw-ai-chess-coach",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212062963",
+    "title": "voice",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: voice",
+    "path": "openclaw/kirkraman-voice/",
+    "type": "repo",
+    "repoUrl": "https://github.com/KirkRaman/voice",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217544517",
+    "title": "douyin-storyboard",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "🎬 抖音视频分镜拆解 Skill for OpenClaw - 自动下载、逐帧截图、AI分析、生成Excel分镜稿、Telegram发送",
+    "path": "openclaw/gaogao7788414-del-douyin-storyboard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gaogao7788414-del/douyin-storyboard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215079210",
+    "title": "ocview",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Terminal UI for browsing OpenClaw state — skills, hooks, models, sessions, memory, and more",
+    "path": "openclaw/braveness23-ocview/",
+    "type": "repo",
+    "repoUrl": "https://github.com/braveness23/ocview",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1214991955",
+    "title": "brand-content-marketing-advisor",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "全链路品牌内容营销中枢 (openclaw skill)：飞书多维表 + LLM，6 步独立 CLI 打通品牌人群/产品/话题/内容矩阵",
+    "path": "openclaw/fuqiang-brand-content-marketing-advisor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/FuQiang/brand-content-marketing-advisor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1216648341",
+    "title": "myclaw-design",
+    "tool": "openclaw",
+    "tags": [
+      "ai-design",
+      "animation",
+      "design",
+      "html",
+      "myclaw",
+      "openclaw",
+      "prototype",
+      "skill"
+    ],
+    "description": "MyClaw Design — AI-powered design skill for OpenClaw. Powered by MyClaw.ai",
+    "path": "openclaw/leoyeai-myclaw-design/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LeoYeAI/myclaw-design",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215323792",
+    "title": "cdsecurity-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "archive",
+      "awesome",
+      "backup",
+      "clawd",
+      "clawdbot",
+      "clawdbot-skill",
+      "clawdhub",
+      "clawhub",
+      "jupyter-notebooks",
+      "moltbot-skills",
+      "openclaw",
+      "openclaw-skills",
+      "pandas",
+      "python-pandas",
+      "skill"
+    ],
+    "description": "Streamline Claude Code security prep for Solidity and Rust smart contracts with ready-made skills for safer launches and cleaner audits",
+    "path": "openclaw/acetabular-pecanpie918-cdsecurity-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/acetabular-pecanpie918/cdsecurity-skills",
+    "source": "github-discovery"
   }
 ]
