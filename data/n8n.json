@@ -50306,5 +50306,71 @@
     "type": "repo",
     "repoUrl": "https://github.com/phidalgosol-oss/AGENTPRI",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218574237",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "agente",
+      "atendimento",
+      "automation",
+      "chatwoot",
+      "claude-code",
+      "fazer-ai",
+      "ia",
+      "n8n",
+      "whatsapp",
+      "workflows"
+    ],
+    "description": "Catálogo de atendentes de IA prontos da fazer.ai, consumidos pelo plugin fazer-ai-atendimento no Claude Code.",
+    "path": "n8n/fazer-ai-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fazer-ai/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218569071",
+    "title": "hr-ats-n8n-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered Applicant Tracking System built with n8n, Google Gemini, Google Sheets & Gmail. Automates CV screening, candidate scoring, and interview invitation workflows end-to-end.",
+    "path": "n8n/silvia0ma-coder-hr-ats-n8n-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/silvia0ma-coder/hr-ats-n8n-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218538637",
+    "title": "feedback-auto-categorizer",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated customer feedback routing workflow —  routes submissions to the right Slack channel  in under 60 seconds using n8n, Lovable & Google Sheets",
+    "path": "n8n/silvia0ma-coder-feedback-auto-categorizer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/silvia0ma-coder/feedback-auto-categorizer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218528404",
+    "title": "estudos-n8n-sistemas",
+    "tool": "n8n",
+    "tags": [],
+    "description": "\"Repositório criado para documentar meus estudos e projetos de automação no n8n. O foco é aplicar conceitos de Sistemas  no versionamento de workflows para otimização de processos  e integração de sistemas.",
+    "path": "n8n/celianesfc-estudos-n8n-sistemas/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Celianesfc/estudos-n8n-sistemas",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190964933",
+    "title": "n8n-nodes-pingram",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow automation",
+    "path": "n8n/pingram-io-n8n-nodes-pingram/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pingram-io/n8n-nodes-pingram",
+    "source": "github-discovery"
   }
 ]

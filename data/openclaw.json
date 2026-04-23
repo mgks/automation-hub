@@ -6654,5 +6654,122 @@
     "type": "repo",
     "repoUrl": "https://github.com/acetabular-pecanpie918/cdsecurity-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217859543",
+    "title": "lark-kb-qa",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "飞书知识库 RAG 问答 Skill for OpenClaw",
+    "path": "openclaw/shenshihao-lark-kb-qa/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shenshihao/lark-kb-qa",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218557828",
+    "title": "kdp-publisher",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw-Skill: Baut KDP-fertige PDFs aus Markdown-Kapiteln",
+    "path": "openclaw/tikitackr-kdp-publisher/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Tikitackr/kdp-publisher",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194650400",
+    "title": "TakoAPI",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "All in One OpenClaw Skills Marketplace** - for you and for your agent.",
+    "path": "openclaw/oratis-takoapi/",
+    "type": "repo",
+    "repoUrl": "https://github.com/oratis/TakoAPI",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218545488",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/wittefeng-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wittefeng/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218561762",
+    "title": "ValorCMO",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "growth-marketing",
+      "marketing",
+      "openclaw",
+      "prompt-engineering",
+      "revops"
+    ],
+    "description": "OpenClaw-native marketing skill pack with .agents context support and cleaned reference resolution",
+    "path": "openclaw/spaceghost69-valorcmo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/spaceghost69/ValorCMO",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190226576",
+    "title": "youtube-transcript",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "youtube-transcript is a skill for Claude Code, Codex, and OpenClaw that fetches the original YouTube transcript for a video URL or ID and returns it as readable Markdown blocks with timestamps.",
+    "path": "openclaw/onemorejack-youtube-transcript/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OneMoreJack/youtube-transcript",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218555611",
+    "title": "openclaw-web-scraper-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Web Scraper Skill - Scrape websites and download all assets",
+    "path": "openclaw/venture2112-openclaw-web-scraper-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/venture2112/openclaw-web-scraper-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1216739997",
+    "title": "dingtalk-doc",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "openclaw 的 skill：钉钉文档管理技能（支持白名单写入控制）。当用户发送的消息中包含 alidocs.dingtalk.com 链接、要求总结/读取/查看/更新钉钉文档或钉钉知识库文档，或当前上下文已明确对象是钉钉文档时使用。关键词：钉钉文档、钉钉知识库、alidocs、总结、读取、查看、更新、修改、文档、链接。",
+    "path": "openclaw/shyzhen-dingtalk-doc/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ShyZhen/dingtalk-doc",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218030283",
+    "title": "lobster-notion-openclaw-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: 每日自我進化報告，Discord 審核 → Notion 發布。面向龍蝦補完計畫共學團。",
+    "path": "openclaw/iam26phi-lobster-notion-openclaw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iam26phi/lobster-notion-openclaw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1216874047",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "openclaw skills for me",
+    "path": "openclaw/arieft23-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/arieft23/openclaw-skills",
+    "source": "github-discovery"
   }
 ]
