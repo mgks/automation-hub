@@ -50416,5 +50416,27 @@
     "type": "repo",
     "repoUrl": "https://github.com/manhnx05/n8n_local",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1220437406",
+    "title": "n8n-nodes-decoupled-io",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Decoupled.io — read and write Drupal content, manage spaces, trigger workflows from content events",
+    "path": "n8n/nextagencyio-n8n-nodes-decoupled-io/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nextagencyio/n8n-nodes-decoupled-io",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1220519329",
+    "title": "n8n-lead-capture-crm-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready n8n workflow that captures leads from web forms, validates data, syncs to Airtable CRM, sends welcome emails, and notifies sales team on Slack — all in under 5 seconds.",
+    "path": "n8n/amirmahdiaminiyazdi-n8n-lead-capture-crm-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AmirmahdiAminiYazdi/n8n-lead-capture-crm-automation",
+    "source": "github-discovery"
   }
 ]
