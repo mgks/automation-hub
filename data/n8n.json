@@ -50572,5 +50572,118 @@
     "type": "repo",
     "repoUrl": "https://github.com/lorecraft-io/task-maxxing",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222063590",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This repository contains my hands-on learning and implementation of automation workflows using n8n. It documents my journey of building real-world automation solutions by connecting different services and optimizing processes through low-code and AI-assisted approaches.",
+    "path": "n8n/haleem-h-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/haleem-h/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222057105",
+    "title": "fox-finance-deliverables",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Fox Finance loan automation system - n8n workflows, Airtable schema, and deployment documentation",
+    "path": "n8n/xiolared888-fox-finance-deliverables/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xiolared888/fox-finance-deliverables",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193238737",
+    "title": "b2b-automation-architectures",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready n8n workflows and Python scripts for business efficiency.",
+    "path": "n8n/alirosyid-b2b-automation-architectures/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alirosyid/b2b-automation-architectures",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1195362393",
+    "title": "flowledger-command-center",
+    "tool": "n8n",
+    "tags": [
+      "agents",
+      "ai",
+      "claudecode",
+      "supabase"
+    ],
+    "description": "Create and manage flows representing any AI workflow, agent, or automation Assign platform (Zapier, n8n, Make, LangChain, Claude Code, Other) and model Pause and resume flows manually with a single toggle",
+    "path": "n8n/abdullahmsaid-flowledger-command-center/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AbdullahMSaid/flowledger-command-center",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1097876191",
+    "title": "Sadie",
+    "tool": "n8n",
+    "tags": [],
+    "description": "All in 1 assistance workflow in n8n",
+    "path": "n8n/kingithegreat-sadie/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kingithegreat/Sadie",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222040780",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n으로 만든 자동화 워크플로우를 한 곳에 모은 실용적인 자동화 레시피 모음집! 🤖",
+    "path": "n8n/hasegos-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Hasegos/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222003737",
+    "title": "ai-ecommerce-image-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "an end-to-end workflow built with n8n, integrating Google Vertex AI (Gemini models) and image generation APIs to automate fashion product photography.",
+    "path": "n8n/madakkuni-ai-ecommerce-image-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/madakkuni/ai-ecommerce-image-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190137391",
+    "title": "intelligent-automation-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "automation",
+      "azure",
+      "azure-functions",
+      "data-analysis",
+      "flask",
+      "gemini-api",
+      "genai",
+      "html-css-javascript",
+      "machine-learning",
+      "ml",
+      "n8n-workflow",
+      "power-automate",
+      "power-bi",
+      "power-shell",
+      "process-automation",
+      "python",
+      "service-now"
+    ],
+    "description": "A collection of projects that use automation, GenAI, RAG, speech-to-text, NLP, Python, OpenAI, Google Vertex Apis, N8N Workflows and ServiceNow APIs to build smarter, faster, and cost-efficient solutions.",
+    "path": "n8n/madakkuni-intelligent-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/madakkuni/intelligent-automation-portfolio",
+    "source": "github-discovery"
   }
 ]

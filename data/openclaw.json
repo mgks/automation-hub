@@ -7338,5 +7338,159 @@
     "type": "repo",
     "repoUrl": "https://github.com/piiiico/openclaw-commitment-guard",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222040731",
+    "title": "daily-report-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Amiya daily report skill for OpenClaw",
+    "path": "openclaw/ash-qw-daily-report-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ash-qw/daily-report-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218779432",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/xlhbh89757-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xlhbh89757/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1221886071",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Hosted uptime monitoring for OpenClaw agents. Status page, alerts, and Bitcoin-anchored uptime proofs.",
+    "path": "openclaw/encrypted-energy-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Encrypted-Energy/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222026414",
+    "title": "dao-treasury-sentinel",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Always-on treasury analyst for any DAO — free, open-source, OpenClaw-native skill",
+    "path": "openclaw/pranavpatel08-dao-treasury-sentinel/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pranavpatel08/dao-treasury-sentinel",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222047677",
+    "title": "Hermes-Premium-Skills-Collection",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "hermes",
+      "knowledge-management",
+      "llm",
+      "openclaw",
+      "productivity",
+      "skills"
+    ],
+    "description": "?? Premium AI Agent Skills Collection - OpenClaw to Hermes Migration with Innovations | 13 Production-Ready Skills | MIT License",
+    "path": "openclaw/carycoooper-hermes-premium-skills-collection/",
+    "type": "repo",
+    "repoUrl": "https://github.com/carycoooper/Hermes-Premium-Skills-Collection",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222019353",
+    "title": "omniagent-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Default skill pack for OmniAgent with 18 OpenClaw-compatible markdown skills.",
+    "path": "openclaw/plexusone-omniagent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/plexusone/omniagent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1183012376",
+    "title": "openclaw-social-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Automation toolkit for content creators. Agent-driven workflows for video editing, audio remixing, and cross-platform distribution.",
+    "path": "openclaw/www222fff-openclaw-social-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/www222fff/openclaw-social-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1221999818",
+    "title": "tweetskill",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-skill",
+      "ai-skills",
+      "claude-code",
+      "hermes-agent",
+      "openclaw",
+      "openclaw-skills"
+    ],
+    "description": "把任何 X 账号的推文历史蒸馏成 AI agent 能直接用的 skill 文件。Distill any X account's tweet history into a skill file any AI agent can use",
+    "path": "openclaw/dbgkinggg-tweetskill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DbgKinggg/tweetskill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1221621868",
+    "title": "cheetahclaws",
+    "tool": "openclaw",
+    "tags": [
+      "agentic-ai",
+      "claude",
+      "claude-code",
+      "memory",
+      "openclaw",
+      "python",
+      "skills"
+    ],
+    "description": "Automate Python tasks with CheetahClaws, a native AI assistant for any model that works autonomously and fits your workflow",
+    "path": "openclaw/lovellaphrodisiacal150-cheetahclaws/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lovellaphrodisiacal150/cheetahclaws",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1221779368",
+    "title": "free-claude-code",
+    "tool": "openclaw",
+    "tags": [
+      "acp",
+      "agent",
+      "ai-tools",
+      "anthropic-ai",
+      "antigravity",
+      "chatbot",
+      "claude-api",
+      "claudecode",
+      "clawd",
+      "clawdbot",
+      "codex",
+      "mobile-first",
+      "nano-banana",
+      "openai",
+      "openclaw",
+      "skills",
+      "webui"
+    ],
+    "description": "Run Claude Code-style AI coding in the terminal with free Groq, OpenAI, or Gemini API support",
+    "path": "openclaw/straight-nyctereutes110-free-claude-code/",
+    "type": "repo",
+    "repoUrl": "https://github.com/straight-nyctereutes110/free-claude-code",
+    "source": "github-discovery"
   }
 ]
