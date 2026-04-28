@@ -7492,5 +7492,123 @@
     "type": "repo",
     "repoUrl": "https://github.com/straight-nyctereutes110/free-claude-code",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1171225943",
+    "title": "coinos-skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "claude-code",
+      "crypto",
+      "openclaw",
+      "openclaw-skills",
+      "quantitative-trading",
+      "whale-tracking"
+    ],
+    "description": "AiCoin crypto toolkit for AI agents — 40+ tools for real-time prices, K-lines, AI analysis, funding rates, whale tracking, Hyperliquid on-chain analytics, exchange trading (CCXT),   and Freqtrade bot automation.",
+    "path": "openclaw/aicoincom-coinos-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aicoincom/coinos-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1223098661",
+    "title": "skill-checkup-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Skill Checkup OpenClaw v1 — audit OpenClaw agents with simple executive reports",
+    "path": "openclaw/okjpg-skill-checkup-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/okjpg/skill-checkup-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1223085999",
+    "title": "get-shit-done",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for GSD (Get Shit Done) - spec-driven development system",
+    "path": "openclaw/maheshmaddi-get-shit-done/",
+    "type": "repo",
+    "repoUrl": "https://github.com/maheshmaddi/get-shit-done",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1223099228",
+    "title": "Awesome-Gaussian-Skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw/Claude Code 生态中最专业的 3D 视觉与计算机图形学技能包集合",
+    "path": "openclaw/jaccen-awesome-gaussian-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jaccen/Awesome-Gaussian-Skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222245313",
+    "title": "captain-lobster",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "???? - ????? OpenClaw Skill",
+    "path": "openclaw/ryanbihai-captain-lobster/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ryanbihai/captain-lobster",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222968307",
+    "title": "OpenClaw-InvokeAI-Integration",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Complete integration skill for connecting OpenClaw to InvokeAI image generation servers",
+    "path": "openclaw/mgossman71-openclaw-invokeai-integration/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mgossman71/OpenClaw-InvokeAI-Integration",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1219678405",
+    "title": "everything-2-markdown",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "everything-2-markdown   a openclaw skill",
+    "path": "openclaw/liujian891010-everything-2-markdown/",
+    "type": "repo",
+    "repoUrl": "https://github.com/liujian891010/everything-2-markdown",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222601138",
+    "title": "feishu-gh-migrate",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "飞书文档 → GitHub 迁移工具 OpenClaw Skill",
+    "path": "openclaw/lianamorment-feishu-gh-migrate/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LianaMorment/feishu-gh-migrate",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217491583",
+    "title": "xd-confluence-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Company-internal Confluence skill with guided setup, Rovo MCP integration, and optional OpenClaw extension.",
+    "path": "openclaw/dashhuang-xd-confluence-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dashhuang/xd-confluence-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211351169",
+    "title": "clawroom",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Bounded cross-owner agent collaboration: relay + verified bridge + OpenClaw skill",
+    "path": "openclaw/heyzgj-clawroom/",
+    "type": "repo",
+    "repoUrl": "https://github.com/heyzgj/clawroom",
+    "source": "github-discovery"
   }
 ]

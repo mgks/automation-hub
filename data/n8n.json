@@ -50685,5 +50685,107 @@
     "type": "repo",
     "repoUrl": "https://github.com/madakkuni/intelligent-automation-portfolio",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1223060177",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/davaxcode-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DavaXCode/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1179878968",
+    "title": "pi-cluster",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Pi cluster infrastructure: OpenClaw custom Docker image, Ansible playbooks, n8n workflows, monitoring scripts",
+    "path": "n8n/enricoaquilina-pi-cluster/",
+    "type": "repo",
+    "repoUrl": "https://github.com/enricoaquilina/pi-cluster",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1196955873",
+    "title": "n8n-kaggle-watcher",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "docker",
+      "email-parser",
+      "kaggle",
+      "kaggle-competitions",
+      "n8n",
+      "telegram-bot",
+      "workflow-automation"
+    ],
+    "description": "Automated Kaggle competition & hackathon email watcher — n8n workflow with configurable rules engine and Telegram notifications",
+    "path": "n8n/benoit-bremaud-n8n-kaggle-watcher/",
+    "type": "repo",
+    "repoUrl": "https://github.com/benoit-bremaud/n8n-kaggle-watcher",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1160105341",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/jcalderon90-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jcalderon90/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1220422927",
+    "title": "curso-n8n-unaerp-2026",
+    "tool": "n8n",
+    "tags": [
+      "agents",
+      "ai",
+      "n8n",
+      "unaerp"
+    ],
+    "description": "Material do minicurso \"Introdução ao n8n: automação de workflows e agents de AI na prática\" ministrado na UNAERP (2026). Contém os fluxos construídos em aula, guia de setup com Docker, recursos complementares e o projeto final: um agent de AI com chat, memory e tools.",
+    "path": "n8n/anaclacp-curso-n8n-unaerp-2026/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anaclacp/curso-n8n-unaerp-2026",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217503846",
+    "title": "n8n-Actual-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "6 n8n workflows for Actual Budget — AI transaction categorization, envelope auto-funding, and weekly budget briefing via Telegram",
+    "path": "n8n/hail2victors-n8n-actual-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hail2victors/n8n-Actual-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1216353260",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n self-hosted workflow automation stack running locally with Docker Compose, PostgreSQL, and Redis.",
+    "path": "n8n/dgomezfon-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dgomezfon/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1223010423",
+    "title": "exo-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "collection of n8n workflow that demonstrate use cases for automation with eXo MCP server",
+    "path": "n8n/plamarque-exo-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/plamarque/exo-n8n",
+    "source": "github-discovery"
   }
 ]
