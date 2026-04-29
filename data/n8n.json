@@ -50787,5 +50787,117 @@
     "type": "repo",
     "repoUrl": "https://github.com/plamarque/exo-n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1077045539",
+    "title": "n8n-templates",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of ready-to-use n8n workflow templates for building intelligent automations using Pinecone.",
+    "path": "n8n/pinecone-io-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pinecone-io/n8n-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1223979520",
+    "title": "goofish-openclaw-autoreply",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Goofish/Xianyu auto-reply workflow based on goofish-cli, n8n and OpenClaw.",
+    "path": "n8n/longlixiao-ong-goofish-openclaw-autoreply/",
+    "type": "repo",
+    "repoUrl": "https://github.com/longlixiao-ong/goofish-openclaw-autoreply",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1220027966",
+    "title": "cold-emailing-ai-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated cold email workflow using n8n, Claude AI, Google Sheets, Google Docs and Gmail",
+    "path": "n8n/jbhavik70-cold-emailing-ai-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jbhavik70/cold-emailing-ai-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1069259027",
+    "title": "pdf-ocr-compress",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A local PDF OCR and compression tool for scanned pages. Can be run in Python or Docker. Includes FastAPI endpoint and self-hosted n8n sample workflows.",
+    "path": "n8n/bcfoltz-pdf-ocr-compress/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bcfoltz/pdf-ocr-compress",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224148989",
+    "title": "voice-analyser",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Claude Code / Cowork skill that builds a structured tone-of-voice document from 3 writing samples. Drops into ChatGPT, Claude, Gemini, n8n as voice context for any AI content workflow.",
+    "path": "n8n/ai-orchestrators-voice-analyser/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ai-orchestrators/voice-analyser",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218625114",
+    "title": "n8n-ops-mcp",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "n8n",
+      "openclaw",
+      "ops",
+      "workflow-automation"
+    ],
+    "description": "Ops-focused n8n tools for any MCP-compatible client: list, inspect, trigger, validate, plus full workflow + execution lifecycle. MCP server + first-class OpenClaw plugin.",
+    "path": "n8n/solomonneas-n8n-ops-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/solomonneas/n8n-ops-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222990832",
+    "title": "zulfiqar-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Automation Developer specializing in Lead Qualification Systems, Appointment Booking Agents, and CRM Workflow Automation. Tools: n8n · GPT-4 · Voiceflow · VAPI · Python",
+    "path": "n8n/zulfiqar-automation-zulfiqar-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zulfiqar-automation/zulfiqar-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1160925730",
+    "title": "data-ai-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "credit-risk",
+      "data-analytics",
+      "google-vision-ocr",
+      "machine-learning",
+      "n8n-workflow",
+      "openai",
+      "postgresql",
+      "python",
+      "web-scraping",
+      "web-scraping-python",
+      "whatsapp-bot"
+    ],
+    "description": "Data & AI Engineer — AI automation, credit risk analytics & intelligent document processing. Python · n8n · OpenAI · PostgreSQL · scikit-learn · Twilio · Google Vision OCR",
+    "path": "n8n/ebseducacioncolombia-tech-data-ai-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ebseducacioncolombia-tech/data-ai-portfolio",
+    "source": "github-discovery"
   }
 ]

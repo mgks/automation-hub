@@ -7610,5 +7610,142 @@
     "type": "repo",
     "repoUrl": "https://github.com/heyzgj/clawroom",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224077256",
+    "title": "forticnapp-lacework-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI agent skill for the FortiCNAPP / Lacework CLI. Covers cloud-account integrations, vulnerability assessments, compliance reports, and LQL queries. Cursor / Claude Code / OpenClaw compatible.",
+    "path": "openclaw/andrewbearsley-forticnapp-lacework-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/andrewbearsley/forticnapp-lacework-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1184292331",
+    "title": "liberfi-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "clawhub",
+      "crypto",
+      "cursor",
+      "defi",
+      "ethereum",
+      "liberfi",
+      "liberfi-skills",
+      "openclaw",
+      "skills",
+      "solana",
+      "web3"
+    ],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/liberfi-io-liberfi-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/liberfi-io/liberfi-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224157960",
+    "title": "cfo-zhangduo",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "四大行CFO视角 - 三维度架构技能 | OpenClaw Skill",
+    "path": "openclaw/lyuyaowei-cfo-zhangduo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Lyuyaowei/cfo-zhangduo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224157499",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/huangwbgh-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HuangwbGH/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224157962",
+    "title": "jinqiang-dashu",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "金枪大叔广告营销方法论 - 借势营销/情绪共振/个人品牌 | OpenClaw Skill",
+    "path": "openclaw/lyuyaowei-jinqiang-dashu/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Lyuyaowei/jinqiang-dashu",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224120839",
+    "title": "agent-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Agent Skills for Claude, OpenCode, Codex, Cursor, OpenClaw, and other skill-compatible coding agents.",
+    "path": "openclaw/tyronedougherty-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tyronedougherty/agent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1223893401",
+    "title": "openclaw-skills-mimi",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/goldbotagent-openclaw-skills-mimi/",
+    "type": "repo",
+    "repoUrl": "https://github.com/GoldBotAgent/openclaw-skills-mimi",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224053288",
+    "title": "droidclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "🤖 DroidClaw - The Ultimate AI Agent for Android. OpenClaw in your pocket. 35+ AI providers, 80+ tools, 110+ skills, local model downloads, remote control, and more.",
+    "path": "openclaw/atum246-droidclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Atum246/droidclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224053678",
+    "title": "Solana-multi-wallet-manager",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Generate, manage and bulk-send from multiple Solana wallets. Works as an MCP skill for Claude Code and OpenClaw AI agents.",
+    "path": "openclaw/t0ky0222-solana-multi-wallet-manager/",
+    "type": "repo",
+    "repoUrl": "https://github.com/T0KY0222/Solana-multi-wallet-manager",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1223294838",
+    "title": "openclaw-coding-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agent-workflow",
+      "ai-agent",
+      "coding-agent",
+      "developer-productivity",
+      "developer-tools",
+      "evaluation",
+      "myclaw",
+      "openclaw",
+      "prompt-engineering",
+      "software-engineering"
+    ],
+    "description": "Production-grade coding workflow, execution scaffolding, and tuning skills for OpenClaw agents, part of the MyClaw.ai ecosystem.",
+    "path": "openclaw/leoyeai-openclaw-coding-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LeoYeAI/openclaw-coding-skills",
+    "source": "github-discovery"
   }
 ]
