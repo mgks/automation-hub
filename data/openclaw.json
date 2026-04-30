@@ -7747,5 +7747,172 @@
     "type": "repo",
     "repoUrl": "https://github.com/LeoYeAI/openclaw-coding-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225164341",
+    "title": "robur-clawhub-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "5-skill coaching operations bundle for OpenClaw: lead scanner, content pipeline, training plans, check-in analysis, research breakdowns.",
+    "path": "openclaw/jonathanfullerhealth-hue-robur-clawhub-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jonathanfullerhealth-hue/robur-clawhub-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224099611",
+    "title": "team-tracker-bot",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Telegram bot for daily team standups, built as an OpenClaw skill with OpenSpec and Obsidian.",
+    "path": "openclaw/nnviet06-team-tracker-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nnviet06/team-tracker-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225169272",
+    "title": "flush",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Session archival and context compression skill for Hermes Agent, OpenClaw, and other claw agents",
+    "path": "openclaw/wizzleweasel-flush/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wizzleweasel/flush",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1119614474",
+    "title": "openInvest",
+    "tool": "openclaw",
+    "tags": [
+      "invest",
+      "openclaw",
+      "skills"
+    ],
+    "description": "基于LLM的风险投资助手",
+    "path": "openclaw/longsizhuo-openinvest/",
+    "type": "repo",
+    "repoUrl": "https://github.com/longsizhuo/openInvest",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1197303219",
+    "title": "aliyun-all-in-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "基于阿里云OpenAPI MCP封装的SKILL，用于OpenClaw、Claude Code等工具，实现通过AI对话的方式来调用阿里云全部的API，来管理阿里云账户全资产的运营和运维。",
+    "path": "openclaw/thechenv-aliyun-all-in-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TheChenV/aliyun-all-in-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225158107",
+    "title": "storyweave",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "hermes-agent",
+      "hermes-skill",
+      "openclaw",
+      "openclaw-skill",
+      "qclaw",
+      "storyoutliner",
+      "stroy-telling",
+      "workbuddy",
+      "writer-tools",
+      "writing"
+    ],
+    "description": "An AI agent skill that builds story outlines through guided conversation, using classic narrative templates",
+    "path": "openclaw/shiyangzheng-storyweave/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ShiyangZheng/storyweave",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225164326",
+    "title": "scholarly",
+    "tool": "openclaw",
+    "tags": [
+      "academic-tools",
+      "academic-writing",
+      "agent-skills",
+      "hermes-agent",
+      "hermes-skill",
+      "openclaw",
+      "openclaw-skill",
+      "qclaw",
+      "workbuddy"
+    ],
+    "description": "An AI agent skill that guides you through writing academic papers and theses, section by section.",
+    "path": "openclaw/shiyangzheng-scholarly/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ShiyangZheng/scholarly",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1153190876",
+    "title": "memsearch",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "agent-memory",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "codex-cli",
+      "embeddings",
+      "harness",
+      "hybrid-search",
+      "long-term-memory",
+      "memory",
+      "milvus",
+      "openclaw",
+      "opencode",
+      "progressive-disclosure",
+      "rag",
+      "reranker",
+      "semantic-search",
+      "skills"
+    ],
+    "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.",
+    "path": "openclaw/zilliztech-memsearch/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zilliztech/memsearch",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1223102800",
+    "title": "gun-openclaw-use-cases",
+    "tool": "openclaw",
+    "tags": [
+      "ai-engineering",
+      "azure-networking",
+      "case-study",
+      "llm-workflow",
+      "local-llm",
+      "multi-agent",
+      "openclaw",
+      "orchestration",
+      "portfolio"
+    ],
+    "description": "Sanitized OpenClaw use cases under Gun Sim’s AI Engineering Lab portfolio.",
+    "path": "openclaw/ulttla-gun-openclaw-use-cases/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ulttla/gun-openclaw-use-cases",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225084466",
+    "title": "OpenClaw-Agent-Pack-Index",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "A curated collection of ready-to-use agent packs for OpenClaw, covering common workflows and practical use cases.",
+    "path": "openclaw/devpulse-star-openclaw-agent-pack-index/",
+    "type": "repo",
+    "repoUrl": "https://github.com/devpulse-star/OpenClaw-Agent-Pack-Index",
+    "source": "github-discovery"
   }
 ]

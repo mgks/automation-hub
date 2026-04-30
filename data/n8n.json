@@ -50899,5 +50899,38 @@
     "type": "repo",
     "repoUrl": "https://github.com/ebseducacioncolombia-tech/data-ai-portfolio",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222670860",
+    "title": "N8N-auto-short-video",
+    "tool": "n8n",
+    "tags": [],
+    "description": "N8N automation workflows for video generation pipeline",
+    "path": "n8n/warrenwl-n8n-auto-short-video/",
+    "type": "repo",
+    "repoUrl": "https://github.com/warrenwl/N8N-auto-short-video",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224337736",
+    "title": "flowpilotx",
+    "tool": "n8n",
+    "tags": [],
+    "description": "FlowPilotX is a workflow-driven automation backend system that integrates Telegram bots, Node.js backend services, MongoDB, and n8n to build scalable lead capture and automation pipelines.",
+    "path": "n8n/vishalsinghlab-flowpilotx/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vishalsinghlab/flowpilotx",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225144370",
+    "title": "n8n_workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/luissanchezag-coder-n8n_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/luissanchezag-coder/n8n_workflows",
+    "source": "github-discovery"
   }
 ]
