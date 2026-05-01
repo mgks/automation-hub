@@ -50932,5 +50932,115 @@
     "type": "repo",
     "repoUrl": "https://github.com/luissanchezag-coder/n8n_workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1105965325",
+    "title": "lead-scraping-ai-cold-caller-showcase",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready AI sales automation system that autonomously generates leads, makes cold calls, and books meetings. Built with n8n workflows orchestrating Bland.ai voice AI, PostgreSQL, and multi-channel follow-ups. Achieves 3-5% lead-to-meeting conversion with zero manual intervention. ",
+    "path": "n8n/gravitasse-lead-scraping-ai-cold-caller-showcase/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gravitasse/lead-scraping-ai-cold-caller-showcase",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226130520",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/lucasbarreto-dev-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lucasbarreto-dev/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226102094",
+    "title": "token-moon",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI cost intelligence platform — pre-build LLM cost estimation for n8n workflows, API calls, Claude Code sessions, and Claude.ai subscription planning.",
+    "path": "n8n/mattrlei-token-moon/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mattrlei/token-moon",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226111932",
+    "title": "44347c30-startup-product-hunt-launch-an",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow for startup founders and product marketing teams automating a Product Hunt launch campaign. Builds a maker follower outreach sequence via Hunter.io email integration, schedules social media post cadences across Twitter and LinkedIn for launch day, monitors Product Hunt comment threads and routes new comments to a Slack channel for r",
+    "path": "n8n/ncreighton-44347c30-startup-product-hunt-launch-an/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/44347c30-startup-product-hunt-launch-an",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226111772",
+    "title": "ff91989d-supply-chain-demand-planning-a",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow for demand planning managers and S&OP teams automating the sales and operations planning cycle. Pulls 13-week sales actuals from ERP weekly, applies statistical forecasting adjustments from the demand plan, generates consensus meeting agenda and pre-read packets with forecast variance analysis, routes unconstrained demand plans to c",
+    "path": "n8n/ncreighton-ff91989d-supply-chain-demand-planning-a/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/ff91989d-supply-chain-demand-planning-a",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226111616",
+    "title": "b0b75c62-warehouse-management-and-pick-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow for e-commerce fulfillment operations and third-party logistics providers automating pick, pack, and ship processes. Ingests new orders from Shopify and WooCommerce, generates optimized pick lists grouped by warehouse zone and bin location, triggers packing station assignments based on order dimensions, creates shipping labels via E",
+    "path": "n8n/ncreighton-b0b75c62-warehouse-management-and-pick-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/b0b75c62-warehouse-management-and-pick-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226110347",
+    "title": "276828f7-healthcare-revenue-cycle-and-m",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow for medical billing companies and healthcare revenue cycle teams automating claim denial management. Monitors clearinghouse rejection reports daily, categorizes denials by reason code using standard ANSI X12 claim adjustment codes, routes high-dollar denials to senior billing staff with deadline alerts, generates denial trend report",
+    "path": "n8n/ncreighton-276828f7-healthcare-revenue-cycle-and-m/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/276828f7-healthcare-revenue-cycle-and-m",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226109374",
+    "title": "55027c44-digital-marketing-agency-clien",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow for digital marketing agencies automating client reporting and campaign performance dashboards. Pulls data from Google Ads, Meta Ads, Google Analytics 4, and SEMrush APIs weekly, populates a standardized client report template in Google Slides with current KPIs and period-over-period comparisons, sends completed reports to clients v",
+    "path": "n8n/ncreighton-55027c44-digital-marketing-agency-clien/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/55027c44-digital-marketing-agency-clien",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226108895",
+    "title": "ef0025d4-b2b-saas-customer-success-play",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow for customer success teams automating the QBR and health review cycle for B2B SaaS accounts. Pulls product usage and health score data from Gainsight or ChurnZero daily, generates QBR presentation decks from templates using account-specific metrics, schedules QBR meeting invitations 6 weeks in advance, sends pre-QBR data request for",
+    "path": "n8n/ncreighton-ef0025d4-b2b-saas-customer-success-play/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/ef0025d4-b2b-saas-customer-success-play",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226080476",
+    "title": "autowolf",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Autowolf automation guide for n8n, CoPilot Studio and PowerAutomate workflows",
+    "path": "n8n/wolflow-ai-autowolf/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wolflow-ai/autowolf",
+    "source": "github-discovery"
   }
 ]
