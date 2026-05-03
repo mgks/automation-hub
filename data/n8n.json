@@ -51186,5 +51186,70 @@
     "type": "repo",
     "repoUrl": "https://github.com/ahmadmunirsheikh13/Telco-Customer-Churn-Automation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1089230273",
+    "title": "cv-rag",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This directory contains the n8n workflow configuration for the CV-RAG query pipeline",
+    "path": "n8n/mikemurphyco-cv-rag/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mikemurphyco/cv-rag",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-503077092",
+    "title": "Flow_renderer_test",
+    "tool": "n8n",
+    "tags": [
+      "axios",
+      "diagram",
+      "flow",
+      "flowcharts",
+      "javascript",
+      "mapbox",
+      "mapbox-geocoding",
+      "n8n-workflow",
+      "react",
+      "react-flow",
+      "react-flow-renderer",
+      "react-mapbox-gl",
+      "reactjs",
+      "xyflow"
+    ],
+    "description": "A short form of geolocation and mapbox",
+    "path": "n8n/azim-ahmed-flow_renderer_test/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Azim-Ahmed/Flow_renderer_test",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-864464458",
+    "title": "chat-flow-builder",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "automation-builder",
+      "chatbot",
+      "figjam",
+      "flow-builder",
+      "landbot",
+      "low-code",
+      "miro",
+      "n8n",
+      "n8n-workflow",
+      "no-code",
+      "react-flow",
+      "react-flow-renderer",
+      "reactflow",
+      "workflow-builder",
+      "xyflow"
+    ],
+    "description": "React-flow chatbot",
+    "path": "n8n/azim-ahmed-chat-flow-builder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Azim-Ahmed/chat-flow-builder",
+    "source": "github-discovery"
   }
 ]
