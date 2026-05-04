@@ -51251,5 +51251,123 @@
     "type": "repo",
     "repoUrl": "https://github.com/Azim-Ahmed/chat-flow-builder",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225518222",
+    "title": "visual-workflow-automation-platform",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A self-hostable, visual workflow automation platform — like n8n or Zapier, but built on a modern Next.js + Prisma + Inngest stack. Users compose workflows on a node-graph canvas: a trigger, and Inngest runs the graph asynchronously with retries.",
+    "path": "n8n/hadinurhakim-coding-visual-workflow-automation-platform/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hadinurhakim-coding/visual-workflow-automation-platform",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228422179",
+    "title": "n8n-workflow-builder",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Build n8n automation workflows with natural language. Generate JSON, debug failures, optimize triggers. Zero coding required.",
+    "path": "n8n/aptratcn-n8n-workflow-builder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aptratcn/n8n-workflow-builder",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225157235",
+    "title": "gtm_ops",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "bun",
+      "elevenlabs",
+      "javascript",
+      "llm",
+      "n8n",
+      "pdf-generation",
+      "personal-tool",
+      "typescript",
+      "voice-agents",
+      "voice-ai",
+      "wranngle"
+    ],
+    "description": "Voice-AI-led GTM motion runtime. LLM presales pipeline (extraction → branded PDF → CRM) + ops-console UI + sample n8n workflows. Runs end-to-end with synthetic fixtures or against a live backend.",
+    "path": "n8n/wranngle-gtm_ops/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wranngle/gtm_ops",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1121633334",
+    "title": "data",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This repository hosts the academic calendar and mess menu in JSON format, automatically kept up to date via an n8n automation workflow.",
+    "path": "n8n/j2v-k-data/",
+    "type": "repo",
+    "repoUrl": "https://github.com/J2V-k/data",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225563523",
+    "title": "obsidian-vault",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Private Obsidian vault for PT KUBUS INTEGRASI SOLUSI documentation, n8n workflows, UML diagrams, and project knowledge base.",
+    "path": "n8n/bani1212-obsidian-vault/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Bani1212/obsidian-vault",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228401051",
+    "title": "n8n-monitor",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Flutter app for Android and macOS to monitor self-hosted n8n workflows — view, toggle, run, and delete workflows via the n8n REST API",
+    "path": "n8n/rubenalejandrocalderoncorona-n8n-monitor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rubenalejandrocalderoncorona/n8n-monitor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1116340728",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "n8n-workflows",
+      "webhooks"
+    ],
+    "description": "Sanitized n8n workflow library: lead intake, enrichment, post-call processing, webhook security middleware.",
+    "path": "n8n/wranngle-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wranngle/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-807353005",
+    "title": "linguistnow",
+    "tool": "n8n",
+    "tags": [
+      "airtable",
+      "brainstation",
+      "capstone-project",
+      "express",
+      "localization",
+      "n8n-workflow",
+      "oauth2",
+      "react",
+      "react-intl",
+      "tailwindcss",
+      "tanstack-table"
+    ],
+    "description": "LinguistNow simplifies the hassle of finding available linguists for translation projects.",
+    "path": "n8n/nicmart-dev-linguistnow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nicmart-dev/linguistnow",
+    "source": "github-discovery"
   }
 ]
