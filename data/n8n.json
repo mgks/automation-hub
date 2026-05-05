@@ -51369,5 +51369,121 @@
     "type": "repo",
     "repoUrl": "https://github.com/nicmart-dev/linguistnow",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229408997",
+    "title": "n8n-workflow-templates",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Sanitized n8n workflow templates (import + env-backed secrets).",
+    "path": "n8n/tagastudios-n8n-workflow-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tagastudios/n8n-workflow-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217462236",
+    "title": "kinetic-core",
+    "tool": "n8n",
+    "tags": [],
+    "description": "KAI-Netics Core Engine - n8n workflows, agent skills, config",
+    "path": "n8n/kai-netics-kinetic-core/",
+    "type": "repo",
+    "repoUrl": "https://github.com/KAI-Netics/kinetic-core",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228617399",
+    "title": "ai-agent-patterns",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production patterns for AI agents: MCP integrations, multi-agent workflows, n8n pipelines, prompt templates",
+    "path": "n8n/taylorsalmon-ai-agent-patterns/",
+    "type": "repo",
+    "repoUrl": "https://github.com/taylorsalmon/ai-agent-patterns",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229315041",
+    "title": "n8n-openclaw-adapter",
+    "tool": "n8n",
+    "tags": [],
+    "description": "MCP adapter for n8n workflow automation in OpenClaw",
+    "path": "n8n/maplesmcdepth-n8n-openclaw-adapter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MaplesMcDepth/n8n-openclaw-adapter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228858214",
+    "title": "ai-automation-case-studies",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "case-study",
+      "crm",
+      "n8n"
+    ],
+    "description": "Public case studies for AI automation, n8n workflows, lead handling and Lina Monitor.",
+    "path": "n8n/kaimiewl-ai-automation-case-studies/",
+    "type": "repo",
+    "repoUrl": "https://github.com/KaimiEwl/ai-automation-case-studies",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229396363",
+    "title": "n8n-mcp-builder",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Drop-in skill bundle for building n8n workflows via the cloud instance MCP server. Encodes the build loop, credential validation gate, and 500-retry safety so agents don't re-learn the same mistakes.",
+    "path": "n8n/emersimeon-n8n-mcp-builder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/emersimeon/n8n-mcp-builder",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229395456",
+    "title": "LinkedIn-Lead-Generation-and-Scraper",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An end-to-end AI lead generation engine. This n8n workflow triggers from a simple form to find targeted LinkedIn prospects using Apify actors. It uses LLMs to research lead profiles and draft hyper-personalized, \"human-sounding\" opening messages, saving all results to Google Sheets for high-conversion outbound sales.",
+    "path": "n8n/mannyvarjr-linkedin-lead-generation-and-scraper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mannyvarjr/LinkedIn-Lead-Generation-and-Scraper",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229385151",
+    "title": "container-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Containerized workflow automation tool",
+    "path": "n8n/xyksolutions1-container-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xyksolutions1/container-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226858386",
+    "title": "conect-stack",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated VPS setup for Docker, n8n and WAHA with base monitoring workflows",
+    "path": "n8n/ceoconectcompany-conect-stack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ceoconectcompany/conect-stack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229371204",
+    "title": "QualiSync",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered qualitative data analysis workflow using n8n and LLMs",
+    "path": "n8n/euclidesmaluf-qualisync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/euclidesmaluf/QualiSync",
+    "source": "github-discovery"
   }
 ]
