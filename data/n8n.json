@@ -51485,5 +51485,49 @@
     "type": "repo",
     "repoUrl": "https://github.com/euclidesmaluf/QualiSync",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1230435080",
+    "title": "TigerAI-n8n-Skill-Pack",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Build enterprise-grade n8n workflows using natural language sticky notes: An AI engine that transforms simple human intent into complete, documented three-layer automation systems.",
+    "path": "n8n/morrislu-taipei-tigerai-n8n-skill-pack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MorrisLu-Taipei/TigerAI-n8n-Skill-Pack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1230435947",
+    "title": "gestion-solicitudes-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow desarrollado en N8N que automatiza el proceso completo de solicitudes de camisetas: desde la detección de nuevas respuestas en un Google Form, hasta la verificación de inventario, actualización de registros y notificación por email al solicitante.",
+    "path": "n8n/karinacarmin-gestion-solicitudes-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/KarinaCarmin/gestion-solicitudes-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1230429430",
+    "title": "n8n-workflow-linkedin-job-scraper",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: LinkedIn job scraper",
+    "path": "n8n/agenius-ai-labs-n8n-workflow-linkedin-job-scraper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Agenius-AI-Labs/n8n-workflow-linkedin-job-scraper",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1230429367",
+    "title": "n8n-workflow-image-generator",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: image generator",
+    "path": "n8n/agenius-ai-labs-n8n-workflow-image-generator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Agenius-AI-Labs/n8n-workflow-image-generator",
+    "source": "github-discovery"
   }
 ]
