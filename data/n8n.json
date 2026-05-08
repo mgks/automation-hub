@@ -51751,5 +51751,46 @@
     "type": "repo",
     "repoUrl": "https://github.com/ncreighton/09f171f0-lead-nurture-email-sequence-au",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1083008540",
+    "title": "CustomizedAILatexResumes",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Contains customized latex resume templates developed by n8n workflow",
+    "path": "n8n/freakbeast14-customizedailatexresumes/",
+    "type": "repo",
+    "repoUrl": "https://github.com/freakbeast14/CustomizedAILatexResumes",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218343133",
+    "title": "Asistente-Psicologico-Agenda",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Asistente virtual por WhatsApp para agendamiento y gestión de citas psicológicas — Bot (Baileys), n8n workflows, dashboard React, PostgreSQL",
+    "path": "n8n/ipproyectosysoluciones-asistente-psicologico-agenda/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ipproyectosysoluciones/Asistente-Psicologico-Agenda",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1101729174",
+    "title": "n8n-nodes-typecast",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-automation",
+      "n8n-community-node",
+      "n8n-community-node-package",
+      "n8n-nodes",
+      "tts",
+      "tts-api"
+    ],
+    "description": "Integrate Typecast AI TTS into your n8n workflows with this community node.",
+    "path": "n8n/neosapience-n8n-nodes-typecast/",
+    "type": "repo",
+    "repoUrl": "https://github.com/neosapience/n8n-nodes-typecast",
+    "source": "github-discovery"
   }
 ]
