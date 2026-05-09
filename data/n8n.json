@@ -51792,5 +51792,27 @@
     "type": "repo",
     "repoUrl": "https://github.com/neosapience/n8n-nodes-typecast",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1232856775",
+    "title": "puffy-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Marketing automation for Puffy: n8n workflows, SVG templates, Claude prompts. Auto-publishes blog articles + social posts via Telegram approve-flow.",
+    "path": "n8n/puffy-pet-puffy-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/puffy-pet/puffy-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224077903",
+    "title": "n8n-ai-copywriting-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that converts Gmail DOCX copywriting briefs into structured, SEO-aware draft outputs using OpenAI, keyword planning, validation, and Google Drive handoff.",
+    "path": "n8n/benymean-n8n-ai-copywriting-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Benymean/n8n-ai-copywriting-pipeline",
+    "source": "github-discovery"
   }
 ]
