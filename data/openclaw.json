@@ -10067,5 +10067,177 @@
     "type": "repo",
     "repoUrl": "https://github.com/blurboy1985/trading-use-cases",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1230472185",
+    "title": "glancely",
+    "tool": "openclaw",
+    "tags": [
+      "chat-driven",
+      "cli",
+      "dashboard",
+      "journaling",
+      "openclaw",
+      "personal-tracker",
+      "python",
+      "quantified-self"
+    ],
+    "description": "All-in-one personal tracker as one openclaw skill bundle. Record diary, mood, reminders, daily MIT in one place; read-only dashboard; chat-driven; one-command scaffolder for new trackers.",
+    "path": "openclaw/ialchemist-dev-glancely/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ialchemist-dev/glancely",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1219764390",
+    "title": "openclaw-custom-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "automation",
+      "bash",
+      "openclaw",
+      "skills"
+    ],
+    "description": "OpenClaw 自定义技能集合 - 包含 agent-browser, email-manager, vlm 等 14 个技能",
+    "path": "openclaw/4208178-openclaw-custom-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/4208178/openclaw-custom-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1231403659",
+    "title": "ecom-details-image",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "一个面向 claude code / Codex / OpenClaw 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉素材。 与众不同之处是：**Campaign Style Lock** 机制 和 **强推广** 和 **重视转化效果**。",
+    "path": "openclaw/liangdabiao-ecom-details-image/",
+    "type": "repo",
+    "repoUrl": "https://github.com/liangdabiao/ecom-details-image",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1196327047",
+    "title": "deep-research-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "ai-agents",
+      "decision-memo",
+      "deep-research",
+      "evaluation",
+      "openclaw",
+      "research-workflow",
+      "source-traceability"
+    ],
+    "description": "面向 OpenClaw / Codex Agent 的决策导向 deep research skill，强调任务路由、证据可追溯、current-state verification、反证约束与可审计交付。",
+    "path": "openclaw/shadyunderlight-deep-research-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ShadyUnderLight/deep-research-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1149481470",
+    "title": "open-skill-market",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "codex",
+      "crawler",
+      "cursor",
+      "market",
+      "openclaw",
+      "skill"
+    ],
+    "description": "Discover, install, and manage AI agent skills for every major coding assistant -- all in one place.",
+    "path": "openclaw/coolzwc-open-skill-market/",
+    "type": "repo",
+    "repoUrl": "https://github.com/coolzwc/open-skill-market",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1235088110",
+    "title": "openclaw-home",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Openclaw configuration, skills, and memory.",
+    "path": "openclaw/bishop-wayland-openclaw-home/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bishop-wayland/openclaw-home",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211666734",
+    "title": "ClawSeat",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "ClawSeat skill-first multi-agent control plane for OpenClaw",
+    "path": "openclaw/kaneorca-clawseat/",
+    "type": "repo",
+    "repoUrl": "https://github.com/KaneOrca/ClawSeat",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224575142",
+    "title": "Orkas",
+    "tool": "openclaw",
+    "tags": [
+      "agent-collaboration",
+      "agent-orchestration",
+      "agent-team",
+      "agentic-ai",
+      "ai-agents",
+      "ai-assistant",
+      "ai-team",
+      "ai-workflow",
+      "autonomous-agents",
+      "byo-llm",
+      "cross-platform",
+      "desktop-app",
+      "electron",
+      "hermes-agent",
+      "llm",
+      "local-first",
+      "multi-agent",
+      "multi-agent-system",
+      "openclaw",
+      "self-evolving-agents"
+    ],
+    "description": "Open-source multi-agent AI desktop client — build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude · OpenAI · Gemini · DeepSeek · Kimi · GLM · Qwen). macOS / Windows / Linux.",
+    "path": "openclaw/orkas-ai-orkas/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Orkas-AI/Orkas",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1166871123",
+    "title": "ClawBio",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "bioinformatics",
+      "equity",
+      "genomics",
+      "local-first",
+      "openclaw",
+      "population-genetics",
+      "reproducibility"
+    ],
+    "description": "🦖 ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
+    "path": "openclaw/clawbio-clawbio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ClawBio/ClawBio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212156829",
+    "title": "soccer-lottery",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "⚽️ 足球分析与足彩预测全流程 AI Skill（智能体技能） —— 从赛事自动抓取、基本面数据分析到胜负综合推荐，一句话搞定！ 完美兼容 Coze (扣子)、Claude Code、OpenClaw 等主流 AI 平台。无需编写代码，使用自然语言即可轻松实现 AI 足彩预测专家。",
+    "path": "openclaw/liming199364-soccer-lottery/",
+    "type": "repo",
+    "repoUrl": "https://github.com/liming199364/soccer-lottery",
+    "source": "github-discovery"
   }
 ]
