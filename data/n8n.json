@@ -52008,5 +52008,56 @@
     "type": "repo",
     "repoUrl": "https://github.com/rodrimalaverc/rodrimalaverc",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1236172806",
+    "title": "ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Building AI agents, automation systems, and scalable workflows using n8n, OpenAI, MCP, and modern AI tools.",
+    "path": "n8n/faisalshah1023-beep-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/faisalshah1023-beep/ai-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1232556073",
+    "title": "iTopN8N",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Docker Compose stack for n8n, iTop automation workflows, Mailpit, NocoDB and template-based report PoC.",
+    "path": "n8n/black-zeus-itopn8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Black-Zeus/iTopN8N",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1233709076",
+    "title": "AgentFlow-AI-Automation-System",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An AI-powered automation system that coordinates multiple intelligent agents through centralized workflow orchestration. Built with n8n, OpenAI API, and REST integrations to automate content generation, task execution, and data processing with scalable real-time automation architecture.",
+    "path": "n8n/maheercodes-agentflow-ai-automation-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/maheerCodes/AgentFlow-AI-Automation-System",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1231245556",
+    "title": "IgorGanapolsky.github.io",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "n8n",
+      "qsr",
+      "restaurant-automation",
+      "restaurant-tech",
+      "stripe-checkout"
+    ],
+    "description": "Restaurant AI Ops: $29 QSR automation scorecard, n8n workflows, and restaurant tech automation guides",
+    "path": "n8n/igorganapolsky-igorganapolsky.github.io/",
+    "type": "repo",
+    "repoUrl": "https://github.com/IgorGanapolsky/IgorGanapolsky.github.io",
+    "source": "github-discovery"
   }
 ]

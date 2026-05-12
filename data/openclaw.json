@@ -10239,5 +10239,172 @@
     "type": "repo",
     "repoUrl": "https://github.com/liming199364/soccer-lottery",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1230671070",
+    "title": "jsdSkillHub",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "enterprise",
+      "fastapi",
+      "openclaw",
+      "security-scanning",
+      "skill-store",
+      "vue3"
+    ],
+    "description": "企业级 AI Agent 应用商店 — Skill 的统一管理、安全扫描、审批与分发平台",
+    "path": "openclaw/wzzfather-jsdskillhub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wzzfather/jsdSkillHub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1236178686",
+    "title": "openclaw-HDU-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for HDU library seat reservation",
+    "path": "openclaw/wither0526-openclaw-hdu-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wither0526/openclaw-HDU-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1142948305",
+    "title": "downcity",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "clawdbot",
+      "openclaw",
+      "skills",
+      "telegram"
+    ],
+    "description": "Inspired by the idea of the Upside Down, Downcity is a parallel city built for agents — a hidden operating layer beneath the surface. It is where agents are organized, coordinated, and put to work.",
+    "path": "openclaw/wangenius-downcity/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wangenius/downcity",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1235153232",
+    "title": "hiapi-skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "hiapi",
+      "image-generation",
+      "mcp",
+      "openclaw",
+      "skills",
+      "video-generation"
+    ],
+    "description": "Official HiAPI AI Agent skills directory",
+    "path": "openclaw/hiapiai-hiapi-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HiAPIAI/hiapi-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229493522",
+    "title": "wuxing-flywheel-open",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "五行飞轮 Wuxing Flywheel — Open Skill for OpenClaw. AI-powered multi-perspective analysis engine based on Chinese Five Elements philosophy.",
+    "path": "openclaw/binbinyu99-crypto-wuxing-flywheel-open/",
+    "type": "repo",
+    "repoUrl": "https://github.com/binbinyu99-crypto/wuxing-flywheel-open",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1219791000",
+    "title": "Sina-finance-openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/rain-shi-sina-finance-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Rain-Shi/Sina-finance-openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1235834647",
+    "title": "social-media-automation-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw/Codex skills for social content workflows and AI travel short-video automation",
+    "path": "openclaw/aanlifire-social-media-automation-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Aanlifire/social-media-automation-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1234356512",
+    "title": "sol_dsl",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Solana Agent-Wager framework: Claw-DSL + Anchor + OpenClaw skill",
+    "path": "openclaw/jkr26-sol_dsl/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jkr26/sol_dsl",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190498170",
+    "title": "skill-base",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "claude-code",
+      "claude-code-skills",
+      "cli",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "knowledge-management",
+      "prompt-engineering",
+      "skill-base",
+      "team-workflows"
+    ],
+    "description": "Private Skill distribution platform for AI coding agents: publish, install, update, and rollback team skills across Cursor, Claude Code, Codex, and OpenClaw with a minimal server + skb CLI.",
+    "path": "openclaw/ginuim-skill-base/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ginuim/skill-base",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1201574947",
+    "title": "honeybadger",
+    "tool": "openclaw",
+    "tags": [
+      "agentic-ai",
+      "ai-agent",
+      "ai-security",
+      "claude-code",
+      "cve",
+      "cybersecurity",
+      "devsecops",
+      "go",
+      "mcp",
+      "mcp-server",
+      "openclaw",
+      "prompt-injection",
+      "sast",
+      "sbom",
+      "secret-scanning",
+      "security-scanner",
+      "static-analysis",
+      "supply-chain-security",
+      "vulnerability-scanner"
+    ],
+    "description": "Security scanner for AI agent skills and MCP servers. Detects secrets, CVEs, supply chain attacks, and prompt injection in SKILL.md files before they're installed. Pre-install gate for Claude Code, OpenClaw, PicoClaw, NanoBot, FamClaw, and CI/CD pipelines. Single Go binary, MIT licensed.",
+    "path": "openclaw/famclaw-honeybadger/",
+    "type": "repo",
+    "repoUrl": "https://github.com/famclaw/honeybadger",
+    "source": "github-discovery"
   }
 ]
