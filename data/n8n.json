@@ -52059,5 +52059,61 @@
     "type": "repo",
     "repoUrl": "https://github.com/IgorGanapolsky/IgorGanapolsky.github.io",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1237239824",
+    "title": "n8n-recipes",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Claude Code skill for n8n workflows: design, debug, audit. Plus 7 marketing operations recipes — spend logging, lead enrichment, anomaly alerts, attribution joins.",
+    "path": "n8n/nickyc1-n8n-recipes/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nickyc1/n8n-recipes",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1220567786",
+    "title": "agente-universal-matriz",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Base universal e multi-tenant de agente IA em n8n. 17 workflows, Baileys multi-instância, tools plugáveis.",
+    "path": "n8n/thukhanch-agente-universal-matriz/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thukhanch/agente-universal-matriz",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1237251482",
+    "title": "inventory-ocr-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow automatizado en n8n que digitaliza inventarios físicos a partir de una foto. MistralOCR extrae y estructura el texto de la imagen, y los datos se escriben automáticamente en Google Sheets — eliminando la transcripción manual por completo.",
+    "path": "n8n/pablojrw-inventory-ocr-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/PabloJRW/inventory-ocr-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1231221120",
+    "title": "kahoot-auto-answer-bot",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "javascript",
+      "json",
+      "kahoot",
+      "kahoot-api",
+      "kahoot-bot",
+      "kahoot-hack",
+      "kahoot-tools",
+      "n8n",
+      "n8n-workflow",
+      "python"
+    ],
+    "description": "Automate Kahoot quiz participation using a bot that intercepts game questions and sends correct answers via the program loader.",
+    "path": "n8n/cathaedulissnowbird524-kahoot-auto-answer-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Cathaedulissnowbird524/kahoot-auto-answer-bot",
+    "source": "github-discovery"
   }
 ]
