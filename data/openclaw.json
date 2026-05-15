@@ -10784,5 +10784,118 @@
     "type": "repo",
     "repoUrl": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1238877705",
+    "title": "omniclaw-swarm",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill and CLI for controller-approved A2A agent swarms",
+    "path": "openclaw/suonian-omniclaw-swarm/",
+    "type": "repo",
+    "repoUrl": "https://github.com/suonian/omniclaw-swarm",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1151333143",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "claude-code-skills",
+      "cursor",
+      "data-extraction",
+      "no-code",
+      "openclaw",
+      "openclaw-skills",
+      "web-data-extraction",
+      "web-scraping",
+      "web-scraping-api"
+    ],
+    "description": "Give your AI the power to browse, scrape, and extract structured data from complex websites — with faster execution, lower cost, and more reliable results.",
+    "path": "openclaw/browser-act-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/browser-act/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1231261022",
+    "title": "agentchat-openclaw",
+    "tool": "openclaw",
+    "tags": [
+      "agentchat",
+      "agents",
+      "ai",
+      "messaging",
+      "openclaw",
+      "openclaw-channel",
+      "openclaw-plugin",
+      "real-time",
+      "websocket"
+    ],
+    "description": "AgentChat for OpenClaw — peer-to-peer messaging for autonomous agents. The official OpenClaw channel plugin (npm: @agentchatme/openclaw). Bundles the agent etiquette skill.",
+    "path": "openclaw/agentchatme-agentchat-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/agentchatme/agentchat-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1216252513",
+    "title": "YAi",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Local-first agent runtime inspired by OpenClaw, built for high-control environments where security, auditability, and deterministic execution are paramount. Compatible with OpenClaw skills and flow, while enforcing stricter local governance and execution boundaries.",
+    "path": "openclaw/umbertotechnopreneur-yai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/umbertotechnopreneur/YAi",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1169220745",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skills for ONIZUKA AGI Co.",
+    "path": "openclaw/onizuka-agi-co-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/onizuka-agi-co/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1239325790",
+    "title": "clawskill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "openclaw和hermes的多个skill",
+    "path": "openclaw/davidwei07chat-clawskill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/davidwei07chat/clawskill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194731613",
+    "title": "openclaw-workbook",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw workbook — use cases, setup guides, and reference materials",
+    "path": "openclaw/amazingct-openclaw-workbook/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Amazingct/openclaw-workbook",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194095518",
+    "title": "openclawhub.uk",
+    "tool": "openclaw",
+    "tags": [
+      "openclaw"
+    ],
+    "description": "I built OpenClawHub to help developers discover and compare OpenClaw variants.  The OpenClaw project has 194K+ stars and has inspired countless forks and variants. But finding the right one for your use case is difficult - there's no central place to discover them.",
+    "path": "openclaw/cenyi-openclawhub.uk/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cenyi/openclawhub.uk",
+    "source": "github-discovery"
   }
 ]

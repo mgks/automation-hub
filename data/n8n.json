@@ -52214,5 +52214,70 @@
     "type": "repo",
     "repoUrl": "https://github.com/aiflowy/aiflowy",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1221189947",
+    "title": "openclaw-n8n-neo4j-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Public OpenClaw, n8n, Neo4j, and GraphRAG workflow examples for AI automation tutorials.",
+    "path": "n8n/lbsocial-openclaw-n8n-neo4j-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lbsocial/openclaw-n8n-neo4j-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1237206894",
+    "title": "AI-Workflow-Generator-for-n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-workflows",
+      "anthropic",
+      "automation",
+      "json-validation",
+      "llm",
+      "n8n",
+      "openai",
+      "pinecone",
+      "prompt-engineering",
+      "rag",
+      "self-healing-systems",
+      "workflow-automation"
+    ],
+    "description": "Self-healing AI workflow generation system for n8n using LLMs, validation pipelines, deterministic repair layers, and RAG-based workflow ingestion.",
+    "path": "n8n/borisvillanueva-ai-workflow-generator-for-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/borisvillanueva/AI-Workflow-Generator-for-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1239212639",
+    "title": "multi-channel-ai-email-operations",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-automation",
+      "ai-workflows",
+      "automation",
+      "business-automation",
+      "email-classification",
+      "email-intelligence",
+      "gmail-automation",
+      "llm",
+      "low-code",
+      "n8n",
+      "no-code",
+      "notification-system",
+      "openai",
+      "slack-bot",
+      "telegram-bot-ai-assistant",
+      "workflow-automation"
+    ],
+    "description": "AI-powered multi-channel email operations system built with n8n, OpenAI, Gmail, Slack, Telegram, and Google Sheets for intelligent classification, escalation, memory persistence, and automated sponsor response workflows.",
+    "path": "n8n/borisvillanueva-multi-channel-ai-email-operations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/borisvillanueva/multi-channel-ai-email-operations",
+    "source": "github-discovery"
   }
 ]
