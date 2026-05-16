@@ -52279,5 +52279,58 @@
     "type": "repo",
     "repoUrl": "https://github.com/borisvillanueva/multi-channel-ai-email-operations",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1240302217",
+    "title": "n8n-context-managed-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Single-agent n8n workflow with context-managed 150-tool routing and payload inspection",
+    "path": "n8n/cmcd9155-n8n-context-managed-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Cmcd9155/n8n-context-managed-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1240275232",
+    "title": "ProspectPilot-AI-Autonomous-Multi-Agent-Sales-Pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An advanced AI-powered B2B sales automation system built with n8n  that researches prospects, scores leads using real company data, retrieves knowledge from a Pinecone RAG system, writes hyper-personalized outreach emails, verifies deliverability, and automatically manages CRM workflows — all in under 30 seconds.",
+    "path": "n8n/mhassan-aiexpert-prospectpilot-ai-autonomous-multi-agent-sales-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MHassan-AiExpert/ProspectPilot-AI-Autonomous-Multi-Agent-Sales-Pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1240108948",
+    "title": "Automation-Treads",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "wabot"
+    ],
+    "description": "A powerful WhatsApp-to-n8n bridge built with Baileys and Drizzle ORM. Designed for seamless content automation, it features real-time message listening, image handling, secure owner whitelisting, and reliable Supabase persistence, serving as the command center for your n8n workflows.",
+    "path": "n8n/imanmukhlisin-automation-treads/",
+    "type": "repo",
+    "repoUrl": "https://github.com/imanmukhlisin/Automation-Treads",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1238315461",
+    "title": "DynamicWorkflowGenerators",
+    "tool": "n8n",
+    "tags": [
+      "adk-python",
+      "fastapi",
+      "json-logic",
+      "python3",
+      "temporal"
+    ],
+    "description": "Hands-on project to create my own N8N with Temporal as the runner and using Google ADK for enabling workflow creation/review and agentic node execution",
+    "path": "n8n/alejandroblanco2001-dynamicworkflowgenerators/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AlejandroBlanco2001/DynamicWorkflowGenerators",
+    "source": "github-discovery"
   }
 ]
