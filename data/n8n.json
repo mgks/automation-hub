@@ -52332,5 +52332,38 @@
     "type": "repo",
     "repoUrl": "https://github.com/AlejandroBlanco2001/DynamicWorkflowGenerators",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241152441",
+    "title": "n8n-marketing-sales-proof",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Buyer-specific n8n proof for marketing, sales, and customer-service workflow automation",
+    "path": "n8n/gagan114662-n8n-marketing-sales-proof/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gagan114662/n8n-marketing-sales-proof",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1232059053",
+    "title": "invoice-automation-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered invoice processing workflow using n8n + GPT-4o. Extracts structured data from email invoice attachments (EN/JP) and writes to Google Sheets.",
+    "path": "n8n/keybladerhuy-invoice-automation-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Keybladerhuy/invoice-automation-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241139702",
+    "title": "ai-job-search-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered job search automation built with n8n, Gemini, Apify, Gmail, and Google Drive. The workflow finds recent LinkedIn jobs, analyzes resume fit, filters results, and sends automated email summaries for faster, more targeted applications",
+    "path": "n8n/tiffaniarmour-ai-job-search-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tiffaniarmour/ai-job-search-automation",
+    "source": "github-discovery"
   }
 ]
