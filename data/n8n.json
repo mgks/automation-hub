@@ -52365,5 +52365,129 @@
     "type": "repo",
     "repoUrl": "https://github.com/tiffaniarmour/ai-job-search-automation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241995189",
+    "title": "city-temperature-tracker",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated weather data collection workflow using n8n. Stores timestamped temperature readings in JSON format via GitHub.",
+    "path": "n8n/botacatalin-city-temperature-tracker/",
+    "type": "repo",
+    "repoUrl": "https://github.com/botacatalin/city-temperature-tracker",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1239524816",
+    "title": "n8n-nodes-alltoken",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "alltoken",
+      "llm",
+      "n8n",
+      "n8n-community-node",
+      "n8n-nodes",
+      "openai"
+    ],
+    "description": "AllToken n8n community node — unified OpenAI-compatible AI API (chat, image, video) for n8n workflows",
+    "path": "n8n/alltoken-ai-n8n-nodes-alltoken/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alltoken-ai/n8n-nodes-alltoken",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241998246",
+    "title": "Sistem-Triase-Phishing-AI-v2",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-implemented n8n Automation Workflow to detect potential phishing in incoming Emails",
+    "path": "n8n/gutthe-hub-sistem-triase-phishing-ai-v2/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Gutthe-hub/Sistem-Triase-Phishing-AI-v2",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1239631532",
+    "title": "SOC-SOAR-Playbook",
+    "tool": "n8n",
+    "tags": [
+      "authomation",
+      "n8n-workflow",
+      "playbook",
+      "soar",
+      "soc-analyst"
+    ],
+    "description": "An AI-powered Security Orchestration, Automation & Response (SOAR) workflow built entirely in n8n. The playbook automatically triages phishing and ransomware alerts, enriches them with VirusTotal intelligence, and sends rich HTML escalation emails — all without human intervention.",
+    "path": "n8n/ashurlu-soc-soar-playbook/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ashurlu/SOC-SOAR-Playbook",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228128414",
+    "title": "n8n-exporter",
+    "tool": "n8n",
+    "tags": [],
+    "description": "CLI Exportador de workflows de n8n escrito en go usando charm",
+    "path": "n8n/whoangeel-n8n-exporter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/whoAngeel/n8n-exporter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241981298",
+    "title": "Gmail-Attachment-Auto-Save-Workflow-for-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready n8n workflow that automatically monitors Gmail inboxes, downloads email attachments in full size, prevents duplicate processing, extracts email content, and organizes files locally using sender-based folder structures.",
+    "path": "n8n/ananthasrihariharan-gmail-attachment-auto-save-workflow-for-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ananthasrihariharan/Gmail-Attachment-Auto-Save-Workflow-for-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1236385296",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/antihacker77-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/antihacker77/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1069861264",
+    "title": "daily-tech-studies",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Daily commit automation using N8N workflows to maintain GitHub contribution graph activity",
+    "path": "n8n/ojoseleonardo-daily-tech-studies/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ojoseleonardo/daily-tech-studies",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-839904839",
+    "title": "n8n-backup-workflows-universidade-de-vendas",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/automagicbots2-n8n-backup-workflows-universidade-de-vendas/",
+    "type": "repo",
+    "repoUrl": "https://github.com/automagicbots2/n8n-backup-workflows-universidade-de-vendas",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241983027",
+    "title": "telegram-ai-chatbot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered Telegram chatbot built using n8n, Gemini API, Docker, and automation workflows.",
+    "path": "n8n/manvityagi29-telegram-ai-chatbot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/manvityagi29/telegram-ai-chatbot",
+    "source": "github-discovery"
   }
 ]
