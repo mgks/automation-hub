@@ -52489,5 +52489,16 @@
     "type": "repo",
     "repoUrl": "https://github.com/manvityagi29/telegram-ai-chatbot",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1117917643",
+    "title": "n8n-workflows-backup",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/richbridge-n8n-workflows-backup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/richbridge/n8n-workflows-backup",
+    "source": "github-discovery"
   }
 ]

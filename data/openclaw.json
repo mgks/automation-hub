@@ -11238,5 +11238,101 @@
     "type": "repo",
     "repoUrl": "https://github.com/anasaskinnerian4445/android-ai-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1242498199",
+    "title": "wechat-newspic",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "微信公众号「图片消息」（小绿书）自动化发布工具 - CLI + 中转服务 + OpenClaw Skill",
+    "path": "openclaw/lpreterite-wechat-newspic/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lpreterite/wechat-newspic",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1204553951",
+    "title": "asta-skill",
+    "tool": "openclaw",
+    "tags": [
+      "academic",
+      "agent-skill",
+      "agent-skills",
+      "asta",
+      "asta-skill",
+      "citations",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skills",
+      "mcp",
+      "openclaw",
+      "openclaw-skills",
+      "paper-search",
+      "research",
+      "semantic-scholar",
+      "semantic-search",
+      "skill-md",
+      "skillsmp"
+    ],
+    "description": "Pure instruction-pack skill wrapping Ai2's Asta MCP server (Semantic Scholar). Intent-to-tool routing, safe defaults, multi-agent.",
+    "path": "openclaw/agents365-ai-asta-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Agents365-ai/asta-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1242254234",
+    "title": "FICC_Researcher",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Agent-oriented fixed income research skill with FICC playbooks, evidence cards, data-source policy, templates, and OpenClaw/MCP integration.",
+    "path": "openclaw/kevin-zhu-11-ficc_researcher/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kevin-Zhu-11/FICC_Researcher",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205536433",
+    "title": "openclaw-admin-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Claude Code skill for diagnosing, configuring, and fixing OpenClaw installations",
+    "path": "openclaw/rendrag-git-openclaw-admin-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rendrag-git/openclaw-admin-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1242088621",
+    "title": "zhizhi-math-coach-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "zhizhi-math-coach is an OpenClaw skill for an evidence-based chinese primary-school math learning loop",
+    "path": "openclaw/linzi007-zhizhi-math-coach-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/linzi007/zhizhi-math-coach-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1176178167",
+    "title": "openclaw_ronne",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "openclaw_use_cases",
+    "path": "openclaw/ronneshay-openclaw_ronne/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ronneshay/openclaw_ronne",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192370279",
+    "title": "GitHub-Copilot-Mobile-Telegram-Remote-Claw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Telegram Remote Claw is an open source VS Code extension that lets you ask GitHub Copilot questions from your phone, route them into your desktop editor, and receive the answer back in Telegram. If you are looking for an OpenClaw-style workflow to manage Copilot remotely, this project is built for exactly that use case.",
+    "path": "openclaw/hunkerdev-github-copilot-mobile-telegram-remote-claw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HunkerDev/GitHub-Copilot-Mobile-Telegram-Remote-Claw",
+    "source": "github-discovery"
   }
 ]
