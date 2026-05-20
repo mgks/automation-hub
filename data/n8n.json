@@ -52500,5 +52500,137 @@
     "type": "repo",
     "repoUrl": "https://github.com/richbridge/n8n-workflows-backup",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1243110262",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Custom designed N8N workflows covering all aspects of development.",
+    "path": "n8n/codingabdullah-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CodingAbdullah/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1242725091",
+    "title": "AI-Personal-Assistant-using-n8n-Streamlit-Ollama",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered Personal Assistant built using n8n, Streamlit, and Ollama. It automates tasks like email management, calendar scheduling, note-taking, task handling, expense tracking, and web search through an interactive chat interface with workflow automation and local AI models.",
+    "path": "n8n/hammadyounisabbasi-ai-personal-assistant-using-n8n-streamlit-ollama/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hammadyounisabbasi/AI-Personal-Assistant-using-n8n-Streamlit-Ollama",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1244167287",
+    "title": "n8n-sgs-po-pipeline",
+    "tool": "n8n",
+    "tags": [
+      "api-integration",
+      "event-driven",
+      "javascript",
+      "n8n",
+      "rpa",
+      "webhook",
+      "workflow-automation"
+    ],
+    "description": "n8n automation workflow simulating a vendor Purchase Order intake pipeline for Saudi Ground Services (SGS) — webhook-triggered submissions, field validation, VAT calculation, priority routing, Google Sheets logging, and Gmail alerts. Built as a portfolio PoC.",
+    "path": "n8n/m-alateegi-n8n-sgs-po-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/M-AlAteegi/n8n-sgs-po-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1223211203",
+    "title": "n8n-advanced-dashboard",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-workflow",
+      "nextjs",
+      "nextjs-admin",
+      "nextjs-dashboard"
+    ],
+    "description": "An advanced n8n dashboard to manage workflows and AI agents, view reports, track activities, and monitor schedules. Built with Next.js, shadcn/ui, Tailwind CSS, and TypeScript.",
+    "path": "n8n/billycho-n8n-advanced-dashboard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/billycho/n8n-advanced-dashboard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1244136120",
+    "title": "engram-n8n-nodes",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Engram community node for n8n — durable memory tools for n8n workflows and AI Agents.",
+    "path": "n8n/lumetra-io-engram-n8n-nodes/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lumetra-io/engram-n8n-nodes",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1243039636",
+    "title": "Click-and-Speak",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A containerized automation platform that connects GLPI IT ticketing with n8n workflow automation and a Grafana monitoring stack. The project enables audio-based ticket creation through AI transcription, real-time dashboards, and log aggregation.",
+    "path": "n8n/mohamed-bakkali-click-and-speak/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mohamed-bakkali/Click-and-Speak",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1244174975",
+    "title": "Agentic-Operation-System",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-alternative",
+      "n8n-automation",
+      "n8n-community-node",
+      "n8n-community-node-package",
+      "n8n-node",
+      "n8n-nodes",
+      "n8n-template",
+      "n8n-workflow",
+      "n8n-workflows"
+    ],
+    "description": "Agentic OS is a high-performance platform for deploying autonomous, 24/7 AI agents. Built with React, Tailwind CSS, Vite, and Express, it features an agent marketplace, interactive ROI calculator, real-time analytics, and secure Nodemailer-integrated pricing forms.",
+    "path": "n8n/gacruxweb-agentic-operation-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Gacruxweb/Agentic-Operation-System",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1108549739",
+    "title": "lenserfight",
+    "tool": "n8n",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "automation",
+      "chainabit",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "cli",
+      "gemini",
+      "google",
+      "lenserfight",
+      "n8n-workflow",
+      "openai",
+      "openclaw",
+      "skills",
+      "workflow"
+    ],
+    "description": "Bring Your Agent, Start to Fight! The Open Platform for AI Agents, Workflows, Prompts, and Battles",
+    "path": "n8n/conectlens-lenserfight/",
+    "type": "repo",
+    "repoUrl": "https://github.com/conectlens/lenserfight",
+    "source": "github-discovery"
   }
 ]

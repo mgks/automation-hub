@@ -11334,5 +11334,171 @@
     "type": "repo",
     "repoUrl": "https://github.com/HunkerDev/GitHub-Copilot-Mobile-Telegram-Remote-Claw",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190719902",
+    "title": "openclaw-skill-store",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Attested skill registry and marketplace API for OpenClaw agents",
+    "path": "openclaw/pleme-io-openclaw-skill-store/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pleme-io/openclaw-skill-store",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1237185011",
+    "title": "prompts",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "这是一本面向普通学习者、创作者、产品经理、工程师和组织管理者的中文 AI 学习方法开源书。它从最基本的对话开始，逐步进入 prompt、结构化工作流、skills、agent、记忆系统、OpenClaw、Hermes/HiMeS、MCP/A2A，以及截至 2026-05-07 的 AI 技术发展全景。",
+    "path": "openclaw/kkkkof2025-prompts/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kkkkof2025/prompts",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222859749",
+    "title": "laohan-skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-content",
+      "bilibili",
+      "claude-code",
+      "douyin",
+      "openclaw",
+      "skills",
+      "video-download",
+      "youtube"
+    ],
+    "description": "Claude Code / OpenClaw 技能包，专为 AI 内容创作者打造。下载视频、生成幻灯片、审查文档——一个命令搞定。By 寒武纪AI。",
+    "path": "openclaw/hanzhcn-laohan-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hanzhcn/laohan-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1232002747",
+    "title": "SendSprint",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "aider",
+      "azure-devops",
+      "claude-code",
+      "cline",
+      "codex",
+      "continue",
+      "copilot",
+      "cursor",
+      "hermes",
+      "jira",
+      "kiro",
+      "mit-license",
+      "multi-agent",
+      "openclaw",
+      "playwright",
+      "python",
+      "sprint-automation",
+      "windsurf",
+      "zed"
+    ],
+    "description": "Multi-agent skill that automates sprint delivery: read Jira/Azure DevOps sprint then verify repo architecture mapping. Claude/Codex/Hermes/Openclaw/Copilot.",
+    "path": "openclaw/wesleysimplicio-sendsprint/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wesleysimplicio/SendSprint",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1244158197",
+    "title": "ms-todo-oauth",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "an oauth based openclaw skill for microsoft to do",
+    "path": "openclaw/nathanatgit-ms-todo-oauth/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nathanatgit/ms-todo-oauth",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1169720639",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "devops",
+      "openclaw"
+    ],
+    "description": "Custom OpenClaw skills, hooks, and shell scripts for multi-agent ops automation. AI-authored with Claude Code.",
+    "path": "openclaw/supernor-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Supernor/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1221376162",
+    "title": "openclaw-workspace",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw AI Assistant Workspace - Config, Skills, Memory Sync & Personal Hub",
+    "path": "openclaw/xus0255-coder-openclaw-workspace/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xus0255-coder/openclaw-workspace",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1242282576",
+    "title": "AI-color-system",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "从品牌情感关键词生成完整 UI 色彩系统 · AI Skill for Cursor / Codex / Claude / Copilot / OpenClaw",
+    "path": "openclaw/yuqizhang1228-blip-ai-color-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yuqizhang1228-blip/AI-color-system",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202154849",
+    "title": "ares-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-ops",
+      "ai-agent",
+      "automation",
+      "openclaw",
+      "prompt-engineering",
+      "skills",
+      "twitch",
+      "whatsapp"
+    ],
+    "description": "Production-tested OpenClaw skills for WhatsApp automation, Twitch ops, agent safety, and prompt discipline.",
+    "path": "openclaw/rushindrasinha-ares-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rushindrasinha/ares-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1172417441",
+    "title": "Commonly-used-high-value-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-tools",
+      "automation",
+      "claude-code",
+      "codex",
+      "llm",
+      "openclaw",
+      "prompt-engineering",
+      "skills"
+    ],
+    "description": "High-value AI skills repository for Codex, Claude Code, OpenClaw, agents, prompts, and automation workflows.  高价值的 AI 技能库，涵盖 Codex、Claude Code、OpenClaw、代理、提示和自动化工作流程。",
+    "path": "openclaw/seaworld008-commonly-used-high-value-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/seaworld008/Commonly-used-high-value-skills",
+    "source": "github-discovery"
   }
 ]
