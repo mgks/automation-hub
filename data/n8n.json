@@ -52632,5 +52632,125 @@
     "type": "repo",
     "repoUrl": "https://github.com/conectlens/lenserfight",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1102975581",
+    "title": "radkit-loves-agenticops",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "cisco",
+      "devnet",
+      "low-code",
+      "mcp",
+      "netdevops",
+      "radkit"
+    ],
+    "description": "✨🧠🤖 A low-code AgenticOps workflow based on n8n, MCP and Cisco RADKit for some nice Network Automation experiments",
+    "path": "n8n/ponchotitlan-radkit-loves-agenticops/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ponchotitlan/radkit-loves-agenticops",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1245226136",
+    "title": "n8n_workflows_automatization",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/yennydigital-n8n_workflows_automatization/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Yennydigital/n8n_workflows_automatization",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1245224357",
+    "title": "sample-files-for-n8n-practice",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow 연습을 위한 sample data repo",
+    "path": "n8n/alsrl8-sample-files-for-n8n-practice/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alsrl8/sample-files-for-n8n-practice",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1245206590",
+    "title": "AI-Powered-Phishing-Detection-System",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Enterprise AI-powered phishing detection and incident response workflow using n8n, Airtable, Flowise, and Groq LLM.",
+    "path": "n8n/rajwant11-ai-powered-phishing-detection-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rajwant11/AI-Powered-Phishing-Detection-System",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1245144257",
+    "title": "n8n-factory",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Use Claude Code to ideate, build, and enhance n8n workflows.",
+    "path": "n8n/mamd69-n8n-factory/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mamd69/n8n-factory",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1245053389",
+    "title": "security-ops-automation-pack",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n automation workflows for security companies — incident alerts, patrol reports, and team notifications",
+    "path": "n8n/carmonamendesuber-hue-security-ops-automation-pack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/carmonamendesuber-hue/security-ops-automation-pack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1245184945",
+    "title": "n8n-copilot-instructions",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Add Github instructions for n8n workflows",
+    "path": "n8n/ramalakshmi0505-n8n-copilot-instructions/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ramalakshmi0505/n8n-copilot-instructions",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1245204894",
+    "title": "Smart-Inventory-AI-System-SIS-",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "api",
+      "automation",
+      "google-sheets",
+      "inventory-management",
+      "n8n-workflow"
+    ],
+    "description": "A fully conversational AI assistant that manages stock in real time — query, update, and analyse your inventory through natural language. Built entirely without code in n8n.",
+    "path": "n8n/tj-abel-smart-inventory-ai-system-sis-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TJ-Abel/Smart-Inventory-AI-System-SIS-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1242900098",
+    "title": "chiqui-flow",
+    "tool": "n8n",
+    "tags": [
+      "aluraimersaodev",
+      "aluralatam",
+      "n8n-workflow",
+      "rag"
+    ],
+    "description": "ONE | Inmersión Agentes de IA",
+    "path": "n8n/orliluq-chiqui-flow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Orliluq/chiqui-flow",
+    "source": "github-discovery"
   }
 ]
