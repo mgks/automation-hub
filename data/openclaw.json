@@ -11682,5 +11682,140 @@
     "type": "repo",
     "repoUrl": "https://github.com/rogerchappel/crewcmd",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209211452",
+    "title": "roboclaws",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-coding-agent",
+      "ai2thor",
+      "mcp",
+      "mcp-server",
+      "molmospaces",
+      "openclaw",
+      "robot-demos",
+      "robot-evaluation",
+      "robotics",
+      "vision-language-model",
+      "vlm"
+    ],
+    "description": "Visible AI-driven robotics demos powered by VLM policies, MCP skills, and AI coding agents. Reviewable HTML reports — frames, maps, tool traces, scores — instead of buried terminal logs.",
+    "path": "openclaw/miaodx-roboclaws/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MiaoDX/roboclaws",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1150650758",
+    "title": "awesome-openclaw-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "clawd",
+      "clawdbot",
+      "clawdbot-skill",
+      "clawdhub",
+      "codeaashu",
+      "moltbot",
+      "moltbot-skills",
+      "openclaw",
+      "openclaw-skills"
+    ],
+    "description": "🔍 Discover over 1715 community-driven OpenClaw skills, sorted by category, to enhance your projects and streamline your workflow.",
+    "path": "openclaw/natan89-awesome-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/natan89/awesome-openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1246269875",
+    "title": "prompts_mcp_skills_openclaw_learn",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "from bilibili 日新月异max",
+    "path": "openclaw/baiyezii-prompts_mcp_skills_openclaw_learn/",
+    "type": "repo",
+    "repoUrl": "https://github.com/baiyezii/prompts_mcp_skills_openclaw_learn",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1083072166",
+    "title": "stock_datasource",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接openclaw进行自主访问",
+    "path": "openclaw/yourdaylight-stock_datasource/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Yourdaylight/stock_datasource",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1161837213",
+    "title": "openagentskill",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "nextjs",
+      "open-source",
+      "openclaw",
+      "openclaw-skills",
+      "skills",
+      "typescript"
+    ],
+    "description": "The open marketplace for AI agent skills. Discover, publish, and compose skills for AI agents.",
+    "path": "openclaw/leon-drq-openagentskill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Leon-Drq/openagentskill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1238772868",
+    "title": "fableforge",
+    "tool": "openclaw",
+    "tags": [
+      "ai-video",
+      "automated-video",
+      "chinese",
+      "clawhub-skill",
+      "fable",
+      "gsap",
+      "hyperframes",
+      "management",
+      "o-pen",
+      "openclaw",
+      "storytelling",
+      "tts",
+      "voice-cloning",
+      "voxcpm2"
+    ],
+    "description": "AI-powered universal video production studio - turn text into cinematic short videos with cloned voice narration, AI-generated visuals, and automated post-production🚀 OpenClaw Skill: FableForge AI Video Studio ·  高度工业化的视频生成 Agent 技能 SOP",
+    "path": "openclaw/lucas-kay8-fableforge/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Lucas-Kay8/fableforge",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1227680205",
+    "title": "openclaw-publisher-pki",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Publisher enrollment + signed CRL HTTP server for the openclaw skill-store ecosystem",
+    "path": "openclaw/pleme-io-openclaw-publisher-pki/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pleme-io/openclaw-publisher-pki",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1246200018",
+    "title": "skills.tryopenclaw.io",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI-friendly web home for Platform Skills used by OpenClaw use-case bundles. Markdown playbooks fetched at runtime by skill routers.",
+    "path": "openclaw/try-open-claw-io-skills.tryopenclaw.io/",
+    "type": "repo",
+    "repoUrl": "https://github.com/try-open-claw-io/skills.tryopenclaw.io",
+    "source": "github-discovery"
   }
 ]

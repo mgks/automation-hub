@@ -52752,5 +52752,49 @@
     "type": "repo",
     "repoUrl": "https://github.com/Orliluq/chiqui-flow",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1238466121",
+    "title": "n8n-workflow-designer",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Designer: OpenCode skill + MCP server for idiomatic n8n workflow design, compilation, and deployment",
+    "path": "n8n/qazmaster-n8n-workflow-designer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/qazmaster/n8n-workflow-designer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-962606519",
+    "title": "workflows-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/ezemirallas-workflows-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ezemirallas/workflows-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1246258469",
+    "title": "adliebe",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "business-plan",
+      "data-cleanup",
+      "financial-model",
+      "make",
+      "n8n",
+      "python",
+      "small-business",
+      "workflow-automation",
+      "zapier"
+    ],
+    "description": "Scoped operations, automation, finance, and workflow services profile",
+    "path": "n8n/adliebe-adliebe/",
+    "type": "repo",
+    "repoUrl": "https://github.com/adliebe/adliebe",
+    "source": "github-discovery"
   }
 ]
