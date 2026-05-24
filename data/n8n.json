@@ -52968,5 +52968,68 @@
     "type": "repo",
     "repoUrl": "https://github.com/proompteng/bilig",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1247962770",
+    "title": "core-ai-automation-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Enterprise workflow automation architectures and AI agentic pipelines using n8n and Claude AI API.",
+    "path": "n8n/abang82-core-ai-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Abang82/core-ai-automation-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241982975",
+    "title": "n8n-ci-actions",
+    "tool": "n8n",
+    "tags": [
+      "ci-cd",
+      "github-actions",
+      "n8n",
+      "reusable-workflow"
+    ],
+    "description": "Reusable GitHub Actions workflow to validate and deploy n8n workflows to a running n8n instance via the Public API",
+    "path": "n8n/synapz-tech-n8n-ci-actions/",
+    "type": "repo",
+    "repoUrl": "https://github.com/synapz-tech/n8n-ci-actions",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1244786590",
+    "title": "workflow-black-box",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "docker",
+      "make",
+      "mcp",
+      "n8n",
+      "react",
+      "typescript",
+      "workflow",
+      "workflow-diagnostics",
+      "zapier"
+    ],
+    "description": "Visual automation diagnostics console for n8n, Zapier and Make workflows, with MCP tools for agents.",
+    "path": "n8n/iazara-workflow-black-box/",
+    "type": "repo",
+    "repoUrl": "https://github.com/IAZARA/workflow-black-box",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1247976158",
+    "title": "sankaj-AI-data-flow",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "nextjs"
+    ],
+    "description": "This platform displays data analyzed from orders and invoices, driven by an AI-powered n8n workflow",
+    "path": "n8n/thomasmguru-spec-sankaj-ai-data-flow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thomasmguru-spec/sankaj-AI-data-flow",
+    "source": "github-discovery"
   }
 ]
