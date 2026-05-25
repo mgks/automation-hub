@@ -53031,5 +53031,133 @@
     "type": "repo",
     "repoUrl": "https://github.com/thomasmguru-spec/sankaj-AI-data-flow",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1248778615",
+    "title": "automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflows, Python bots, and AI automation systems",
+    "path": "n8n/farbensan-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/farbensan/automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1248773406",
+    "title": "credit-lifecycle-automation-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "End-to-end credit lifecycle automation built in n8n — real-time borrower scoring using the 5 Cs of Credit framework, AI-generated risk summaries, HIGH risk escalation alerts, and automated weekly CRRT regulatory reporting in one integrated workflow.",
+    "path": "n8n/tejasrameshtre-blip-credit-lifecycle-automation-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tejasrameshtre-blip/credit-lifecycle-automation-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1247129322",
+    "title": "Netty_Network",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Netty_Network is an AI Executive Operator & Automation Architect built for business scaling, workflow automation, sales optimization, and high-performance execution. Powered by N8N, Gemini, Google AI Studio, Hugging Face, and DigitalOcean to turn ideas into scalable systems. 🔥",
+    "path": "n8n/zer0day369-netty_network/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Zer0Day369/Netty_Network",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1248680780",
+    "title": "network-automation-lab",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Self-hosted network automation lab using n8n for workflow automation and NetBox for network inventory management (IPAM/DCIM). Deployed with Docker and integrated with GitHub Actions for CI/CD.",
+    "path": "n8n/eduardoparisd-network-automation-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/eduardoparisd/network-automation-lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1247596053",
+    "title": "maxvision-claude-forge",
+    "tool": "n8n",
+    "tags": [
+      "ai-workflows",
+      "anthropic",
+      "automation",
+      "claude-code",
+      "claude-marketplace",
+      "claude-plugin",
+      "claude-skills",
+      "google-tag-manager",
+      "n8n",
+      "skills"
+    ],
+    "description": "n8n Claude Code Marketplace 2026 ⚡ Production-Grade Skills for GTM & Workflow Automation",
+    "path": "n8n/abbyuraffi-netizen-maxvision-claude-forge/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1248594981",
+    "title": "deal-scout",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated affiliate deal redirection system — listens to Telegram channels via MTProto and forwards deal messages to n8n workflows.",
+    "path": "n8n/royopa-deal-scout/",
+    "type": "repo",
+    "repoUrl": "https://github.com/royopa/deal-scout",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1248682964",
+    "title": "Rocks-Partners-AI-Cases",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "fastapi",
+      "n8n",
+      "n8n-workflow",
+      "python"
+    ],
+    "description": "End-to-end AI automation pipelines (n8n, Python, LLMs) demonstrating predictive CRM retention and intelligent support routing for iGaming.",
+    "path": "n8n/bogdanmlh-rocks-partners-ai-cases/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BogdanMLH/Rocks-Partners-AI-Cases",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1248003872",
+    "title": "ops-autopilot-n8n",
+    "tool": "n8n",
+    "tags": [
+      "email",
+      "n8n-automation",
+      "n8n-workflow",
+      "self-hosted"
+    ],
+    "description": "Self-hosted email automation -- classify, log, and alert on every inbox message with n8n and docker",
+    "path": "n8n/debuggerdragon311-ops-autopilot-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/debuggerdragon311/ops-autopilot-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1087105281",
+    "title": "n8n-skills",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "claude",
+      "n8n",
+      "n8n-skills",
+      "n8n-workflow",
+      "skills"
+    ],
+    "description": "Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite.",
+    "path": "n8n/haunchen-n8n-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/haunchen/n8n-skills",
+    "source": "github-discovery"
   }
 ]
