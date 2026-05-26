@@ -53159,5 +53159,92 @@
     "type": "repo",
     "repoUrl": "https://github.com/haunchen/n8n-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1249164275",
+    "title": "n8n-telegram-instagram-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: Telegram bot → Google Drive → Instagram auto-publish",
+    "path": "n8n/workprojectdt-cmd-n8n-telegram-instagram-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/workprojectdt-cmd/n8n-telegram-instagram-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1249573057",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/aboalrejal-ai-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aboalrejal-ai/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1246686647",
+    "title": "adflow-studio",
+    "tool": "n8n",
+    "tags": [
+      "ai-video",
+      "feishu",
+      "n8n",
+      "nextjs",
+      "ugc"
+    ],
+    "description": "AI ad workflow workbench: product URL to hooks, scripts, and UGC talking-head video",
+    "path": "n8n/yueying526-adflow-studio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yueying526/adflow-studio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1249721229",
+    "title": "smartfare-tracker-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n automation workflow for monitoring flight prices, logging results in Google Sheets, and sending Telegram alerts.",
+    "path": "n8n/ramiro-89-smartfare-tracker-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rAmIro-89/smartfare-tracker-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1249738095",
+    "title": "n8n-media-monitor",
+    "tool": "n8n",
+    "tags": [
+      "media-monitoring",
+      "n8n",
+      "n8n-workflow",
+      "rss",
+      "rules-based",
+      "social-listening"
+    ],
+    "description": "A simple tool for n8n that watches news feeds and emails me what matters.",
+    "path": "n8n/exekyute-n8n-media-monitor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/exekyute/n8n-media-monitor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1249763171",
+    "title": "LinkedIn_Content_Generator",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "content-creation",
+      "content-engineering",
+      "linkedin-content-generator",
+      "llm",
+      "n8n-workflow"
+    ],
+    "description": "n8n workfloww to generate LinkedIn content ",
+    "path": "n8n/gauravrana0385-veda-linkedin_content_generator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gauravrana0385-veda/LinkedIn_Content_Generator",
+    "source": "github-discovery"
   }
 ]
