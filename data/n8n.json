@@ -53246,5 +53246,49 @@
     "type": "repo",
     "repoUrl": "https://github.com/gauravrana0385-veda/LinkedIn_Content_Generator",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1250468497",
+    "title": "n8n_Automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This repository consists of the AI Automated workflows made  by using N8N .",
+    "path": "n8n/jainpranav004-n8n_automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jainpranav004/n8n_Automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1250601923",
+    "title": "code-agent-shop",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Marketplace B2B/B2C de automacoes, scripts, workflows n8n e agentes IA. Blueprint V8 Inovare.",
+    "path": "n8n/fabricadeautomacoesia-code-agent-shop/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fabricadeautomacoesia/code-agent-shop",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1249277031",
+    "title": "Client-Management-AI-Saas",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Built a full-stack AI SaaS client onboarding platform for agencies using Next.js on the frontend, a high-performance backend powered by Go, serverless PostgreSQL databases, and workflow automation integrated with n8n.",
+    "path": "n8n/ankit-cs-client-management-ai-saas/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ankit-cs/Client-Management-AI-Saas",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1250718945",
+    "title": "SpaceShipIO",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Public collection of n8n workflows and supporting scripts",
+    "path": "n8n/mcastae813-spaceshipio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mcastae813/SpaceShipIO",
+    "source": "github-discovery"
   }
 ]
