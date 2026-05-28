@@ -12927,5 +12927,47 @@
     "type": "repo",
     "repoUrl": "https://github.com/Mucinous-freelance33/feishu-lark-agent",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1180355507",
+    "title": "threads-skills",
+    "tool": "openclaw",
+    "tags": [
+      "browser-automation",
+      "cdp",
+      "claude-code",
+      "claude-code-skill",
+      "openclaw",
+      "python",
+      "threads",
+      "threads-api"
+    ],
+    "description": "🧵 Threads 平台全自動化 Claude Code Skill — 登錄、發帖、滾動抓取首頁 Feed/搜索/用戶主頁、批量回覆、多帳號管理，基於 Chrome CDP",
+    "path": "openclaw/gaojiongwenv587-beep-threads-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gaojiongwenv587-beep/threads-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1173512881",
+    "title": "s3pia",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "S3pia - Simple self-contained AI assistant inspired by OpenClaw. Single Docker container with web interface, Telegram bot, persistent memory, scheduled tasks, and skills. Chat with S3pia for autonomous background code execution. https://marcelrsoub.github.io/s3pia/",
+    "path": "openclaw/marcelrsoub-s3pia/",
+    "type": "repo",
+    "repoUrl": "https://github.com/marcelrsoub/s3pia",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1251124623",
+    "title": "openclaw_demos",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "A set of example skills and use cases for OpenClaw",
+    "path": "openclaw/mmckeen-nv-openclaw_demos/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mmckeen-nv/openclaw_demos",
+    "source": "github-discovery"
   }
 ]

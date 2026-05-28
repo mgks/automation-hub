@@ -53290,5 +53290,70 @@
     "type": "repo",
     "repoUrl": "https://github.com/mcastae813/SpaceShipIO",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1250892617",
+    "title": "dailyreporter_workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "一个基于n8n的workflow，可以自动收集资讯并分类整理。",
+    "path": "n8n/johnwangfwd-dailyreporter_workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JohnWangFwd/dailyreporter_workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1251904957",
+    "title": "n8n-apify-gmaps-scraper",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated daily Google Maps data crawling using n8n workflows and Apify integration.",
+    "path": "n8n/thuhang24ld-n8n-apify-gmaps-scraper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thuhang24ld/n8n-apify-gmaps-scraper",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1251191502",
+    "title": "agentic-workflow-guard",
+    "tool": "n8n",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "ai-security",
+      "airflow",
+      "azure-pipelines",
+      "bitbucket-pipelines",
+      "browser-use",
+      "buildkite",
+      "circleci",
+      "code-scanning",
+      "github-actions",
+      "gitlab-ci",
+      "jenkins",
+      "llm-security",
+      "mcp",
+      "n8n",
+      "prompt-injection",
+      "sarif",
+      "workflow-security",
+      "zapier"
+    ],
+    "description": "Semgrep-style security scanner for AI automation workflows: CI, low-code, MCP, browser agents, SARIF, safe fixes, rule packs, benchmarks, and portable skills.",
+    "path": "n8n/guorunjie-agentic-workflow-guard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/guorunjie/agentic-workflow-guard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1175248321",
+    "title": "Agentic-Workflow-Hub",
+    "tool": "n8n",
+    "tags": [],
+    "description": "🤖 n8n Agentic AI Workflows | A professional laboratory for autonomous AI agents built with n8n and Google Gemini. Featuring implementations of Tool-Use, Multi-Agent Orchestration, and RAG (Retrieval-Augmented Generation).",
+    "path": "n8n/lashawnfofung-agentic-workflow-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LashawnFofung/Agentic-Workflow-Hub",
+    "source": "github-discovery"
   }
 ]
