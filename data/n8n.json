@@ -53355,5 +53355,27 @@
     "type": "repo",
     "repoUrl": "https://github.com/LashawnFofung/Agentic-Workflow-Hub",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1243192268",
+    "title": "agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Ecommerce after-sales multi-agent workflow with n8n, FastAPI, Docker, and AI Ops.",
+    "path": "n8n/talon1126-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/talon1126/agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1252899458",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready automation and RPA workflows developed with n8n and Node.js. Features advanced calendar orchestration, complex multi-resource availability logic, and third-party API integrations for live client projects",
+    "path": "n8n/hccazado-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hccazado/n8n-workflows",
+    "source": "github-discovery"
   }
 ]
