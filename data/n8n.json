@@ -53377,5 +53377,76 @@
     "type": "repo",
     "repoUrl": "https://github.com/hccazado/n8n-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1253994081",
+    "title": "ime-junior-automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n automation workflows for IME Júnior operations",
+    "path": "n8n/guilhermeculau28-hue-ime-junior-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/guilhermeculau28-hue/ime-junior-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1253937564",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "cascade-projects",
+      "local-dev",
+      "macos-intel",
+      "n8n",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Local n8n workflow templates for macOS automation",
+    "path": "n8n/stackconsult-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/stackconsult/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1244995065",
+    "title": "bfa-n8n-workflows-backup",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/ragarciaga-bfa-n8n-workflows-backup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ragarciaga/bfa-n8n-workflows-backup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1233717128",
+    "title": "AIephant-AI-Agent-Gateway",
+    "tool": "n8n",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-gateways",
+      "claude",
+      "cost-optimization",
+      "deepseek",
+      "hermes",
+      "llm",
+      "n8n-workflow",
+      "observability",
+      "openai",
+      "openclaw",
+      "rate-limiting",
+      "skills",
+      "x402",
+      "x402-agent",
+      "x402-gateway",
+      "zapier"
+    ],
+    "description": "Alephant is an open-source AI Agent Gateway for routing, tracking, and controlling LLM usage across AI agents, members, and workflows, and for publishing agent capabilities as paid endpoints with x402 and MPP payment rails.",
+    "path": "n8n/alephantai-aiephant-ai-agent-gateway/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AlephantAI/AIephant-AI-Agent-Gateway",
+    "source": "github-discovery"
   }
 ]

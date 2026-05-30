@@ -13132,5 +13132,44 @@
     "type": "repo",
     "repoUrl": "https://github.com/aboalrejal-ai/skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226903722",
+    "title": "hermes-optimization-guide",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "analysis-framework",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "distributed",
+      "hermes-agent",
+      "hyperparameter-optimization",
+      "java",
+      "jimple",
+      "llm",
+      "openclaw",
+      "optimization",
+      "performance-analysis",
+      "static-analysis",
+      "transformer"
+    ],
+    "description": "Optimize Hermes Agent performance with structured guides, installable skills, tailored configuration templates, and automated VPS deployment scripts.",
+    "path": "openclaw/guilhermepelido-hermes-optimization-guide/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Guilhermepelido/hermes-optimization-guide",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1219424400",
+    "title": "openclaw-dev",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "An OpenClaw agent hosted in the cloud for development, testing and single tenant use cases. ",
+    "path": "openclaw/microsoft-openclaw-dev/",
+    "type": "repo",
+    "repoUrl": "https://github.com/microsoft/openclaw-dev",
+    "source": "github-discovery"
   }
 ]
