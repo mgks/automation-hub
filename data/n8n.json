@@ -53448,5 +53448,16 @@
     "type": "repo",
     "repoUrl": "https://github.com/AlephantAI/AIephant-AI-Agent-Gateway",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1195816212",
+    "title": "n8nguide-com",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8nGuide.com — n8n tutorials, workflows, and automation guides",
+    "path": "n8n/muliarchuksv-n8nguide-com/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MuliarchukSV/n8nguide-com",
+    "source": "github-discovery"
   }
 ]

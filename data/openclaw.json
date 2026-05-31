@@ -13171,5 +13171,37 @@
     "type": "repo",
     "repoUrl": "https://github.com/microsoft/openclaw-dev",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1252713846",
+    "title": "PolyBrain",
+    "tool": "openclaw",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-orchestration",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "hermes-agent-skill",
+      "hermes-skill",
+      "llm",
+      "nous-research",
+      "openai",
+      "openclaw",
+      "openclaw-skill",
+      "orchestration"
+    ],
+    "description": "Multi-model orchestration skill for Hermes Agent - parallel subagents, citation enforcement, source verification",
+    "path": "openclaw/mosesman831-polybrain/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mosesman831/PolyBrain",
+    "source": "github-discovery"
   }
 ]
