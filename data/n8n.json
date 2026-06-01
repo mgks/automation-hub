@@ -53459,5 +53459,77 @@
     "type": "repo",
     "repoUrl": "https://github.com/MuliarchukSV/n8nguide-com",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1117371615",
+    "title": "FlowXcore",
+    "tool": "n8n",
+    "tags": [
+      "automation"
+    ],
+    "description": "FlowXcore is a workflow automation platform inspired by tools like n8n.   It allows users to create, manage, and execute automated workflows by connecting different actions and services.",
+    "path": "n8n/niharheavr-flowxcore/",
+    "type": "repo",
+    "repoUrl": "https://github.com/niharhEAVR/FlowXcore",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1255299370",
+    "title": "sandmanai",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n + Claude AI automation workflow templates",
+    "path": "n8n/sndman11-sandmanai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sndman11/sandmanai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1221819217",
+    "title": "n8n-opencode-orchestrator",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Self-hosted стек на базе n8n, OpenCode и Telegram для постановки задач, очереди выполнения, интерактивных уточнений и запуска инженерных workflow через AI-воркеры.",
+    "path": "n8n/robertgard-n8n-opencode-orchestrator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RobertGard/n8n-opencode-orchestrator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215499023",
+    "title": "floxolab-site",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-workflows",
+      "api",
+      "automation",
+      "automation-engineering",
+      "docker",
+      "n8n",
+      "workflows"
+    ],
+    "description": "AI automation workflows, internal tools, and workflow system prototypes built with modern APIs and automation platforms.",
+    "path": "n8n/zacadaaa1992-floxolab-site/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zacadaaa1992/floxolab-site",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225107239",
+    "title": "N8N-AI-Automation-cracked",
+    "tool": "n8n",
+    "tags": [
+      "agent-workflows",
+      "ai-automation",
+      "api-integrations",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "n8n AI Automation - Automation workflow platform for AI agents, API integrations, triggers, data pipelines, and business processes. Includes setup notes, SEO-focused topic coverage, referral information, and practical workflow keywords for discovery.",
+    "path": "n8n/tempestqueenglow-n8n-ai-automation-cracked/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TempestQueenGlow/N8N-AI-Automation-cracked",
+    "source": "github-discovery"
   }
 ]

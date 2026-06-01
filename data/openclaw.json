@@ -13203,5 +13203,121 @@
     "type": "repo",
     "repoUrl": "https://github.com/mosesman831/PolyBrain",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1255627631",
+    "title": "xiaohongshu-juguang-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "小红书聚光投放AI运营助手 - OpenClaw Skill-xiaohonshujuguangAI",
+    "path": "openclaw/crossover379-xiaohongshu-juguang-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/crossover379/xiaohongshu-juguang-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1245208228",
+    "title": "openclaw-release-analyzer",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "This skill should be used when analyzing OpenClaw GitHub releases, release notes, version comparisons, upgrade impact, bug fixes, new features, plugin-system changes, API/SDK changes, security fixes, performance/stability changes, beta/prerelease previews, or OpenClaw upgrade recommendations.",
+    "path": "openclaw/lianglei777-openclaw-release-analyzer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lianglei777/openclaw-release-analyzer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1255619987",
+    "title": "demotivator",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "claude-code",
+      "demotivator",
+      "developer-discipline",
+      "hermes-agent",
+      "openclaw",
+      "software-auditing"
+    ],
+    "description": "An anti-productivity software auditing skill and tool pack for AI coding agents.",
+    "path": "openclaw/sabraman-demotivator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sabraman/demotivator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1255620814",
+    "title": "test-os",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Test OS Framework for Agentic Testing of Apps Complete With Skills for OpenClaw or Hermes Agent and EC2 Deployment Guide",
+    "path": "openclaw/elmunoz42-test-os/",
+    "type": "repo",
+    "repoUrl": "https://github.com/elmunoz42/test-os",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1244257175",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw AI Assistant Skills Collection",
+    "path": "openclaw/13262727957-maker-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/13262727957-maker/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1252914134",
+    "title": "openclaw-restart-resume",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for post-restart user follow-up across gateway-backed media",
+    "path": "openclaw/udaymanish6-openclaw-restart-resume/",
+    "type": "repo",
+    "repoUrl": "https://github.com/udaymanish6/openclaw-restart-resume",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1247957462",
+    "title": "agent-supervision-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-supervision",
+      "ai",
+      "ai-agent",
+      "bigartm",
+      "chatbot",
+      "chatbots",
+      "claude-code",
+      "code-review",
+      "codex-cli",
+      "e2b",
+      "fasttext",
+      "hermes-agent",
+      "model-context-protocol",
+      "nextjs",
+      "openclaw",
+      "powershell",
+      "python",
+      "windows"
+    ],
+    "description": "Delegate coding tasks to agents, collect artifacts, and verify results locally with standalone supervision skills for Claude, Codex, and Kimi automation.",
+    "path": "openclaw/drippy-passport968-agent-supervision-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/drippy-passport968/agent-supervision-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1179533696",
+    "title": "revclaw-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "RevClaw skill for OpenClaw — submit and discover agent reviews. 🚽",
+    "path": "openclaw/rendrag-git-revclaw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rendrag-git/revclaw-skill",
+    "source": "github-discovery"
   }
 ]
