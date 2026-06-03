@@ -53676,5 +53676,57 @@
     "type": "repo",
     "repoUrl": "https://github.com/monfortbrian/n8n-nodes-openmrs",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1253785527",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "claude",
+      "n8n",
+      "openai",
+      "serpapi",
+      "telegram"
+    ],
+    "description": "n8n automation workflows: AI research assistant, voice research bot, air quality bot, news digest, Slack-to-Asana",
+    "path": "n8n/jmuralie-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jmuralie/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1257674066",
+    "title": "n8n-ai-automation-lab",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Portfolio of n8n AI automation workflows for Gmail classification,Email Triage, QA Test generation and productivity  workflows.",
+    "path": "n8n/swatijanapana-n8n-ai-automation-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/swatijanapana/n8n-ai-automation-lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1257787955",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow version control for Turin learning system",
+    "path": "n8n/clintgilchrist-code-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/clintgilchrist-code/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1220300450",
+    "title": "EL-SEM-II",
+    "tool": "n8n",
+    "tags": [],
+    "description": "College project for EL - II Semester: Trending India Pipeline and N8N workflow.",
+    "path": "n8n/sadine27-el-sem-ii/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sadine27/EL-SEM-II",
+    "source": "github-discovery"
   }
 ]
