@@ -53728,5 +53728,87 @@
     "type": "repo",
     "repoUrl": "https://github.com/sadine27/EL-SEM-II",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1258904716",
+    "title": "smart-home-kits",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Smart Home DIY Kits e-commerce system — product pages, n8n workflows, OpenClaw AI agents",
+    "path": "n8n/rollroyces-smart-home-kits/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rollroyces/smart-home-kits",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1258899901",
+    "title": "invoice-automation",
+    "tool": "n8n",
+    "tags": [
+      "api-integration",
+      "automation",
+      "backend-automation",
+      "business-automation",
+      "event-driven-architecture",
+      "gmail-api",
+      "google-sheets-api",
+      "html-to-pdf",
+      "invoice-generator",
+      "javascript",
+      "low-code",
+      "n8n",
+      "nodejs",
+      "pdf-generation",
+      "workflow-automation"
+    ],
+    "description": "End-to-end invoice automation system built with n8n that generates invoice IDs, calculates billing totals, creates branded PDF invoices, and automatically sends them via Gmail using an event-driven Google Sheets workflow.",
+    "path": "n8n/wilfredo-domanico-jr-invoice-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wilfredo-domanico-jr/invoice-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1258893256",
+    "title": "N8N-Workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of practical n8n automation workflows for AI agents, Google Sheets, Telegram bots, CRM, and business process automation.",
+    "path": "n8n/jit0114n-n8n-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jit0114N/N8N-Workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1258871162",
+    "title": "n8n-ai-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My first AI automation project using n8n workflows",
+    "path": "n8n/mprabashdev07-n8n-ai-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mprabashdev07/n8n-ai-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1258863957",
+    "title": "AI-Assistant-for-Selling-in-Facebook",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My journey to Learn n8n workflow, with now trying to learn to make AI assistant because i like to sell stuff in facebook, hopefully if launch can help a lot of people",
+    "path": "n8n/erza-dwiputra-ai-assistant-for-selling-in-facebook/",
+    "type": "repo",
+    "repoUrl": "https://github.com/erza-dwiputra/AI-Assistant-for-Selling-in-Facebook",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209326838",
+    "title": "CRM_Newsletter_Xero",
+    "tool": "n8n",
+    "tags": [],
+    "description": "CRM_Newsletter_Xero with N8N workflow",
+    "path": "n8n/preductive-dinasha-crm_newsletter_xero/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Preductive-dinasha/CRM_Newsletter_Xero",
+    "source": "github-discovery"
   }
 ]
