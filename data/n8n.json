@@ -53810,5 +53810,56 @@
     "type": "repo",
     "repoUrl": "https://github.com/Preductive-dinasha/CRM_Newsletter_Xero",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1259975742",
+    "title": "OCN8N",
+    "tool": "n8n",
+    "tags": [],
+    "description": "这是一个 OpenCode 到 n8n 的工作流构建插件。用户以自然语言告诉 OpenCode 想要什么自动化流程，插件负责查询 n8n 官方 MCP 节点文档、生成 workflow、校验安全规则，然后通过 n8n REST API 创建或更新工作流。",
+    "path": "n8n/drew1811266-ocn8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Drew1811266/OCN8N",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1259929343",
+    "title": "cria-o-de-videos-youtube-N8N-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow em n8n para automatizar a criação e publicação de vídeos no YouTube, incluindo geração de roteiro com IA, narração, imagens, legendas, trilha sonora, thumbnail e upload final usando APIs como OpenAI, ElevenLabs, Hugging Face, Groq, Google Drive e YouTube.",
+    "path": "n8n/ericviana445-cria-o-de-videos-youtube-n8n-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ericViana445/cria-o-de-videos-youtube-N8N-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1252968886",
+    "title": "api-comandvoice",
+    "tool": "n8n",
+    "tags": [],
+    "description": "integration api with n8n workflows.",
+    "path": "n8n/derik-carv-api-comandvoice/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Derik-Carv/api-comandvoice",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1259858678",
+    "title": "N8N-Business-Free-Desktop-2026",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-automation",
+      "n8n-community",
+      "n8n-cybersecurity",
+      "n8n-python",
+      "n8n-workflow"
+    ],
+    "description": "⭐️ N8N Download for Workflow Automation Tool v2023 featuring Setup Installer, Full Version Pre-Activated, Activation Key and Latest Build Pro. Get Open Source Automation to Integrate APIs with Node-Based Interface, Data Workflow Designer and No-Code Automation on Desktop Windows 10/11 PC ⭐️",
+    "path": "n8n/tunnelgregazebo-n8n-business-free-desktop-2026/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Tunnelgregazebo/N8N-Business-Free-Desktop-2026",
+    "source": "github-discovery"
   }
 ]

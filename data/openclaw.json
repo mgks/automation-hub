@@ -13690,5 +13690,80 @@
     "type": "repo",
     "repoUrl": "https://github.com/weex-labs/weex-trader-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1258594584",
+    "title": "skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "awesome-list",
+      "claude-code",
+      "codex",
+      "curated-list",
+      "hermes-agent",
+      "mcp",
+      "navigation",
+      "openclaw",
+      "opencode",
+      "skill",
+      "skills"
+    ],
+    "description": "🎯 Skill Hub — AI Agent Skills 导航站 | 77+ skills from 23 sources (OpenAI Codex, Claude, Hermes, OpenCode, OpenClaw) | 官方精选 + 社区清单 + CLI 工具",
+    "path": "openclaw/rdone4425-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rdone4425/skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1188766178",
+    "title": "tula",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "biomarkers",
+      "ehr",
+      "fhir",
+      "genomics",
+      "health",
+      "healthcare",
+      "labs",
+      "medical-imaging",
+      "oncology",
+      "openclaw",
+      "openclaw-skills",
+      "patient-data",
+      "patient-empowerment",
+      "patient-safety",
+      "second-opinion",
+      "wearables"
+    ],
+    "description": "Tula is an open-source collection of OpenClaw skills, configurations, and patterns designed to transform a general-purpose AI agent into a personal health intelligence assistant.",
+    "path": "openclaw/realactivity-tula/",
+    "type": "repo",
+    "repoUrl": "https://github.com/realactivity/tula",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1130548049",
+    "title": "AtomisticSkills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Intergrating Atomistic Skills into Agentic IDEs (Cursor, Claude Code, Google Antigravity, OpenClaw, etc)",
+    "path": "openclaw/learningmatter-mit-atomisticskills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/learningmatter-mit/AtomisticSkills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1145398376",
+    "title": "awesome-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "A curated collection of OpenClaw resources: GCP installation guide, best practices, and use cases",
+    "path": "openclaw/codealive-ai-awesome-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CodeAlive-AI/awesome-openclaw",
+    "source": "github-discovery"
   }
 ]
