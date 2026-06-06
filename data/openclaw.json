@@ -13765,5 +13765,122 @@
     "type": "repo",
     "repoUrl": "https://github.com/CodeAlive-AI/awesome-openclaw",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1254439350",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Custom OpenClaw AI agent skills — developed and maintained by Eva2",
+    "path": "openclaw/jacksang-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jacksang/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215131290",
+    "title": "awesome-ai-media-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "ai-tools",
+      "ai-video",
+      "automation",
+      "awesome",
+      "awesome-list",
+      "claude-code",
+      "claude-skills",
+      "content-creation",
+      "generative-ai",
+      "llm-tools",
+      "mcp-server",
+      "openclaw",
+      "openclaw-skills",
+      "self-media",
+      "social-media-automation",
+      "text-to-video",
+      "video-generation"
+    ],
+    "description": "A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management, and content automation.",
+    "path": "openclaw/juneyaooo-awesome-ai-media-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JuneYaooo/awesome-ai-media-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1231494765",
+    "title": "agent-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "automation",
+      "browser-automation",
+      "claude-code",
+      "codex-cli",
+      "openclaw",
+      "workflow-automation"
+    ],
+    "description": "MediaUse Skills",
+    "path": "openclaw/mediause-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mediause/agent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1170313138",
+    "title": "openclaw-py",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "clawhub",
+      "openclaw",
+      "skills"
+    ],
+    "description": "Your own personal AI assistant. Any OS. Any Platform. ",
+    "path": "openclaw/chensaics-openclaw-py/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chensaics/openclaw-py",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1236217436",
+    "title": "n1n-media-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "N1N API 生图生视频 Skill for OpenClaw - 支持 Gemini、Grok、Veo 等模型",
+    "path": "openclaw/wanglaoer02-n1n-media-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/WangLaoer02/n1n-media-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229922303",
+    "title": "meeting-interpreter-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Spin极简会议解读 Skill for QClaw/OpenClaw",
+    "path": "openclaw/spinliu-meeting-interpreter-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/spinliu/meeting-interpreter-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1184466001",
+    "title": "ki-register-agent-kit",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "ai-governance",
+      "compliance",
+      "eu-ai-act",
+      "openclaw",
+      "skillsmp"
+    ],
+    "description": "EU AI Act use-case documentation CLI and skill bundle for KI-Register.",
+    "path": "openclaw/egonso-ki-register-agent-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Egonso/ki-register-agent-kit",
+    "source": "github-discovery"
   }
 ]

@@ -53861,5 +53861,51 @@
     "type": "repo",
     "repoUrl": "https://github.com/Tunnelgregazebo/N8N-Business-Free-Desktop-2026",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210568538",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-grade n8n automation workflows — CRM, AI email generation, lead management",
+    "path": "n8n/parvinguseynov-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/parvinguseynov/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1260023718",
+    "title": "workflow-automation-demo-pack",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "api-integration",
+      "document-processing",
+      "email-automation",
+      "lead-management",
+      "n8n",
+      "observability",
+      "portfolio",
+      "python",
+      "telegram-bot",
+      "workflow-automation",
+      "workflow-monitoring"
+    ],
+    "description": "Agentic workflow automation demos: n8n, Python, API handoffs, document intake, conversation QA, and dry-run email workflows.",
+    "path": "n8n/nadeemkamel-arch-workflow-automation-demo-pack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nadeemkamel-arch/workflow-automation-demo-pack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1260898296",
+    "title": "braincut-blur",
+    "tool": "n8n",
+    "tags": [],
+    "description": "BrainCut Blur Service – Docker container for automatic face/plate blurring in videos. Used by the BrainCut n8n workflow.",
+    "path": "n8n/crazydevil66-braincut-blur/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CrazyDevil66/braincut-blur",
+    "source": "github-discovery"
   }
 ]
