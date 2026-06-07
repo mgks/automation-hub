@@ -13882,5 +13882,162 @@
     "type": "repo",
     "repoUrl": "https://github.com/Egonso/ki-register-agent-kit",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1167231870",
+    "title": "agentic-swmm-workflow",
+    "tool": "openclaw",
+    "tags": [
+      "agentic-ai",
+      "agentic-framework",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "gis",
+      "hermes-skill",
+      "mcp",
+      "mcp-servers",
+      "modelling-memory",
+      "openclaw",
+      "provenance-tracking",
+      "qgis",
+      "reproducible-research",
+      "skills",
+      "stormwater-modelling",
+      "swmm",
+      "uncertainty-quantification",
+      "urban-hydrology"
+    ],
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integrating QGIS and EPA SWMM through the aiswmm runtime, reusable Skills, and MCP interfaces, with QA verification, provenance tracking, calibration support, and agent-runtime compatibility",
+    "path": "openclaw/zhonghao1995-agentic-swmm-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Zhonghao1995/agentic-swmm-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1256579039",
+    "title": "Skill-Kernel",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw SkillKernel plugin & sidecar; comprehensive autonomous skill creation & self-improvement.",
+    "path": "openclaw/kklouzal-skill-kernel/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kklouzal/Skill-Kernel",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1259895443",
+    "title": "AUTOMYX-2.5",
+    "tool": "openclaw",
+    "tags": [
+      "aagent-skills",
+      "agentic-ai",
+      "automation",
+      "automyx",
+      "devops",
+      "local-ai",
+      "ollama",
+      "openclaw-alternative"
+    ],
+    "description": "Autonomous AI Agent optimized for low-end PCs. A powerful, lightweight alternative to OpenClaw and Hermes with 100+ skills for DevOps, 3D rendering, and OSINT",
+    "path": "openclaw/nexoratechnologyceo-automyx-2.5/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NEXORATECHNOLOGYCEO/AUTOMYX-2.5",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1261336475",
+    "title": "openclaw-life-butler",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "基于真实 OpenClaw 2026.6.1 的本地生活「全天候私人管家」：自然语言对话替代餐饮/出行/娱乐 App UI，大模型API作为 LLM 大脑自主读取 SKILL.md 并调用本地脚本，用户偏好脱敏、零明文落库。",
+    "path": "openclaw/frreeze-openclaw-life-butler/",
+    "type": "repo",
+    "repoUrl": "https://github.com/frreeze/openclaw-life-butler",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1163151015",
+    "title": "forge",
+    "tool": "openclaw",
+    "tags": [
+      "a2a",
+      "a2a-protocol",
+      "agent-cli",
+      "ai-agents",
+      "ai-agents-cli",
+      "ai-workforce",
+      "claude",
+      "enterprise-ai",
+      "llm-runtime",
+      "local-ai",
+      "local-ai-agents",
+      "mcp",
+      "openai",
+      "openclaw",
+      "portable-agents",
+      "secure-ai"
+    ],
+    "description": "Forge is the open-source runtime for Anthropic's Agent Skills standard — built for the agent that runs next to a service, in your environment, on infrastructure you already operate. Write a SKILL.md. Compile to a portable, hardened agent. Deploy it anywhere containers run: Kubernetes, on-prem, air-gapped, embedded in CI, or as an A2A endpoint.",
+    "path": "openclaw/initializ-forge/",
+    "type": "repo",
+    "repoUrl": "https://github.com/initializ/forge",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1166119761",
+    "title": "archive-daily-note",
+    "tool": "openclaw",
+    "tags": [
+      "automation",
+      "daily-notes",
+      "obsidian",
+      "openclaw",
+      "openclaw-skill"
+    ],
+    "description": "OpenClaw skill: archive yesterday's Obsidian daily note into past-days/ with link-safe move",
+    "path": "openclaw/madebydia-archive-daily-note/",
+    "type": "repo",
+    "repoUrl": "https://github.com/madebydia/archive-daily-note",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1158749341",
+    "title": "nag",
+    "tool": "openclaw",
+    "tags": [
+      "nag",
+      "openclaw",
+      "openclaw-skill",
+      "productivity",
+      "reminders"
+    ],
+    "description": "OpenClaw skill for persistent reminders that nag until you confirm. Config-driven, escalating, daily auto-reset.",
+    "path": "openclaw/madebydia-nag/",
+    "type": "repo",
+    "repoUrl": "https://github.com/madebydia/nag",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1261691892",
+    "title": "openclaw-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Openclaw Skills",
+    "path": "openclaw/mag3nt-com-openclaw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mag3nt-com/openclaw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1261692153",
+    "title": "delaware-incorporation-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Multi-agent skill for Delaware corporation/LLC formation — form completion, drafting, and filing guidance (Codex, OpenClaw, Hermes variants)",
+    "path": "openclaw/jimdawdy-hub-delaware-incorporation-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jimdawdy-hub/delaware-incorporation-skill",
+    "source": "github-discovery"
   }
 ]
