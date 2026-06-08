@@ -14039,5 +14039,110 @@
     "type": "repo",
     "repoUrl": "https://github.com/jimdawdy-hub/delaware-incorporation-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1254865681",
+    "title": "xiaoduiyou-public",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Public Xiaoduiyou Agent plugins and skills for Hermes and OpenClaw",
+    "path": "openclaw/guoen0-xiaoduiyou-public/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Guoen0/xiaoduiyou-public",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222092708",
+    "title": "OpenClawWLSkills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "whitelisted skills for agents that safe for install",
+    "path": "openclaw/wilsonwordsofwisdom-openclawwlskills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/WilsonWordsofWisdom/OpenClawWLSkills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1232637729",
+    "title": "writing-triadic",
+    "tool": "openclaw",
+    "tags": [
+      "ai-skill",
+      "ai-writing",
+      "chinese-writing",
+      "collaborative-writing",
+      "content-creation",
+      "openclaw",
+      "openclaw-skill",
+      "self-evolving",
+      "writing-tool"
+    ],
+    "description": "🖋️ OpenClaw AI Skill — 自我进化的三角色协作写作框架。Creator挖掘意图 → Executor产出多版本 → Reader六维评审 → 进化引擎越用越聪明。Self-evolving triadic writing with type-tagged memory matrix.",
+    "path": "openclaw/sallyface0-writing-triadic/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sallyface0/writing-triadic",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190398629",
+    "title": "hedgehog-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Hedgehog skills for OpenClaw",
+    "path": "openclaw/hedgehog-finance-hedgehog-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hedgehog-finance/hedgehog-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1262103055",
+    "title": "pass_all_exams",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Evidence-grounded exam prep skill for Codex, OpenClaw, and OpenCode",
+    "path": "openclaw/solarascent-pass_all_exams/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SolarAscent/pass_all_exams",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241212729",
+    "title": "openclaw-discord-server-backup",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "automation",
+      "backup",
+      "discord",
+      "openclaw",
+      "skill"
+    ],
+    "description": "OpenClaw-specific Discord server backup skill with V3 cursor state, backlog queue, deterministic workers, and audit probes.",
+    "path": "openclaw/jasperyang0609-openclaw-discord-server-backup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JasperYang0609/openclaw-discord-server-backup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1262497180",
+    "title": ".github",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Organization profile — AI-skill-mcp · OpenClaw skills & MCP registry",
+    "path": "openclaw/ai-skill-mcp-.github/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AI-skill-mcp/.github",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1262446845",
+    "title": "openclaw-voice",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "open class skill for initiating voice phone calls using multiple different services",
+    "path": "openclaw/cyberleo986-openclaw-voice/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cyberleo986/openclaw-voice",
+    "source": "github-discovery"
   }
 ]

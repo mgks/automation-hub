@@ -54028,5 +54028,49 @@
     "type": "repo",
     "repoUrl": "https://github.com/atlas-aia/n8n-automation-guides",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1261101478",
+    "title": "contract-review-agents",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A multi-agent workflow for parsing vendor contracts, extracting key terms, assessing risk, and generating structured review summaries using n8n, LlamaParse, Airbyte, Supabase, and the OpenAI Responses API.",
+    "path": "n8n/m-longoria-contract-review-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/M-Longoria/contract-review-agents",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1259427227",
+    "title": "inaiui-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node and workflows for InaiUI",
+    "path": "n8n/inaiui-inaiui-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/inaiui/inaiui-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1006555763",
+    "title": "n8n-ai-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/dilip-chendra-n8n-ai-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Dilip-chendra/n8n-ai-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1262460980",
+    "title": "n8n-marketing-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/ninadpatil66-n8n-marketing-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NinadPatil66/n8n-marketing-workflows",
+    "source": "github-discovery"
   }
 ]
