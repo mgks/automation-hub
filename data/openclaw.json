@@ -14144,5 +14144,74 @@
     "type": "repo",
     "repoUrl": "https://github.com/cyberleo986/openclaw-voice",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1179414895",
+    "title": "knowledge-connector",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: knowledge-connector",
+    "path": "openclaw/harrylabsj-knowledge-connector/",
+    "type": "repo",
+    "repoUrl": "https://github.com/harrylabsj/knowledge-connector",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1243711871",
+    "title": "semiconductor-pool-daily-update",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Portable OpenClaw/Codex skill for a daily semiconductor watchlist update workflow",
+    "path": "openclaw/siupo2023-semiconductor-pool-daily-update/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Siupo2023/semiconductor-pool-daily-update",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1208592999",
+    "title": "harnessclaw",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai-agents",
+      "astron-community",
+      "chatbot",
+      "desktop-app",
+      "electron-app",
+      "harness",
+      "harness-engineering",
+      "iflytek-astron",
+      "open",
+      "openclaw"
+    ],
+    "description": "Harnessclaw is a powerful, Electron-based desktop application designed to manage, chat with, and operate AI agents and skills seamlessly.",
+    "path": "openclaw/harnessclaw-harnessclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/harnessclaw/harnessclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1028070615",
+    "title": "memU",
+    "tool": "openclaw",
+    "tags": [
+      "agent-memory",
+      "agentic-workflow",
+      "claude",
+      "claude-skills",
+      "mcp",
+      "memory",
+      "openclaw",
+      "openclaw-skills",
+      "proactive",
+      "proactive-ai",
+      "sandbox",
+      "skills"
+    ],
+    "description": "The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction.",
+    "path": "openclaw/nevamind-ai-memu/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NevaMind-AI/memU",
+    "source": "github-discovery"
   }
 ]

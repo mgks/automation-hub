@@ -54072,5 +54072,85 @@
     "type": "repo",
     "repoUrl": "https://github.com/NinadPatil66/n8n-marketing-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1233165500",
+    "title": "mv-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/holamv-mv-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/holamv/mv-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1198060417",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Collection of real-world automation workflows built using n8n, focusing on AI integrations, process automation, and event-driven systems.",
+    "path": "n8n/binayatosh007-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BINAYATOSH007/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1262941066",
+    "title": "uni-ocr",
+    "tool": "n8n",
+    "tags": [
+      "apple-silicon",
+      "apple-vision",
+      "document-ai",
+      "fastapi",
+      "mlx",
+      "ocr",
+      "paddleocr",
+      "pdf-parser",
+      "python",
+      "text-recognition"
+    ],
+    "description": "UniOCR - Unified multilingual OCR service. Supports PaddleOCR / Apple Vision engines with deep MLX-VLM neural network hardware acceleration. A blazing-fast, local-first API for enterprise AI workflows (n8n/Bob).",
+    "path": "n8n/yuanweize-uni-ocr/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yuanweize/uni-ocr",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1263484051",
+    "title": "support-ticket-intelligence",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "customer-support",
+      "llm",
+      "llm-as-a-judge",
+      "n8n-workflow",
+      "no-code",
+      "openai"
+    ],
+    "description": "AI-powered customer support automation using n8n and GPT-4 with LLM-as-a-Judge evaluation",
+    "path": "n8n/garg2803-support-ticket-intelligence/",
+    "type": "repo",
+    "repoUrl": "https://github.com/garg2803/support-ticket-intelligence",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1263478028",
+    "title": "globaledge-rag-pipeline",
+    "tool": "n8n",
+    "tags": [
+      "gpt4o-mini",
+      "llm",
+      "n8n-workflow",
+      "no-code",
+      "pinecone"
+    ],
+    "description": "RAG pipeline for financial market intelligence using n8n, Pinecone, and GPT-4o-mini",
+    "path": "n8n/garg2803-globaledge-rag-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/garg2803/globaledge-rag-pipeline",
+    "source": "github-discovery"
   }
 ]
