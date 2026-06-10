@@ -14213,5 +14213,91 @@
     "type": "repo",
     "repoUrl": "https://github.com/NevaMind-AI/memU",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1142998259",
+    "title": "learn-skills.dev",
+    "tool": "openclaw",
+    "tags": [
+      "learn-skills",
+      "skills"
+    ],
+    "description": "Curated high-quality AI Agent Skills. Search, install, copy and share. Works with Claude Code, Cursor, OpenClaw, and other AI coding tools.",
+    "path": "openclaw/neversight-learn-skills.dev/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NeverSight/learn-skills.dev",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1264605937",
+    "title": "yuangongjuzhen-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "这是一个基于员工矩阵的skill，可以在openclaw、claude code等智能体框架上进行安装，可以实现直接口语化的给RPA下达命令（公众号自动发布），如：帮我写一篇关于英伟达估值的文章，窗口序号为1，立即发布。",
+    "path": "openclaw/hqfeijian-yuangongjuzhen-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hqfeijian/yuangongjuzhen-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229149294",
+    "title": "ClawCross",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Unify agents from multi-platform (OpenClaw, Codex, Claude, Gemini) into one Team with shared prompts & skills — then drop the whole agent workflow into any Python script.",
+    "path": "openclaw/clawcross-clawcross/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ClawCross/ClawCross",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1191658274",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw 技能集合库",
+    "path": "openclaw/zhanquanhong-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zhanquanhong/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1261918793",
+    "title": "aegis",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai-agent",
+      "claude",
+      "cli",
+      "llm",
+      "mcp",
+      "openai",
+      "python",
+      "terminal"
+    ],
+    "description": "AEGIS — a self-improving, multi-provider, multi-channel terminal agent harness in Python (an open replacement for Hermes Agent + OpenClaw): bounded agent loop, OAuth+API-key providers, MCP, skills marketplace, gateway, browser/computer-use, one-line install.",
+    "path": "openclaw/alien0013-aegis/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Alien0013/aegis",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186869765",
+    "title": "lmi-management-system",
+    "tool": "openclaw",
+    "tags": [
+      "codex",
+      "lmi",
+      "openclaw",
+      "productivity",
+      "skill",
+      "time-management"
+    ],
+    "description": "基于 LMI 方法的 OpenClaw/Codex 管理 Skill：角色目标、月周日计划、复盘、Inbox 与专注执行闭环",
+    "path": "openclaw/woohuaca-lmi-management-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/woohuaca/lmi-management-system",
+    "source": "github-discovery"
   }
 ]

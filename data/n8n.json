@@ -54152,5 +54152,56 @@
     "type": "repo",
     "repoUrl": "https://github.com/garg2803/globaledge-rag-pipeline",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1098531406",
+    "title": "n8n-workflows-backup",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/silvaolamide-n8n-workflows-backup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Silvaolamide/n8n-workflows-backup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1264409544",
+    "title": "N8N-Business-Free-Desktop-2026",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-automation",
+      "n8n-community",
+      "n8n-cybersecurity",
+      "n8n-python",
+      "n8n-workflow"
+    ],
+    "description": "⭐️ N8N Download for Workflow Automation Tool v2023 featuring Setup Installer, Full Version Pre-Activated, Activation Key and Latest Build Pro. Get Open Source Automation to Integrate APIs with Node-Based Interface, Data Workflow Designer and No-Code Automation on Desktop Windows 10/11 PC ⭐️",
+    "path": "n8n/zombieverseshed-n8n-business-free-desktop-2026/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ZombieVerseShed/N8N-Business-Free-Desktop-2026",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1264590244",
+    "title": "mcp-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "MCP server for n8n self-hosted REST API — manage workflows, executions, credentials, and more from Claude",
+    "path": "n8n/verzth-mcp-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/verzth/mcp-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1264570590",
+    "title": "Alura-n8n-curso",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n para dev Construyendo Workflows inteligentes",
+    "path": "n8n/alestelu1-alura-n8n-curso/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Alestelu1/Alura-n8n-curso",
+    "source": "github-discovery"
   }
 ]
