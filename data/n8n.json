@@ -54203,5 +54203,100 @@
     "type": "repo",
     "repoUrl": "https://github.com/Alestelu1/Alura-n8n-curso",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1264655179",
+    "title": "n8n-etymology-shorts",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Local n8n workflow to generate and upload shorts",
+    "path": "n8n/rushabhpasad-n8n-etymology-shorts/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rushabhpasad/n8n-etymology-shorts",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1265748269",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered automation workflows built with n8n, Slack, OpenAI, Hex, and Freshdesk",
+    "path": "n8n/brandon85bo-ux-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/brandon85bo-ux/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1265701669",
+    "title": "cloud-security-alert-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "4 production-grade n8n workflows for cloud security alert triage, AI scoring, Jira ticketing, and weekly digest reporting",
+    "path": "n8n/ishwaryalakshmic-cloud-security-alert-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/IshwaryaLakshmiC/cloud-security-alert-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202059393",
+    "title": "n8n_workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My n8n Automation Workflows",
+    "path": "n8n/prashaanthrathnavel-n8n_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/prashaanthrathnavel/n8n_workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1259356179",
+    "title": "pride-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A Next.js frontend for submitting SACCO loan requests, integrated with an n8n workflow for automated loan review, email notifications, and Google Sheets logging.",
+    "path": "n8n/twooceans64-pride-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TwoOceans64/pride-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1265642274",
+    "title": "ai-content-summarizer-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered content summarization workflow built using n8n, Google Sheets, and Gemini API.",
+    "path": "n8n/subhamraj05-ai-content-summarizer-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/subhamraj05/ai-content-summarizer-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1265622604",
+    "title": "coaching-program-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that auto-schedules multi-sprint coaching sessions across timezones, generates branded schedule documents, and routes everything through a Trello approval flow — with calendar conflict detection and cascading  reschedules.",
+    "path": "n8n/sttapollo-coaching-program-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SttApollo/coaching-program-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1265708189",
+    "title": "ai-whatsapp-cs-n8n",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "customer-service-chatbot",
+      "n8n",
+      "n8n-workflow",
+      "whatsapp-bot",
+      "workflow"
+    ],
+    "description": "AI-powered WhatsApp Customer Service Automation built with n8n, GOWA API and OpenAI.",
+    "path": "n8n/hazanudin-ai-whatsapp-cs-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Hazanudin/ai-whatsapp-cs-n8n",
+    "source": "github-discovery"
   }
 ]
