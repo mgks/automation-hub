@@ -54298,5 +54298,68 @@
     "type": "repo",
     "repoUrl": "https://github.com/Hazanudin/ai-whatsapp-cs-n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1266783584",
+    "title": "ai-automation-toolkit",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI automation workflows, Claude Code systems, n8n agents, and modern productivity tools.",
+    "path": "n8n/naderbenayed-ai-automation-toolkit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Naderbenayed/ai-automation-toolkit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1236811221",
+    "title": "n8n-claude-workflow-pack-free-lite",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation-template",
+      "claude",
+      "devtools",
+      "github",
+      "n8n",
+      "no-code",
+      "weekly-report",
+      "workflow-automation"
+    ],
+    "description": "Free n8n workflow for turning public/sanitized GitHub activity into a weekly Markdown snapshot and Claude-ready review questions.",
+    "path": "n8n/jh280722-n8n-claude-workflow-pack-free-lite/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jh280722/n8n-claude-workflow-pack-free-lite",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1238214046",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflows do n8n",
+    "path": "n8n/purgprod-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/purgprod/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1266768771",
+    "title": "n8n-production-patterns",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "close-crm",
+      "n8n",
+      "n8n-workflow",
+      "production-patterns",
+      "retell-ai",
+      "webhook",
+      "workflow-automation"
+    ],
+    "description": "Battle-tested workflow architecture patterns from 500+ production n8n workflows",
+    "path": "n8n/rafiulislam4246-n8n-production-patterns/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rafiulislam4246/n8n-production-patterns",
+    "source": "github-discovery"
   }
 ]

@@ -14517,5 +14517,37 @@
     "type": "repo",
     "repoUrl": "https://github.com/HiAPIAI/hiapi-happyhorse-1-0-video-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1261713733",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/zhaoweisenxjtu-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zhaoweisenxjtu/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1220952538",
+    "title": "memstem",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "anthropic",
+      "claude-code",
+      "knowledge-base",
+      "mcp",
+      "mcp-server",
+      "memory",
+      "python",
+      "second-brain"
+    ],
+    "description": "Unified memory and skill infrastructure for AI agents — pull-based ingestion across Claude Code, OpenClaw, Codex, Cursor, and more. Markdown canonical + SQLite hybrid index + MCP-native API.",
+    "path": "openclaw/memstem-memstem/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Memstem/memstem",
+    "source": "github-discovery"
   }
 ]
