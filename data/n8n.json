@@ -54361,5 +54361,62 @@
     "type": "repo",
     "repoUrl": "https://github.com/rafiulislam4246/n8n-production-patterns",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1267905714",
+    "title": "n8n-chatbot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Customer service chatbot implemented using n8n workflows",
+    "path": "n8n/el-isi-n8n-chatbot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/El-Isi/n8n-chatbot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1267898693",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Portfólio de automações e workflows em n8n — integrações entre APIs, pipelines de dados e agentes de IA. Demonstração prática de automação de processos e engenharia de integração.",
+    "path": "n8n/lmacedobr25-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lmacedobr25/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1107008658",
+    "title": "n8n-Library",
+    "tool": "n8n",
+    "tags": [
+      "n8n"
+    ],
+    "description": "Discover 2,300+ free n8n workflow templates. Browse curated automation templates for AI, Telegram, Slack, Google Sheets, and more.",
+    "path": "n8n/newbie-learn-coding-n8n-library/",
+    "type": "repo",
+    "repoUrl": "https://github.com/newbie-learn-coding/n8n-Library",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1267891024",
+    "title": "n8n-ai-automation-demos",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Demo automation workflows using n8n, AI prompts and business logic for SMB use cases.",
+    "path": "n8n/mhdteto-n8n-ai-automation-demos/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mhdteto/n8n-ai-automation-demos",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1267422790",
+    "title": "upwork-ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready AI automation workflows: lead generation, RAG chatbots & document processing. Built with n8n, Python and Claude.",
+    "path": "n8n/hakiller777-upwork-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Hakiller777/upwork-ai-automation-portfolio",
+    "source": "github-discovery"
   }
 ]
