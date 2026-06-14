@@ -54418,5 +54418,54 @@
     "type": "repo",
     "repoUrl": "https://github.com/Hakiller777/upwork-ai-automation-portfolio",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1268791569",
+    "title": "n8n-automation-workflow-lab",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "api-integration",
+      "automation",
+      "backend",
+      "devops",
+      "docker",
+      "google-api",
+      "google-sheets",
+      "javascript",
+      "n8n",
+      "portfolio",
+      "self-hosted",
+      "telegram-bot",
+      "webhook",
+      "workflow-automation"
+    ],
+    "description": "Self-hosted n8n automation workflow lab: Telegram bot, Google Sheets logging, JavaScript parsing, command routing, debugging notes, and AI parser roadmap.",
+    "path": "n8n/khoirulyahya-n8n-automation-workflow-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/khoirulyahya/n8n-automation-workflow-lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1268777958",
+    "title": "caiac-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/cewall0-caiac-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cewall0/caiac-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1268607239",
+    "title": "ecommerce-ocr-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An automated AI workflow built with n8n to process complex PDF catalogs using GPT-4 Vision/OCR, extract unstructured data into CSV, and calculate dynamic B2B e-commerce margins via Telegram.",
+    "path": "n8n/felipebebas-ecommerce-ocr-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/FelipeBebas/ecommerce-ocr-automation",
+    "source": "github-discovery"
   }
 ]
