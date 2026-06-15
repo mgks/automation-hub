@@ -54467,5 +54467,49 @@
     "type": "repo",
     "repoUrl": "https://github.com/FelipeBebas/ecommerce-ocr-automation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1269645592",
+    "title": "ElevateAI",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A full-stack AI automation platform that helps users improve documents and optimize resumes for Applicant Tracking Systems (ATS). Built with React, n8n, Gemini AI, PDF extraction, automated analysis workflows, and dynamic PDF generation.",
+    "path": "n8n/nouhad122-elevateai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Nouhad122/ElevateAI",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1264182827",
+    "title": "AIAutomationPortfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of AI automation workflows, chatbots, and integrations built with n8n",
+    "path": "n8n/iammuhammadreyaan-aiautomationportfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iammuhammadreyaan/AIAutomationPortfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1243767388",
+    "title": "camila-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Helena AI agent for Camila Rosario Academy - WhatsApp scheduling assistant (replaces n8n workflow)",
+    "path": "n8n/doni010520-camila-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/doni010520/camila-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1269573435",
+    "title": "chappie-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/cristiansrc-chappie-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cristiansrc/chappie-n8n-workflows",
+    "source": "github-discovery"
   }
 ]
