@@ -54511,5 +54511,123 @@
     "type": "repo",
     "repoUrl": "https://github.com/cristiansrc/chappie-n8n-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1248348349",
+    "title": "n8n-dental-clinic-review-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-built n8n automation templates for small business workflows. Built by AIdaptive Strategies.",
+    "path": "n8n/aidaptivestrategies-oss-n8n-dental-clinic-review-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aidaptivestrategies-oss/n8n-dental-clinic-review-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270612416",
+    "title": "Lex-Consultant-Agents",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "blueprint-engineering",
+      "claude",
+      "consulting",
+      "html5",
+      "industrial-automation",
+      "landing-page",
+      "lex-consultor-agents",
+      "mcp-server",
+      "n8n",
+      "rag",
+      "saas",
+      "six-sigma",
+      "whatsapp-automation"
+    ],
+    "description": "Landing oficial de Lex Consultor Agents · Plataforma MCP industrial (código privado) que genera workflows n8n 1.x con calidad Six Sigma 6.0σ. 13 herramientas MCP, 51 adapters, 1.505 nodos catalogados. Cliente productivo: Indalo Water Panamá (bot WhatsApp, 10 workflows, 80 leads/hora).",
+    "path": "n8n/lexmoibusiness-stack-lex-consultant-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lexmoibusiness-stack/Lex-Consultant-Agents",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270512071",
+    "title": "n8n-vapi-phone-booking-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: AI phone agent powered by VAPI with Google Calendar booking and Gmail notifications",
+    "path": "n8n/aidaptivestrategies-oss-n8n-vapi-phone-booking-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aidaptivestrategies-oss/n8n-vapi-phone-booking-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270502364",
+    "title": "n8n-google-maps-business-scraper",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: scrapes Google Maps via Apify from a Google Sheet job list, deduplicates results, and uploads CSVs to Google Drive",
+    "path": "n8n/aidaptivestrategies-oss-n8n-google-maps-business-scraper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aidaptivestrategies-oss/n8n-google-maps-business-scraper",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270641403",
+    "title": "ai-job-intelligence-system",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered automation workflow that aggregates, ranks, and filters job opportunities using n8n, OpenAI, APIs, and automated reporting.",
+    "path": "n8n/riles1975-ai-job-intelligence-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Riles1975/ai-job-intelligence-system",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270663433",
+    "title": "n8n-telegram-voice-transcription-bot",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "ai-bot",
+      "automation",
+      "chatbot",
+      "customer-support",
+      "groq",
+      "llama",
+      "llm",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow",
+      "openai",
+      "speech-to-text",
+      "transcription",
+      "voice-to-text",
+      "voice-transcription",
+      "whisper"
+    ],
+    "description": "Transcribe and summarize Telegram voice messages using an automated n8n workflow powered by Groq.",
+    "path": "n8n/alices5723-n8n-telegram-voice-transcription-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Alices5723/n8n-telegram-voice-transcription-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1253229008",
+    "title": "jobby-md2html",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "markdown",
+      "n8n-workflow",
+      "notion",
+      "resume-builder"
+    ],
+    "description": "AI automated resume with a Markdown editor",
+    "path": "n8n/gnueole-jobby-md2html/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gnueole/jobby-md2html",
+    "source": "github-discovery"
   }
 ]
