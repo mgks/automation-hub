@@ -54629,5 +54629,145 @@
     "type": "repo",
     "repoUrl": "https://github.com/gnueole/jobby-md2html",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-983899704",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "apis",
+      "automation",
+      "cli",
+      "data-flow",
+      "development",
+      "integration-framework",
+      "integrations",
+      "ipaas",
+      "low-code-no-code",
+      "low-code-platform",
+      "mcp",
+      "mcp-server-mcp-client",
+      "n8n",
+      "self-hosted",
+      "typescript",
+      "workflow",
+      "workflow-automation"
+    ],
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "path": "n8n/loong64-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/loong64/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1221222850",
+    "title": "n8n-nodes-auth-service",
+    "tool": "n8n",
+    "tags": [
+      "api-authentication",
+      "n8n-nodes",
+      "token-management"
+    ],
+    "description": "n8n-nodes-auth-service is a custom node extension for n8n designed to seamlessly integrate with the Auth-Master service. It provides a native interface to manage, validate, and rotate API tokens directly within your n8n workflows, enabling robust and secure multi-token authentication for automated processes.",
+    "path": "n8n/shlomiporush-n8n-nodes-auth-service/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ShlomiPorush/n8n-nodes-auth-service",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1244585317",
+    "title": "ECHO-local-first-orchestration",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A local‑first architecture pattern for safely mediating LLM intent through deterministic n8n workflows.",
+    "path": "n8n/risingphoenixglassarts2010-lang-echo-local-first-orchestration/",
+    "type": "repo",
+    "repoUrl": "https://github.com/risingphoenixglassarts2010-lang/ECHO-local-first-orchestration",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1269512213",
+    "title": "dn-notification",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This project for my personal n8n workflow",
+    "path": "n8n/digitalweb-ir-dn-notification/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Digitalweb-ir/dn-notification",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1271684235",
+    "title": "portfolio-process-automation",
+    "tool": "n8n",
+    "tags": [
+      "api",
+      "artificial-intelligence",
+      "automation",
+      "n8n",
+      "process-automation",
+      "workflow"
+    ],
+    "description": "Workflow automation projects using N8N, APIs and AI integrations.",
+    "path": "n8n/marialuiza-mdealcantara-portfolio-process-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/marialuiza-mdealcantara/portfolio-process-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1178915252",
+    "title": "n8n-nodes-seamless",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community nodes for Seamless— search contacts & companies, research leads, manage campaigns, and automate engagement workflows directly from n8n.",
+    "path": "n8n/seamlessai-n8n-nodes-seamless/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SeamlessAI/n8n-nodes-seamless",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241410604",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow automations across 6 domains — public administration, education, retail, front office management & AI",
+    "path": "n8n/cavuslargul-gif-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cavuslargul-gif/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1271665386",
+    "title": "workflow-manager-with-chat-box",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Local dashboard for visualizing, controlling, and monitoring n8n workflows — with an AI Concierge chat that recommends which of your workflows to use for a given problem.",
+    "path": "n8n/dokspicey-workflow-manager-with-chat-box/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Dokspicey/workflow-manager-with-chat-box",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1133831669",
+    "title": "AboutMeGenie",
+    "tool": "n8n",
+    "tags": [],
+    "description": "“Automated webapp that generates tailored ‘About Me’ texts for GitHub, LinkedIn, Twitter, Instagram, and Dev.to  using Gemini API + n8n workflows.”",
+    "path": "n8n/eazybel-aboutmegenie/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Eazybel/AboutMeGenie",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1271656155",
+    "title": "bonis-bonificaciones-docs",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Documentation + structural extracts for the BONIS 'bonificaciones.*' n8n workflow suite (Bonificaciones SS evidence validation). Scrubbed public copy.",
+    "path": "n8n/jbadiaa-bonis-bonificaciones-docs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JBadiaA/bonis-bonificaciones-docs",
+    "source": "github-discovery"
   }
 ]

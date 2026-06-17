@@ -15069,5 +15069,154 @@
     "type": "repo",
     "repoUrl": "https://github.com/caioribeiroclw-pixel/pluribus",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270298284",
+    "title": "pharos-oracle-zap",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "openclaw"
+    ],
+    "description": "OracleZap — An Oracle-Triggered Automation Skill for Pharos AI Agents",
+    "path": "openclaw/samueldanso-pharos-oracle-zap/",
+    "type": "repo",
+    "repoUrl": "https://github.com/samueldanso/pharos-oracle-zap",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1271408068",
+    "title": "kaizen",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Continuous improvement skill for OpenClaw agents. Write -> learn -> survive -> surprise.",
+    "path": "openclaw/igorgaffuri-kaizen/",
+    "type": "repo",
+    "repoUrl": "https://github.com/igorgaffuri/kaizen",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1271728360",
+    "title": "SJTU-Agent-Skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Necessary Agent Skills in SJTU compatible for Openclaw and Hermes ",
+    "path": "openclaw/jackytjie-sjtu-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JackyTJie/SJTU-Agent-Skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1271728505",
+    "title": "Siobac",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Siobac — meet people through your agents. The Siobac skill for agent platforms (Doubao Task Mode, WorkBuddy, Qclaw, Claude, Codex, OpenClaw…). Defaults to production.",
+    "path": "openclaw/cammystory-siobac/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CammyStory/Siobac",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1268619525",
+    "title": "via54Skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Personal Hermes Agent / Claude / OpenClaw / OpenCode / Codex skills by veawho. Naming: via54<lowercase-action>. Bilingual README (中文默认 + English).",
+    "path": "openclaw/veawho-via54skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/veawho/via54Skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1271695412",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Openclaw and Hermes skills",
+    "path": "openclaw/daveliren-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DaveLiren/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1115526672",
+    "title": "flowwink",
+    "tool": "openclaw",
+    "tags": [
+      "cms",
+      "content-management",
+      "developer-tools",
+      "headless-cms",
+      "open-source",
+      "saas",
+      "visual-editor",
+      "web-app"
+    ],
+    "description": "Flowwink is the next gen open source Business Operating System with 300+ skills where Hermes agents, Claude, OpenClaws or intenal Flowpilot run CMS, CRM and ERP autonompusly!  Help establishing Flowwink as the self hosted, private LLM, open souce agentic BOS alternative!",
+    "path": "openclaw/magnusfroste-flowwink/",
+    "type": "repo",
+    "repoUrl": "https://github.com/magnusfroste/flowwink",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1248595759",
+    "title": "roboclaw-reports",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-coding-agent",
+      "ai2thor",
+      "mcp",
+      "mcp-server",
+      "molmospaces",
+      "openclaw",
+      "robot-demos",
+      "robot-evaluation",
+      "robotics",
+      "vision-language-model",
+      "vlm"
+    ],
+    "description": "AI Robotics Demos 2026 - VLM Policies, MCP Skills & HTML Reports",
+    "path": "openclaw/hamadou-08-roboclaw-reports/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hamadou-08/roboclaw-reports",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205700970",
+    "title": "deskclaw",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "ai-safety",
+      "claude",
+      "conversational-commerce",
+      "customer-service",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "nextjs",
+      "openclaw",
+      "typescript"
+    ],
+    "description": "An AI customer-service agent that runs a real (mock) shop over WhatsApp — with hard safety rails. Skills → typed MCP tools → shared data, on OpenClaw.",
+    "path": "openclaw/lelevinson-deskclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Lelevinson/deskclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1145062306",
+    "title": "openclaw-skills-explorer",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skills Explorer - discover and browse skills for your OpenClaw agent",
+    "path": "openclaw/cluka-399-openclaw-skills-explorer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Cluka-399/openclaw-skills-explorer",
+    "source": "github-discovery"
   }
 ]
