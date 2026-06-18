@@ -54769,5 +54769,136 @@
     "type": "repo",
     "repoUrl": "https://github.com/JBadiaA/bonis-bonificaciones-docs",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1272474666",
+    "title": "TeToca",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Sistema de turnos online con WhatsApp automation — Scheduler API (Node/SQLite), n8n workflows, OpenWA, PHP admin panel, Nginx landing",
+    "path": "n8n/kamiikasee05-tetoca/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kamiikasee05/TeToca",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1272806080",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/kafkarahman-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kafkarahman/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1272780674",
+    "title": "ai-ugc-video-bot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that turns product photos into AI-generated UGC videos through a Telegram bot, with style routing for HeyGen and Higgsfield.",
+    "path": "n8n/aloymascotsamuel-ai-ugc-video-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AloyMascotSamuel/ai-ugc-video-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1272741031",
+    "title": "n8n-nodes-claude-agent-sdk",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node to run Claude Agent SDK / Claude Code tasks inside workflows. Providers: Anthropic, OpenRouter, Alibaba, LiteLLM, and a detection-gated CodeMie SSO proxy bridge.",
+    "path": "n8n/ivorpad-n8n-nodes-claude-agent-sdk/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ivorpad/n8n-nodes-claude-agent-sdk",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1079619168",
+    "title": "n8n-skills",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
+    "path": "n8n/czlonkowski-n8n-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/czlonkowski/n8n-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1272748655",
+    "title": "ai-lead-qualification-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered lead qualification workflow in n8n — scores inbound leads with OpenAI, applies conditional routing, and logs results to Google Sheets.",
+    "path": "n8n/gargs123462-ai-lead-qualification-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Gargs123462/ai-lead-qualification-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1122550352",
+    "title": "flowforge-visual-automation-builder",
+    "tool": "n8n",
+    "tags": [],
+    "description": "N8N-inspired visual automation builder with real workflow execution",
+    "path": "n8n/shifahere215-flowforge-visual-automation-builder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shifahere215/flowforge-visual-automation-builder",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1177016447",
+    "title": "UDIA-N8N-Workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/ivramosmarketing-udia-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ivramosmarketing/UDIA-N8N-Workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1230324195",
+    "title": "n8n-workflows-backup",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/isbitbuddysde-n8n-workflows-backup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/isbitbuddysde/n8n-workflows-backup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-980205160",
+    "title": "awesome-n8n-templates",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-automation",
+      "automation",
+      "automation-templates",
+      "awesome",
+      "awesome-list",
+      "integration",
+      "low-code",
+      "n8n",
+      "n8n-automation",
+      "n8n-template",
+      "no-code-ai",
+      "no-code-automation",
+      "self-hosted",
+      "telegram-bot",
+      "workflow-automation"
+    ],
+    "description": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
+    "path": "n8n/enescingoz-awesome-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/enescingoz/awesome-n8n-templates",
+    "source": "github-discovery"
   }
 ]
