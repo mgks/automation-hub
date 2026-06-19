@@ -54900,5 +54900,168 @@
     "type": "repo",
     "repoUrl": "https://github.com/enescingoz/awesome-n8n-templates",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273684342",
+    "title": "gestion-agropecuaria",
+    "tool": "n8n",
+    "tags": [
+      "agropecuaria",
+      "gestion",
+      "n8n",
+      "nginx",
+      "react",
+      "tanstack-start"
+    ],
+    "description": "RodeoApp — Sistema de gestión agropecuaria: frontend SSR (TanStack Start), workflows de n8n y reverse proxy nginx.",
+    "path": "n8n/pgb47-gestion-agropecuaria/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pgb47/gestion-agropecuaria",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273865225",
+    "title": "vault-pipeline-mcp",
+    "tool": "n8n",
+    "tags": [],
+    "description": "MCP server for Vault Pipeline Sheet operations and n8n workflow control",
+    "path": "n8n/xoppersk-vault-pipeline-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xoppersk/vault-pipeline-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273829630",
+    "title": "n8n-RAG-chatbbot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow of RAG chatbot using n8n and mongoDB",
+    "path": "n8n/isaac-lamptey-n8n-rag-chatbbot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Isaac-Lamptey/n8n-RAG-chatbbot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1272081143",
+    "title": "ai-ops-workflow-kit",
+    "tool": "n8n",
+    "tags": [
+      "agent-workflows",
+      "ai-automation",
+      "approval-flow",
+      "backend",
+      "bitrix24",
+      "business-automation",
+      "docker",
+      "fastapi",
+      "google-drive",
+      "integrations",
+      "internal-tools",
+      "n8n",
+      "operator-workflows",
+      "outbox-pattern",
+      "pgvector",
+      "postgresql",
+      "rag",
+      "telegram-bot",
+      "transcript-analysis",
+      "workflow-automation"
+    ],
+    "description": "Live FastAPI AI/RAG workflow backend: Google Drive intake, transcripts, Telegram approval callbacks, Bitrix24 outbox, Docker, n8n.",
+    "path": "n8n/alexgerlitz-ai-ops-workflow-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AlexGerlitz/ai-ops-workflow-kit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273830876",
+    "title": "Automation-Agency-Intake-Router",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow - form submission to Google Sheets + client confirmation + agency notification, fully automated",
+    "path": "n8n/tesidrah-automation-agency-intake-router/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TeSidrah/Automation-Agency-Intake-Router",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-923453008",
+    "title": "n8n-app",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Helm chart for n8n workflow tool",
+    "path": "n8n/giantswarm-n8n-app/",
+    "type": "repo",
+    "repoUrl": "https://github.com/giantswarm/n8n-app",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273818538",
+    "title": "automatos-n8n",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "automatos",
+      "n8n",
+      "self-hosted",
+      "typescript",
+      "workflow-automation"
+    ],
+    "description": "Automatos distribution of n8n for secure workflow automation and technical team orchestration.",
+    "path": "n8n/automatos-trade-automatos-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/automatos-trade/automatos-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1127276854",
+    "title": "n8n-as-code",
+    "tool": "n8n",
+    "tags": [
+      "ai-skills",
+      "claude",
+      "copilot",
+      "cursor",
+      "gitops",
+      "low-code",
+      "n8n",
+      "ontology",
+      "skills",
+      "typescript",
+      "vscode",
+      "workflow-automation"
+    ],
+    "description": "Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700+ templates, Git-like sync, and TypeScript workflows.",
+    "path": "n8n/etiennelescot-n8n-as-code/",
+    "type": "repo",
+    "repoUrl": "https://github.com/EtienneLescot/n8n-as-code",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273800985",
+    "title": "N8N-Linkedin-Post-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An end-to-end AI automation workflow that handles content research, multi-agent post generation, and automated publishing with AI-generated visuals.",
+    "path": "n8n/rahul6158-n8n-linkedin-post-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Rahul6158/N8N-Linkedin-Post-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-997890921",
+    "title": "n8n-mcp",
+    "tool": "n8n",
+    "tags": [
+      "mcp",
+      "mcp-server",
+      "n8n",
+      "workflows"
+    ],
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
+    "path": "n8n/czlonkowski-n8n-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/czlonkowski/n8n-mcp",
+    "source": "github-discovery"
   }
 ]
