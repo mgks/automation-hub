@@ -15588,5 +15588,160 @@
     "type": "repo",
     "repoUrl": "https://github.com/anufrykpavel/awesome-openclaw",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270257672",
+    "title": "OpenClawn",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Lightweight, safe, self-improving multi-role AI agent framework. Hybrid local + cloud LLMs with self-calibrating routing, decaying skills, and confidence-gated learning — 25 sandboxed tools for code, data, docs, git, and the web.",
+    "path": "openclaw/muhammadhasbiashshiddieqy-openclawn/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MuhammadHasbiAshshiddieqy/OpenClawn",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1266831491",
+    "title": "openclaw-skills-directory",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/xx441-openclaw-skills-directory/",
+    "type": "repo",
+    "repoUrl": "https://github.com/XX441/openclaw-skills-directory",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1274704681",
+    "title": "qa-device-control",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for agent-operated Android and iOS Simulator QA device control",
+    "path": "openclaw/edgeclaws-qa-device-control/",
+    "type": "repo",
+    "repoUrl": "https://github.com/EdgeClaws/qa-device-control",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1274827912",
+    "title": "model-fallback-retry",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill - AI模型API异常自动重试队列管理，支持多租户、指数退避、429/2056限速拦截",
+    "path": "openclaw/hehe973781230-model-fallback-retry/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hehe973781230/model-fallback-retry",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182006291",
+    "title": "clawcord",
+    "tool": "openclaw",
+    "tags": [
+      "bot",
+      "claude",
+      "discord",
+      "llm",
+      "openclaw",
+      "openrouter",
+      "skills"
+    ],
+    "description": "Minimal implementation of OpenClaw Discord bot, utilizing OpenRouter for LLM calls.",
+    "path": "openclaw/jaypyles-clawcord/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jaypyles/clawcord",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1161043122",
+    "title": "xproof-openclaw-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "blockchain",
+      "certification",
+      "mcp",
+      "multiversx",
+      "openclaw",
+      "proof-of-existence",
+      "skill",
+      "xproof"
+    ],
+    "description": "OpenClaw skill for xProof - proof-of-output verification for AI agents on MultiversX.",
+    "path": "openclaw/jasonxkensei-xproof-openclaw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jasonxkensei/xproof-openclaw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1242180484",
+    "title": "master-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai-agent",
+      "chinese-nlp",
+      "claude-code",
+      "claude-skill",
+      "industry-knowledge",
+      "knowledge-distillation",
+      "llm",
+      "master-skill",
+      "prompt-engineering"
+    ],
+    "description": "大师.skill — 输入行业，自动调研 6 轨[行业大佬 / 工具地图 / 工作流 / 知识正典 / 信息源 / 术语标准] → 提炼为可运行的行业 Master OS skill；装到任意 Claude Code / OpenClaw / Codex / Hermes agent 即让其进入「这一行的资深人」模式。MIT，Python + Shell。",
+    "path": "openclaw/swaylq-master-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/swaylq/master-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1265187954",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Agent skills and the Claude Code plugin for Gipity. Teach any AI coding agent (Claude Code, Hermes, OpenClaw, or anything that reads SKILL.md) to build, deploy, and run full-stack apps on Gipity: hosting, Postgres, serverless functions, auth, storage, realtime, and AI services.",
+    "path": "openclaw/gipityai-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/GipityAI/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1169909222",
+    "title": "Strada.Brain",
+    "tool": "openclaw",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "claude",
+      "game-development",
+      "gamedev",
+      "gemini",
+      "llms",
+      "mcp",
+      "multi-agent-simulation",
+      "openai",
+      "openclaw",
+      "python3",
+      "skills",
+      "typescript",
+      "unity"
+    ],
+    "description": "AI-powered autonomous coding agent for Unity/Strada.Core — PAOR agent loop, 40+ tools, RAG over C# codebases, persistent HNSW memory, multi-channel (Web/Telegram/Discord/Slack/WhatsApp), 24/7 daemon mode, multi-agent orchestration, and SOUL.md personality system.",
+    "path": "openclaw/okandemirel-strada.brain/",
+    "type": "repo",
+    "repoUrl": "https://github.com/okandemirel/Strada.Brain",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1271606462",
+    "title": "prospero-study-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Prospero's Study skills for Hermes, OpenClaw, and other agent runtimes",
+    "path": "openclaw/stevengregory-prospero-study-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/stevengregory/prospero-study-skills",
+    "source": "github-discovery"
   }
 ]

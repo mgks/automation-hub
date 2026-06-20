@@ -55063,5 +55063,144 @@
     "type": "repo",
     "repoUrl": "https://github.com/czlonkowski/n8n-mcp",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1274813320",
+    "title": "grocery-brain",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered grocery workflow built with n8n and OpenAI for routing, structured outputs, and human review.",
+    "path": "n8n/nneoma-sky-grocery-brain/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nneoma-sky/grocery-brain",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1274791027",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Automation Workflows built with n8n, OpenRouter, Google Workspace and Marketing Automation.",
+    "path": "n8n/samarth-singh-work-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Samarth-singh-work/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1162754875",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/debourouba-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/debourouba/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270597416",
+    "title": "libreflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "LibreFlow — self-hosted n8n-style workflow automation with MCP servers/client, data-table state engine, and an AI agent node",
+    "path": "n8n/mauricioperera-libreflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MauricioPerera/libreflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1274668896",
+    "title": "Linkdin_n8n_Post_automation_Workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Free LinkedIn Auto-Poster : scale your network on autopilot, no-code workflow randomly pulls from your chosen topics to create and publish high-quality LinkedIn posts on your schedule.",
+    "path": "n8n/uzalsahn-linkdin_n8n_post_automation_workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/UzalSahn/Linkdin_n8n_Post_automation_Workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1274791086",
+    "title": "n8n-ai-linkedin-poster",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "automation",
+      "claude",
+      "content-creation",
+      "cursor",
+      "devin",
+      "linkedin",
+      "n8n",
+      "no-code",
+      "openai",
+      "social-media-automation",
+      "webhook"
+    ],
+    "description": "Production-ready n8n workflow to generate & auto-publish AI-powered LinkedIn posts with stunning images and engaging captions. Trigger instantly from Claude, Cursor, Devin, or any AI assistant via webhook. Fully documented, self-hostable, and customizable.",
+    "path": "n8n/ai-assistant-kira-n8n-ai-linkedin-poster/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ai-assistant-KIRA/n8n-ai-linkedin-poster",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1274704297",
+    "title": "AI_Agent_Project_with_n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "fastapi",
+      "gmail-api",
+      "google-gemni-api",
+      "google-sheets",
+      "n8n",
+      "python",
+      "react",
+      "workflow-automation"
+    ],
+    "description": "  AI workflow app: a React UI posts an article URL + email to a FastAPI backend (REST /process + /health) that generates a session ID and forwards the payload to an   n8n workflow — which scrapes the article, summarizes it and pulls key insights with Google Gemini, logs to Google Sheets, and emails the result.",
+    "path": "n8n/mirza-shafi-ai_agent_project_with_n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mirza-shafi/AI_Agent_Project_with_n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273588527",
+    "title": "nextcloud-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Nextcloud App for working with N8N workflows as files. ",
+    "path": "n8n/kubed-io-nextcloud-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kubed-io/nextcloud-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1268708296",
+    "title": "tmlink-n8n-agent",
+    "tool": "n8n",
+    "tags": [
+      "data-integration",
+      "data-matching",
+      "recordlinkage",
+      "tmlink"
+    ],
+    "description": "A lightweight Docker-based wrapper for the official TMLink image that adds n8n automation workflows and a simple agents UI to handle registration, CSV upload/approval, and record linkage with multimedia compability.",
+    "path": "n8n/taiwotman-tmlink-n8n-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/taiwotman/tmlink-n8n-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1274693532",
+    "title": "n8n-pay-subs",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow to recup all my pay stubs from a certain date ",
+    "path": "n8n/lephenix47-n8n-pay-subs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LePhenix47/n8n-pay-subs",
+    "source": "github-discovery"
   }
 ]
