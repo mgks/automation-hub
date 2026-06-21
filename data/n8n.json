@@ -55202,5 +55202,145 @@
     "type": "repo",
     "repoUrl": "https://github.com/LePhenix47/n8n-pay-subs",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1169813367",
+    "title": "go-workflow",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "dag",
+      "distributed-systems",
+      "durable-execution",
+      "go",
+      "golang",
+      "job-queue",
+      "llm",
+      "mcp",
+      "n8n",
+      "orchestration",
+      "postgres",
+      "workflow-engine"
+    ],
+    "description": "Standalone DAG workflow engine for Go — 15 step types, MCP integration, durable Postgres execution (SKIP LOCKED), templates, approvals, crash recovery",
+    "path": "n8n/anatolykoptev-go-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anatolykoptev/go-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1246831130",
+    "title": "phantom-flow",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "local-first",
+      "n8n-alternative",
+      "phantom-mesh",
+      "python",
+      "rust",
+      "workflow"
+    ],
+    "description": "Alpha · Tier 1 — Event-driven, cluster-aware workflow engine on phantom-mesh. Self-hosted n8n/Zapier alternative — Rust+Python, AI-native, local-first.",
+    "path": "n8n/markl-a-phantom-flow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/markl-a/phantom-flow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1275613802",
+    "title": "ai-automation-projects",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of workflow automation, AI agents, and integration projects built with Zapier, make, n8n, OpenAI, and APIs to streamline business processes.",
+    "path": "n8n/olawalebunmi-ai-automation-projects/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Olawalebunmi/ai-automation-projects",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1245694711",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Coleção de fluxos de automação criados com n8n — integrando IA, APIs e ferramentas como Telegram, Discord, Gmail e Google Sheets para resolver problemas reais do dia a dia.",
+    "path": "n8n/ferreirinha-jao-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ferreirinha-jao/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1275596130",
+    "title": "n8n-template-mcp-oss",
+    "tool": "n8n",
+    "tags": [],
+    "description": "MCP server for searching and risk-checking public n8n workflow templates before import.",
+    "path": "n8n/geekthegreybeard-n8n-template-mcp-oss/",
+    "type": "repo",
+    "repoUrl": "https://github.com/GeekTheGreyBeard/n8n-template-mcp-oss",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1275060301",
+    "title": "N8N-Business-Free-Desktop-2026",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-automation",
+      "n8n-community",
+      "n8n-cybersecurity",
+      "n8n-python",
+      "n8n-workflow"
+    ],
+    "description": "⭐️ Enterprise keygen license key activation key patch self hosted unlock unlimited workflows full version download restrictions direct link safe install no survey portable version multilingual support windows mac activation code generator tool registry fix dll missing error fix ⭐️",
+    "path": "n8n/marooncreator-n8n-business-free-desktop-2026/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MaroonCreator/N8N-Business-Free-Desktop-2026",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1247445482",
+    "title": "n8n-nodes-tracepass",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for TracePass — automate EU Digital Product Passport workflows: products, passports, EPCIS supply-chain events.",
+    "path": "n8n/malinoto-n8n-nodes-tracepass/",
+    "type": "repo",
+    "repoUrl": "https://github.com/malinoto/n8n-nodes-tracepass",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1275582675",
+    "title": "teams-sales-bot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Microsoft Teams AI bot for field sales — Claude API (tool use), Notion knowledge base, Azure Bicep IaC, n8n workflows",
+    "path": "n8n/helmuthochbein-teams-sales-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HelmutHochbein/teams-sales-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1275565624",
+    "title": "n8n---Quote-Approval-Customer-Matching-Workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Quote Approval & Customer Matching Workflow",
+    "path": "n8n/kush9011-n8n---quote-approval-customer-matching-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kush9011/n8n---Quote-Approval-Customer-Matching-Workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1271936207",
+    "title": "n8n-workflows-v2",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/eb4005-n8n-workflows-v2/",
+    "type": "repo",
+    "repoUrl": "https://github.com/eb4005/n8n-workflows-v2",
+    "source": "github-discovery"
   }
 ]

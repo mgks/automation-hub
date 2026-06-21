@@ -15743,5 +15743,146 @@
     "type": "repo",
     "repoUrl": "https://github.com/stevengregory/prospero-study-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1234148532",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI agent skills — build once, personalize anywhere. Install with: openclaw skills install <slug>",
+    "path": "openclaw/sidneyswift-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sidneyswift/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1146723982",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Collection of skills for Clawdbot - the extensible AI assistant",
+    "path": "openclaw/jjannix-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jjannix/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1183044542",
+    "title": "rosclaw",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "agent-runtime",
+      "automation",
+      "autonomous-robotics",
+      "digital-twin",
+      "embodied-ai",
+      "llm",
+      "openclaw",
+      "physical-ai",
+      "robot",
+      "robot-operating-system",
+      "robot-safety",
+      "robotics",
+      "ros",
+      "ros2",
+      "skill-learning",
+      "vla",
+      "vln"
+    ],
+    "description": "The open infrastructure for Physical Intelligence. ROSClaw grounds AI agents into the physical world through e-URDF, sandbox safety, capability providers, praxis capture, memory, runtime intervention, and self-evolving skills.",
+    "path": "openclaw/ros-claw-rosclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ros-claw/rosclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1162522437",
+    "title": "openclaw-algorand-plugin",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Algorand Blockchain plugin for OpenClaw agent including Algorand Remote MCP lite edition (wallet edition), Algorand blockchain operations and x402 operations skills and tools.",
+    "path": "openclaw/goplausible-openclaw-algorand-plugin/",
+    "type": "repo",
+    "repoUrl": "https://github.com/GoPlausible/openclaw-algorand-plugin",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1275572136",
+    "title": "gemini-tts-srt",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "用 Google Gemini API 的 TTS 模型把腳本配音成音檔，並同時輸出時間軸對齊的 SRT 字幕的 OpenClaw / Claude skill — Gemini text-to-speech with time-aligned SRT subtitles.",
+    "path": "openclaw/openclaw-metis-gemini-tts-srt/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Openclaw-Metis/gemini-tts-srt",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202471185",
+    "title": "claw2manus",
+    "tool": "openclaw",
+    "tags": [
+      "clawhub",
+      "clawhub-skills",
+      "converter",
+      "manus",
+      "manus-skill",
+      "openclaw",
+      "openclaw-skills"
+    ],
+    "description": "Convert ClawHub (OpenClaw) skills to Manus-compatible format. Bridge 8000+ ClawHub skills to the Manus ecosystem.",
+    "path": "openclaw/frostmute-claw2manus/",
+    "type": "repo",
+    "repoUrl": "https://github.com/frostmute/claw2manus",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241622829",
+    "title": "devclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Autonomous-development skill bundle for OpenClaw. Chat intent → PR.",
+    "path": "openclaw/dsdevq-devclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dsdevq/devclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190682838",
+    "title": "agent-memory-mcp",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "knowledge-graph",
+      "mcp",
+      "memory",
+      "openclaw",
+      "rag",
+      "telegram",
+      "ton",
+      "vector-search"
+    ],
+    "description": "Persistent Telegram memory for AI agents — search, digests, decisions via MCP/REST API. TON payments. OpenClaw skill available.",
+    "path": "openclaw/may4vfx-agent-memory-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MAY4VFX/agent-memory-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1240890628",
+    "title": "openclaw-skills-setup",
+    "tool": "openclaw",
+    "tags": [
+      "openclaw",
+      "plugin",
+      "setup",
+      "skills"
+    ],
+    "description": "OpenClaw plugin for running skill setup scripts.",
+    "path": "openclaw/alexminza-openclaw-skills-setup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alexminza/openclaw-skills-setup",
+    "source": "github-discovery"
   }
 ]
