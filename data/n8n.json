@@ -55342,5 +55342,136 @@
     "type": "repo",
     "repoUrl": "https://github.com/eb4005/n8n-workflows-v2",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1276388122",
+    "title": "watchflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Define a web-change watch visually and export it as a ready-to-import n8n workflow. Self-hosted, open-source (AGPLv3).",
+    "path": "n8n/iskanderjaiem-watchflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iskanderjaiem/watchflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1276398376",
+    "title": "n8n-ai-automation-templates",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "automation",
+      "n8n",
+      "no-code",
+      "workflow"
+    ],
+    "description": "Ready-to-import n8n workflow templates for AI automation — lead qualification, ticket triage, and document-to-RAG ingestion",
+    "path": "n8n/haideraliafzal-n8n-ai-automation-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/haideraliafzal/n8n-ai-automation-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1276346578",
+    "title": "Monday-EntraID-Onboarding-automation-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This workflow was developed in n8n to automate the employee onboarding process, reducing manual effort and ensuring a consistent and efficient user provisioning experience.",
+    "path": "n8n/zivsahar-lab-monday-entraid-onboarding-automation-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zivsahar-lab/Monday-EntraID-Onboarding-automation-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1276370167",
+    "title": "ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production AI agent systems built on n8n — case studies and sanitized workflows",
+    "path": "n8n/jakegilbert-dev-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jakegilbert-dev/ai-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1276355742",
+    "title": "Nexum-Flow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Catalogue de workflow n8n",
+    "path": "n8n/rococo77-nexum-flow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Rococo77/Nexum-Flow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1265062753",
+    "title": "n8n-production-queue-setup",
+    "tool": "n8n",
+    "tags": [
+      "deployment",
+      "docker",
+      "n8n",
+      "n8n-workflow",
+      "opensource",
+      "productionready",
+      "self-hosted"
+    ],
+    "description": "A production-grade, self-hosted n8n deployment with queue-mode scaling, PostgreSQL persistence, and an isolated Python/JavaScript code execution sidecar.",
+    "path": "n8n/sohila-khaled-abbas-n8n-production-queue-setup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sohila-Khaled-Abbas/n8n-production-queue-setup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1094947467",
+    "title": "n8nworkflows.xyz",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-automation",
+      "n8n-node",
+      "n8n-nodes",
+      "n8n-template",
+      "n8n-workflow",
+      "n8n-workflows"
+    ],
+    "description": "N8N Workflows Catalog",
+    "path": "n8n/nusquama-n8nworkflows.xyz/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nusquama/n8nworkflows.xyz",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1071701129",
+    "title": "n8n-Workflows-Backup",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "backup",
+      "n8n-automation",
+      "n8n-workflow"
+    ],
+    "description": "⚙️ Cadangan Workflows n8n ke GitHub",
+    "path": "n8n/samvivan1-n8n-workflows-backup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SamVivan1/n8n-Workflows-Backup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1235854039",
+    "title": "Niyam-AI-Fitness-Coach",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "ai-coach",
+      "n8n-workflow",
+      "rag-chatbot"
+    ],
+    "description": "Conversational AI fitness coach for the chronically inconsistent — adapts each session to your real day, absorbs missed workouts without guilt, and explains every recommendation. Built on Lovable + N8N + Google Sheets.",
+    "path": "n8n/adamya-varshney-niyam-ai-fitness-coach/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Adamya-Varshney/Niyam-AI-Fitness-Coach",
+    "source": "github-discovery"
   }
 ]
