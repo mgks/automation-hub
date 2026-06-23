@@ -55473,5 +55473,129 @@
     "type": "repo",
     "repoUrl": "https://github.com/Adamya-Varshney/Niyam-AI-Fitness-Coach",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1277498340",
+    "title": "alnas-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/imtaherul-alnas-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/imtaherul/alnas-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1232199592",
+    "title": "sozu-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflows de n8n exportados como JSON versionados",
+    "path": "n8n/jorgeimendoza-sozu-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jorgeIMendoza/sozu-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1277464595",
+    "title": "AI-Prompts-Library",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "gemini-api",
+      "n8n",
+      "prompt-engineering"
+    ],
+    "description": "AI Development Engineer specialized in autonomous workflows and agentic systems. This repository contains my curated library of specialized prompts and automation logic designed to optimize processes using n8n and Gemini. Explore my agentic solutions and scale your operations with professional-grade prompt engineering.",
+    "path": "n8n/yramos27-ai-prompts-library/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yramos27/AI-Prompts-Library",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1263544231",
+    "title": "whatsapp-revenue-ops-platform",
+    "tool": "n8n",
+    "tags": [
+      "crm-integration",
+      "docker-compose",
+      "fastapi",
+      "n8n",
+      "postgresql",
+      "rag",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Open reference implementation for self-hosting n8n with mock-first WhatsApp revenue ops workflows.",
+    "path": "n8n/komorebi12-whatsapp-revenue-ops-platform/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Komorebi12/whatsapp-revenue-ops-platform",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1277419385",
+    "title": "n8n-cli",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "cli",
+      "golang",
+      "homebrew",
+      "n8n",
+      "n8nctl",
+      "workflow-automation"
+    ],
+    "description": "Portable single-binary CLI for the n8n public API — multi-instance workflow management, git-friendly backup, and cross-instance promotion. No Node required.",
+    "path": "n8n/jjuanrivvera-n8n-cli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jjuanrivvera/n8n-cli",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192562636",
+    "title": "ctrlnode",
+    "tool": "n8n",
+    "tags": [
+      "agent-orchestration",
+      "ai-agents",
+      "control-plane",
+      "kanban",
+      "kanban-board",
+      "n8n-workflow",
+      "pipeline",
+      "self-hosted-agent",
+      "task-management-system",
+      "typescript",
+      "workflow-automation-ai"
+    ],
+    "description": "The control plane for OpenClaw running AI agents at scale — Kanban task management, n8n like pipelines, and real-time monitoring",
+    "path": "n8n/ctrlnode-ai-ctrlnode/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ctrlnode-ai/ctrlnode",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1250087612",
+    "title": "researchflow-ai",
+    "tool": "n8n",
+    "tags": [
+      "arxiv",
+      "arxiv-papers",
+      "llm",
+      "llm-tools",
+      "llms",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "qdrant",
+      "qdrant-vector-database",
+      "research-project"
+    ],
+    "description": "An automated arXiv research assistant built with n8n that ingests new papers, generates LLM-based summaries, and indexes embeddings in Qdrant for semantic retrieval. It integrates notification pipelines (Telegram/Discord) and exposes a webhook interface for natural language querying over the indexed corpus.",
+    "path": "n8n/keila-moral-researchflow-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/keila-moral/researchflow-ai",
+    "source": "github-discovery"
   }
 ]

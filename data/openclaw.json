@@ -15943,5 +15943,82 @@
     "type": "repo",
     "repoUrl": "https://github.com/nunzioaccording289/ai-skill-hub",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1276070754",
+    "title": "stock-watcher",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: A股行情监控工具腾讯（主）→ 新浪（备）→ 东方财富 ETF，最大限度保障数据稳定性。",
+    "path": "openclaw/dandelion80231-stock-watcher/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dandelion80231/stock-watcher",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1276598061",
+    "title": "ScanClaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Scanclaw — local AI compliance gatekeeper. On-device DLP that inspects every file for exposed sensitive data with zero cloud dependency. OpenClaw skill + Next.js site.",
+    "path": "openclaw/samshanmukh-scanclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/samshanmukh/ScanClaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273116765",
+    "title": "paper-acquisition-anti-scrape",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw/Codex skill for resilient academic PDF acquisition",
+    "path": "openclaw/jyluo1994-paper-acquisition-anti-scrape/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jyluo1994/paper-acquisition-anti-scrape",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1267889237",
+    "title": "openclaw-bot",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "backup",
+      "bash",
+      "chatbot",
+      "openclaw",
+      "rebuild",
+      "research-assistant",
+      "restore",
+      "self-hosted"
+    ],
+    "description": "Manifest-driven rebuild for the OpenClaw research-assistant bot: sanitized config templates, workspace skills, and lifecycle scripts (sync / install / backup / restore / deploy).",
+    "path": "openclaw/hoanganhduc-openclaw-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hoanganhduc/openclaw-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1266932671",
+    "title": "skillz",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voice-to-post pipeline, and process-capture meta-skills for turning recurring work into reusable agent skills. Gotta have the skillz to pay the bills.",
+    "path": "openclaw/okhp3-skillz/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OKHP3/skillz",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182782749",
+    "title": "AIAlisa",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Advanced Binance Futures Analyzer & Square Publisher (OpenClaw) Professional tool for trendline construction and deep analysis of Binance Futures. Built on OpenClaw, it integrates advanced indicators and the latest Binance Skill for data processing. The bot automates market insights by publishing reports directly to Binance Square.",
+    "path": "openclaw/aliskasq-aialisa/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Aliskasq/AIAlisa",
+    "source": "github-discovery"
   }
 ]
