@@ -55597,5 +55597,88 @@
     "type": "repo",
     "repoUrl": "https://github.com/keila-moral/researchflow-ai",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1278587642",
+    "title": "3a1ed432-content-creator-content-publis",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Professional content creator n8n automation workflow — without the professional price tag.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Content Creator Content Publishing Pipeline — fully configured and ready to use -",
+    "path": "n8n/ncreighton-3a1ed432-content-creator-content-publis/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/3a1ed432-content-creator-content-publis",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211896547",
+    "title": "rendex-n8n",
+    "tool": "n8n",
+    "tags": [
+      "html-to-image",
+      "n8n",
+      "n8n-community-node-package",
+      "pdf",
+      "rendering",
+      "rendex",
+      "screenshot",
+      "workflow-automation"
+    ],
+    "description": "n8n community node for Rendex — capture screenshots, generate PDFs, and render HTML to images via AI-friendly workflows",
+    "path": "n8n/copperline-labs-rendex-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/copperline-labs/rendex-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1262494153",
+    "title": "marwen-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Portfolio personnel de Marwen Arfaoui — Développeur Full-Stack & IA spécialisé dans les agents autonomes, l'automatisation, les workflows n8n, les intégrations API et les solutions basées sur l'intelligence artificielle.",
+    "path": "n8n/novaris26-marwen-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Novaris26/marwen-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1278529054",
+    "title": "serverless-n8n-blog-pipeline",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "cloud",
+      "docker",
+      "hosting",
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "Deploy a 100% Free, Always-On n8n Automation Server (Hugging Face + Supabase + CronJob) Yourself",
+    "path": "n8n/rajeshbsws557-serverless-n8n-blog-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rajeshbsws557/serverless-n8n-blog-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1274236740",
+    "title": "tastyfinder",
+    "tool": "n8n",
+    "tags": [
+      "angular",
+      "firebase",
+      "firestore",
+      "groq-ai",
+      "n8n-workflow",
+      "recipe-app",
+      "scss",
+      "spoonacular-api",
+      "ssr",
+      "typescript"
+    ],
+    "description": "TastyFinder is an AI-powered recipe discovery platform that helps users find, generate and save recipes based on ingredients, preferences and natural language input.",
+    "path": "n8n/takouajelassi-tastyfinder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TakouaJelassi/tastyfinder",
+    "source": "github-discovery"
   }
 ]

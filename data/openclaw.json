@@ -16020,5 +16020,40 @@
     "type": "repo",
     "repoUrl": "https://github.com/Aliskasq/AIAlisa",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1278385327",
+    "title": "fde-consultant-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Forward Deployed Engineering methodology for AI coding agents (Claude Code, Cursor, Windsurf, Codex, OpenClaw, web LLMs). Apache-2.0 Skill with 6 MCP tools, 3 plugin manifests, independent Certifier, and 75/75 tests passing. Trust Score 100/100 certified.",
+    "path": "openclaw/selectess-fde-consultant-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/selectess/fde-consultant-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1025906681",
+    "title": "buildwithclaude",
+    "tool": "openclaw",
+    "tags": [
+      "claude",
+      "claude-code",
+      "claude-code-commands",
+      "claude-skills",
+      "cli-tool",
+      "commands",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "openclaw",
+      "plugin-marketplace",
+      "subagents"
+    ],
+    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
+    "path": "openclaw/davepoon-buildwithclaude/",
+    "type": "repo",
+    "repoUrl": "https://github.com/davepoon/buildwithclaude",
+    "source": "github-discovery"
   }
 ]
