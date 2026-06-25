@@ -55680,5 +55680,79 @@
     "type": "repo",
     "repoUrl": "https://github.com/TakouaJelassi/tastyfinder",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1279603163",
+    "title": "n8n-nodes-opensrp",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for OpenSRP; FHIR R4 field task assignment, catchment management, frontliner tracking, and community health workflow automation.",
+    "path": "n8n/monfortbrian-n8n-nodes-opensrp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/monfortbrian/n8n-nodes-opensrp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1279677001",
+    "title": "sandbox-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "demo n8n workflows",
+    "path": "n8n/orangeyougladthrowaway-sandbox-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/orangeyougladthrowaway/sandbox-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194408644",
+    "title": "n8n-nodes-substack-new",
+    "tool": "n8n",
+    "tags": [
+      "agent",
+      "agents",
+      "ai",
+      "automation",
+      "dataflow",
+      "integration",
+      "low-code",
+      "n8n",
+      "n8n-automation",
+      "n8n-community-node",
+      "n8n-community-node-package",
+      "n8n-node",
+      "n8n-nodes",
+      "n8n-workflow",
+      "no-code",
+      "workflow"
+    ],
+    "description": "The n8n Substack node allows to integrate Substack with n8n workflows using Substack Gateway.",
+    "path": "n8n/jakub-k-slys-n8n-nodes-substack-new/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jakub-k-slys/n8n-nodes-substack-new",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1102149916",
+    "title": "NoClickAFK",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-assistant",
+      "automation",
+      "business-automation",
+      "n8n",
+      "n8n-automation",
+      "n8n-nodes",
+      "n8n-tutorial",
+      "n8n-workflow",
+      "nocode",
+      "vibecoding"
+    ],
+    "description": "💻 AFK Work — AI-powered automation & agent-based solutions. Creating autonomous systems that reduce manual work and increase performance. Focused on no-code/low-code, intelligent workflows, AI assistants, and scalable infrastructure.",
+    "path": "n8n/noclickafk-noclickafk/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NoClickAFK/NoClickAFK",
+    "source": "github-discovery"
   }
 ]
