@@ -16138,5 +16138,37 @@
     "type": "repo",
     "repoUrl": "https://github.com/Similar-colpoxerosis201/codex-wechat",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1265162170",
+    "title": "chat2skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "llm",
+      "openclaw",
+      "skill"
+    ],
+    "description": "Extracting and iterating skills from daily conversations with AI",
+    "path": "openclaw/rxacc-chat2skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rxacc/chat2skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1197530795",
+    "title": "seo-ladders-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": " The AI-search + SEO skill for agents. Measure if AI recommends your brand, then research,   write, publish, backlink & optimize — all from Claude, ChatGPT, Cursor, or OpenClaw. No   install (curl/jq) or MCP.",
+    "path": "openclaw/kwesi-dev-seo-ladders-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kwesi-dev/seo-ladders-skill",
+    "source": "github-discovery"
   }
 ]
