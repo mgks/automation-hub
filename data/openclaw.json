@@ -16170,5 +16170,43 @@
     "type": "repo",
     "repoUrl": "https://github.com/Kwesi-dev/seo-ladders-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1265066901",
+    "title": "skillet",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "ai-coding-agent",
+      "bug-hunting",
+      "claude-code",
+      "claude-skills",
+      "code-audit",
+      "codex-skills",
+      "npx-skills",
+      "openclaw",
+      "repo-audit",
+      "security-audit",
+      "skill-md",
+      "skills-sh",
+      "workflow"
+    ],
+    "description": "Agent skills for AI coding agents: repo audits with leverage-sorted backlogs, bug hunting, security sweeps, publish gates, and release cuts",
+    "path": "openclaw/escoffier-labs-skillet/",
+    "type": "repo",
+    "repoUrl": "https://github.com/escoffier-labs/skillet",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211863789",
+    "title": "HardwareOne_Openclaw_Skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for controlling HardwareOne ESP32 devices via HTTP/HTTPS",
+    "path": "openclaw/cadengithubb-hardwareone_openclaw_skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CadenGithubB/HardwareOne_Openclaw_Skill",
+    "source": "github-discovery"
   }
 ]

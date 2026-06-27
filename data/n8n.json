@@ -55893,5 +55893,80 @@
     "type": "repo",
     "repoUrl": "https://github.com/relayion/n8n-nodes-relayion",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1281813226",
+    "title": "webhook-deal",
+    "tool": "n8n",
+    "tags": [],
+    "description": "webhook-deal is a webhook intake pipeline that automates VC deal flow sourcing. Founders submit their startup details through a Google Form, which triggers an automated workflow via Google Apps Script, Make, Zapier, or n8n that sends the data to a Flask webhook server. The app writes every submission directly to Google Sheets",
+    "path": "n8n/tmaiwebai-webhook-deal/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tmaiwebai/webhook-deal",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1051096611",
+    "title": "n8n-agent",
+    "tool": "n8n",
+    "tags": [
+      "a2a",
+      "a2a-protocol",
+      "a2a-server",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "A2A agent server specialized in generating and automating n8n workflows",
+    "path": "n8n/inference-gateway-n8n-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/inference-gateway/n8n-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1281792744",
+    "title": "n8n-backup-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/mdsl1-n8n-backup-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mdsl1/n8n-backup-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1269566305",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "llm",
+      "low-code",
+      "n8n",
+      "n8n-workflow",
+      "workflow-automation"
+    ],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/sartaj1995-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sartaj1995/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1206445637",
+    "title": "DSSAT-RAG",
+    "tool": "n8n",
+    "tags": [
+      "embeddings",
+      "llm",
+      "n8n-workflow",
+      "rag",
+      "rag-chatbot",
+      "rag-pipeline"
+    ],
+    "description": "A RAG based chat application, that can simplify DSSAT output and provide response to farmer queries.",
+    "path": "n8n/itswael-dssat-rag/",
+    "type": "repo",
+    "repoUrl": "https://github.com/itswael/DSSAT-RAG",
+    "source": "github-discovery"
   }
 ]
