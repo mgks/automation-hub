@@ -55968,5 +55968,76 @@
     "type": "repo",
     "repoUrl": "https://github.com/itswael/DSSAT-RAG",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1282524158",
+    "title": "nocode-ai-lead-workflow",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "crm",
+      "lead-management",
+      "make-com",
+      "n8n",
+      "power-automate",
+      "zapier"
+    ],
+    "description": "AI lead-triage workflow: summarize, categorize, draft a reply, write to CRM, queue follow-up. Buildable in Make, Zapier, n8n or Power Automate.",
+    "path": "n8n/derekgallardo01-nocode-ai-lead-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/derekgallardo01/nocode-ai-lead-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1282568360",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/williamhsiang0221-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/williamhsiang0221/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1282553961",
+    "title": "vertice-automations",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "devops",
+      "monitoring",
+      "n8n",
+      "self-hosted",
+      "telegram",
+      "vps",
+      "workflow"
+    ],
+    "description": "Reusable, sanitized n8n workflow templates — self-host monitoring & automation. Bilingual EN/ES.",
+    "path": "n8n/miguelmartt-vertice-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/miguelmartt/vertice-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1127437400",
+    "title": "Logichain360",
+    "tool": "n8n",
+    "tags": [
+      "ai-engine",
+      "blockchain",
+      "javascript",
+      "logistics",
+      "n8n-workflow",
+      "polygon",
+      "shipment-tracking",
+      "supply-chain",
+      "web3"
+    ],
+    "description": "Blockchain-integrated logistics platform with AI engine, real-time shipment tracking, supply chain transparency, and tamper-proof delivery records. Stack: JavaScript, Node.js, Polygon blockchain, n8n automation.",
+    "path": "n8n/rangeshsha-rookie-logichain360/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rangeshsha-Rookie/Logichain360",
+    "source": "github-discovery"
   }
 ]
