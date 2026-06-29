@@ -56039,5 +56039,132 @@
     "type": "repo",
     "repoUrl": "https://github.com/rangeshsha-Rookie/Logichain360",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1283472698",
+    "title": "n8n-Sentiment-Analysis",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered n8n workflow that analyzes customer feedback using an LLM and automatically stores sentiment results in Excel.",
+    "path": "n8n/moataz-nageh-n8n-sentiment-analysis/",
+    "type": "repo",
+    "repoUrl": "https://github.com/moataz-nageh/n8n-Sentiment-Analysis",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1283455690",
+    "title": "n8n-breakfast-with-agents-followup",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered personalized event follow-up workflow built with n8n.",
+    "path": "n8n/jeremyjwalsh-n8n-breakfast-with-agents-followup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jeremyjwalsh/n8n-breakfast-with-agents-followup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1283145592",
+    "title": "data-workflow-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "ETL pipelines, data ingestion, and n8n workflow automation",
+    "path": "n8n/9kman-data-workflow-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/9KMan/data-workflow-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1283462018",
+    "title": "n8n-workflow-pack",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "gemini-ai",
+      "github-api",
+      "gmail",
+      "n8n",
+      "nodejs",
+      "workflow"
+    ],
+    "description": "Collection of ready-to-use AI-powered n8n workflows using Gemini AI",
+    "path": "n8n/slimkhardani-n8n-workflow-pack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/slimkhardani/n8n-workflow-pack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1283139981",
+    "title": "LegalSum-AI",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered Legal Intake, Document Summarization & Workflow Automation using n8n, Ollama and Python.",
+    "path": "n8n/jayasree273-legalsum-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jayasree273/LegalSum-AI",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1281832148",
+    "title": "WhatsApp-Priority-Message-Classifier",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "automation",
+      "gmail",
+      "n8n",
+      "openai",
+      "whatsapp",
+      "workflow-automation"
+    ],
+    "description": "Prototype AI automation workflow using n8n, OpenAI, WhatsApp Trigger, and Gmail to classify WhatsApp messages by priority.",
+    "path": "n8n/qayyum212-whatsapp-priority-message-classifier/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Qayyum212/WhatsApp-Priority-Message-Classifier",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1238127406",
+    "title": "autostream",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "llm",
+      "n8n",
+      "observability",
+      "supabase",
+      "webhooks",
+      "workflow-automation"
+    ],
+    "description": "Production-grade n8n + Claude automation — three workflows with full observability, signed webhooks, and validated outputs. Deployed on Railway, logged to Supabase.",
+    "path": "n8n/sheharyarr-ahmed-autostream/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sheharyarr-ahmed/autostream",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1283438807",
+    "title": "n8n_workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This repo is all about the workflows that i created in N8N.",
+    "path": "n8n/devparida-n8n_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Devparida/n8n_workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1283335760",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow",
+    "path": "n8n/khai2821195-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/khai2821195/n8n",
+    "source": "github-discovery"
   }
 ]

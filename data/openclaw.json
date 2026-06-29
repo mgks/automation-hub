@@ -16208,5 +16208,88 @@
     "type": "repo",
     "repoUrl": "https://github.com/CadenGithubB/HardwareOne_Openclaw_Skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1189218628",
+    "title": "Github-Security-CodeScanning-Alerts-Skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "agent-skills",
+      "ai",
+      "ai-agent",
+      "alerts",
+      "codex",
+      "codex-skill",
+      "copilot",
+      "dependabot",
+      "github",
+      "github-skill",
+      "openai",
+      "openclaw",
+      "opencode",
+      "security",
+      "skill",
+      "skills",
+      "universal"
+    ],
+    "description": "A Copilot / AI skill for managing GitHub Code Scanning, Security, Dependabot, etc alerts.",
+    "path": "openclaw/nick2bad4u-github-security-codescanning-alerts-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Nick2bad4u/Github-Security-CodeScanning-Alerts-Skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228452014",
+    "title": "fractal-agent-team-starter",
+    "tool": "openclaw",
+    "tags": [
+      "agent-harness",
+      "ai-agents",
+      "claude-code",
+      "discord-bot",
+      "executive-assistant",
+      "multi-agent",
+      "n8n",
+      "openclaw"
+    ],
+    "description": "Flagship starter for setting up a Fractal-style AI agent team with skills, memory, Convex, and Hetzner VPS hosting.",
+    "path": "openclaw/mattyreed1-fractal-agent-team-starter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mattyreed1/fractal-agent-team-starter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1283403466",
+    "title": "openclaw-gold-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/faisalatjeh-openclaw-gold-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/faisalatjeh/openclaw-gold-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1269512715",
+    "title": "claude-code-relay",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Run Claude Code from Telegram on your Max/Pro subscription — an OpenClaw skill. Per-folder sessions, slash commands, tappable menus.",
+    "path": "openclaw/pooyamn-claude-code-relay/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pooyamn/claude-code-relay",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1280897235",
+    "title": "claw_coder",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Docker Compose-based local inference runtime for NemoClaw/OpenClaw with persistent OpenClaw skills",
+    "path": "openclaw/hakuturu583-claw_coder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hakuturu583/claw_coder",
+    "source": "github-discovery"
   }
 ]
