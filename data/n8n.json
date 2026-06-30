@@ -56166,5 +56166,27 @@
     "type": "repo",
     "repoUrl": "https://github.com/khai2821195/n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1284493098",
+    "title": "n8n-actbot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A server hosting our N8N workflows and Node backend.",
+    "path": "n8n/jakerodriguez-act-n8n-actbot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jakerodriguez-act/n8n-actbot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1282935813",
+    "title": "workflows_crisdev",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Repositorio de workflows de N8N de crisdev.online",
+    "path": "n8n/cristiandev-cmd-workflows_crisdev/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cristianDev-cmd/workflows_crisdev",
+    "source": "github-discovery"
   }
 ]
