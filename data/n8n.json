@@ -56188,5 +56188,82 @@
     "type": "repo",
     "repoUrl": "https://github.com/cristianDev-cmd/workflows_crisdev",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1284694050",
+    "title": "Support-Agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Self-correcting support agent pipeline: uses n8n AI nodes to deploy autonomous agents across customer success and internal knowledge workflows, with built-in reflection loops that detect failed responses and re-route automatically.",
+    "path": "n8n/elwoodberry3-support-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/elwoodberry3/Support-Agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1284685373",
+    "title": "Compliance-OPS",
+    "tool": "n8n",
+    "tags": [],
+    "description": "End-to-end compliance workflow: maps policies to control frameworks on a cron schedule, auto-collects audit evidence from connected systems, and processes vendor risk questionnaires via structured n8n sub-workflows.",
+    "path": "n8n/elwoodberry3-compliance-ops/",
+    "type": "repo",
+    "repoUrl": "https://github.com/elwoodberry3/Compliance-OPS",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1285553187",
+    "title": "n8n-workflow-templates",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Ready-to-import n8n workflows powered by the Acrewity API. Automate documents, QR codes, Excel files, web monitoring, and more.",
+    "path": "n8n/acrewity-n8n-workflow-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Acrewity/n8n-workflow-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1284692983",
+    "title": "Inventory-OPS",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Real-time inventory control system: monitors warehouse stock levels via database polling, fires n8n procurement sub-workflows the moment raw materials cross minimum threshold, and logs restocking actions for audit review.",
+    "path": "n8n/elwoodberry3-inventory-ops/",
+    "type": "repo",
+    "repoUrl": "https://github.com/elwoodberry3/Inventory-OPS",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1285552276",
+    "title": "-n8n-Claude-Email-Order-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that reads order emails, extracts them with Claude, and logs structured orders to a Google Sheet — fully automated.",
+    "path": "n8n/saifakhterr--n8n-claude-email-order-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/saifakhterr/-n8n-Claude-Email-Order-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1285550129",
+    "title": "engineering-leadership-digest",
+    "tool": "n8n",
+    "tags": [],
+    "description": "5-agent n8n workflow: Engineering Leadership Daily Digest — Slack + Jira + Calendar → Executive Synthesis → Slack delivery",
+    "path": "n8n/vppuri-vjra-engineering-leadership-digest/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vppuri-vjra/engineering-leadership-digest",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1285547829",
+    "title": "vibe-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI agents that plan, build, and modify n8n automation workflows from natural language",
+    "path": "n8n/alexychung-vibe-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alexychung/vibe-n8n",
+    "source": "github-discovery"
   }
 ]

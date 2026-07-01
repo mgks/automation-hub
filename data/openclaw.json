@@ -16540,5 +16540,20 @@
     "type": "repo",
     "repoUrl": "https://github.com/mixuecoding/env-recorder",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1285581468",
+    "title": "neko-skills",
+    "tool": "openclaw",
+    "tags": [
+      "openclaw",
+      "openclaw-plugin",
+      "openclaw-skills"
+    ],
+    "description": "Personal OpenClaw skills by nocturne-neko (Neko 🐱)",
+    "path": "openclaw/nocturne-neko-neko-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nocturne-neko/neko-skills",
+    "source": "github-discovery"
   }
 ]
