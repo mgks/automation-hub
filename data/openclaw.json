@@ -16555,5 +16555,80 @@
     "type": "repo",
     "repoUrl": "https://github.com/nocturne-neko/neko-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1258757903",
+    "title": "hostinger-mcp",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "A production-grade Claude Code & OpenClaw skill for managing Hostinger infrastructure.",
+    "path": "openclaw/digitizers-hostinger-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Digitizers/hostinger-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1181318933",
+    "title": "nopua",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "ai-agent",
+      "ai-coding",
+      "anti-pua",
+      "ao-de-jing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "kiro",
+      "nopua",
+      "openclaw",
+      "prompt-engineering",
+      "skill",
+      "skills",
+      "vibe-coding"
+    ],
+    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
+    "path": "openclaw/wuji-labs-nopua/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wuji-labs/nopua",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1260914537",
+    "title": "openclaw-hass-node",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Bridges Home Assistant to an OpenClaw gateway. HA app + HACS integration + gateway plugin + skill: your OpenClaw agent answers HA Assist turns and runs ha.* / fs.* / system.* on the paired node.",
+    "path": "openclaw/clawd-ops-openclaw-hass-node/",
+    "type": "repo",
+    "repoUrl": "https://github.com/clawd-ops/openclaw-hass-node",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1285668523",
+    "title": "nexus-agentos",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AgentOS - Universal Agent Runtime with Skill Marketplace, MCP Integration, and TUI. Compatible with OpenClaw/MCP ecosystem.",
+    "path": "openclaw/wuyifeishu-nexus-agentos/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wuyifeishu/nexus-agentos",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1184419882",
+    "title": "anySkills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "openclaw",
+      "skills"
+    ],
+    "description": "Claude Code Skills、Agent Skills 和 OpenClaw Skills 的统一集合仓库",
+    "path": "openclaw/kintzhao-anyskills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kintzhao/anySkills",
+    "source": "github-discovery"
   }
 ]
