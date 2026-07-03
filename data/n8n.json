@@ -56400,5 +56400,141 @@
     "type": "repo",
     "repoUrl": "https://github.com/tabii-dev/accounting-automation-portfolio",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1287785311",
+    "title": "crissag.dev",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Professional portfolio with React, TypeScript, and n8n workflows",
+    "path": "n8n/crissag01-crissag.dev/",
+    "type": "repo",
+    "repoUrl": "https://github.com/crissag01/crissag.dev",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1287788671",
+    "title": "n8n-automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automation workflows with AI and n8n.",
+    "path": "n8n/vivianaoj-n8n-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/VivianaOj/n8n-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1287763415",
+    "title": "VT-06-AI-Powered-LinkedIn-Content-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Multi-agent content automation workflow using FastAPI, n8n, and specialized AI agents (VT Applied Agentic AI, Module 06)",
+    "path": "n8n/voxsecuritatis-vt-06-ai-powered-linkedin-content-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/VoxSecuritatis/VT-06-AI-Powered-LinkedIn-Content-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1287258905",
+    "title": "AI_PDF_SUMMARIZATION_SYSTEM",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "css",
+      "groq-ai",
+      "html",
+      "javascript",
+      "json",
+      "n8n"
+    ],
+    "description": "An AI-powered document summarization system that extracts text from PDF files, generates structured summaries using Groq AI, and automatically delivers them via email through an n8n workflow with a custom web interface.",
+    "path": "n8n/chaitanyaramisetti4589-gif-ai_pdf_summarization_system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chaitanyaramisetti4589-gif/AI_PDF_SUMMARIZATION_SYSTEM",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1108291455",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/fsebbah-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fsebbah/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1231003127",
+    "title": "skool-api-docs",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "apify",
+      "apify-actor",
+      "automation",
+      "claude-code",
+      "community-management",
+      "community-platform",
+      "cursor",
+      "make",
+      "mcp-server",
+      "n8n",
+      "n8n-workflow",
+      "reverse-engineering",
+      "skool",
+      "skool-api",
+      "skool-automation",
+      "skool-community",
+      "typescript",
+      "unofficial-api"
+    ],
+    "description": "Docs, recipes & examples for the Skool All-in-One API — the most complete unofficial Skool API on Apify. Read AND write: posts, comments, members, classroom. Drop-in for n8n, Make.com, AI agents.",
+    "path": "n8n/ctala-skool-api-docs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ctala/skool-api-docs",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1286756012",
+    "title": "n8n-nodes-speakai",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "automation",
+      "n8n",
+      "n8n-automation",
+      "n8n-n8n-community-node-package",
+      "n8n-nodes",
+      "n8n-workflow",
+      "speak-ai",
+      "transcription"
+    ],
+    "description": "n8n community node for Speak AI — transcription, analysis, AI Chat, and instant webhook triggers (transcripts, captions, sentiment, AI Chat   responses, recordings).",
+    "path": "n8n/speakai-n8n-nodes-speakai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/speakai/n8n-nodes-speakai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1286706317",
+    "title": "n8n-youtube-ai-shorts-pipeline",
+    "tool": "n8n",
+    "tags": [
+      "huggingface",
+      "llms",
+      "n8n",
+      "n8n-workflow",
+      "python3",
+      "text-to-image",
+      "text-to-speech",
+      "youtube"
+    ],
+    "description": "Local AI pipeline for YouTube Shorts — LLM stories, TTS, music & visuals — orchestrated with n8n on Apple Silicon.",
+    "path": "n8n/prashant1507-n8n-youtube-ai-shorts-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/prashant1507/n8n-youtube-ai-shorts-pipeline",
+    "source": "github-discovery"
   }
 ]

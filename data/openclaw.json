@@ -16630,5 +16630,40 @@
     "type": "repo",
     "repoUrl": "https://github.com/kintzhao/anySkills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1280230514",
+    "title": "stockaskill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Intelligent stock selection agent for A-share/HK/US markets and funds.   Compatible with Codex, OpenCode, ClaudeCode, OpenClaw, and other   SKILL.md-compatible agent frameworks. Uses AKShare as primary data source   with SQLite full caching. Supports multi-factor analysis   (value/quality/growth/momentum/low-vol/size), 5 quantitative strategies ",
+    "path": "openclaw/axjing-stockaskill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/axjing/stockaskill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1162480247",
+    "title": "imagen-qwen",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-art",
+      "alibaba-cloud",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skills",
+      "dashscope",
+      "image-generation",
+      "openclaw",
+      "openclaw-skills",
+      "skill-md",
+      "skillsmp"
+    ],
+    "description": "Claude Code skill for AI image generation using Alibaba Cloud Bailian API (通义千问/通义万相)",
+    "path": "openclaw/agents365-ai-imagen-qwen/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Agents365-ai/imagen-qwen",
+    "source": "github-discovery"
   }
 ]
