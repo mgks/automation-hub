@@ -56536,5 +56536,113 @@
     "type": "repo",
     "repoUrl": "https://github.com/prashant1507/n8n-youtube-ai-shorts-pipeline",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1287648313",
+    "title": "n8n_ai_builder",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflows practice projects",
+    "path": "n8n/vinaykumarkv-n8n_ai_builder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vinaykumarkv/n8n_ai_builder",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288807309",
+    "title": "n8n-automation-architecture",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A centralized repository showcasing production-grade backend workflows, API integrations, and multi-branch data routing pipelines built using self-hosted n8n infrastructure.",
+    "path": "n8n/muhibme-n8n-automation-architecture/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MuhibME/n8n-automation-architecture",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288806657",
+    "title": "omnichannel-ai-support-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered omnichannel customer support workflow built with n8n, OpenRouter, Slack and Google Sheets.",
+    "path": "n8n/imcrzma-omnichannel-ai-support-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/imcrzma/omnichannel-ai-support-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288769832",
+    "title": "priya-sarvam-collections-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Multilingual voice collections agent (BFSI) — Sarvam AI + n8n, voice bot + agentic workflow",
+    "path": "n8n/pracheta007-priya-sarvam-collections-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Pracheta007/priya-sarvam-collections-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1276546789",
+    "title": "n8nctl",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "cli",
+      "devops",
+      "kubectl",
+      "n8n",
+      "n8n-workflow",
+      "nodejs",
+      "rest-api",
+      "typescript",
+      "workflow"
+    ],
+    "description": "n8nctl — CLI for managing n8n workflows via REST API. kubectl for n8n, inspired by gh.",
+    "path": "n8n/turti369-n8nctl/",
+    "type": "repo",
+    "repoUrl": "https://github.com/turti369/n8nctl",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1126135629",
+    "title": "Job-Aggregation-and-Email-Intelligence-System",
+    "tool": "n8n",
+    "tags": [
+      "docker",
+      "docker-compose",
+      "fastapi",
+      "imap",
+      "javascript",
+      "mtproto",
+      "n8n-automation",
+      "n8n-workflow",
+      "postgresql",
+      "python3",
+      "telethon"
+    ],
+    "description": "A system designed to keep up with job applications, emails responses and application logging without manual intervention.",
+    "path": "n8n/daemon-ad-job-aggregation-and-email-intelligence-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/daemon-Ad/Job-Aggregation-and-Email-Intelligence-System",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288535786",
+    "title": "hvacflow-smart-hvac-automation",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "crm",
+      "geminiai-api-integration",
+      "low-code",
+      "mongodb",
+      "n8n-workflow",
+      "workflow-automation"
+    ],
+    "description": "End-to-end n8n automation for HVAC lead management — AI-powered lead classification, appointment booking, technician dispatch, and daily analytics via MongoDB, OpenAI, Twilio, Gmail, and Google Calendar.",
+    "path": "n8n/muhammadaryangohar-dev-hvacflow-smart-hvac-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muhammadaryangohar-dev/hvacflow-smart-hvac-automation",
+    "source": "github-discovery"
   }
 ]

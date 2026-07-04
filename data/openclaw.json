@@ -16665,5 +16665,33 @@
     "type": "repo",
     "repoUrl": "https://github.com/Agents365-ai/imagen-qwen",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288472172",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "antigravity-ide",
+      "astro",
+      "awesome",
+      "claude",
+      "clawdbot",
+      "codex",
+      "javascript",
+      "jupyter-notebooks",
+      "learn-to-code",
+      "learning-resources",
+      "openclaw",
+      "pandas",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "description": "Compile natural language specs into local neural functions for text classification, extraction, and fuzzy matching tasks in your AI coding agent.",
+    "path": "openclaw/tolimcn7786-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tolimcn7786/skills",
+    "source": "github-discovery"
   }
 ]
