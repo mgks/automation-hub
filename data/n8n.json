@@ -56644,5 +56644,104 @@
     "type": "repo",
     "repoUrl": "https://github.com/muhammadaryangohar-dev/hvacflow-smart-hvac-automation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1289624295",
+    "title": "n8n-workflows-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Portfolio technique de 83 workflows n8n en production (EMA Fuites & entités sœurs) — CRM, chatbots IA, prospection, infra/back-up. Données sensibles anonymisées.",
+    "path": "n8n/clement-godin-n8n-workflows-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/clement-godin/n8n-workflows-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1233568227",
+    "title": "Email-Automation---n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A client email workflow for a USA business that monitors Gmail, filters spam and irrelevant messages, generates AI-powered draft replies, tracks email status in Excel, and supports approval-based sending with dashboard reporting.",
+    "path": "n8n/udarachamidu-email-automation---n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/UdaraChamidu/Email-Automation---n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1261361223",
+    "title": "My-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/noorulhudaay-my-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/noorulhudaay/My-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288772374",
+    "title": "n8n-nodes-caedral",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Caedral community nodes for n8n workflow automation",
+    "path": "n8n/trycaedral-n8n-nodes-caedral/",
+    "type": "repo",
+    "repoUrl": "https://github.com/trycaedral/n8n-nodes-caedral",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1254653118",
+    "title": "smart-elevator-digital-twin",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Agentic AI Digital Twin for a smart elevator: ESP32-S3 firmware → MQTT → Eclipse Ditto → Next.js SCADA dashboard, with n8n workflows for surveillance, predictive maintenance, and safety. Fully Dockerized. Master's thesis platform.",
+    "path": "n8n/abdelrahmen-zaouidi-smart-elevator-digital-twin/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abdelrahmen-zaouidi/smart-elevator-digital-twin",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1207784899",
+    "title": "workflow-n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "ai-workflows",
+      "automation",
+      "awesome-list",
+      "business",
+      "design",
+      "development",
+      "discord",
+      "integrations",
+      "n8n",
+      "n8n-workflow",
+      "solutions",
+      "telegram",
+      "templates",
+      "workflow"
+    ],
+    "description": "Thousands of templates to get you started. Simplify your automation tasks with ready-made solutions tailored to your needs. Find workflows for Telegram, Discord, Gmail, AI, and hundreds of other integrations.",
+    "path": "n8n/mscbuild-workflow-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mscbuild/workflow-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1145148001",
+    "title": "Stock",
+    "tool": "n8n",
+    "tags": [
+      "clickhouse",
+      "n8n-workflow",
+      "olap",
+      "powerbi",
+      "stock-market"
+    ],
+    "description": "This project provides a robust Python-based integration for the vnstock library within n8n. It is designed to automate the retrieval of Vietnamese stock market data while maintaining compatibility between local development environments (VS Code) and production environments (n8n/Docker)",
+    "path": "n8n/thuanvu301103-stock/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thuanvu301103/Stock",
+    "source": "github-discovery"
   }
 ]
