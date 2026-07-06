@@ -56743,5 +56743,56 @@
     "type": "repo",
     "repoUrl": "https://github.com/thuanvu301103/Stock",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1279919810",
+    "title": "n8n-exekyute-templates",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "javascript",
+      "n8n",
+      "notion",
+      "slack",
+      "workflow-automation"
+    ],
+    "description": "A collection of n8n workflow templates organized by n8n library status: published and pending review.",
+    "path": "n8n/exekyute-n8n-exekyute-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/exekyute/n8n-exekyute-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-491716478",
+    "title": "n8n_workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My collection of n8n workflows. This is a mirror of https://git.laziness.rocks/PootisPenserHere/n8n_workflows",
+    "path": "n8n/pootispenserhere-n8n_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/PootisPenserHere/n8n_workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273602709",
+    "title": "My_journey_to_create_uni_project",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-automation",
+      "ai-automation-browser-extension",
+      "browser-extension",
+      "extension",
+      "n8n",
+      "n8n-workflow",
+      "reactjs",
+      "tailwindcss",
+      "university-project"
+    ],
+    "description": "AI Automation Browser Extension (University Capstone)  Goal: Connect browser actions to AI workflows via n8n.  Tech: Built using React and Tailwind CSS.",
+    "path": "n8n/afaqcreate-my_journey_to_create_uni_project/",
+    "type": "repo",
+    "repoUrl": "https://github.com/afaqcreate/My_journey_to_create_uni_project",
+    "source": "github-discovery"
   }
 ]

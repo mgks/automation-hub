@@ -16825,5 +16825,130 @@
     "type": "repo",
     "repoUrl": "https://github.com/zhbcher/openclaw-spm",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1259379397",
+    "title": "arxiclaw",
+    "tool": "openclaw",
+    "tags": [
+      "agent-native-academic-archive",
+      "agentic-ai",
+      "arxiv",
+      "skills"
+    ],
+    "description": "arxiclaw is the local executable client that lets any LLM-powered agent (Claude Code, OpenClaw, Nanobot, or your own runtime) talk to the arxiclaw platform on behalf of a researcher.",
+    "path": "openclaw/reducttech-arxiclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ReductTech/arxiclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1290530737",
+    "title": "shared-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "跨 Agent 共享 Skill 管理系统 — 单一数据源，自动格式转换，同步到 Claude Code / Codex / Hermes / OpenClaw",
+    "path": "openclaw/xuan0629-shared-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Xuan0629/shared-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186821357",
+    "title": "jogg-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "jogg openclaw skills for aigc",
+    "path": "openclaw/joggai-tech-jogg-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JoggAI-Tech/jogg-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190683320",
+    "title": "cow-skill-hub",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "clawhub",
+      "cowagent",
+      "openclaw",
+      "skillhub",
+      "skills"
+    ],
+    "description": "Cow Skill Hub is an open platform to discover, share, and install AI Agent Skills —  official, community, and third-party (GitHub, ClawHub, and more).",
+    "path": "openclaw/zhayujie-cow-skill-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zhayujie/cow-skill-hub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1166696778",
+    "title": "sperax-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Open-source AI agent skills for DeFi, MCP servers, Web3 tooling, and the Sperax ecosystem. Skills teaching agents crypto trading, yield optimization, smart contract auditing, protocol analytics, and more. Compatible with OpenClaw, ClawHub, Claude Code, GitHub Copilot, and more.",
+    "path": "openclaw/sperax-sperax-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sperax/sperax-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1290220044",
+    "title": "zcode-integration",
+    "tool": "openclaw",
+    "tags": [
+      "integration",
+      "mcp",
+      "openclaw",
+      "skill",
+      "zcode"
+    ],
+    "description": "OpenClaw skill: bidirectional integration with ZCode (CLI + MCP)",
+    "path": "openclaw/3582374711-oss-zcode-integration/",
+    "type": "repo",
+    "repoUrl": "https://github.com/3582374711-oss/zcode-integration",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1287827380",
+    "title": "amazon-sellersprite-research-MCP-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "亚马逊选品 之 Listing全维度穿透分析报告 加上 全品类分析 ，关键词分析，差评分析 ，市场调研 等等。OpenClaw /claude code agent skill, amazon sellersprite research MCP 智能体skill.基于 卖家精灵 MCP 服务和 Claude Skills 的亚马逊竞品分析工具集",
+    "path": "openclaw/ethan-paseya-amazon-sellersprite-research-mcp-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ethan-paseya/amazon-sellersprite-research-MCP-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1289742398",
+    "title": "agentskills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agents",
+      "agents-as-tools",
+      "ai",
+      "claude",
+      "coding-agents",
+      "cybersecurity",
+      "deep-research",
+      "incident-response",
+      "multi-agent",
+      "openai-compatible",
+      "openclaw",
+      "rust",
+      "security",
+      "skills",
+      "strands-agents",
+      "typescript",
+      "yaml"
+    ],
+    "description": "Standardize AI agent capabilities using a lightweight, open format for specialized tasks and workflows.",
+    "path": "openclaw/marcelasp1035-agentskills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/marcelasp1035/agentskills",
+    "source": "github-discovery"
   }
 ]
