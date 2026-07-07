@@ -16950,5 +16950,176 @@
     "type": "repo",
     "repoUrl": "https://github.com/marcelasp1035/agentskills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1271031066",
+    "title": "anzhuoyide_skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "分享实用的原创skills，适用于Claude Code,  OpenClaw, Codex, Hemers等主流Agent。                                 我的公众号是安卓一得，分享各种Agent实战经验，欢迎交流～",
+    "path": "openclaw/x414-anzhuoyide_skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/x414/anzhuoyide_skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1172187340",
+    "title": "hello-claw",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "assistant",
+      "clawuhub",
+      "llm",
+      "openclaw",
+      "own-your-data",
+      "personal",
+      "skills",
+      "tutorial"
+    ],
+    "description": "哈喽！龙虾 🙋‍♀️ Adopt from scratch and build your first claw 🦞 来领养你的第一只龙虾！",
+    "path": "openclaw/datawhalechina-hello-claw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/datawhalechina/hello-claw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1185981535",
+    "title": "dreamai-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai",
+      "llm",
+      "openclaw",
+      "openclaw-ski"
+    ],
+    "description": "这是一个用于集中管理各类 AI Agent Skills 的仓库，主要用于沉淀可复用的技能模板、实践经验和配套参考资料。",
+    "path": "openclaw/iamtornado-dreamai-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iamtornado/dreamai-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1207006614",
+    "title": "user-research-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "ai-skill",
+      "claude-code",
+      "cli",
+      "codex",
+      "cursor",
+      "openclaw",
+      "quantitative-research",
+      "skill",
+      "skills",
+      "user-research",
+      "ux-research"
+    ],
+    "description": "Cookiy AI Skill for AI agents (Claude, Codex, Cursor, OpenClaw) — end-to-end user research: AI interviews, synthetic users, quant surveys, participant recruitment.",
+    "path": "openclaw/cookiy-ai-user-research-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cookiy-ai/user-research-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1283651249",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Reusable OpenClaw skills",
+    "path": "openclaw/kevin-li-jgrc-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kevin-Li-jgrc/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1276474686",
+    "title": "pyMicroHarness",
+    "tool": "openclaw",
+    "tags": [
+      "harness",
+      "openclaw",
+      "skills"
+    ],
+    "description": "lite/mini harness",
+    "path": "openclaw/chu8129-pymicroharness/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chu8129/pyMicroHarness",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1265734474",
+    "title": "awesome-ai-agent-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent-skills",
+      "ai-agents",
+      "awesome-list",
+      "claude-code",
+      "codex-cli",
+      "coding-agents",
+      "developer-tools",
+      "gemini-cli",
+      "hermes-agent",
+      "openclaw",
+      "skill",
+      "skill-md",
+      "skills"
+    ],
+    "description": "A curated list of useful Agent Skills for Claude Code, Codex, Gemini CLI, OpenClaw, Hermes, and other AI coding agents.",
+    "path": "openclaw/zients-awesome-ai-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zients/awesome-ai-agent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1291203625",
+    "title": "openclawby-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "crypto",
+      "hermes-skill",
+      "market-data",
+      "onchain",
+      "openai-skill",
+      "openclaw"
+    ],
+    "description": "Connect AI agents to live market, on-chain, and social data plus trade execution through one unified API.",
+    "path": "openclaw/oliveira7015-openclawby-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/oliveira7015/openclawby-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1276072657",
+    "title": "agent-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agentskills",
+      "ai-agents",
+      "claude-code",
+      "mogra",
+      "nano-banana-pro",
+      "openclaw",
+      "openrouter",
+      "skills",
+      "terminal-aesthetic"
+    ],
+    "description": "Public Agent Skills built to the agentskills.io specification — start with terminal-poster (5-cluster reusable infographic system).",
+    "path": "openclaw/ravidsrk-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ravidsrk/agent-skills",
+    "source": "github-discovery"
   }
 ]

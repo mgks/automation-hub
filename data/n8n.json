@@ -56794,5 +56794,111 @@
     "type": "repo",
     "repoUrl": "https://github.com/afaqcreate/My_journey_to_create_uni_project",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1283737067",
+    "title": "railway-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Railway template for n8n - Workflow Automation Platform (195K+ stars)",
+    "path": "n8n/inapp-mobile-railway-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/INAPP-Mobile/railway-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1214517707",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Repo of all n8n workflows in JSON format",
+    "path": "n8n/kjooleng-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kjooleng/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1290569290",
+    "title": "Zeshyrou-Automation-Portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automation Virtual Assistant | n8n · Make · Zapier · Pabbly · GoHighLevel · Zoho CRM | Real estate & CRM workflows",
+    "path": "n8n/zeshyrouanober-zeshyrou-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zeshyrouanober/Zeshyrou-Automation-Portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1277598229",
+    "title": "flow-mcp",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Agent-native workflow kernel. 工作流不必只能是 Dify、n8n 或扣子。  `oflow-mcp` is a workflow-only MCP server. It treats workflow as an open execution protocol for AI Agents: text-defined, versionable, checkpointed, recoverable, and callable through MCP tools.",
+    "path": "n8n/openpeng-flow-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/openpeng/flow-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1289780025",
+    "title": "Porto_SME",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Telegram bot for Small Medium Enterprise — n8n workflow for daily management, stock, expenses, and automatic recaps.",
+    "path": "n8n/alkparo-porto_sme/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alkparo/Porto_SME",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1291639200",
+    "title": "n8n-ai-automations",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "chatbot",
+      "claude",
+      "competitive-intelligence",
+      "gemini",
+      "human-in-the-loop",
+      "llm",
+      "n8n",
+      "no-code",
+      "rag",
+      "telegrambot",
+      "workflow-automation"
+    ],
+    "description": "Production-grade n8n automation workflows by an AI Automation Engineer. LLM orchestration, human-in-the-loop, and event-driven pipelines. Features a flagship AI competitive-intelligence system (cost-tiered Gemini → Claude analysis). Fully sanitized & import-ready.",
+    "path": "n8n/hasancoded-n8n-ai-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hasancoded/n8n-ai-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1291083660",
+    "title": "n8n-Compare-proposals-and-analyze-gaps-for-Salesforce-CRM-with-Groq-AI",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "insights",
+      "n8n",
+      "n8n-automation",
+      "n8n-nodes",
+      "n8n-template",
+      "n8n-workflow",
+      "process-automation",
+      "sales",
+      "salesforce",
+      "slack",
+      "workflow-automation"
+    ],
+    "description": "Improve proposal quality with this n8n workflow automation. It compares new proposals with past winning submissions using AI, identifies gaps and improvement opportunities, saves insights to Salesforce, and notifies your team in Slack. A practical n8n workflow for smarter sales enablement and higher win rates.",
+    "path": "n8n/weblineindia-n8n-compare-proposals-and-analyze-gaps-for-salesforce-crm-with-groq-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/weblineindia/n8n-Compare-proposals-and-analyze-gaps-for-Salesforce-CRM-with-Groq-AI",
+    "source": "github-discovery"
   }
 ]
