@@ -56900,5 +56900,98 @@
     "type": "repo",
     "repoUrl": "https://github.com/weblineindia/n8n-Compare-proposals-and-analyze-gaps-for-Salesforce-CRM-with-Groq-AI",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288588477",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This repository showcases a collection of automated workflows designed to streamline processes and enhance productivity using n8n, the powerful open-source workflow automation tool. Each workflow is crafted to integrate various applications and services, enabling seamless data transfer and task automation.",
+    "path": "n8n/kh3m-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kh3m/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1292960310",
+    "title": "c0fi",
+    "tool": "n8n",
+    "tags": [
+      "llm-agents",
+      "local-first",
+      "local-llm",
+      "mcp",
+      "no-code",
+      "ollama",
+      "rag",
+      "single-file",
+      "visual-programming",
+      "workflow-automation"
+    ],
+    "description": "Single-file visual workflow builder where your local LLM builds, wires, and runs the flows — n8n-style canvas, 100% on your machine via Ollama.",
+    "path": "n8n/aigigsme-c0fi/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AiGigsme/c0fi",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1292934804",
+    "title": "cyber-threat-intelligence-digest",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A self-hosted cyber threat intelligence workflow that automates news collection, AI summarization, aggregation, and email delivery using Dockerized n8n and Ollama.",
+    "path": "n8n/chung1007-cyber-threat-intelligence-digest/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chung1007/cyber-threat-intelligence-digest",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273991518",
+    "title": "business_post_pipeline",
+    "tool": "n8n",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "artificial-intelligence",
+      "langchain",
+      "langgraph",
+      "llm",
+      "n8n",
+      "n8n-automation",
+      "n8n-community-node",
+      "n8n-community-node-package",
+      "n8n-node",
+      "n8n-nodes",
+      "n8n-workflow",
+      "n8n-workflows"
+    ],
+    "description": "Automating and Scheduling LinkedIn Posts using n8n.",
+    "path": "n8n/utkarsh-ankit-business_post_pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/utkarsh-ankit/business_post_pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1268861237",
+    "title": "banking-crm-automation",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "aiagent",
+      "artificial-intelligence",
+      "llm",
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "An n8n workflow implementation for automating Banking CRM for credit card issues.",
+    "path": "n8n/utkarsh-ankit-banking-crm-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/utkarsh-ankit/banking-crm-automation",
+    "source": "github-discovery"
   }
 ]

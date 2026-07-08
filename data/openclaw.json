@@ -17121,5 +17121,29 @@
     "type": "repo",
     "repoUrl": "https://github.com/ravidsrk/agent-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1291901271",
+    "title": "awesome-ceo-stack",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "awesome-list",
+      "ceo",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "founder",
+      "llm",
+      "openclaw",
+      "prompt-engineering"
+    ],
+    "description": "An awesome, curated stack of Claude / OpenClaw agent skills for founders & CEOs — strategy, knowledge base, decks, K-12 coaching, and a full local AI promo-video pipeline. Works with Claude Code, Codex & OpenClaw.",
+    "path": "openclaw/x-rayluan-awesome-ceo-stack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/X-RayLuan/awesome-ceo-stack",
+    "source": "github-discovery"
   }
 ]
