@@ -56993,5 +56993,96 @@
     "type": "repo",
     "repoUrl": "https://github.com/utkarsh-ankit/banking-crm-automation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1281614929",
+    "title": "Mini-SOC-Automating-the-Future-of-Defence",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Developed an AI-Powered SOC Automation Platform that integrates Splunk, Sysmon, n8n, VirusTotal, Google Gemini AI, and Slack to automate threat detection, intelligence enrichment, incident analysis, and alerting. The solution streamlines SOC workflows, accelerates response times, reduces manual effort, and improves security monitoring efficiency.",
+    "path": "n8n/abdu11ah-muhammad-mini-soc-automating-the-future-of-defence/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Abdu11ah-Muhammad/Mini-SOC-Automating-the-Future-of-Defence",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1294564019",
+    "title": "autobase",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automation Workflow like Monday.com, n8n",
+    "path": "n8n/rnpdev0128-autobase/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rnpdev0128/autobase",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1294535131",
+    "title": "ai-email-approval-workflow-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered Gmail reply approval workflow built with n8n, OpenAI, Slack, Google Sheets and Gmail.",
+    "path": "n8n/ussamasikandar7-creator-ai-email-approval-workflow-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ussamasikandar7-creator/ai-email-approval-workflow-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1292821544",
+    "title": "n8n-lint",
+    "tool": "n8n",
+    "tags": [
+      "automation-testing",
+      "ci-cd",
+      "cli",
+      "continuous-integration",
+      "developer-tools",
+      "devops",
+      "github-actions",
+      "linter",
+      "n8n",
+      "n8n-nodes",
+      "n8n-workflow",
+      "pre-commit",
+      "rest-api",
+      "schema-validation",
+      "self-hosted",
+      "typescript",
+      "validation",
+      "workflow-automation"
+    ],
+    "description": "Validate n8n workflow JSON with artifact-backed schema checks.",
+    "path": "n8n/sherunscode-n8n-lint/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sherunscode/n8n-lint",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1293952981",
+    "title": "AI-POC",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An automated, cost-effective, and resilient AI workflow that transcribes raw meeting recordings using Gemini 3.5 Flash and automatically generates structured executive slide decks (PPTX/Google Slides) for SMEs. Includes double-audience documentation and conceptual n8n integration blueprints.",
+    "path": "n8n/juliocode-job-ai-poc/",
+    "type": "repo",
+    "repoUrl": "https://github.com/juliocode-job/AI-POC",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226116014",
+    "title": "n8n-bonpet",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "ecommerce",
+      "n8n",
+      "python",
+      "workflow-automation"
+    ],
+    "description": "n8n workflow automations for The Bon Pet's ecommerce ops, built and version-controlled in Python.",
+    "path": "n8n/yash-gadodia-n8n-bonpet/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yash-gadodia/n8n-bonpet",
+    "source": "github-discovery"
   }
 ]

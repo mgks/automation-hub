@@ -17145,5 +17145,135 @@
     "type": "repo",
     "repoUrl": "https://github.com/X-RayLuan/awesome-ceo-stack",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190908345",
+    "title": "dokkai",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "claude-code",
+      "codex",
+      "graph",
+      "llm",
+      "ollama",
+      "openclaw",
+      "rag",
+      "run-locally",
+      "skills",
+      "tree-sitter"
+    ],
+    "description": "Dokkai ingests a repository, builds a full dependency graph of it (calls, inheritance, definitions, modules), slices the real source into rich chunks, and stores everything in a vector database. The name _dokkai_ (読解) is Japanese for \"reading comprehension\" - which is exactly what this gives an LLM over your code.",
+    "path": "openclaw/gusmaooleo-dokkai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gusmaooleo/dokkai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1294553989",
+    "title": "j-lens-observability-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "codex",
+      "j-lens",
+      "jacobian-lens",
+      "llm-observability",
+      "mechanistic-interpretability",
+      "openclaw"
+    ],
+    "description": "J-Lens-informed reasoning observability skill for OpenClaw, Claude, Codex, and AI harnesses",
+    "path": "openclaw/gonzih-j-lens-observability-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Gonzih/j-lens-observability-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1289988161",
+    "title": "videogenCN",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-video",
+      "chinese-video-models",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skills",
+      "openclaw",
+      "openclaw-skills",
+      "skill-md",
+      "skillsmp",
+      "video-generation"
+    ],
+    "description": "Claude Code skill: Chinese video model generation via Alibaba Cloud Bailian — Wan/PixVerse/Kling/Vidu/HappyHorse, t2v/i2v/kf2v/r2v",
+    "path": "openclaw/agents365-ai-videogencn/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Agents365-ai/videogenCN",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1294497820",
+    "title": "ocrCN",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "chinese-ocr",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skills",
+      "ocr",
+      "openclaw",
+      "openclaw-skills",
+      "paddleocr",
+      "skill-md",
+      "skillsmp",
+      "text-recognition"
+    ],
+    "description": "Multi-platform Chinese OCR skill — PaddleOCR/Baidu/Tencent/Alibaba/EasyOCR, all work in China",
+    "path": "openclaw/agents365-ai-ocrcn/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Agents365-ai/ocrCN",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205813011",
+    "title": "lovart-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "lovart",
+      "openclaw",
+      "skill"
+    ],
+    "description": "a skill for lovart agent ",
+    "path": "openclaw/lovartai-lovart-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lovartai/lovart-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1294461330",
+    "title": "loopr",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for autonomous PR contributions — triages issues, builds fixes via OpenCode, and submits PRs with Telegram approval gates.",
+    "path": "openclaw/chrislazar25-loopr/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chrislazar25/loopr",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187625503",
+    "title": "OpenClawBrain",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Central knowledge base for the OpenClaw Jarvis AI agent instance — architecture, skills, personas, cron, plugins, and maintenance.",
+    "path": "openclaw/jcriecken-openclawbrain/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jcriecken/OpenClawBrain",
+    "source": "github-discovery"
   }
 ]
