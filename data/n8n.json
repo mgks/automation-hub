@@ -57084,5 +57084,151 @@
     "type": "repo",
     "repoUrl": "https://github.com/yash-gadodia/n8n-bonpet",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1268471387",
+    "title": "AI-PROJECT-SmartDistillerAndWorkflowAutomator",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A Python/Streamlit AI app that uses GPT-4o-mini with n8n workflow automation, Google Sheets, and Discord integration to summarize content and automate tasks.",
+    "path": "n8n/mujtabaqureshiii-ai-project-smartdistillerandworkflowautomator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MujtabaQureshiii/AI-PROJECT-SmartDistillerAndWorkflowAutomator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295968377",
+    "title": "sweep-n8n-pack",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Seven n8n workflows that ran the ops layer of an SMS outbound program: call/text logging, Calendly sync, Apify lead ingestion, notes polling, Discord leaderboard and win alerts.",
+    "path": "n8n/mrmapatano-sweep-n8n-pack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mrmapatano/sweep-n8n-pack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295956939",
+    "title": "AI-JobMatch",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered n8n workflow that finds daily job postings, scores them against a CV, and sends a ranked email digest.",
+    "path": "n8n/fifinao-ai-jobmatch/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fifinao/AI-JobMatch",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295904977",
+    "title": "meus-fluxos-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Repositório com workflows do n8n para automação.",
+    "path": "n8n/nilson-silva-ads-meus-fluxos-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Nilson-silva-ads/meus-fluxos-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295938177",
+    "title": "recruiter-pipeline-sync",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An automated recruitment workflow built with n8n that monitors candidate status changes in Google Sheets, schedules interviews in Google Calendar, sends email notifications, and updates the recruitment sheet automatically.",
+    "path": "n8n/iimezozidan-lab-recruiter-pipeline-sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iimezozidan-lab/recruiter-pipeline-sync",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295699630",
+    "title": "ai-inquiry-automation-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-Powered Inquiry Automation Workflow",
+    "path": "n8n/janiththejaka-ai-inquiry-automation-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/janiththejaka/ai-inquiry-automation-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224117995",
+    "title": "n8n_knowledge_base",
+    "tool": "n8n",
+    "tags": [
+      "cli",
+      "elevenlabs",
+      "full-text-search",
+      "integration-research",
+      "javascript",
+      "knowledge-base",
+      "minisearch",
+      "n8n",
+      "voice-ai",
+      "workflow-automation"
+    ],
+    "description": "MiniSearch CLI and JSON research catalog for n8n integrations, ElevenLabs notes, and workflow failure modes.",
+    "path": "n8n/wranngle-n8n_knowledge_base/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wranngle/n8n_knowledge_base",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295918766",
+    "title": "n8n-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Collection of 42 sanitized production n8n workflows - video publishing, content generation, e-commerce, customer support, RAG, and more.",
+    "path": "n8n/shawn137080-n8n-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shawn137080/n8n-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295161877",
+    "title": "social-media-automation-workflow-n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "auto-poster",
+      "dalle-3",
+      "gpt-4",
+      "linkedin-api",
+      "marketing-automation",
+      "meta-api",
+      "n8n",
+      "n8n-workflow",
+      "openai",
+      "perplexity-ai",
+      "social-media-automation",
+      "twitter-api"
+    ],
+    "description": "AI-powered n8n workflow for automated social media posting. Researches trends with Perplexity AI, generates content with GPT-4o & DALL-E 3, and posts to LinkedIn, X, Instagram, and Facebook.",
+    "path": "n8n/ahmed-ali-codes-social-media-automation-workflow-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ahmed-ali-codes/social-media-automation-workflow-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295174635",
+    "title": "n8n-leadgen-call-agent",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "claude-ai",
+      "cold-calling",
+      "google-maps-api",
+      "lead-generation",
+      "n8n",
+      "n8n-workflow",
+      "twilio",
+      "web-scraping"
+    ],
+    "description": "🚀 Fully automated n8n workflow for UK Lead Generation & AI Call Agent. Features Google Maps scraping, Claude AI website analysis, and Twilio automated outbound calling.",
+    "path": "n8n/ahmed-ali-codes-n8n-leadgen-call-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ahmed-ali-codes/n8n-leadgen-call-agent",
+    "source": "github-discovery"
   }
 ]
