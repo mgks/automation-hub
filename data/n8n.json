@@ -57230,5 +57230,55 @@
     "type": "repo",
     "repoUrl": "https://github.com/ahmed-ali-codes/n8n-leadgen-call-agent",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297049584",
+    "title": "propops-workflows",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "close-crm",
+      "convex",
+      "lead-generation",
+      "n8n",
+      "n8n-workflows",
+      "real-estate",
+      "tcpa-compliance",
+      "wholesaling",
+      "workflow-automation"
+    ],
+    "description": "Production n8n workflows from a real estate wholesaling operations stack (PropOps). 7 workflows, 341 nodes: seller reply handling, D4D lead processing, skip-trace enrichment, follow-up engine, TCPA-compliant outbound. Sanitized for public reference.",
+    "path": "n8n/rafiulislam4246-propops-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rafiulislam4246/propops-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297041948",
+    "title": "automated-cold-email-workflow-n8n",
+    "tool": "n8n",
+    "tags": [
+      "email",
+      "email-marketing",
+      "n8n",
+      "n8n-workflow",
+      "outreach-automation"
+    ],
+    "description": "An n8n workflow for automating personalized cold email campaigns. Pull leads from Google Sheets, send templated emails with dynamic personalization, and automatically throttle sends to avoid spam filters. Provider-agnostic SMTP setup works with Gmail, Hostinger, Outlook, SendGrid, and more.",
+    "path": "n8n/notoriginalwizard-automated-cold-email-workflow-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/notoriginalwizard/automated-cold-email-workflow-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1296979651",
+    "title": "n8n-Ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My custom AI workflows and n8n blueprints",
+    "path": "n8n/usmankhan328575-sudo-n8n-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/usmankhan328575-sudo/n8n-Ai-automation-portfolio",
+    "source": "github-discovery"
   }
 ]
