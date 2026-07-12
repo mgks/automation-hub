@@ -57280,5 +57280,103 @@
     "type": "repo",
     "repoUrl": "https://github.com/usmankhan328575-sudo/n8n-Ai-automation-portfolio",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1281529353",
+    "title": "ai-document-assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered system that processes PDF documents and answers user questions using local LLMs (Ollama), automated workflows (n8n), and Python-based data processing.",
+    "path": "n8n/jefer1026-ai-document-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jefer1026/ai-document-assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297721295",
+    "title": "lead-qualifier",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Self-hosted n8n workflow that scores incoming leads with local AI and routes them with a native Switch node",
+    "path": "n8n/hunter-terry-lead-qualifier/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hunter-terry/lead-qualifier",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297861112",
+    "title": "n8n-automations",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "n8n",
+      "n8n-template",
+      "n8n-workflows",
+      "no-code",
+      "workflow-automation"
+    ],
+    "description": "40 production-grade n8n automation workflows — each import-tested in a live n8n instance. AI agents, sales, DevOps, marketing & more.",
+    "path": "n8n/mlvpatel-n8n-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mlvpatel/n8n-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297382779",
+    "title": "ai-resume-vs-job-description-matcher",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered n8n workflow that compares resumes with job descriptions using Groq AI and Structured Output Parser.",
+    "path": "n8n/ryan-brecia-ai-resume-vs-job-description-matcher/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ryan-Brecia/ai-resume-vs-job-description-matcher",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297772024",
+    "title": "Agentic-GraphRAG-Scientific-Research",
+    "tool": "n8n",
+    "tags": [
+      "agentic-rag",
+      "ai-infrastructure",
+      "arxiv-api",
+      "data-ingestion",
+      "n8n-workflow",
+      "neo4j",
+      "qdrent"
+    ],
+    "description": "Autonomous Agentic GraphRAG infrastructure for processing scientific literature. Features a fault-tolerant n8n ingestion pipeline, local LLM reasoning (Qwen), and Multi-Vector semantic search (Qdrant) combined with Neo4j.",
+    "path": "n8n/malcolm-world-agentic-graphrag-scientific-research/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Malcolm-world/Agentic-GraphRAG-Scientific-Research",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297614704",
+    "title": "n8n-ai-automation-workflows",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "ai-automation",
+      "claude-ai",
+      "ecotrustia",
+      "google-sheets",
+      "heygen",
+      "lead-generation",
+      "n8n",
+      "n8n-workflow",
+      "no-code",
+      "openai",
+      "twilio",
+      "whatsapp-bot",
+      "workflow-automation",
+      "youtube-automation"
+    ],
+    "description": "Production-ready n8n AI automation workflows — YouTube Shorts autopilot, UK lead gen + AI cold calling, and WhatsApp AI customer service agent. Built by Ecotrustia Solutions.",
+    "path": "n8n/ahmed-ali-codes-n8n-ai-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ahmed-ali-codes/n8n-ai-automation-workflows",
+    "source": "github-discovery"
   }
 ]

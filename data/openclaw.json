@@ -17435,5 +17435,65 @@
     "type": "repo",
     "repoUrl": "https://github.com/Cherish133/guido-perspective",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297759687",
+    "title": "loop-engineering",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw-native loop engineering CLI, templates, and skill for verifiable agent work loops",
+    "path": "openclaw/ambitioncn-loop-engineering/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ambitioncn/loop-engineering",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297903208",
+    "title": "9Lens",
+    "tool": "openclaw",
+    "tags": [
+      "9lens",
+      "ai-skills",
+      "claude-code",
+      "codex",
+      "github-analyzer",
+      "hermes-agent",
+      "open-source-analysis",
+      "openclaw",
+      "skill"
+    ],
+    "description": "9-Dimension Open-Source Project Analyzer skill for AI coding assistants (Claude Code, Codex, OpenClaw, Hermes). Analyze any GitHub repo across 9 lenses: Features, Usage, Architecture, Dependencies, Costs, Benefits, Risks, Audience, Monetization.",
+    "path": "openclaw/abramhsu-9lens/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AbramHsu/9Lens",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1289761114",
+    "title": "openclawby-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "ai-trading",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "crypto",
+      "hermes-skill",
+      "market-data",
+      "onchain",
+      "openai-skill",
+      "openclaw",
+      "prediction-markets",
+      "trading-api"
+    ],
+    "description": "Official Clawby skills for AI agents — live market, on-chain & social data plus trade execution. One API key, any agent.",
+    "path": "openclaw/openclawby-openclawby-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/openclawby/openclawby-skills",
+    "source": "github-discovery"
   }
 ]
