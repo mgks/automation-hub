@@ -17495,5 +17495,133 @@
     "type": "repo",
     "repoUrl": "https://github.com/openclawby/openclawby-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1179728372",
+    "title": "bdpan-storage",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "baidu",
+      "baidu-netdisk",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "clawhub",
+      "cloud-storage",
+      "codex-skills",
+      "developer-tools",
+      "file-management",
+      "openclaw",
+      "skills"
+    ],
+    "description": "Agent Skill for Baidu Netdisk (百度网盘) — upload, download, transfer,    share, search files via natural language. Works with Claude Code,   Cursor, Codex, Gemini CLI, OpenClaw.",
+    "path": "openclaw/baidu-netdisk-bdpan-storage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/baidu-netdisk/bdpan-storage",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222169265",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agent-tools",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "hermes",
+      "loop-engineering",
+      "loops",
+      "openclaw",
+      "prompt-engineering",
+      "skill-md",
+      "skills",
+      "skills-sh"
+    ],
+    "description": "Skills published by 5dive — drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skills.sh-format prompts.",
+    "path": "openclaw/5dive-ai-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/5dive-ai/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1185448467",
+    "title": "agent-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Causal-chain analysis skill for agents (eg. OpenClaw/Claude Code/OpenCode) to help think of more ideas to resolve a problem",
+    "path": "openclaw/functoreality-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/functoreality/agent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1298776853",
+    "title": "Hermes-Full-Autonomous-Company",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Single source of truth for the Paperclip+Hermes+OpenClaw autonomous AI company. Constitution, products, income engine, finance, skills.",
+    "path": "openclaw/itspremkumar-hermes-full-autonomous-company/",
+    "type": "repo",
+    "repoUrl": "https://github.com/itsPremkumar/Hermes-Full-Autonomous-Company",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1189266949",
+    "title": "Phishguard",
+    "tool": "openclaw",
+    "tags": [
+      "anti-scam",
+      "blocklist",
+      "browser-extension",
+      "cybersecurity",
+      "line-bot",
+      "openclaw",
+      "phishing-detection",
+      "safari-extension",
+      "taiwan"
+    ],
+    "description": "🛡️ PhishGuard - Anti-scam browser extension & LINE bot. Detects phishing/scam URLs using 2.5M+ blocklisted domains from 38 sources. Safari extension + OpenClaw skill.",
+    "path": "openclaw/phishguard-niki-phishguard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/phishguard-niki/Phishguard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1298771065",
+    "title": "openclaw-asana-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Public OpenClaw Asana skill template with search-before-write, provenance, action logging, and playbook workflow guidance",
+    "path": "openclaw/edgeclaws-openclaw-asana-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/EdgeClaws/openclaw-asana-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1166498267",
+    "title": "clawvet",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Skill vetting & supply chain security for the OpenClaw ecosystem. Scans SKILL.md files for prompt injection, credential theft, remote code execution, typosquatting, and social engineering — catching threats that VirusTotal misses.",
+    "path": "openclaw/mohibshaikh-clawvet/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MohibShaikh/clawvet",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1298725975",
+    "title": "thirtyoneday-earner",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw ecosystem first AI self-earning skill. Let AI agents earn PTS on 31day.cloud and swap for DeepSeek tokens. 算力出海, AI 帮 AI 赚钱.",
+    "path": "openclaw/vikingr2023-thirtyoneday-earner/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Vikingr2023/thirtyoneday-earner",
+    "source": "github-discovery"
   }
 ]
