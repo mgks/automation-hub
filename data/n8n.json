@@ -57498,5 +57498,96 @@
     "type": "repo",
     "repoUrl": "https://github.com/pratttik/ai-customer-enquiry-automation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299904423",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "노코드 자동화 파이프라인 설계 및 구현 모음",
+    "path": "n8n/00kangjk-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/00KANGJK/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295316541",
+    "title": "n8n-automation-workflows-realWorld",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This repository serves as document compilation of my Enterprise works with real world data.",
+    "path": "n8n/jr-nunez-dev-n8n-automation-workflows-realworld/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jr-nunez-dev/n8n-automation-workflows-realWorld",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299759237",
+    "title": "build-multi-agent-systems-with-n8n-orchestrating-reliable-ai-workflows-8509000",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/tobiaszwingmann-build-multi-agent-systems-with-n8n-orchestrating-reliable-ai-workflows-8509000/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tobiaszwingmann/build-multi-agent-systems-with-n8n-orchestrating-reliable-ai-workflows-8509000",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1298230793",
+    "title": "Lead-Generation-System-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Lead Generation System with Email Notifications and N8N Workflow Automation",
+    "path": "n8n/ray-apenteng-lead-generation-system-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ray-Apenteng/Lead-Generation-System-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297429635",
+    "title": "product-catalog-monitor",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "data-pipeline",
+      "n8n",
+      "playwright",
+      "postgresql",
+      "python",
+      "web-scraping"
+    ],
+    "description": "Python, Playwright, PostgreSQL, and n8n product catalog monitoring workflow",
+    "path": "n8n/doaneruby970-hub-product-catalog-monitor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/doaneruby970-hub/product-catalog-monitor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299358613",
+    "title": "n8n-Handle-WhatsApp-orders-FAQs-and-tracking-with-GPT-4o-Pinecone-and-Sheets",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "google-sheets",
+      "inventory-management",
+      "n8n",
+      "n8n-automation",
+      "n8n-nodes",
+      "n8n-template",
+      "n8n-workflow",
+      "openai",
+      "order",
+      "pinecone",
+      "process-automation",
+      "slack",
+      "tracker",
+      "whatsapp",
+      "workflow-automation"
+    ],
+    "description": "This workflow automates WhatsApp customer support using OpenAI, Pinecone and Google Sheets. It answers FAQs with AI, processes orders, updates inventory, tracks order status, escalates complex queries to Slack and syncs knowledge from Google Drive for accurate, context-aware responses.",
+    "path": "n8n/weblineindia-n8n-handle-whatsapp-orders-faqs-and-tracking-with-gpt-4o-pinecone-and-sheets/",
+    "type": "repo",
+    "repoUrl": "https://github.com/weblineindia/n8n-Handle-WhatsApp-orders-FAQs-and-tracking-with-GPT-4o-Pinecone-and-Sheets",
+    "source": "github-discovery"
   }
 ]

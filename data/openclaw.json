@@ -17623,5 +17623,49 @@
     "type": "repo",
     "repoUrl": "https://github.com/Vikingr2023/thirtyoneday-earner",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299892545",
+    "title": "opphub-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "偶合 OppHub · OpenClaw bot skill · OPC 用户在 chat @bot 对话, 走 device flow OAuth, 与 opphub-plugin 共 Keychain",
+    "path": "openclaw/mtty-ai-opphub-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mtty-ai/opphub-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299901145",
+    "title": "clawflare.publish",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw agentic skill to publish web content to Cloudflare Pages",
+    "path": "openclaw/drodecker-clawflare.publish/",
+    "type": "repo",
+    "repoUrl": "https://github.com/drodecker/clawflare.publish",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299887046",
+    "title": "aicloud-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud infrastructure via CLI",
+    "path": "openclaw/opencolin-aicloud-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/opencolin/aicloud-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1188931374",
+    "title": "nebius-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud infrastructure via CLI",
+    "path": "openclaw/opencolin-nebius-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/opencolin/nebius-skill",
+    "source": "github-discovery"
   }
 ]
