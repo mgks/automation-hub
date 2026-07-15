@@ -17667,5 +17667,16 @@
     "type": "repo",
     "repoUrl": "https://github.com/opencolin/nebius-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288777578",
+    "title": "agent-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Portable Claude Code / OpenClaw dev-workflow skills (codex-review-loop, pr-first-workflow, safe-prod-db-write).",
+    "path": "openclaw/digitizers-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Digitizers/agent-skills",
+    "source": "github-discovery"
   }
 ]

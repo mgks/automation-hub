@@ -57589,5 +57589,103 @@
     "type": "repo",
     "repoUrl": "https://github.com/weblineindia/n8n-Handle-WhatsApp-orders-FAQs-and-tracking-with-GPT-4o-Pinecone-and-Sheets",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1301027340",
+    "title": "pisama-n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "failure-detection",
+      "fair-code",
+      "n8n",
+      "observability",
+      "self-hosted"
+    ],
+    "description": "Failure detection for n8n workflows. Fair-code, self-hostable; paid cloud tier for fix suggestions and auto-fixing.",
+    "path": "n8n/pisama-ai-pisama-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Pisama-AI/pisama-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1301083363",
+    "title": "bridge-bot-daosa",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A mini-application which will listen to Discord activities and request to the main Daosa n8n AI automation workflow. Esssencial for the operation.",
+    "path": "n8n/vdanviel-bridge-bot-daosa/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vdanviel/bridge-bot-daosa",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1200709812",
+    "title": "automatic-weight-recording",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Works with a n8n workflow to automatically grab and log weight entries from Wyze scales",
+    "path": "n8n/godimas101-automatic-weight-recording/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Godimas101/automatic-weight-recording",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1301059298",
+    "title": "Lead-Generation-Automation-Tool",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that turns a keyword into a clean, de-duplicated, AI-scored list of sales/recruitment leads — free job-board APIs → Hunter.io enrichment → Google Gemini embedding scoring + personalised outreach hooks → CSV/email. 100% free tools, no LinkedIn scraping.",
+    "path": "n8n/abdullahshafiq28-lead-generation-automation-tool/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abdullahshafiq28/Lead-Generation-Automation-Tool",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1301081914",
+    "title": "n8n-nodes-llmgraph",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node: invoke deployed LLMGraph workflows (llmgraph.ai)",
+    "path": "n8n/abahocodes-n8n-nodes-llmgraph/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abahocodes/n8n-nodes-llmgraph",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1275210362",
+    "title": "kshetraos-mihar",
+    "tool": "n8n",
+    "tags": [],
+    "description": "KshetraOS - Mihar Follow-Up Desk: n8n workflow automation for farmer loan follow-up CRM",
+    "path": "n8n/trohille-coder-kshetraos-mihar/",
+    "type": "repo",
+    "repoUrl": "https://github.com/trohille-coder/kshetraos-mihar",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1300427179",
+    "title": "n8n-Track-financial-health-with-Groq-Google-Sheets-and-Slack",
+    "tool": "n8n",
+    "tags": [
+      "expense",
+      "financial-health-score",
+      "google-sheets",
+      "groq-ai",
+      "health-score",
+      "n8n",
+      "n8n-automation",
+      "n8n-nodes",
+      "n8n-template",
+      "n8n-workflow",
+      "process-automation",
+      "slack",
+      "workflow-automation"
+    ],
+    "description": "This n8n workflow collects personal finance data through a form, calculates a financial health score, generates AI-powered financial advice using Groq, stores results in Google Sheets, and sends a formatted financial summary with expense alerts to Slack.",
+    "path": "n8n/weblineindia-n8n-track-financial-health-with-groq-google-sheets-and-slack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/weblineindia/n8n-Track-financial-health-with-Groq-Google-Sheets-and-Slack",
+    "source": "github-discovery"
   }
 ]
