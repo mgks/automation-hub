@@ -57687,5 +57687,130 @@
     "type": "repo",
     "repoUrl": "https://github.com/weblineindia/n8n-Track-financial-health-with-Groq-Google-Sheets-and-Slack",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1301320273",
+    "title": "n8n_workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Compilation of my private N8N workflows for automating redundant and repetitive tasks",
+    "path": "n8n/toniyenc11-n8n_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ToniYenC11/n8n_workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1301168912",
+    "title": "n8n-ai-workflow-monitoring",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered production workflow monitoring system built with n8n, Groq AI, Gmail, Slack and Google Sheets for intelligent incident detection and automated alerting.",
+    "path": "n8n/autonode-x-n8n-ai-workflow-monitoring/",
+    "type": "repo",
+    "repoUrl": "https://github.com/autonode-x/n8n-ai-workflow-monitoring",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1302192643",
+    "title": "n8n-ai-lead-qualifier",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "lead-generation",
+      "n8n",
+      "self-hosted"
+    ],
+    "description": "Self-hosted n8n workflow: AI scores every inbound lead 0-100, logs to Google Sheets, instantly alerts on hot leads and auto-replies. No per-lead SaaS fees.",
+    "path": "n8n/mannyifc92-n8n-ai-lead-qualifier/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mannyifc92/n8n-ai-lead-qualifier",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1251650759",
+    "title": "n8n-automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Automation Specialist | Certified Building intelligent workflows that transform manual processes into efficient automation // Automações inteligentes desenvolvidas com n8n | Certificado em n8n Workflows otimizados para eficiência operacional e integração de sistemas",
+    "path": "n8n/danielavareiro-n8n-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DanielaVareiro/n8n-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1300438345",
+    "title": "n8n-automation-notes",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My practice notes and workflows for n8n automation.",
+    "path": "n8n/venice14-n8n-automation-notes/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Venice14/n8n-automation-notes",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1298618069",
+    "title": "lead-qualifier-crm",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Self-hosted n8n workflow that scores incoming leads with local AI and writes the result into a real Airtable base",
+    "path": "n8n/hunter-terry-lead-qualifier-crm/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hunter-terry/lead-qualifier-crm",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1298381212",
+    "title": "flow-mation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Open-source workflow automation platform similar to n8n. Backend built with .NET 10 using DDD, Clean Architecture, and CQRS. Frontend powered by ReactJS, Vite, and TailwindCSS. PostgreSQL for reliable data storage. Features visual workflow builder, triggers, actions, webhooks, and scheduling. Highly extensible with custom nodes and connectors.",
+    "path": "n8n/ant-farm-technology-flow-mation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ant-farm-technology/flow-mation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1294633678",
+    "title": "successfactors-n8n-onboarding",
+    "tool": "n8n",
+    "tags": [
+      "hr-automation",
+      "integration-center",
+      "n8n",
+      "n8n-workflow",
+      "onboarding",
+      "sap-successfactors",
+      "sap-successfactors-practice-test",
+      "telegrambot"
+    ],
+    "description": "SAP SuccessFactors Onboarding → n8n: auto survey email + Telegram HR alert via Integration Center. No BTP, no middleware.",
+    "path": "n8n/cjstudio39-successfactors-n8n-onboarding/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cjstudio39/successfactors-n8n-onboarding",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1301927928",
+    "title": "synergieloc-n8n-templates",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "france",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow",
+      "no-code",
+      "property-management",
+      "proptech",
+      "real-estate",
+      "rent"
+    ],
+    "description": "Free n8n workflow templates for French real-estate automation (IRL rent revision, service charges, rent receipts) powered by the synergieloc API - legal basis included in every result.",
+    "path": "n8n/assoujojo82-coder-synergieloc-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/assoujojo82-coder/synergieloc-n8n-templates",
+    "source": "github-discovery"
   }
 ]
