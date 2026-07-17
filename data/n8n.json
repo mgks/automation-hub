@@ -57812,5 +57812,85 @@
     "type": "repo",
     "repoUrl": "https://github.com/assoujojo82-coder/synergieloc-n8n-templates",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1303434272",
+    "title": "flowsentry",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "n8n",
+      "observability",
+      "ollama",
+      "ops"
+    ],
+    "description": "AI ops agent for n8n — detects failure spikes, latency anomalies, and error clusters in workflow executions, then writes LLM root-cause digests to Slack. Free local Ollama or Groq.",
+    "path": "n8n/syedahmad0786-flowsentry/",
+    "type": "repo",
+    "repoUrl": "https://github.com/syedahmad0786/flowsentry",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1298813320",
+    "title": "n8n-nodes-status-check",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Status Check - Validate domains and emails in your automation workflows",
+    "path": "n8n/kynetic-tech-n8n-nodes-status-check/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kynetic-Tech/n8n-nodes-status-check",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1301649986",
+    "title": "Monitor_Security-N8N-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered n8n workflow that monitors security advisory feeds (CISA, GitHub, Palo Alto), assesses relevance via LLM, and auto-routes critical issues to Jira/email.",
+    "path": "n8n/darklightbeat-monitor_security-n8n-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DarkLightBeat/Monitor_Security-N8N-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1303419054",
+    "title": "career-ops-automation",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "job-search",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "n8n workflow: automated job discovery, fit scoring, and daily digest across 19 job categories via Adzuna API",
+    "path": "n8n/bode-n-ayansina-career-ops-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Bode-N-Ayansina/career-ops-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1302346096",
+    "title": "nautlablocal",
+    "tool": "n8n",
+    "tags": [
+      "css",
+      "docker",
+      "hermes-agent",
+      "host",
+      "html5",
+      "ia",
+      "javascript",
+      "local-ai",
+      "local-llm",
+      "n8n-workflow",
+      "python3"
+    ],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/ferplex-nautlablocal/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ferplex/nautlablocal",
+    "source": "github-discovery"
   }
 ]
