@@ -17911,5 +17911,25 @@
     "type": "repo",
     "repoUrl": "https://github.com/MDsniper/book-forge",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1304024710",
+    "title": "codex-openclaw-review-loop-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-workflow",
+      "ai-agents",
+      "codex-skill",
+      "handoff",
+      "multi-agent",
+      "openclaw",
+      "quality-gate",
+      "reviewops"
+    ],
+    "description": "A Codex skill for reviewing multi-agent delivery packages and proving the review loop actually closed.",
+    "path": "openclaw/kyleeeleee-codex-openclaw-review-loop-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kyleeeleee/codex-openclaw-review-loop-skill",
+    "source": "github-discovery"
   }
 ]

@@ -57892,5 +57892,102 @@
     "type": "repo",
     "repoUrl": "https://github.com/ferplex/nautlablocal",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-970230537",
+    "title": "n8n-nodes-upload-post",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "instagram",
+      "n8n",
+      "n8n-community-node",
+      "social-media",
+      "tiktok",
+      "upload-post",
+      "youtube"
+    ],
+    "description": "🚀 Official n8n community node for Upload-Post API. Schedule & publish to TikTok, Instagram, YouTube, LinkedIn, X, Facebook, Pinterest, Threads, Reddit & Bluesky from your n8n workflows.",
+    "path": "n8n/upload-post-n8n-nodes-upload-post/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Upload-Post/n8n-nodes-upload-post",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1304507246",
+    "title": "conversation-qa-prototype",
+    "tool": "n8n",
+    "tags": [],
+    "description": "QA de atendimento com IA: front-end + workflow n8n que pontua conversas e alerta supervisor. Dados ficticios.",
+    "path": "n8n/allanthiaedesign-conversation-qa-prototype/",
+    "type": "repo",
+    "repoUrl": "https://github.com/allanthiaedesign/conversation-qa-prototype",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1304515883",
+    "title": "AI-Powered-Support-Ticket-Classifier",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that reads incoming support emails directly from an inbox, classifies them with AI, drafts a reply, notifies the right team, and logs every ticket — with fallback handling if any step fails.",
+    "path": "n8n/isamihussaini-ai-powered-support-ticket-classifier/",
+    "type": "repo",
+    "repoUrl": "https://github.com/isamihussaini/AI-Powered-Support-Ticket-Classifier",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187451423",
+    "title": "TrendHunter",
+    "tool": "n8n",
+    "tags": [
+      "automacao-web",
+      "automation",
+      "n8n-workflow"
+    ],
+    "description": "Caçador de Tendências do Mercado - Sistema automatizado para identificar produtos em alta e oportunidades de negócio.",
+    "path": "n8n/samuelolavo-trendhunter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SamuelOlavo/TrendHunter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1179575242",
+    "title": "PA2ClinicSystemAi",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "chatbot",
+      "docker",
+      "fastapi",
+      "n8n-workflow",
+      "neon",
+      "nextjs",
+      "pandas",
+      "postgresql"
+    ],
+    "description": "Web clinic information system based on Ai chatbot and System Automation n8n",
+    "path": "n8n/septianhutasoit-pa2clinicsystemai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Septianhutasoit/PA2ClinicSystemAi",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1257703868",
+    "title": "ai-customer-support-agent",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "customer-support",
+      "email-automation",
+      "gmail-api",
+      "n8n",
+      "n8n-workflow",
+      "openai"
+    ],
+    "description": "n8n workflow that monitors Gmail, classifies real support questions with GPT-4o against a store knowledge base, and drafts replies for human review — never auto-sends.",
+    "path": "n8n/austinkyle-ai-customer-support-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/austinkyle/ai-customer-support-agent",
+    "source": "github-discovery"
   }
 ]
