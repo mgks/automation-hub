@@ -57989,5 +57989,146 @@
     "type": "repo",
     "repoUrl": "https://github.com/austinkyle/ai-customer-support-agent",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1305342976",
+    "title": "ai-invoice-extractor-hitl",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An End-to-End Intelligent Document Processing (IDP) engine featuring automated AI extraction, n8n workflow orchestration, and a Human-in-the-Loop (HITL) review dashboard. Built with Spring Boot & Next.js.",
+    "path": "n8n/hamzaelmansouri-pr-ai-invoice-extractor-hitl/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HamzaElmansouri-Pr/ai-invoice-extractor-hitl",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1285436202",
+    "title": "youtube-automation",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "aws-bedrock",
+      "content-creation",
+      "n8n",
+      "video-scripts",
+      "youtube"
+    ],
+    "description": "n8n workflow for auto-generating YouTube video scripts from blog articles via AWS Bedrock",
+    "path": "n8n/basel5001-youtube-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/basel5001/youtube-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1301452678",
+    "title": "auto-ai-cluster",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "ai-cluster",
+      "autonomous-agents",
+      "devops",
+      "docker-compose",
+      "edge-ai",
+      "kubernetes",
+      "n8n",
+      "postgresql",
+      "self-hosted"
+    ],
+    "description": "Production-grade autonomous AI agent cluster. Docker Compose/K8s deploy, n8n workflow engine, auth agent, HA PostgreSQL, AI API security gateway. Self-hosted on 2C4G VPS.",
+    "path": "n8n/lu7897859-tech-auto-ai-cluster/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lu7897859-tech/auto-ai-cluster",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1167071948",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Repo for my personal n8n workflows",
+    "path": "n8n/eliasisrael-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/eliasisrael/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1304459254",
+    "title": "outreach-os",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "b2b",
+      "claude",
+      "claude-plugin",
+      "code",
+      "cold-email",
+      "developer-tools",
+      "google-places",
+      "icp",
+      "lead-generation",
+      "marketing",
+      "monetization",
+      "n8n",
+      "openai",
+      "pricing",
+      "revenue",
+      "sales",
+      "startup",
+      "value-proposition"
+    ],
+    "description": "Automate B2B outreach with this open-source, AI-powered system of N8N workflows for lead generation, personalized email sending, and tracking.",
+    "path": "n8n/sunshinemultiplechoice751-outreach-os/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sunshinemultiplechoice751/outreach-os",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1305334341",
+    "title": "n8n-ai-agent-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A focused n8n AI agent workflow with OpenAI integration, short-term memory, calculator tool usage, and a sanitized importable workflow JSON.",
+    "path": "n8n/chathuranga-sudusinghe-n8n-ai-agent-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chathuranga-sudusinghe/n8n-ai-agent-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1305235795",
+    "title": "n8n-nodes-pixtex",
+    "tool": "n8n",
+    "tags": [
+      "diagram",
+      "n8n",
+      "n8n-community-node-package",
+      "n8n-nodes",
+      "pixtex",
+      "workflow"
+    ],
+    "description": "Pixtex community node for n8n - render workflows into share-ready diagrams and permanent hosted image URLs",
+    "path": "n8n/vicegerentprince-n8n-nodes-pixtex/",
+    "type": "repo",
+    "repoUrl": "https://github.com/VicegerentPrince/n8n-nodes-pixtex",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1289469093",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "automation",
+      "framework",
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "Project space for personal n8n workflows that other might find useful",
+    "path": "n8n/maker-lab-9000-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/maker-lab-9000/n8n",
+    "source": "github-discovery"
   }
 ]
