@@ -58130,5 +58130,123 @@
     "type": "repo",
     "repoUrl": "https://github.com/maker-lab-9000/n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1304690209",
+    "title": "ai-finance-tracker-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An AI-powered personal finance tracking workflow built with n8n, Google Gemini, Telegram, and Google Sheets.",
+    "path": "n8n/syifaannisa-ai-finance-tracker-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/syifaannisa/ai-finance-tracker-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1306146918",
+    "title": "LeadFlow-CRM",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An automated lead management workflow built with n8n, Tally, Google Sheets, and Gmail.",
+    "path": "n8n/coilnova-dev-leadflow-crm/",
+    "type": "repo",
+    "repoUrl": "https://github.com/coilnova-dev/LeadFlow-CRM",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1306117186",
+    "title": "n8n-automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production n8n workflows: job-application pipeline, tech-news digest, drip-batch sender (sanitized exports)",
+    "path": "n8n/michaellawrence-it-n8n-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/michaellawrence-it/n8n-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1255070166",
+    "title": "StockAI-Dashboard",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered Adobe Stock workflow dashboard with n8n, Google Drive & Gemini Vision",
+    "path": "n8n/trydhil-stockai-dashboard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/trydhil/StockAI-Dashboard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1306109926",
+    "title": "ai-scraper-benchmarks",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Web Scraping AI Agents: Which Data Pipeline Wins for LangChain, LlamaIndex, n8n, and Claude Workflows? Setup Walkthrough, Credit Multiplier Math, and Reliability Benchmarks All in One Place (With Verified ScraperAPI Discount Codes and Full Plan Breakdown)",
+    "path": "n8n/vez3147-ai-scraper-benchmarks/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vez3147/ai-scraper-benchmarks",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1287616332",
+    "title": "n8n-ai-automation-job-report",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: twice-weekly Excel report of remote part-time/contract AI-automation jobs, aggregated from Remotive + Jobicy + JSearch, emailed via Gmail and logged to a Data Table.",
+    "path": "n8n/baschfonronsenburg-n8n-ai-automation-job-report/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BaschFonRonsenburg/n8n-ai-automation-job-report",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1306077570",
+    "title": "n8n-error-handling",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Self-hosted n8n automation: per-error circuit breaker, cost-aware AI severity classification, and a daily digest for workflow error alerting.",
+    "path": "n8n/vitin4267-n8n-error-handling/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Vitin4267/n8n-error-handling",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1221982251",
+    "title": "taskpilot",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "devops",
+      "n8n",
+      "nextjs",
+      "saas",
+      "stripe"
+    ],
+    "description": "TaskPilot — AI SaaS that generates production-ready IT automation scripts and n8n workflows.",
+    "path": "n8n/mikegira-taskpilot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MikeGira/taskpilot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1304460746",
+    "title": "sunshinemultiplechoice751.github.io",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automate B2B outreach with this open-source, AI-powered system of N8N workflows for finding leads, sending personalized emails, and managing follow-ups.",
+    "path": "n8n/sunshinemultiplechoice751-sunshinemultiplechoice751.github.io/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sunshinemultiplechoice751/sunshinemultiplechoice751.github.io",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1306058072",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/gubbahrudhay-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gubbahrudhay/n8n-workflows",
+    "source": "github-discovery"
   }
 ]

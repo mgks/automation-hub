@@ -18015,5 +18015,109 @@
     "type": "repo",
     "repoUrl": "https://github.com/xiaopengs/wechat_helper",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222940238",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/alexzaitsev-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alexzaitsev/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1306153464",
+    "title": "zhang-defen-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "张德芬的思维操作系统 - OpenClaw skill",
+    "path": "openclaw/lujunwang413191-coder-zhang-defen-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lujunwang413191-coder/zhang-defen-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1306102033",
+    "title": "telegram-ui",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Telegram UI skill — rich formatting, buttons, polls, media. Live-calibrated rendering rules (OpenClaw 2026.7.1).",
+    "path": "openclaw/clawsean-telegram-ui/",
+    "type": "repo",
+    "repoUrl": "https://github.com/clawSean/telegram-ui",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1201764918",
+    "title": "shell-swap",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill to mass-switch model settings across config, sessions, and cron jobs",
+    "path": "openclaw/clawsean-shell-swap/",
+    "type": "repo",
+    "repoUrl": "https://github.com/clawSean/shell-swap",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1254299801",
+    "title": "solo",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "SOLO v2.0 — Three-power separation architecture. Kernel(legislative) + solo-audit(judicial) + skills(executive). Meta-agent, zero scripts, pure OpenClaw native.",
+    "path": "openclaw/meta-evo-creator-solo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/meta-evo-creator/solo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270319127",
+    "title": "openclaw-tools",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw toolkit: shareable skills, scripts, benchmarks, and utilities for AI agent workspaces",
+    "path": "openclaw/space-cadet-openclaw-tools/",
+    "type": "repo",
+    "repoUrl": "https://github.com/space-cadet/openclaw-tools",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1305098553",
+    "title": "renkai-player-agent",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "hermes",
+      "openclaw",
+      "renkai",
+      "solana"
+    ],
+    "description": "Standalone Renkai player skill and CLI for Hermes and OpenClaw agents",
+    "path": "openclaw/godemodegame-renkai-player-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/godemodegame/renkai-player-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187488462",
+    "title": "rick-ai-ceo",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-ceo",
+      "automation",
+      "autonomous-agent",
+      "indie-hacker",
+      "openclaw",
+      "saas",
+      "self-hosted"
+    ],
+    "description": "The AI CEO you can actually install. 24 skills, strategy panel, overnight autonomy. One command. 5 minutes. Rick is alive.",
+    "path": "openclaw/ricksmartbrain-boop-rick-ai-ceo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ricksmartbrain-boop/rick-ai-ceo",
+    "source": "github-discovery"
   }
 ]
