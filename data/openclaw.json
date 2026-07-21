@@ -18119,5 +18119,51 @@
     "type": "repo",
     "repoUrl": "https://github.com/ricksmartbrain-boop/rick-ai-ceo",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295990772",
+    "title": "Information-Manager-IFC-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Skill de gestão da informação BIM/IFC com agentes OpenClaw, ISO 19650, IDS, bSDD, BCF e mapeamentos determinísticos Revit/IFC e COBie.",
+    "path": "openclaw/jeffersonbim-information-manager-ifc-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jeffersonbim/Information-Manager-IFC-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1247226421",
+    "title": "indigokarasu",
+    "tool": "openclaw",
+    "tags": [
+      "claude",
+      "hermes-agent",
+      "openclaw"
+    ],
+    "description": "🟣 Indigo Karasu — Building OCAS, an open suite of agent skills for personal intelligence.",
+    "path": "openclaw/indigokarasu-indigokarasu/",
+    "type": "repo",
+    "repoUrl": "https://github.com/indigokarasu/indigokarasu",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1175870738",
+    "title": "OpenClaw-Medical-Skills",
+    "tool": "openclaw",
+    "tags": [
+      "awesome",
+      "claude-code",
+      "clawhub",
+      "medical",
+      "nanoclaw",
+      "openclaw",
+      "openclaw-skills",
+      "skills"
+    ],
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
+    "path": "openclaw/freedomintelligence-openclaw-medical-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+    "source": "github-discovery"
   }
 ]

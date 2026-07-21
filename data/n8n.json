@@ -58248,5 +58248,129 @@
     "type": "repo",
     "repoUrl": "https://github.com/gubbahrudhay/n8n-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1307184169",
+    "title": "Jerome-Isaac-Katigbak---Ai-Business-Automation-Portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered business automation workflows built with n8n and Zapier, featuring multi-agent lead generation, CRM integration, proposal generation, and automated contract delivery.",
+    "path": "n8n/jzkatigbak21-jerome-isaac-katigbak---ai-business-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jzkatigbak21/Jerome-Isaac-Katigbak---Ai-Business-Automation-Portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295311603",
+    "title": "n8n-automation-workflows-sandbox",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Collection (Non-AI)",
+    "path": "n8n/jr-nunez-dev-n8n-automation-workflows-sandbox/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jr-nunez-dev/n8n-automation-workflows-sandbox",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1307165154",
+    "title": "n8n-construction-request-bot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Telegram-based construction request tracking workflow built with n8n and Google Sheets.",
+    "path": "n8n/ahmadtalat05-n8n-construction-request-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ahmadtalat05/n8n-construction-request-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1261927598",
+    "title": "n8n-nodes-xquik",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Xquik X data workflows. Not affiliated with X Corp.",
+    "path": "n8n/xquik-dev-n8n-nodes-xquik/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Xquik-dev/n8n-nodes-xquik",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1306783012",
+    "title": "QR-Toolkit-N8N",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Generate and read QR codes locally in n8n workflows",
+    "path": "n8n/enriqueite-qr-toolkit-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/EnriqueITE/QR-Toolkit-N8N",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1093597475",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "my n8n workflows ",
+    "path": "n8n/nccarter05-cyber-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nccarter05-cyber/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1300659566",
+    "title": "RetryProof",
+    "tool": "n8n",
+    "tags": [
+      "codex",
+      "developer-tools",
+      "fault-injection",
+      "gpt-5-6",
+      "n8n",
+      "openai-build-week"
+    ],
+    "description": "Deterministic retry-fault testing for consequential n8n workflows, built with GPT-5.6 and Codex for OpenAI Build Week.",
+    "path": "n8n/marmar9615-cloud-retryproof/",
+    "type": "repo",
+    "repoUrl": "https://github.com/marmar9615-cloud/RetryProof",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1120743837",
+    "title": "n8n-nodes-promptlock-guard",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered security guardrails for n8n workflows",
+    "path": "n8n/true-north-analytics-n8n-nodes-promptlock-guard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/True-North-Analytics/n8n-nodes-promptlock-guard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1282050504",
+    "title": "n8n-nodes-acp",
+    "tool": "n8n",
+    "tags": [
+      "acp",
+      "agent-client-protocol",
+      "automation",
+      "n8n",
+      "n8n-community-node",
+      "opencode"
+    ],
+    "description": "n8n community node for running workflow items through ACP-compatible agent harnesses",
+    "path": "n8n/wyvernzora-n8n-nodes-acp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wyvernzora/n8n-nodes-acp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1292887461",
+    "title": "SOC",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automation & SOAR workflow with n8n, Wazuh, Zabbix, and AI Agent.",
+    "path": "n8n/ferdaousmejhed-soc/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ferdaousmejhed/SOC",
+    "source": "github-discovery"
   }
 ]
