@@ -58372,5 +58372,128 @@
     "type": "repo",
     "repoUrl": "https://github.com/ferdaousmejhed/SOC",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1308298732",
+    "title": "AI-agent-for-Customer-Support",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This project focused on building an AI-powered customer support automation workflow using n8n, OpenAI, JavaScript, Google Calendar, and Google Sheets. The system integrates AI conversation, memory, data processing, appointment scheduling, and information management into a single automated workflow for efficient customer support operations.",
+    "path": "n8n/sjdevops12-ai-agent-for-customer-support/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SJDevOps12/AI-agent-for-Customer-Support",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1308189465",
+    "title": "AI-Enterprise-Knowledge-Assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Enterprise AI assistant that answers Slack questions using official company documentation from Google Drive and GitHub through automated workflows built with n8n and Groq.",
+    "path": "n8n/giovanni-088-ai-enterprise-knowledge-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Giovanni-088/AI-Enterprise-Knowledge-Assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1308266379",
+    "title": "AI-Powered-Competitor-News-Monitor---Weekly-Digest",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-grade n8n workflow that automatically monitors competitor and industry AI news on a weekly schedule, synthesizes raw articles using Google Gemini 3.5 Flash Lite into executive market intelligence, and delivers dark-mode styled HTML digests via email. MCP-enabled.",
+    "path": "n8n/youssef-sabri-ai-powered-competitor-news-monitor---weekly-digest/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Youssef-Sabri/AI-Powered-Competitor-News-Monitor---Weekly-Digest",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1306656349",
+    "title": "fieldops-procurement-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "FieldOps Co. procurement approval automation (n8n). Handoff repo: workflows, operator runbook, architecture, and the golden-set evaluation suite.",
+    "path": "n8n/mfrostbutter-fieldops-procurement-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mfrostbutter/fieldops-procurement-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1308254480",
+    "title": "n8n-task-manager-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automation workflows and JSON exports build with n8n",
+    "path": "n8n/adepegba102-cpu-n8n-task-manager-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/adepegba102-cpu/n8n-task-manager-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1308267136",
+    "title": "Hotel-report-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n automation workflow that collects daily hotel metrics, consolidates key performance data, and sends automated reports.",
+    "path": "n8n/yonaidissoto-hotel-report-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/YonaidisSoto/Hotel-report-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1085404661",
+    "title": "n8n-nodes-1health",
+    "tool": "n8n",
+    "tags": [
+      "api-integration",
+      "healthcare",
+      "n8n",
+      "n8n-nodes",
+      "typescript",
+      "workflow-automation"
+    ],
+    "description": "n8n community node for the 1Health healthcare API — manage patients and records as drag-and-drop workflow steps. TypeScript.",
+    "path": "n8n/microdiamond5004-n8n-nodes-1health/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MicroDiamond5004/n8n-nodes-1health",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1285247234",
+    "title": "n8n-ai-news-scraper-automation",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "firecrawl",
+      "n8n",
+      "openai",
+      "web-scraping"
+    ],
+    "description": "Advanced n8n workflow automating web scraping (Firecrawl), AI-powered filtering (OpenAI), and news consolidation. Features a fault-tolerant architecture with report exports to Google Workspace.",
+    "path": "n8n/markusams1984-n8n-ai-news-scraper-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Markusams1984/n8n-ai-news-scraper-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1304440675",
+    "title": "n8n-hooks-marketplace",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Decentralized Workflow Marketplace for N8N Self Hosted Instances over MQTT",
+    "path": "n8n/3p3r-n8n-hooks-marketplace/",
+    "type": "repo",
+    "repoUrl": "https://github.com/3p3r/n8n-hooks-marketplace",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1308247388",
+    "title": "Automated-Supply-Chain-Analytics-Pipeline-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Low-code supply chain analytics project showcasing workflow automation, cloud databases, SQL analytics, and AI-assisted visualization using n8n, Supabase PostgreSQL, and Quadratic AI.",
+    "path": "n8n/vikranthnivasdhamodharan-lab-automated-supply-chain-analytics-pipeline-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vikranthnivasdhamodharan-lab/Automated-Supply-Chain-Analytics-Pipeline-",
+    "source": "github-discovery"
   }
 ]

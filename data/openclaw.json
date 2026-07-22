@@ -18165,5 +18165,81 @@
     "type": "repo",
     "repoUrl": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1224161274",
+    "title": "ai-agents-skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "claude",
+      "codex",
+      "deepseek",
+      "github-copilot-cli",
+      "installer",
+      "skills"
+    ],
+    "description": "Shared, manifest-driven skills & settings installer for Codex, Claude, DeepSeek, GitHub Copilot, OpenCode, Antigravity, Grok, and (fake-root) OpenClaw agent CLIs — cross-platform (Linux/macOS/Windows), with cross-agent delegation, leak sanitization, and lifecycle/rollback.",
+    "path": "openclaw/hoanganhduc-ai-agents-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hoanganhduc/ai-agents-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194105267",
+    "title": "toolbelt-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agentic",
+      "agentic-data-layer",
+      "claude-code",
+      "claude-desktop",
+      "cursor",
+      "mcp",
+      "mcp-server",
+      "openclaw",
+      "windsurf"
+    ],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/toolbeltai-toolbelt-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/toolbeltai/toolbelt-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1287242659",
+    "title": "headless-relay",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "headless",
+      "skills"
+    ],
+    "description": "An Agent Skill that lets your coding agent ask the other AI models on your machine for help: GPT, GLM, Grok, Gemini, Claude, even local models. Second opinions, parallel consensus, image generation. Works in Claude Code, Codex, Grok, Cursor, OpenClaw, Hermes and friends.",
+    "path": "openclaw/dorukardahan-headless-relay/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dorukardahan/headless-relay",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1168378806",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "automation",
+      "codex",
+      "developer-tools",
+      "openclaw"
+    ],
+    "description": "OpenClaw skills by Garibong Labs",
+    "path": "openclaw/garibong-labs-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/garibong-labs/openclaw-skills",
+    "source": "github-discovery"
   }
 ]
