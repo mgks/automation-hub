@@ -58649,5 +58649,137 @@
     "type": "repo",
     "repoUrl": "https://github.com/nkatsia/silent-account-risk-detector",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310538585",
+    "title": "Abdulrahman-AI",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated email workflow using n8n, Google Sheets and Gmail API (first)::<<",
+    "path": "n8n/dardeerii-abdulrahman-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Dardeerii/Abdulrahman-AI",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310384582",
+    "title": "bulletproof-memory-stack",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Turnkey installer for the full bulletproof-memory system — Docker Compose stack, 34 scheduled n8n workflows, and one-command install.",
+    "path": "n8n/bulletproofsoftware-ai-bulletproof-memory-stack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bulletproofsoftware-ai/bulletproof-memory-stack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1304403886",
+    "title": "workflow-canvas",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A visual workflow canvas for designing, documenting, and organizing AI and machine learning pipelines. Inspired by n8n, Workflow Canvas provides a node-based interface for mapping data sources, processing steps, models, evaluations, deployments, and dependencies without executing the workflows.",
+    "path": "n8n/qiaojiang123-workflow-canvas/",
+    "type": "repo",
+    "repoUrl": "https://github.com/QiaoJiang123/workflow-canvas",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310537696",
+    "title": "n8n-workflow-linter",
+    "tool": "n8n",
+    "tags": [
+      "ci",
+      "cli-tool",
+      "devops",
+      "github-actions",
+      "linter",
+      "n8n",
+      "no-code",
+      "pre-commit",
+      "python",
+      "security",
+      "static-analysis",
+      "workflow-automation"
+    ],
+    "description": "Static analysis for n8n workflow JSON — catches leaked credentials, hardcoded secrets, missing error handling & reliability gaps in CI. Zero dependencies.",
+    "path": "n8n/redsf-n8n-workflow-linter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Redsf/n8n-workflow-linter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310533037",
+    "title": "joshuaakanni",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Professional profile README for Joshua Asegunloluwa Akanni, AI Automation Specialist and n8n Workflow Developer.",
+    "path": "n8n/joshuaakanni-joshuaakanni/",
+    "type": "repo",
+    "repoUrl": "https://github.com/joshuaakanni/joshuaakanni",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310531368",
+    "title": "Oncology-Regimen-Extractor",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Frontend for N8N Workflow",
+    "path": "n8n/hakuinu-oncology-regimen-extractor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Hakuinu/Oncology-Regimen-Extractor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310472112",
+    "title": "ai-lead-enrichment-qualification-system",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "business-automation",
+      "google-sheets",
+      "lead-generation",
+      "lead-qualification",
+      "n8n",
+      "openai",
+      "workflow-automation"
+    ],
+    "description": "AI-powered n8n workflow that reviews, enriches, scores, and classifies leads using OpenAI and Google Sheets.",
+    "path": "n8n/joshuaakanni-ai-lead-enrichment-qualification-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/joshuaakanni/ai-lead-enrichment-qualification-system",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310490551",
+    "title": "n8n-rag-suite",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A fully self-hosted, air-gapped RAG suite for n8n workflows and documentation powered by Qdrant, CUDA-accelerated Ollama, and automated vector syncs.",
+    "path": "n8n/jdm6457-n8n-rag-suite/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jdm6457/n8n-rag-suite",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288467210",
+    "title": "discord-rss-notifier",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Discord RSS auto-notifier via GitHub Actions scheduled workflow (no N8N, no self-hosted server, no Windows scheduler needed)",
+    "path": "n8n/izumoitachi-gif-discord-rss-notifier/",
+    "type": "repo",
+    "repoUrl": "https://github.com/izumoitachi-gif/discord-rss-notifier",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310475243",
+    "title": "n8n-nodes-signalwire",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Use SignalWire from a SELF-HOSTED n8n to place and control calls, send and receive messages, process communication events, build voice AI workflows, and expose n8n AI tools through SWAIG",
+    "path": "n8n/bradsjm-n8n-nodes-signalwire/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bradsjm/n8n-nodes-signalwire",
+    "source": "github-discovery"
   }
 ]

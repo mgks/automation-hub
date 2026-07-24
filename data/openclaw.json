@@ -18405,5 +18405,142 @@
     "type": "repo",
     "repoUrl": "https://github.com/openenterprise-info/open-enterprise-community",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310539251",
+    "title": "odoo-connector",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw AI Agent skill for Odoo 17/18/19 XML-RPC API integration — authentication, CRUD, search operations (80+ operations)",
+    "path": "openclaw/akdira-odoo-connector/",
+    "type": "repo",
+    "repoUrl": "https://github.com/akdira/odoo-connector",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1166214014",
+    "title": "apple-music-dj",
+    "tool": "openclaw",
+    "tags": [
+      "apple-music",
+      "claude-skill",
+      "python"
+    ],
+    "description": "OpenClaw skill for managing your Apple Music library",
+    "path": "openclaw/and3rn3t-apple-music-dj/",
+    "type": "repo",
+    "repoUrl": "https://github.com/and3rn3t/apple-music-dj",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228486216",
+    "title": "agent-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "openclaw-skills",
+    "path": "openclaw/rickkbarbosa-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rickkbarbosa/agent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310089781",
+    "title": "a-stock-quant-diag",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "A-Share Quantitative Diagnosis (中英双语) - OpenClaw Skill for A-share stock analysis with 5-dimension scoring",
+    "path": "openclaw/jeffreyshou7-a-stock-quant-diag/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jeffreyshou7/a-stock-quant-diag",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1296963111",
+    "title": "hermes-video-rs",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "ffmpeg",
+      "hermes-agent",
+      "openclaw",
+      "rust",
+      "video-analysis",
+      "video-transcription",
+      "yt-dlp"
+    ],
+    "description": "Rust-powered video analysis skill for Hermes Agent — transcript-first with scene detection",
+    "path": "openclaw/m1crodevil-hermes-video-rs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/m1crodevil/hermes-video-rs",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1230599871",
+    "title": "public-agent-skills-plugins",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "markdown",
+      "openclaw"
+    ],
+    "description": "公开的 AI Agent Skills 合集",
+    "path": "openclaw/sadjjk-public-agent-skills-plugins/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sadjjk/public-agent-skills-plugins",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1188270557",
+    "title": "decision",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "ai-agents-framework",
+      "claude",
+      "claude-skills",
+      "decision-making",
+      "openclaw",
+      "skills"
+    ],
+    "description": "The missing layer in the AI agent stack. Teach your agent how you decide. Generates a portable DECISION.md from research-backed preference elicitation.",
+    "path": "openclaw/selinayfilizp-decision/",
+    "type": "repo",
+    "repoUrl": "https://github.com/selinayfilizp/decision",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1184810281",
+    "title": "ddg-search-cli",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Small DuckDuckGo search CLI with a matching OpenClaw skill for fallback web search",
+    "path": "openclaw/robin-liquidium-ddg-search-cli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/robin-liquidium/ddg-search-cli",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182767952",
+    "title": "twitterapi-io-cli",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Read-only twitterapi.io CLI for OpenClaw, Claude Code, and other AI agents, plus an OpenClaw skill.",
+    "path": "openclaw/robin-liquidium-twitterapi-io-cli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/robin-liquidium/twitterapi-io-cli",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182736021",
+    "title": "telegram-readonly-cli",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Read-only Telegram CLI wrapper for personal-account access via Telethon/MTProto, plus an OpenClaw skill.",
+    "path": "openclaw/robin-liquidium-telegram-readonly-cli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/robin-liquidium/telegram-readonly-cli",
+    "source": "github-discovery"
   }
 ]
