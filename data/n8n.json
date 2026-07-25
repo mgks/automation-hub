@@ -58781,5 +58781,86 @@
     "type": "repo",
     "repoUrl": "https://github.com/bradsjm/n8n-nodes-signalwire",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1082128025",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Various n8n workflows",
+    "path": "n8n/drakeg-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/drakeg/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1285128155",
+    "title": "GCal-mcp",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A lightweight, stateless Google Calendar MCP proxy for n8n workflows.",
+    "path": "n8n/adiballc-gcal-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/adibaLLC/GCal-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1308005580",
+    "title": "n8n-automation-workflows-realWorld",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production n8n workflows from my day job",
+    "path": "n8n/jr-nunez-dev-n8n-automation-workflows-realworld/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jr-nunez-dev/n8n-automation-workflows-realWorld",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1218181991",
+    "title": "n8n-nodes-wire",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Wire. Push entries into a Wire container from any workflow.",
+    "path": "n8n/usewire-n8n-nodes-wire/",
+    "type": "repo",
+    "repoUrl": "https://github.com/usewire/n8n-nodes-wire",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1311566103",
+    "title": "n8n-with-autonomous-agent-platform-demo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A complete end-to-end example showing how to build, orchestrate, and monitor autonomous AI workflows using the Autonomous Agent Platform together with n8n.",
+    "path": "n8n/mustisquare-n8n-with-autonomous-agent-platform-demo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MustiSquare/n8n-with-autonomous-agent-platform-demo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228733013",
+    "title": "daily-customer-churn-predictor",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "churn-prediction",
+      "data-science",
+      "ecommerce",
+      "jupyter",
+      "machine-learning",
+      "mlops",
+      "n8n-workflow",
+      "openclaw-agent",
+      "python",
+      "shap",
+      "spec-driven-development",
+      "xgboost"
+    ],
+    "description": "End-to-end churn prediction pipeline for a Brazilian marketplace · XGBoost · SHAP · n8n · Spec-Driven with The Architect v1",
+    "path": "n8n/albertosvallejo-daily-customer-churn-predictor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/albertosvallejo/daily-customer-churn-predictor",
+    "source": "github-discovery"
   }
 ]
