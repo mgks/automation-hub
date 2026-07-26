@@ -58862,5 +58862,138 @@
     "type": "repo",
     "repoUrl": "https://github.com/albertosvallejo/daily-customer-churn-predictor",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1312441290",
+    "title": "aiwe-student",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Workflow Engineering — From n8n to Enterprise AI on AWS",
+    "path": "n8n/naresh-yarli-aiwe-student/",
+    "type": "repo",
+    "repoUrl": "https://github.com/naresh-yarli/aiwe-student",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-939628339",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "pschmitt's n8n workflows",
+    "path": "n8n/pschmitt-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pschmitt/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1312432276",
+    "title": "ai-lead-classification-routing-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow for AI lead classification, fallback handling, Google Sheets storage, and priority-based Telegram routing.",
+    "path": "n8n/sarunooji-ai-lead-classification-routing-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SaruNoOji/ai-lead-classification-routing-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1176748139",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/valentinov8060-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/valentinov8060/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1312423007",
+    "title": "AI-Engineer---n8n-ai-automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "The Recap AI + AI Automation Mastery n8n Workflows, Templates, and Agents",
+    "path": "n8n/daniel-abr777-ai-engineer---n8n-ai-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Daniel-ABR777/AI-Engineer---n8n-ai-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1311302403",
+    "title": "n8n-Gmail-AI-Assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An AI-powered email assistant built with n8n.  The workflow automatically monitors incoming Gmail messages, analyzes them using a Large Language Model (LLM), and sends an AI-generated summary, priority assessment, and suggested reply directly to Telegram.",
+    "path": "n8n/daniyaliranmehr-n8n-gmail-ai-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Daniyaliranmehr/n8n-Gmail-AI-Assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310908779",
+    "title": "agent-flow-studio",
+    "tool": "n8n",
+    "tags": [
+      "agents",
+      "javascript",
+      "llm",
+      "visual-editor",
+      "workflow"
+    ],
+    "description": "Browser-based visual agent-workflow builder - a dependency-free mini n8n you run in the browser (agentic AI, low-code).",
+    "path": "n8n/dimitres-kisimov-agent-flow-studio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Dimitres-Kisimov/agent-flow-studio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299522553",
+    "title": "Flow-Frontend",
+    "tool": "n8n",
+    "tags": [],
+    "description": "> Flow is a simplified, n8n/Make.com-inspired workflow automation tool. The frontend (React + Vite, Tailwind CSS) provides auth, a workflow dashboard, and a drag-and-drop canvas for building GitHub-triggered automations with node configuration panels and credential management.",
+    "path": "n8n/thezaidsheikh-flow-frontend/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thezaidsheikh/Flow-Frontend",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1312390214",
+    "title": "Analyse-suspicious-email-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered n8n workflow for analysing incoming emails, detecting suspicious content using AI, classifying messages, and automatically storing results in Google Sheets.",
+    "path": "n8n/aotemma-bit-analyse-suspicious-email-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Aotemma-bit/Analyse-suspicious-email-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1303966421",
+    "title": "stackpick-n8n-templates",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "crm",
+      "lead-generation",
+      "low-code",
+      "make-com",
+      "n8n",
+      "n8n-nodes",
+      "n8n-template",
+      "n8n-workflow",
+      "no-code",
+      "saas-pricing",
+      "whatsapp",
+      "whatsapp-automation",
+      "whatsapp-business-api",
+      "workflow-automation",
+      "zapier-alternative"
+    ],
+    "description": "Free n8n WhatsApp automation templates + verified pricing index for 23 automation, WhatsApp and email SaaS tools",
+    "path": "n8n/marcelobm33-stackpick-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/marcelobm33/stackpick-n8n-templates",
+    "source": "github-discovery"
   }
 ]
