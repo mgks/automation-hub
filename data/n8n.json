@@ -58995,5 +58995,86 @@
     "type": "repo",
     "repoUrl": "https://github.com/marcelobm33/stackpick-n8n-templates",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1313320761",
+    "title": "AI-Contact-Form-Email-Notification",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that stores contact form submissions in Google Sheets and sends Gmail notifications.",
+    "path": "n8n/yassineworkflow-maker-ai-contact-form-email-notification/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yassineworkflow-maker/AI-Contact-Form-Email-Notification",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1312369611",
+    "title": "n8n-templates",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "claude",
+      "claude-ai",
+      "n8n",
+      "n8n-workflow",
+      "templates",
+      "workflow-automation"
+    ],
+    "description": "Free, single-purpose n8n + Claude automation templates. Tested, not just exported.",
+    "path": "n8n/michaelbarabanov-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MichaelBarabanov/n8n-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1312212866",
+    "title": "n8n-nodes-mallary",
+    "tool": "n8n",
+    "tags": [
+      "mallary",
+      "n8n",
+      "n8n-automation",
+      "n8n-community-node",
+      "n8n-community-node-package",
+      "n8n-node",
+      "n8n-nodes",
+      "n8n-workflow",
+      "social-media",
+      "social-media-analytics",
+      "social-media-automation",
+      "social-media-marketing",
+      "social-media-tools"
+    ],
+    "description": "Powerful social media automation for n8n using Mallary 🚀",
+    "path": "n8n/mallarylabs-n8n-nodes-mallary/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mallarylabs/n8n-nodes-mallary",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1313027413",
+    "title": "instagram-facebook-dm-autoresponder",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "chatbot",
+      "chatwoot",
+      "dm-automation",
+      "facebook-messenger",
+      "facebook-messenger-bot",
+      "instagram",
+      "low-code",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "no-code",
+      "zernio"
+    ],
+    "description": "Auto-reply to Instagram & Facebook DMs with AI, log everything in Chatwoot, and escalate to a human supervisor when needed. Built with n8n, Zernio & Chatwoot.",
+    "path": "n8n/mojtabamahdy2-cloud-instagram-facebook-dm-autoresponder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mojtabamahdy2-cloud/instagram-facebook-dm-autoresponder",
+    "source": "github-discovery"
   }
 ]
