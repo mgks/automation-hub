@@ -18791,5 +18791,96 @@
     "type": "repo",
     "repoUrl": "https://github.com/KimYx0207/Meta_Kim",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1242142504",
+    "title": "ai-coevolution-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-skills",
+      "chinese-ai",
+      "claude-code",
+      "codex",
+      "human-ai-collaboration",
+      "knowledge-cards",
+      "llm-wiki",
+      "lls",
+      "openclaw",
+      "personal-knowledge-management",
+      "skill-md",
+      "skillhub",
+      "workbuddy"
+    ],
+    "description": "Reusable capability packs for human-AI co-evolution in real work",
+    "path": "openclaw/philrobinluo-ai-coevolution-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/PhilRobinluo/ai-coevolution-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1195379679",
+    "title": "marten-runtime",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Simplified openclaw-style private agent runtime for channel, binding, agent, LLM, MCP, and skills.",
+    "path": "openclaw/tiezhuli001-marten-runtime/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tiezhuli001/marten-runtime",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1181264249",
+    "title": "openclaw-skill-ulta-deals",
+    "tool": "openclaw",
+    "tags": [
+      "openclaw",
+      "playwright",
+      "price-monitoring",
+      "python"
+    ],
+    "description": "OpenClaw skill for automated Ulta deal and price monitoring.",
+    "path": "openclaw/96528025-openclaw-skill-ulta-deals/",
+    "type": "repo",
+    "repoUrl": "https://github.com/96528025/openclaw-skill-ulta-deals",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1181274049",
+    "title": "openclaw-skill-twitter-digest",
+    "tool": "openclaw",
+    "tags": [
+      "automation",
+      "openclaw",
+      "playwright",
+      "python"
+    ],
+    "description": "OpenClaw skill for Twitter/X digest scraping with Chinese translation.",
+    "path": "openclaw/96528025-openclaw-skill-twitter-digest/",
+    "type": "repo",
+    "repoUrl": "https://github.com/96528025/openclaw-skill-twitter-digest",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1147524734",
+    "title": "humanizer",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill that detects and removes signs of AI-generated writing, making text sound natural and human. Based on Wikipedia's Signs of AI Writing.",
+    "path": "openclaw/brandonwise-humanizer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/brandonwise/humanizer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1314405755",
+    "title": "brendangregg-use-tsa-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Vendor-agnostic performance troubleshooting skill for AI agents: Brendan Gregg's USE + TSA methods, off-CPU analysis, flame graphs, RCA and postmortem reporting. Works with Claude Code, Kimi Code, Codex, OpenClaw and more.",
+    "path": "openclaw/thecsdoctor-brendangregg-use-tsa-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thecsdoctor/brendangregg-use-tsa-skill",
+    "source": "github-discovery"
   }
 ]

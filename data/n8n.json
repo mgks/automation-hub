@@ -59076,5 +59076,159 @@
     "type": "repo",
     "repoUrl": "https://github.com/mojtabamahdy2-cloud/instagram-facebook-dm-autoresponder",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1312640077",
+    "title": "intenciv-ai-os",
+    "tool": "n8n",
+    "tags": [],
+    "description": "IntenCiv AI OS is an open-source, AI-powered operating system for diagnostics, healthcare, research, and business automation. Built with n8n, AI agents, MCP, and modern APIs to automate workflows, content, operations, analytics, and decision-making.",
+    "path": "n8n/intenciv-intenciv-ai-os/",
+    "type": "repo",
+    "repoUrl": "https://github.com/intenciv/intenciv-ai-os",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1313628735",
+    "title": "insight",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI root-cause diagnosis copilot for n8n workflow failures — paste a failed execution, get a plain-English diagnosis instead of reading raw execution JSON by hand.",
+    "path": "n8n/jabluetooth-insight/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jabluetooth/insight",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1314420601",
+    "title": "job-application-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated job application workflow using n8n and Make.",
+    "path": "n8n/rjaloud-job-application-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Rjaloud/job-application-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1311605893",
+    "title": "n8n-automation-poc",
+    "tool": "n8n",
+    "tags": [
+      "audit-log",
+      "automation",
+      "llm",
+      "n8n",
+      "postgres",
+      "proof-of-concept",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Four AI-assisted business workflows (phone, inbox, documents, CRM follow-up) on one self-hosted n8n instance and one Postgres database, with per-workflow guardrails and a shared audit trail.",
+    "path": "n8n/jamessoria-n8n-automation-poc/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JamesSoria/n8n-automation-poc",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1314369422",
+    "title": "ai-executive-daily-brief",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that summarizes my calendar, email, weather, news & tasks into one AI-generated daily brief",
+    "path": "n8n/abdelhakimai-ai-executive-daily-brief/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abdelhakimAI/ai-executive-daily-brief",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1166785196",
+    "title": "ironflow",
+    "tool": "n8n",
+    "tags": [
+      "dag",
+      "dify",
+      "etl",
+      "etl-framework",
+      "etl-pipeline",
+      "ironflow",
+      "lua",
+      "lua-programming",
+      "lua-script",
+      "n8n",
+      "n8n-nodes",
+      "rust",
+      "rust-lang",
+      "workflow"
+    ],
+    "description": "IronFlow is a lightweight workflow engine that provides deterministic task execution with dependency management, retries, and pluggable state persistence",
+    "path": "n8n/skitsanos-ironflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/skitsanos/ironflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1314379083",
+    "title": "gtm-lead-scoring-routing",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated lead scoring and routing system for fintech B2B sales. Reduced lead response time from 6 hours to under 1 hour for high-value prospects using Clay enrichment, n8n workflow automation, and HubSpot CRM integration.",
+    "path": "n8n/esotericearth-gtm-lead-scoring-routing/",
+    "type": "repo",
+    "repoUrl": "https://github.com/esotericearth/gtm-lead-scoring-routing",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1302310602",
+    "title": "review-engine",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "claude",
+      "close-crm",
+      "convex",
+      "google-business-profile",
+      "n8n",
+      "saas",
+      "sms-marketing",
+      "tcpa-compliance"
+    ],
+    "description": "Google Reviews SMS SaaS for local businesses: 16 n8n workflows (197 nodes) + Convex backend + Next.js landing. Client-side review-getting delivery engine + full sales pipeline.",
+    "path": "n8n/rafiulislam4246-review-engine/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rafiulislam4246/review-engine",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297088692",
+    "title": "auto-website-sell-workflows",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "claude",
+      "close-crm",
+      "convex",
+      "lead-generation",
+      "llm",
+      "n8n",
+      "sms-marketing",
+      "workflow-automation"
+    ],
+    "description": "Demo-on-demand website sales automation: 7 n8n workflows, 110 nodes. Cold SMS outreach, instant personalized demo trigger, Claude Sonnet 4.5 reply handler, compliant follow-ups.",
+    "path": "n8n/rafiulislam4246-auto-website-sell-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rafiulislam4246/auto-website-sell-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1027270308",
+    "title": "N8n-WorkFlows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A growing collection of useful and practical n8n workflows built for automation, learning, and reuse. Each workflow is lightweight, focused, and ready to plug into real-world use cases. Useful for beginners and power users alike.",
+    "path": "n8n/pooja-kumarii-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Pooja-Kumarii/N8n-WorkFlows",
+    "source": "github-discovery"
   }
 ]
