@@ -59230,5 +59230,127 @@
     "type": "repo",
     "repoUrl": "https://github.com/Pooja-Kumarii/N8n-WorkFlows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1315607500",
+    "title": "n8n-api-user-search",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Professional n8n workflow that consumes a REST API and searches users by username using Webhooks and JavaScript.",
+    "path": "n8n/hugohdev-13-n8n-api-user-search/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hugohdev-13/n8n-api-user-search",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1311865996",
+    "title": "n8n-workflow-showcase",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready n8n AI automation workflows",
+    "path": "n8n/sasidhar-sunkesula-n8n-workflow-showcase/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sasidhar-Sunkesula/n8n-workflow-showcase",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1315589056",
+    "title": "hirelens-ai",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready AI recruitment automation built with n8n, featuring intelligent CV parsing, job matching, candidate scoring, Google Sheets integration, and automated hiring workflows.",
+    "path": "n8n/seif245-hirelens-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/seif245/hirelens-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186255218",
+    "title": "zeropress",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Zero-touch AI publishing pipeline — a 37-node n8n workflow that researches trends, writes and illustrates SEO articles, and publishes them autonomously every 6 hours on $0/month infra.",
+    "path": "n8n/jabluetooth-zeropress/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jabluetooth/zeropress",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1177375566",
+    "title": "jabluetooth.github.io",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Ignite — a B2B SaaS lead-capture landing page (React 19 + TypeScript) that pipes form submissions into an n8n workflow for enrichment, AI icebreakers, and CRM sync.",
+    "path": "n8n/jabluetooth-jabluetooth.github.io/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jabluetooth/jabluetooth.github.io",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1315053423",
+    "title": "n8n-nodes-search1api",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Search and retrieve live public web content with Search1API in n8n workflows.",
+    "path": "n8n/superagents-lab-n8n-nodes-search1api/",
+    "type": "repo",
+    "repoUrl": "https://github.com/superagents-lab/n8n-nodes-search1api",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1311178792",
+    "title": "Bryan-D.-Mozar-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered automation workflows built with n8n, OpenAI, APIs, and no-code tools to automate business processes.",
+    "path": "n8n/yanyanmozar-sys-bryan-d.-mozar-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yanyanmozar-sys/Bryan-D.-Mozar-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1315575597",
+    "title": "ai-youtube-automation-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered YouTube Shorts automation workflow built using n8n and OpenAI.",
+    "path": "n8n/miansufyan6-ai-youtube-automation-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Miansufyan6/ai-youtube-automation-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1314981563",
+    "title": "ad-onboarding-automation",
+    "tool": "n8n",
+    "tags": [
+      "active-directory",
+      "docker",
+      "homelab",
+      "it-automation",
+      "n8n",
+      "powershell",
+      "rest-api",
+      "telegrambot",
+      "user-provisioning",
+      "windows-server",
+      "workflow-automation"
+    ],
+    "description": "Automated Active Directory user onboarding: an n8n workflow creates AD users in the correct OU and department group via a PowerShell REST bridge, with Telegram notifications. Built on a Hyper-V lab environment.",
+    "path": "n8n/wassimsmt-ad-onboarding-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wassimsmt/ad-onboarding-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1315571717",
+    "title": "n8n-campaign-summary-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n 캠페인 효율 요약 자동 업데이트 워크플로우 (Google Sheets → 자동 집계)",
+    "path": "n8n/whyansol-n8n-campaign-summary-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/whyansol/n8n-campaign-summary-workflows",
+    "source": "github-discovery"
   }
 ]

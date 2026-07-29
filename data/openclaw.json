@@ -18882,5 +18882,75 @@
     "type": "repo",
     "repoUrl": "https://github.com/thecsdoctor/brendangregg-use-tsa-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225240091",
+    "title": "mycareer-studio",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI-powered career agent for design professionals. OpenClaw skill for job analysis, CV generation, portfolio scaffolding, and interview prep.",
+    "path": "openclaw/oratioandco-mycareer-studio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/oratioandco/mycareer-studio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1204550831",
+    "title": "openclaw-docs-skill",
+    "tool": "openclaw",
+    "tags": [
+      "openclaw",
+      "openclaw-skills",
+      "skill"
+    ],
+    "description": "自動每日更新, 讓你的LLM有面對openclaw疑難雜症處理的能力。This is an Agent Skill designed for AI coding assistants (like Claude with Antigravity). Once installed, the AI assistant gains deep knowledge of OpenClaw and can help you ",
+    "path": "openclaw/tbdavid2019-openclaw-docs-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tbdavid2019/openclaw-docs-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1313337182",
+    "title": "sec-guidance-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: extract management guidance from SEC 10-K/10-Q filings via a local RAG pipeline",
+    "path": "openclaw/tinghao0724-sec-guidance-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TINGHAO0724/sec-guidance-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1155688808",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Agent/Claude/OpenClaw skill for Zinc. Buy anything with a URL!",
+    "path": "openclaw/zincio-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zincio/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1158038793",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Agent skills for OpenClaw, Gemini, and other AI platforms",
+    "path": "openclaw/zeroasterisk-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zeroasterisk/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1314814690",
+    "title": "awesome-openclaw-hermes-agents",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Curated use cases, agent templates, skills, plugins, and workflows for Hermes Agent and OpenClaw.",
+    "path": "openclaw/zcxggmu-awesome-openclaw-hermes-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zcxGGmu/awesome-openclaw-hermes-agents",
+    "source": "github-discovery"
   }
 ]
