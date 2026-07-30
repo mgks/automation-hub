@@ -59352,5 +59352,171 @@
     "type": "repo",
     "repoUrl": "https://github.com/whyansol/n8n-campaign-summary-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1185390145",
+    "title": "getmicroservices-site",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "make",
+      "n8n",
+      "no-code",
+      "solopreneur",
+      "workflow",
+      "zapier"
+    ],
+    "description": "GetMicroservices.com — Done-for-you automation agency. n8n, Make, Zapier workflows. Build blog, landing pages & lead magnets.",
+    "path": "n8n/a10011101-getmicroservices-site/",
+    "type": "repo",
+    "repoUrl": "https://github.com/a10011101/getmicroservices-site",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1313260153",
+    "title": "workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready n8n AI Agent workflows - MCP servers, templates, and consolidated automations for marketplace",
+    "path": "n8n/grootme-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/grootme/workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1316689553",
+    "title": "n8n-service-lead-routing",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "crm",
+      "javascript",
+      "lead-management",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "Importable 16-node n8n workflow for service-lead validation, deduplication, review routing and destination handoff preparation.",
+    "path": "n8n/stefan-mcf-n8n-service-lead-routing/",
+    "type": "repo",
+    "repoUrl": "https://github.com/stefan-mcf/n8n-service-lead-routing",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229724003",
+    "title": "review-router",
+    "tool": "n8n",
+    "tags": [
+      "ai-workflows",
+      "airtable",
+      "automation",
+      "automation-tools",
+      "fastapi",
+      "human-in-the-loop",
+      "llm",
+      "make",
+      "n8n",
+      "workflow-automation",
+      "workflow-templates",
+      "zapier"
+    ],
+    "description": "Typed AI workflow router with policy gates, confidence metadata, human review, and CLI and FastAPI interfaces.",
+    "path": "n8n/stefan-mcf-review-router/",
+    "type": "repo",
+    "repoUrl": "https://github.com/stefan-mcf/review-router",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228803073",
+    "title": "automation-kit",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "automation-tools",
+      "docker",
+      "fastapi",
+      "low-code",
+      "make",
+      "mcp",
+      "n8n",
+      "openapi",
+      "python",
+      "webhooks",
+      "workflow-automation",
+      "zapier"
+    ],
+    "description": "Reusable automation patterns with tested Python, FastAPI and OpenAPI, Docker, and low-code workflow examples.",
+    "path": "n8n/stefan-mcf-automation-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/stefan-mcf/automation-kit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229723904",
+    "title": "sheets-airtable-sync",
+    "tool": "n8n",
+    "tags": [
+      "airtable",
+      "audit-logs",
+      "automation",
+      "automation-tools",
+      "data-cleaning",
+      "dedupe",
+      "google-apps-script",
+      "google-sheets",
+      "make",
+      "n8n",
+      "workflow-automation",
+      "zapier"
+    ],
+    "description": "Reconciliation workflow for Sheets and Airtable records with validation, deduplication, exception routing, and audit logs.",
+    "path": "n8n/stefan-mcf-sheets-airtable-sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/stefan-mcf/sheets-airtable-sync",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1310512259",
+    "title": "dental-automatization",
+    "tool": "n8n",
+    "tags": [],
+    "description": " Production-deployed dental clinic automation platform with AI WebChat, Cal.com scheduling, n8n workflows, PostgreSQL, and optional WhatsApp, Telegram, and voice channels",
+    "path": "n8n/luismirand-dental-automatization/",
+    "type": "repo",
+    "repoUrl": "https://github.com/luismirand/dental-automatization",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1193822760",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/sushant18b-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sushant18b/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1316593754",
+    "title": "n8n-automation-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "⚡ Free n8n automation workflows — Lead CRM, PDF Processor, Telegram AI Bot, Social Media Cross-poster",
+    "path": "n8n/agente-gaudi-n8n-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/agente-gaudi/n8n-automation-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1316646836",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/olivertwist2-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/oliverTwist2/n8n-workflows",
+    "source": "github-discovery"
   }
 ]

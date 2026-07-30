@@ -18952,5 +18952,91 @@
     "type": "repo",
     "repoUrl": "https://github.com/zcxGGmu/awesome-openclaw-hermes-agents",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288585343",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI agent skills 与生态工具清单 — 48 skills + 4 工具覆盖 Claude Code / Codex / OpenClaw / Cursor / Hermes",
+    "path": "openclaw/kiasma1-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kiasma1/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1308658050",
+    "title": "design-grandmaster",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "chatgpt",
+      "codex",
+      "coze",
+      "design-systems",
+      "design-tokens",
+      "hermes-agent",
+      "interaction-design",
+      "openclaw",
+      "trae",
+      "ui-design",
+      "ux-design",
+      "visual-design"
+    ],
+    "description": "Adaptive design direction and execution skill",
+    "path": "openclaw/qlhouseclub-design-grandmaster/",
+    "type": "repo",
+    "repoUrl": "https://github.com/qlhouseClub/design-grandmaster",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1308655918",
+    "title": "product-expert",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "business-analysis",
+      "chatgpt",
+      "codex",
+      "coze",
+      "hermes-agent",
+      "openclaw",
+      "product-analytics",
+      "product-management",
+      "product-strategy",
+      "requirements",
+      "trae"
+    ],
+    "description": "End-to-end product expertise skill",
+    "path": "openclaw/qlhouseclub-product-expert/",
+    "type": "repo",
+    "repoUrl": "https://github.com/qlhouseClub/product-expert",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1181327042",
+    "title": "wechat-skill",
+    "tool": "openclaw",
+    "tags": [
+      "codex",
+      "openclaw",
+      "skill"
+    ],
+    "description": "微信公众号发布 Skill",
+    "path": "openclaw/white0dew-wechat-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/white0dew/wechat-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1256515755",
+    "title": "openclaw-x-integration",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "X (Twitter) integration skill for OpenClaw agents - browser automation without API credits",
+    "path": "openclaw/labsclaw-openclaw-x-integration/",
+    "type": "repo",
+    "repoUrl": "https://github.com/labsclaw/openclaw-x-integration",
+    "source": "github-discovery"
   }
 ]
