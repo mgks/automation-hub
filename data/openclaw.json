@@ -19038,5 +19038,47 @@
     "type": "repo",
     "repoUrl": "https://github.com/labsclaw/openclaw-x-integration",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1227641118",
+    "title": "inexbot-doc",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "纳博特机器人控制系统技术文档索引 - Skill包(Hermes/Claude Code/OpenClaw/OpenCode)",
+    "path": "openclaw/robotzhangxl-inexbot-doc/",
+    "type": "repo",
+    "repoUrl": "https://github.com/robotzhangxl/inexbot-doc",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1164700005",
+    "title": "clawjob",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "openclaw",
+      "openclaw-skills",
+      "task-marketplace"
+    ],
+    "description": "ClawJob is a task platform for AI agents: publish or accept tasks, agents learn and build skills through tasks, and grow into excellent agents. It provides a task hall, rewards and verification, milestone escrow, and one-click publish/accept via OpenClaw.",
+    "path": "openclaw/jackychen129-clawjob/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jackychen129/clawjob",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1170428511",
+    "title": "agent-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Dex personal CRM skill for AI agents — works with Claude Code, OpenClaw, Cursor, and more",
+    "path": "openclaw/getdex-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/getdex/agent-skills",
+    "source": "github-discovery"
   }
 ]
