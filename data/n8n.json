@@ -59658,5 +59658,151 @@
     "type": "repo",
     "repoUrl": "https://github.com/bugraguclu/n8n-ai-daily-news-reporter",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1318764439",
+    "title": "ai-customer-support-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered customer support workflow built with n8n",
+    "path": "n8n/mariamashraf-del-ai-customer-support-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mariamashraf-del/ai-customer-support-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1318887665",
+    "title": "n8n-financial-documents-assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered n8n workflow for querying financial documents via Qdrant vector store and Mistral AI",
+    "path": "n8n/rehanrnd-n8n-financial-documents-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rehanrnd/n8n-financial-documents-assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1313405500",
+    "title": "threadsflow_arena.AI",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Self-improving Threads automation for Shopee affiliate posts, with n8n workflows, PostgreSQL tracking, LLM generation, click attribution, and bandit-based optimization.",
+    "path": "n8n/superdupernoob-threadsflow_arena.ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SuperDuperNoob/threadsflow_arena.AI",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229308305",
+    "title": "maxvision-utilities",
+    "tool": "n8n",
+    "tags": [
+      "ai-workflows",
+      "anthropic",
+      "automation",
+      "claude-code",
+      "claude-marketplace",
+      "claude-plugin",
+      "claude-skills",
+      "google-tag-manager",
+      "n8n",
+      "skills"
+    ],
+    "description": "MaxVision's curated Claude Code marketplace — production-grade skills for n8n workflows, Google Tag Manager API, and more.",
+    "path": "n8n/produtoramaxvision-maxvision-utilities/",
+    "type": "repo",
+    "repoUrl": "https://github.com/produtoramaxvision/maxvision-utilities",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1318880941",
+    "title": "n8n-automation-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My n8n automation workflows projects",
+    "path": "n8n/drchsm-n8n-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Drchsm/n8n-automation-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1164356206",
+    "title": "n8n-workflow-manager",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "fastapi",
+      "flask",
+      "llm-agents",
+      "local-first",
+      "mcp",
+      "n8n",
+      "n8n-workflows",
+      "open-source",
+      "python",
+      "python-cli",
+      "rest-api",
+      "visual-workflow",
+      "web-ui",
+      "workflow",
+      "workflow-automation",
+      "workflow-manager",
+      "workflow-sync"
+    ],
+    "description": "Local-first n8n workflow manager with visual graph viewer, REST API, CLI, and multi-server sync",
+    "path": "n8n/ellmos-ai-n8n-workflow-manager/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ellmos-ai/n8n-workflow-manager",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1100828907",
+    "title": "JupyterNotebooks",
+    "tool": "n8n",
+    "tags": [
+      "ai-experiments",
+      "applied-research",
+      "automation",
+      "notebooks"
+    ],
+    "description": "Applied AI notebooks and workflow experiments for OpenAI SDK, n8n, CrewAI, local automation, and solution architecture R&D.",
+    "path": "n8n/hardonian-jupyternotebooks/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Hardonian/JupyterNotebooks",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1318433048",
+    "title": "volta-coffee-ai-order-processing",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-assisted wholesale order processing workflow built with n8n, Google Gemini, JavaScript, Airtable, and Gmail.",
+    "path": "n8n/ouad90-volta-coffee-ai-order-processing/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ouad90/volta-coffee-ai-order-processing",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190069027",
+    "title": "railwayapp-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Railway template: n8n workflow automation",
+    "path": "n8n/vergissberlin-railwayapp-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vergissberlin/railwayapp-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1285330534",
+    "title": "prompt-optimizer-loop",
+    "tool": "n8n",
+    "tags": [],
+    "description": "automatically evaluate and iteratively improve n8n workflow builder",
+    "path": "n8n/ryanlung-eng-prompt-optimizer-loop/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ryanlung-eng/prompt-optimizer-loop",
+    "source": "github-discovery"
   }
 ]

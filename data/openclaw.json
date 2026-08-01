@@ -19080,5 +19080,96 @@
     "type": "repo",
     "repoUrl": "https://github.com/getdex/agent-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1318898370",
+    "title": "workspace-architect",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "🏗️ OpenClaw skill — Create, analyze, and optimize workspace configuration files with guided workflows and best practices validation",
+    "path": "openclaw/luanvha2550-hash-workspace-architect/",
+    "type": "repo",
+    "repoUrl": "https://github.com/luanvha2550-hash/workspace-architect",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1234445033",
+    "title": "local-skills-inventory",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "本地 Skills 全量统计清单 - Claude Code / OpenClaw / Trae 技能汇总",
+    "path": "openclaw/ronineymessjr-sudo-local-skills-inventory/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ronineymessjr-sudo/local-skills-inventory",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222890567",
+    "title": "marketing-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "google-ads",
+      "hermes",
+      "marketing",
+      "mcp",
+      "meta-ads",
+      "openclaw",
+      "seo"
+    ],
+    "description": "Marketing skills for AI agents — paid ads, social media, SEO, competitor research, creative generation, email, analytics, and more. Powered by Hyper MCP.",
+    "path": "openclaw/hyperfx-ai-marketing-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hyperfx-ai/marketing-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1220103091",
+    "title": "1panel-app-adapter",
+    "tool": "openclaw",
+    "tags": [
+      "1panel",
+      "1panel-appstore",
+      "agent-skill",
+      "docker",
+      "docker-compose",
+      "openclaw",
+      "openclaw-skill",
+      "skill"
+    ],
+    "description": "Rule-first 1Panel app adapter skill for Docker/Compose generation, migration, and validation｜面向 1Panel 应用适配的 Skill：支持 Docker/Compose 生成、迁移与校验",
+    "path": "openclaw/okxlin-1panel-app-adapter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/okxlin/1panel-app-adapter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1311572543",
+    "title": "rundesk-cli",
+    "tool": "openclaw",
+    "tags": [
+      "agent-framework",
+      "agent-skills",
+      "agentic-workflow",
+      "ai-agents",
+      "anthropic",
+      "claude-code",
+      "codex",
+      "grok",
+      "openai",
+      "openclaw",
+      "python"
+    ],
+    "description": "Persistent self-improving AI teammates with memory, skills, and schedules.",
+    "path": "openclaw/rundesk-ai-rundesk-cli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rundesk-ai/rundesk-cli",
+    "source": "github-discovery"
   }
 ]
