@@ -59804,5 +59804,128 @@
     "type": "repo",
     "repoUrl": "https://github.com/ryanlung-eng/prompt-optimizer-loop",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319744912",
+    "title": "n8n-hr-recruiter-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered n8n workflow that auto-screens job applicants via Gmail, scores CVs with GPT-4o, and sends interview or rejection emails",
+    "path": "n8n/rehanrnd-n8n-hr-recruiter-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rehanrnd/n8n-hr-recruiter-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319723958",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/fellah73-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Fellah73/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319356753",
+    "title": "n8n-google-foorms-email-authomation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated Google Forms workflow using n8n, Google Sheets, Gmail OAuth2, and conditional email notifications.",
+    "path": "n8n/mobolajicode5-n8n-google-foorms-email-authomation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mobolajicode5/n8n-google-foorms-email-authomation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319722883",
+    "title": "n8n-Workflow-AI-News-Digest",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An Automation workflow which gathers AI related news from trusted sources and publishes them into Telegram.",
+    "path": "n8n/elyasbromand-n8n-workflow-ai-news-digest/",
+    "type": "repo",
+    "repoUrl": "https://github.com/elyasbromand/n8n-Workflow-AI-News-Digest",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1315587453",
+    "title": "AI-Automation-Portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Official Portfolio for AI Automation, Agentic Workflows, and n8n Systems.",
+    "path": "n8n/ahmed-ma7moud-1-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ahmed-Ma7moud-1/AI-Automation-Portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1296511827",
+    "title": "fetchcat-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Tested n8n workflow templates for FetchCat Apify Actors",
+    "path": "n8n/annamiy-fetchcat-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/annamiy/fetchcat-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319706497",
+    "title": "emg-console-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production ops console for a stone-fabrication business: FastAPI + Postgres + React PWA, Web Push, n8n + Claude AI agent workflows, Azure CI/CD. Public mirror of the private production repo (141+ commits) — see README.",
+    "path": "n8n/sanyaboroda4-emg-console-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SanyaBoroda4/emg-console-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1307243939",
+    "title": "alvinp-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "IT automation portfolio — Python, VBA, and n8n systems built for a 7,000+ member financial cooperative, plus independent projects in workflow automation and governance-aware AI.",
+    "path": "n8n/miming-psspss-alvinp-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/miming-psspss/alvinp-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319701835",
+    "title": "n8n-Workflow-Templates",
+    "tool": "n8n",
+    "tags": [],
+    "description": "\"Production-ready n8n workflow templates library\"",
+    "path": "n8n/deploymodeio-n8n-workflow-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DeployModeIO/n8n-Workflow-Templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1122500602",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "container",
+      "daemonless",
+      "freebsd",
+      "freebsd-jail",
+      "n8n",
+      "oci",
+      "oci-image",
+      "podman",
+      "self-hosted",
+      "utilities",
+      "workflow"
+    ],
+    "description": "Fair-code workflow automation platform with native AI capabilities — combine visual building with custom code and 400+ integrations.",
+    "path": "n8n/daemonless-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/daemonless/n8n",
+    "source": "github-discovery"
   }
 ]

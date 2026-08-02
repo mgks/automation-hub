@@ -19171,5 +19171,129 @@
     "type": "repo",
     "repoUrl": "https://github.com/rundesk-ai/rundesk-cli",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1231499119",
+    "title": "hako-code",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "claw",
+      "clawdbot",
+      "codex",
+      "hako",
+      "hakoclaw",
+      "llm",
+      "mithraeum",
+      "moltbot",
+      "openclaw",
+      "skills",
+      "tui"
+    ],
+    "description": "A local first agent. Written in C. Works with most providers. Uses local Hako models or BYO AI.",
+    "path": "openclaw/mithraeums-hako-code/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mithraeums/hako-code",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319754044",
+    "title": "openclaw-agentic-ledger",
+    "tool": "openclaw",
+    "tags": [
+      "budget",
+      "clawhub",
+      "cost-tracking",
+      "llm-observability",
+      "openclaw"
+    ],
+    "description": "ClawHub skill: cost tracking with budget walls and replay for OpenClaw agents, powered by Agentic Ledger. Local-first.",
+    "path": "openclaw/shekharbhardwaj-openclaw-agentic-ledger/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ShekharBhardwaj/openclaw-agentic-ledger",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1108549739",
+    "title": "lenserfight",
+    "tool": "openclaw",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "artificial-intelligence",
+      "automation",
+      "claude",
+      "gemini",
+      "google",
+      "lenserfight",
+      "n8n",
+      "n8n-workflow",
+      "openai",
+      "openclaw",
+      "skills",
+      "workflow",
+      "workflows"
+    ],
+    "description": "Prompts with Parameters, Workflows, AI Agents, Forum and Battles",
+    "path": "openclaw/conectlens-lenserfight/",
+    "type": "repo",
+    "repoUrl": "https://github.com/conectlens/lenserfight",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1294271614",
+    "title": "polymarket-copy-trading-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "copy-trading",
+      "mcp",
+      "mcp-server",
+      "openclaw",
+      "paper-trading",
+      "polymarket",
+      "prediction-markets"
+    ],
+    "description": "Copy trading & paper trading for Polymarket — built for AI agents. MCP server, whale tracking, $10k mock wallets. Install: npx skills add polytrackers/polymarket-copy-trading-skill",
+    "path": "openclaw/polytrackers-polymarket-copy-trading-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/polytrackers/polymarket-copy-trading-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319521236",
+    "title": "soffee",
+    "tool": "openclaw",
+    "tags": [
+      "espn-api",
+      "fantasy-football",
+      "openclaw",
+      "python",
+      "slack-bot"
+    ],
+    "description": "A self-hosted, OpenClaw-powered AI commissioner assistant for fantasy football. Built as a custom skill for ClawHub, it connects to ESPN Fantasy APIs to process public roster actions, answer data queries, and post automated NFL score summaries directly in Slack.",
+    "path": "openclaw/efischer19-soffee/",
+    "type": "repo",
+    "repoUrl": "https://github.com/efischer19/soffee",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319691097",
+    "title": "openclaw-image-gen-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for image generation via a ComfyUI (Flux Schnell FP8) server, built on comfy-client.",
+    "path": "openclaw/barajasangel1983-openclaw-image-gen-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/barajasangel1983/openclaw-image-gen-skill",
+    "source": "github-discovery"
   }
 ]
