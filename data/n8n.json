@@ -59927,5 +59927,182 @@
     "type": "repo",
     "repoUrl": "https://github.com/daemonless/n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1306822499",
+    "title": "n8n-ai-automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI automation workflows built using n8n, Open AI, Pinecone, Vapi, Google Sheets, and APIs.",
+    "path": "n8n/pranithareddy06-n8n-ai-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/PranithaReddy06/n8n-ai-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1313428013",
+    "title": "C978---Build-a-RAG-Chatbot-with-n8n",
+    "tool": "n8n",
+    "tags": [
+      "c978",
+      "chatbot",
+      "courseware",
+      "hands-on-labs",
+      "n8n",
+      "rag",
+      "retrieval-augmented-generation",
+      "tertiary-courses",
+      "workflow-automation"
+    ],
+    "description": "Hands-on labs and courseware for Build a RAG Chatbot with n8n (C978) — 8 connected practical activities from Set Up n8n and Get Oriented with Workflows, Nodes and the Canvas to Deploy and Embed Your RAG Chatbot on a Website.",
+    "path": "n8n/tertiarycourses-c978---build-a-rag-chatbot-with-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tertiarycourses/C978---Build-a-RAG-Chatbot-with-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1316462004",
+    "title": "n8n-job-search-automation",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "google-workspace",
+      "javascript",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "Two n8n workflows that keep my job search records accurate, with the architecture and decisions written up.",
+    "path": "n8n/benny-johnson-n8n-job-search-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Benny-Johnson/n8n-job-search-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1320087830",
+    "title": "n8n-nodes-iotools",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for iotools.cloud — run any of its 800+ tools from a workflow",
+    "path": "n8n/quangthien27-n8n-nodes-iotools/",
+    "type": "repo",
+    "repoUrl": "https://github.com/quangthien27/n8n-nodes-iotools",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1316163565",
+    "title": "n8n-nodes-deskcrew",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for DeskCrew: create tickets, post replies for human approval, and publish knowledge-base and changelog entries from any workflow.",
+    "path": "n8n/webmilmind1-n8n-nodes-deskcrew/",
+    "type": "repo",
+    "repoUrl": "https://github.com/webmilmind1/n8n-nodes-deskcrew",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229316570",
+    "title": "2176e1f0-website-uptime-monitor-with-sl",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "ci-cd",
+      "devops",
+      "infra",
+      "infrastructure",
+      "integration",
+      "monitor",
+      "n8n",
+      "no-code",
+      "uptime",
+      "website",
+      "workflow"
+    ],
+    "description": "Real-time website uptime monitoring with instant Slack alerts. N8N workflow, zero coding required. Catch outages before your users do.",
+    "path": "n8n/ncreighton-2176e1f0-website-uptime-monitor-with-sl/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/2176e1f0-website-uptime-monitor-with-sl",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229427865",
+    "title": "dfee0ed9-social-media-auto-poster-with-",
+    "tool": "n8n",
+    "tags": [
+      "auto",
+      "automation",
+      "content",
+      "generation",
+      "integration",
+      "media",
+      "n8n",
+      "no-code",
+      "poster",
+      "social",
+      "workflow"
+    ],
+    "description": "AI-powered N8N workflow that auto-generates and schedules social media content across platforms. Automate your posting, scale your reach, save hours weekly.",
+    "path": "n8n/ncreighton-dfee0ed9-social-media-auto-poster-with-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/dfee0ed9-social-media-auto-poster-with-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1242820928",
+    "title": "graphic-design-content-publishing-pipeline-n8n-workflow",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "integration",
+      "n8n",
+      "no-code",
+      "workflow"
+    ],
+    "description": "Professional workflow for Graphic Design professionals.",
+    "path": "n8n/ncreighton-graphic-design-content-publishing-pipeline-n8n-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/graphic-design-content-publishing-pipeline-n8n-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1242705394",
+    "title": "animation-motion-invoice-generation-and-payment-follow-up-n8n-workflow",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "integration",
+      "n8n",
+      "no-code",
+      "workflow"
+    ],
+    "description": "Professional workflow for Animation Motion professionals.",
+    "path": "n8n/ncreighton-animation-motion-invoice-generation-and-payment-follow-up-n8n-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/animation-motion-invoice-generation-and-payment-follow-up-n8n-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1229427597",
+    "title": "ffa65710-linkedin-lead-generation-and-c",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "crm",
+      "generation",
+      "integration",
+      "lead",
+      "lead-generation",
+      "linkedin",
+      "linkedin-lead",
+      "n8n",
+      "no-code",
+      "sales",
+      "sync",
+      "workflow"
+    ],
+    "description": "Auto-sync LinkedIn leads to your CRM in real-time with this N8N workflow. Stop manual data entry, eliminate duplicates, close deals faster.",
+    "path": "n8n/ncreighton-ffa65710-linkedin-lead-generation-and-c/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/ffa65710-linkedin-lead-generation-and-c",
+    "source": "github-discovery"
   }
 ]

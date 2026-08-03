@@ -19295,5 +19295,153 @@
     "type": "repo",
     "repoUrl": "https://github.com/barajasangel1983/openclaw-image-gen-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1303424334",
+    "title": "mu-ippt",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "chart",
+      "design",
+      "open-source",
+      "openclaw",
+      "powerpoint",
+      "ppt",
+      "presentation",
+      "slides",
+      "svg"
+    ],
+    "description": "木先生iPPT智能创作设计师｜AI PPT Intelligent Creation Skill",
+    "path": "openclaw/muippt-mu-ippt/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muippt/mu-ippt",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1303912065",
+    "title": "mu-skill-hub",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "catalog",
+      "marketplace",
+      "open-source",
+      "openclaw",
+      "skill-hub"
+    ],
+    "description": "木先生的Skill🦞AI盗木空间",
+    "path": "openclaw/muippt-mu-skill-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muippt/mu-skill-hub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1307157871",
+    "title": "mu-self-evolve",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "learning",
+      "openclaw",
+      "reflection",
+      "self-improvement"
+    ],
+    "description": "AI Agent 持续进化系统：每日经验沉淀+每周错误反思，正向提炼与负向纠偏合一。VFM确定性验算+评分衰减淘汰+WHERE×WHY病理归档+主动Skill合成。",
+    "path": "openclaw/muippt-mu-self-evolve/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muippt/mu-self-evolve",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1306182627",
+    "title": "mu-skill-creator",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "audit",
+      "developer-tools",
+      "openclaw",
+      "quality-assurance",
+      "skill"
+    ],
+    "description": "Skill创作发明家｜The quality gatekeeper for AI agent skills — 52-item, 10-layer audit model baked into an 8-stage gated creation workflow.",
+    "path": "openclaw/muippt-mu-skill-creator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muippt/mu-skill-creator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319320614",
+    "title": "skill-01",
+    "tool": "openclaw",
+    "tags": [
+      "ai-application",
+      "ncel",
+      "openclaw",
+      "reference-template",
+      "skill"
+    ],
+    "description": "Public OpenClaw reference template for Skill 工具类 — download only, not a submission portal.",
+    "path": "openclaw/ncel-ai-competition-skill-01/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NCEL-AI-Competition/skill-01",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1316778252",
+    "title": "dsl-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "email-automation",
+      "figma",
+      "openclaw",
+      "opencode",
+      "skills"
+    ],
+    "description": "Cross-agent skills for visual QA and email automation workflows",
+    "path": "openclaw/dengshangli-dsl-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dengshangli/dsl-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1321071361",
+    "title": "HumorUp",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: punch up your writing with actual wit — bilingual (EN/中文), anti-cringe by design. On ClawHub as humor-up.",
+    "path": "openclaw/kimmyplusli-humorup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/KimmyPlusLi/HumorUp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1302066714",
+    "title": "workflow-kit",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Portable AI agent workflow skills — commit, PR, review, security audit, epic closure. Works with Claude Code, Codex, Cursor, and OpenClaw.",
+    "path": "openclaw/gonzoblasco-workflow-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gonzoblasco/workflow-kit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194952404",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Custom OpenClaw skills and scripts",
+    "path": "openclaw/phattbeats-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/phattbeats/openclaw-skills",
+    "source": "github-discovery"
   }
 ]
