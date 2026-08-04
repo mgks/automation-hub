@@ -19443,5 +19443,93 @@
     "type": "repo",
     "repoUrl": "https://github.com/phattbeats/openclaw-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1318003029",
+    "title": "openclaw-home-assistant",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Safety-first Home Assistant skill for OpenClaw diagnostics and controlled operations",
+    "path": "openclaw/sam2kb-openclaw-home-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sam2kb/openclaw-home-assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1128858854",
+    "title": "AGI-Super-Team",
+    "tool": "openclaw",
+    "tags": [
+      "agent-orchestration",
+      "agent-skills",
+      "ai-agent-framework",
+      "ai-agents",
+      "c-suite",
+      "claude-code",
+      "developer-tools",
+      "hermes-agent",
+      "multi-agent-systems",
+      "npm-package",
+      "openai-codex",
+      "openclaw"
+    ],
+    "description": "An installable, cross-framework AI organization: C-suite agents, expert subagents, curated skills, independent review, and one-command setup across 18 AI client/runtime adapters.",
+    "path": "openclaw/aaaaqwq-agi-super-team/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aAAaqwq/AGI-Super-Team",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1238165856",
+    "title": "brigade",
+    "tool": "openclaw",
+    "tags": [
+      "agent-handoffs",
+      "agent-memory",
+      "agentpantry",
+      "agents-md",
+      "ai-agents",
+      "brigade-cli",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "graphtrail",
+      "grok",
+      "hermes",
+      "local-first",
+      "mcp",
+      "mcp-sync",
+      "miseledger",
+      "model-context-protocol",
+      "multi-agent",
+      "openclaw",
+      "opencode"
+    ],
+    "description": "Agents claim work they did not do. Brigade makes them prove it: a check run through Brigade writes a file with the real exit code. A built-in code graph tells them who calls what and what a change breaks, before they edit. One catalog syncs MCP servers, tools, and skills across harnesses; memory rides a review gate. Local files, no daemon.",
+    "path": "openclaw/escoffier-labs-brigade/",
+    "type": "repo",
+    "repoUrl": "https://github.com/escoffier-labs/brigade",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1322360276",
+    "title": "project-deep-dive-interview-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "gemini-cli",
+      "github-copilot",
+      "openclaw",
+      "skill",
+      "technical-interview"
+    ],
+    "description": "A portable Agent Skill for truthful, evidence-based technical project interview preparation.",
+    "path": "openclaw/doctcui-project-deep-dive-interview-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/doctCui/project-deep-dive-interview-skill",
+    "source": "github-discovery"
   }
 ]
