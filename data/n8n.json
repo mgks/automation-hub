@@ -60258,5 +60258,120 @@
     "type": "repo",
     "repoUrl": "https://github.com/Muhozgu/finserve",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1323534906",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Repositório único com workflows de automação n8n (templates) da organização TecnoCAF UFV",
+    "path": "n8n/tecnocaf-ufv-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TecnoCAF-ufv/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1323522251",
+    "title": "N8N-Projects",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-automation",
+      "n8n-node",
+      "n8n-workflow"
+    ],
+    "description": "A collection of AI automation workflows built with n8n, including RAG chatbots, Telegram bots, and client onboarding systems.",
+    "path": "n8n/atiq-rehman37-n8n-projects/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Atiq-Rehman37/N8N-Projects",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1323520611",
+    "title": "Google-Maps-Review-Scraper-Filter-for-Cleanliness-Complaints",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow in JSON format that scrapes Google Maps for businesses, then scrapes their reviews and filters them for complaints that match a set of keywords.",
+    "path": "n8n/ielamedia-google-maps-review-scraper-filter-for-cleanliness-complaints/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ielamedia/Google-Maps-Review-Scraper-Filter-for-Cleanliness-Complaints",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319997935",
+    "title": "Agentx",
+    "tool": "n8n",
+    "tags": [],
+    "description": "企业级 agent 开发平台，主要参考 n8n 作为 workflow ",
+    "path": "n8n/kakj-go-agentx/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kakj-go/Agentx",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1301231019",
+    "title": "lightning-visuals-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflows for Lightning Visuals",
+    "path": "n8n/ausgtm-lightning-visuals-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AusGTM/lightning-visuals-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1323485746",
+    "title": "chelsea-protocol-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Протокол Челси — n8n workflows, production baseline and v10 hardening staged bundle",
+    "path": "n8n/nortasomni-chelsea-protocol-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NortasOmni/chelsea-protocol-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1323472895",
+    "title": "n8n-nodes-trendsmcp",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for TrendsMCP. Query behavioral trend data across Google, YouTube, TikTok, Reddit, Amazon, Wikipedia, npm, Steam and more from n8n workflows.",
+    "path": "n8n/trendsmcp-ai-n8n-nodes-trendsmcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/trendsmcp-ai/n8n-nodes-trendsmcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1323455711",
+    "title": "n8n_mpt_ai_workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Публичный n8n workflow для автоматической генерации и публикации коротких видео: генерирует идеи через OpenAI, создаёт сценарий и видео с MoneyPrinterTurbo, загружает готовый ролик и автоматически планирует публикацию в соцсетях через PostMyPost.",
+    "path": "n8n/elecktro1337-n8n_mpt_ai_workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/elecktro1337/n8n_mpt_ai_workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1323459895",
+    "title": "ai-content-research-linkedin-post-generator",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered content research and LinkedIn post generation workflow built with n8n. Automatically researches topics from the web, generates professional LinkedIn posts using AI, stores the content in Google Sheets, and streamlines content creation workflows.",
+    "path": "n8n/barbarussa512-ai-content-research-linkedin-post-generator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/barbarussa512/ai-content-research-linkedin-post-generator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1323452343",
+    "title": "ai-ecommerce-order-processing-customer-notification",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered e-commerce order processing workflow built with n8n. Automatically receives customer orders, analyzes them using AI, prioritizes orders, stores them in Google Sheets, and sends customer and internal email notifications.",
+    "path": "n8n/barbarussa512-ai-ecommerce-order-processing-customer-notification/",
+    "type": "repo",
+    "repoUrl": "https://github.com/barbarussa512/ai-ecommerce-order-processing-customer-notification",
+    "source": "github-discovery"
   }
 ]
