@@ -60373,5 +60373,124 @@
     "type": "repo",
     "repoUrl": "https://github.com/barbarussa512/ai-ecommerce-order-processing-customer-notification",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270581282",
+    "title": "workflows-n8n-1",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/jcortes1906-workflows-n8n-1/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jcortes1906/workflows-n8n-1",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324642310",
+    "title": "n8n-workflows-dsgvo-de",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "deutsch",
+      "dsgvo",
+      "gdpr",
+      "lexoffice",
+      "n8n",
+      "n8n-templates",
+      "n8n-workflow"
+    ],
+    "description": "12 importierbare n8n-Starter-Workflows auf Deutsch fuer den DACH-Raum: Lead-Eingang, LexOffice, Support-Triage, DSGVO-Loeschfristen und mehr",
+    "path": "n8n/gh0stoo-n8n-workflows-dsgvo-de/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gh0stOo/n8n-workflows-dsgvo-de",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324625383",
+    "title": "n8n-workflow-library",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Unofficial attributed collection of public n8n Community Content workflows",
+    "path": "n8n/real-limitless-n8n-workflow-library/",
+    "type": "repo",
+    "repoUrl": "https://github.com/real-limitless/n8n-workflow-library",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324637997",
+    "title": "n8n-customer-feedback-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that classifies customer feedback with OpenAI, logs to Google Sheets, and alerts the support team on negative reviews",
+    "path": "n8n/rehanrnd-n8n-customer-feedback-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rehanrnd/n8n-customer-feedback-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273287596",
+    "title": "smart-gateway-mcp",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Smart API Gateway & Rate-Limiter Console featuring Redis caching (token-bucket), n8n automated onboarding/abuse workflows, and a custom Model Context Protocol (MCP) server for AI-driven gateway administration.",
+    "path": "n8n/mithilgala-cmd-smart-gateway-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mithilgala-cmd/smart-gateway-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324620411",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflows de n8n para automatizacion de videos virales con Gemini, Drive, Sheets, FFmpeg y Edge-TTS",
+    "path": "n8n/jairsg-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JairSG/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324606308",
+    "title": "athar-core",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Automation Platform powered by n8n, AI Agents and intelligent workflows.",
+    "path": "n8n/atharlabs-athar-core/",
+    "type": "repo",
+    "repoUrl": "https://github.com/atharlabs/athar-core",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1054057940",
+    "title": "n8n-nodes-ai-agent-langfuse",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Custom n8n node for integrating Langfuse with AI agent workflows.   Provides logging and tracing support for LLM-powered automation in n8n.",
+    "path": "n8n/rorubyy-n8n-nodes-ai-agent-langfuse/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rorubyy/n8n-nodes-ai-agent-langfuse",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324600492",
+    "title": "ai-crm-lead-enrichment-qualification",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered CRM lead enrichment and qualification workflow built with n8n, OpenRouter, Tavily Search, Google Sheets, and Gmail to automatically research companies, enrich lead information, qualify leads, and notify sales teams.",
+    "path": "n8n/barbarussa512-ai-crm-lead-enrichment-qualification/",
+    "type": "repo",
+    "repoUrl": "https://github.com/barbarussa512/ai-crm-lead-enrichment-qualification",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1084169805",
+    "title": "loundry",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Sistem manajemen laundry berbasis Django dengan otomatisasi WhatsApp, pembayaran online, pelacakan pesanan, dan integrasi workflow n8n.",
+    "path": "n8n/muharya022-loundry/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muharya022/loundry",
+    "source": "github-discovery"
   }
 ]

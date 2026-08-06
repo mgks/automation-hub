@@ -19731,5 +19731,88 @@
     "type": "repo",
     "repoUrl": "https://github.com/KimmyPlusLi/skill-audit",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324644396",
+    "title": "dcc-mcp-agent-plugins",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "clawhub",
+      "codebuddy",
+      "codex",
+      "cursor",
+      "dcc",
+      "gemini-cli",
+      "github-copilot",
+      "mcp",
+      "openclaw",
+      "opencode",
+      "windsurf",
+      "workbuddy"
+    ],
+    "description": "DCC-MCP Agent Skills and plugins for Codex, Claude Code, CodeBuddy, WorkBuddy, OpenClaw, and ClawHub.",
+    "path": "openclaw/dcc-mcp-dcc-mcp-agent-plugins/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dcc-mcp/dcc-mcp-agent-plugins",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324641473",
+    "title": "vertex-image-video-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "An OpenClaw skill for generating images and videos with Google Vertex AI, supporting Imagen, Gemini, Veo, image conditioning, operation polling, local output, and optional Telegram delivery.",
+    "path": "openclaw/cuonglxc-vertex-image-video-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cuonglxc/vertex-image-video-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1321749553",
+    "title": "call-of-duty-apk-script-hub",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai",
+      "api",
+      "callrecorder",
+      "chatgpt",
+      "claude-api",
+      "codex",
+      "machine-learning",
+      "meetings",
+      "nodejs",
+      "openai-functions",
+      "openclaw",
+      "skills",
+      "static-analysis",
+      "visualization",
+      "xlsx"
+    ],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/shrou5144-call-of-duty-apk-script-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shrou5144/call-of-duty-apk-script-hub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324632457",
+    "title": "seedance-2-5-video-generate-api-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "ai-api",
+      "api",
+      "evolink",
+      "openclaw",
+      "seedance-2-5"
+    ],
+    "description": "Seedance 2.5 API quickstart and agent skill for EvoLink",
+    "path": "openclaw/cheercheung-seedance-2-5-video-generate-api-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cheercheung/seedance-2-5-video-generate-api-skill",
+    "source": "github-discovery"
   }
 ]
