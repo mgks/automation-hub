@@ -19814,5 +19814,48 @@
     "type": "repo",
     "repoUrl": "https://github.com/cheercheung/seedance-2-5-video-generate-api-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199334958",
+    "title": "SkillZero",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "curriculum-learning",
+      "in-context-reinforcement-learning",
+      "openclaw",
+      "openclaw-skills",
+      "rl",
+      "skill"
+    ],
+    "description": "Official code for \"SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization\"",
+    "path": "openclaw/zju-real-skillzero/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ZJU-REAL/SkillZero",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1321859259",
+    "title": "postflight",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "build-in-public",
+      "claude",
+      "developer-tools",
+      "human-in-the-loop",
+      "openclaw",
+      "openclaw-skill",
+      "social-media-automation",
+      "telegram-bot",
+      "twitter",
+      "x-api"
+    ],
+    "description": "An OpenClaw skill that drafts 3 posts a day from your real work and publishes only when you reply ship. There is no autonomous mode. Formerly x-poster.",
+    "path": "openclaw/soos3d-postflight/",
+    "type": "repo",
+    "repoUrl": "https://github.com/soos3d/postflight",
+    "source": "github-discovery"
   }
 ]
