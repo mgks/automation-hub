@@ -60689,5 +60689,158 @@
     "type": "repo",
     "repoUrl": "https://github.com/adarsh005599/SupportPilot-AI-Customer-Support-Ticket-Intelligence-System",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1295810494",
+    "title": "n8n-nodes-opentrivia",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for the Open Trivia Database (opentdb.com) — fetch trivia questions, categories and session tokens in your n8n workflows.",
+    "path": "n8n/tsnaketech-n8n-nodes-opentrivia/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tsnaketech/n8n-nodes-opentrivia",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-910960179",
+    "title": "LaunchStack",
+    "tool": "n8n",
+    "tags": [
+      "claude",
+      "docker",
+      "knowlege-graph",
+      "langchain",
+      "mcp",
+      "n8n",
+      "neo4j",
+      "nextjs",
+      "ollama",
+      "open-source",
+      "openai",
+      "pgvector",
+      "postgresql",
+      "rag",
+      "self-hosted",
+      "typescript",
+      "workflow-automation"
+    ],
+    "description": "AI-powered StartUp Accelerator Engine built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction.",
+    "path": "n8n/deodat-lawson-launchstack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Deodat-Lawson/LaunchStack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1184130222",
+    "title": "Sentiment-Analysis",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This project is an automated sentiment analysis workflow built using n8n, designed to help restaurants collect, analyze, and store customer feedback efficiently. The Project Consists of many nodes like on form submission, AI Agent and finally google sheets",
+    "path": "n8n/mohamedmagdy776-sentiment-analysis/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mohamedmagdy776/Sentiment-Analysis",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1143715043",
+    "title": "Expense-Tracker-Telegram-Bot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-Powered Expense Tracking System With a Telegram Interface, Built Using n8n Workflows, OpenAI, and Google Sheets",
+    "path": "n8n/mohamedmagdy776-expense-tracker-telegram-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mohamedmagdy776/Expense-Tracker-Telegram-Bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1327294004",
+    "title": "n8n_projects",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflows",
+    "path": "n8n/mohamedasif-git-n8n_projects/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MohamedAsif-Git/n8n_projects",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1087442016",
+    "title": "Digital-Garden",
+    "tool": "n8n",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-sdk",
+      "knowledge-management",
+      "llm",
+      "mit-license",
+      "nextjs",
+      "prisma",
+      "react",
+      "tiptap",
+      "typescript",
+      "workflow-automation",
+      "yjs"
+    ],
+    "description": "AI-native knowledge IDE — agentic chat with typed tools & playbooks, durable workflows (n8n spoke), resumable AI streams, TTS/STT, real-time Y.js collab, and publishing. Next.js 16 · TypeScript strict · AI SDK v6",
+    "path": "n8n/centervalentine-digital-garden/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CenterValentine/Digital-Garden",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1327292992",
+    "title": "n8n-javascript-logic-exercises",
+    "tool": "n8n",
+    "tags": [],
+    "description": "JavaScript business logic and n8n workflow automation exercises.",
+    "path": "n8n/maycondouglasnavy-prog-n8n-javascript-logic-exercises/",
+    "type": "repo",
+    "repoUrl": "https://github.com/maycondouglasnavy-prog/n8n-javascript-logic-exercises",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1327288673",
+    "title": "local-business-lead-finder",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "google-maps-api",
+      "lead-generation",
+      "market-research",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "n8n workflow that finds local businesses via Google Places API, filtered by category, region, and review count — built for market research and lead qualification.",
+    "path": "n8n/aabdullahnadeem-local-business-lead-finder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aabdullahnadeem/local-business-lead-finder",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1327284404",
+    "title": "Daily-Weather-Currency-Update",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-automation",
+      "whatsapp-automation"
+    ],
+    "description": "n8n workflow that runs every morning, pulls live weather and USD/SAR-to-PKR exchange rates, and sends a formatted digest over Email and WhatsApp — fully automated, no manual steps.",
+    "path": "n8n/aabdullahnadeem-daily-weather-currency-update/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aabdullahnadeem/Daily-Weather-Currency-Update",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1327281892",
+    "title": "instagram-business-discovery",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that discovers Instagram business profiles via Google Search (Serper API), filters out non-profile links, and logs clean handles to Google Sheets.",
+    "path": "n8n/ameeque-007-instagram-business-discovery/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ameeque-007/instagram-business-discovery",
+    "source": "github-discovery"
   }
 ]

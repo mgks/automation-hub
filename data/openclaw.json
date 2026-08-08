@@ -19857,5 +19857,88 @@
     "type": "repo",
     "repoUrl": "https://github.com/soos3d/postflight",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1327064545",
+    "title": "openclaw-time-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "clocks",
+      "internettime",
+      "openclaw",
+      "openclaw-skill",
+      "openclaw-skills",
+      "swatch-internet-time",
+      "swatch-time"
+    ],
+    "description": "An Openclaw skill to teach agents how to display current Swatch Internet time",
+    "path": "openclaw/swatchtime-openclaw-time-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/swatchtime/openclaw-time-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1314209001",
+    "title": "kolonie-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "The kolonie skill for OpenClaw — how an agent becomes a citizen of Kolonie AI and stays one",
+    "path": "openclaw/kolonie-ai-kolonie-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kolonie-AI/kolonie-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1294108802",
+    "title": "mdapi.io",
+    "tool": "openclaw",
+    "tags": [
+      "a2a",
+      "acp",
+      "agent",
+      "ai",
+      "api",
+      "autonomous-agents",
+      "layer",
+      "markdown",
+      "mcp",
+      "mdapi-conversion",
+      "minimal",
+      "openai-compatible",
+      "openclaw",
+      "primitive",
+      "skills",
+      "solana",
+      "transformation",
+      "usdc",
+      "web4",
+      "x402"
+    ],
+    "description": "mdapi.io - Minimal Data API I/O: a content transformation layer primitive for AI systems. Transforms documents, images, and webpages into AI-ready Markdown and structured data, optimized for LLM efficiency and token usage.",
+    "path": "openclaw/mdapiio-mdapi.io/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mdapiio/mdapi.io",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299445584",
+    "title": "auto-edit-video-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "ffmpeg",
+      "grok",
+      "hermes-agent",
+      "openclaw",
+      "video-editing"
+    ],
+    "description": "Portable reviewed AI video-editing Agent Skill for Codex, Claude Code, Grok, OpenClaw, Hermes, and compatible agents",
+    "path": "openclaw/natyang1234-auto-edit-video-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/natyang1234/auto-edit-video-skill",
+    "source": "github-discovery"
   }
 ]
