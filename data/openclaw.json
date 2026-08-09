@@ -19940,5 +19940,28 @@
     "type": "repo",
     "repoUrl": "https://github.com/natyang1234/auto-edit-video-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1090418724",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-skills",
+      "clawhub",
+      "erc-8004",
+      "mpp",
+      "openclaw",
+      "skills",
+      "solana",
+      "x402"
+    ],
+    "description": "Agent skills for building, shipping, and growing software products",
+    "path": "openclaw/tenequm-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tenequm/skills",
+    "source": "github-discovery"
   }
 ]

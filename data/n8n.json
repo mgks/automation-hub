@@ -60842,5 +60842,129 @@
     "type": "repo",
     "repoUrl": "https://github.com/Ameeque-007/instagram-business-discovery",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328308251",
+    "title": "ai-career-assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready AI Career Assistant agentic workflow built with n8n, Google Gemini API, Supabase, and custom JS payload routing.",
+    "path": "n8n/ostra17-ai-career-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ostra17/ai-career-assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328314672",
+    "title": "ia-flow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Projeto IA Flow — automações, workflows n8n, documentação e infraestrutura.",
+    "path": "n8n/carlosgomes3271-hue-ia-flow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/carlosgomes3271-hue/ia-flow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328282356",
+    "title": "SermonAudio.com-to-WordPress-Sermon-Library-Integration",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This n8n workflow automatically publishes sermons to WordPress from a church's sermonaudio.com account. It builds a search engine optimized sermon library on the church's website. Each sermon is given its own page, and each sermon page features a video embed, an audio embed, a transcript, and (when present) video clips.",
+    "path": "n8n/sermonpress-ai-sermonaudio.com-to-wordpress-sermon-library-integration/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SermonPress-AI/SermonAudio.com-to-WordPress-Sermon-Library-Integration",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328135913",
+    "title": "AI-customer-support-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered customer support workflow built with n8n, Airtable, an AI model and Gmail to process enquiries, generate responses, store results,  and automate email  communication.",
+    "path": "n8n/cp-automations-ai-customer-support-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CP-Automations/AI-customer-support-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1327296194",
+    "title": "n8n-failed-execution-doctor-public",
+    "tool": "n8n",
+    "tags": [
+      "apify",
+      "automation",
+      "debugging",
+      "devops",
+      "n8n",
+      "workflow"
+    ],
+    "description": "Open-source n8n failed-execution diagnostics: Apify Actor plus a free importable Lite workflow.",
+    "path": "n8n/corleoneappsh-create-n8n-failed-execution-doctor-public/",
+    "type": "repo",
+    "repoUrl": "https://github.com/corleoneappsh-create/n8n-failed-execution-doctor-public",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328287291",
+    "title": "n8n-workflow-preflight-action",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "devops",
+      "github-actions",
+      "n8n",
+      "security",
+      "workflow"
+    ],
+    "description": "Deterministic GitHub Action for preflight checks on exported n8n workflows.",
+    "path": "n8n/corleoneappsh-create-n8n-workflow-preflight-action/",
+    "type": "repo",
+    "repoUrl": "https://github.com/corleoneappsh-create/n8n-workflow-preflight-action",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288231591",
+    "title": "n8n-automation-projects",
+    "tool": "n8n",
+    "tags": [],
+    "description": "my n8n workflows",
+    "path": "n8n/mohamedkhaled5543-n8n-automation-projects/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mohamedkhaled5543/n8n-automation-projects",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328075467",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/dynamackops-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dynamackops/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328278343",
+    "title": "n8n-ai-document-generator",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An automated n8n workflow that captures project requirements via form submission, drafts formal Scope of Work (SOW) agreements using Gemini LLM, generates Google Docs, configures sharing permissions, and dispatches dynamic HTML emails via Gmail.",
+    "path": "n8n/yegisyahrial-n8n-ai-document-generator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yegisyahrial/n8n-ai-document-generator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1325103739",
+    "title": "n8n-ai-hub",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-grade AI automation platform, 5 workflows powered by Claude AI, React dashboard, deployed on Railway + Vercel",
+    "path": "n8n/onlymrusman-n8n-ai-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OnlyMrUsman/n8n-ai-hub",
+    "source": "github-discovery"
   }
 ]
