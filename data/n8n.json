@@ -60966,5 +60966,156 @@
     "type": "repo",
     "repoUrl": "https://github.com/OnlyMrUsman/n8n-ai-hub",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1329134591",
+    "title": "ai-agent-workflow-builder",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Mini n8n for chaining AI agent workflows — nhost + Hasura + Postgres + Next.js",
+    "path": "n8n/n-3-0-l-d-3-v-ai-agent-workflow-builder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/n-3-0-l-d-3-v/ai-agent-workflow-builder",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1329307192",
+    "title": "invoice_reminder_automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "xero accounts software invoice reminder automated with n8n, the workflow runs daily at 9:00am , and sends reminder message for customers whose bills are past the due dates",
+    "path": "n8n/warenodhiambo4-invoice_reminder_automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/WarenOdhiambo4/invoice_reminder_automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1329290893",
+    "title": "AI-Powered-RAG-Customer-Support-System",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-Powered RAG Customer Support System — n8n automation combining two workflows: automated multi-format (PDF/DOCX) document ingestion from Google Drive into a Qdrant vector store using Gemini embeddings, and a Gmail-triggered AI agent that answers customer emails with source-cited, retrieval-grounded responses, full error logging, and conversation ",
+    "path": "n8n/waariha-asim-ai-powered-rag-customer-support-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Waariha-Asim/AI-Powered-RAG-Customer-Support-System",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1287515907",
+    "title": "ark-ai-customer-support-assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-style AI Customer Support Assistant built with Node.js, Express.js, n8n, PostgreSQL, and Ollama featuring conversation memory, workflow automation, and a modern streaming chat interface.",
+    "path": "n8n/armaankhantech-ark-ai-customer-support-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/armaankhantech/ark-ai-customer-support-assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1305798412",
+    "title": "sorted_signals",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Public repo to hold the n8n workflows that support Sorted Signals",
+    "path": "n8n/hellovamsi-sorted_signals/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hellovamsi/sorted_signals",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1329252292",
+    "title": "Expense-Approval-Workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that automates employee expense approval end-to-end, form intake, one-click manager approval via email, automatic Xero bill creation, Slack alerts, and live status tracking in Google Sheets.",
+    "path": "n8n/edgarbureau-expense-approval-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Edgarbureau/Expense-Approval-Workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297170343",
+    "title": "Automazioni-n8n",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "automazione",
+      "crm",
+      "google-sheets",
+      "italiano",
+      "lead-gen",
+      "lead-generation",
+      "lead-scoring",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow",
+      "no-code",
+      "nocode",
+      "sales-automation",
+      "small-business",
+      "telegram",
+      "workflow"
+    ],
+    "description": "Due workflow n8n gratuiti in italiano: lead generation completa (form, arricchimento dati, Google Sheet, Telegram) e lead scoring automatico che ogni mattina ti manda i contatti da chiamare per primi. Pronti all'uso in 10 minuti, JSON da importare.",
+    "path": "n8n/dabih2-automazioni-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dabiH2/Automazioni-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324634025",
+    "title": "tpl-scout",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "content-ideation",
+      "gemini",
+      "n8n",
+      "n8n-workflow",
+      "rss"
+    ],
+    "description": "Système de veille sectorielle automatisé en n8n. Lit des flux RSS techniques chaque matin, résume, classe par domaine et extrait des angles d'articles via Gemini, livré par email. Construit par Tol Product Lab.",
+    "path": "n8n/tolproductlab-tpl-scout/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tolproductlab/tpl-scout",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319162138",
+    "title": "n8n-automation",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "Automating your workflows using n8n.",
+    "path": "n8n/siddhushkya-n8n-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SiddhuShkya/n8n-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1077704413",
+    "title": "zachmation",
+    "tool": "n8n",
+    "tags": [
+      "better-auth",
+      "fullstack",
+      "n8n",
+      "n8n-workflow",
+      "nextjs",
+      "nodemation",
+      "opensource",
+      "polarsh",
+      "prisma-orm",
+      "trpc",
+      "typescript"
+    ],
+    "description": "Zach Automation (n8n workflow automation)",
+    "path": "n8n/19akshansh-zachmation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/19akshansh/zachmation",
+    "source": "github-discovery"
   }
 ]
