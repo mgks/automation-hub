@@ -20057,5 +20057,91 @@
     "type": "repo",
     "repoUrl": "https://github.com/pilotgetup855/bbshare-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1329466343",
+    "title": "agent-skill-manager",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "autoclaw",
+      "cli",
+      "codebuddy",
+      "comate",
+      "cross-platform",
+      "developer-tools",
+      "dumate",
+      "kimi",
+      "minimax",
+      "openclaw",
+      "python",
+      "qoder",
+      "skill-manager",
+      "skill-sync",
+      "tongyi",
+      "trae",
+      "wenxin",
+      "workbuddy"
+    ],
+    "description": "Cross-platform skill management for 9 domestic AI agent products (AutoClaw, Kimi Code, MiniMax Code, WorkBuddy, Trae Solo, DuMate, CodeBuddy, Comate, Qoder)",
+    "path": "openclaw/yxdwind-agent-skill-manager/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yxdwind/agent-skill-manager",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1163880187",
+    "title": "free-ai-agent-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "chatgpt",
+      "claude-code",
+      "codex-cli",
+      "cursor",
+      "devops",
+      "openclaw",
+      "security",
+      "skill-md",
+      "windsurf"
+    ],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/suryast-free-ai-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/suryast/free-ai-agent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1330321055",
+    "title": "oskar-dragon-claude-code",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Tes skill openclaw",
+    "path": "openclaw/giovannipaologoggia-commits-oskar-dragon-claude-code/",
+    "type": "repo",
+    "repoUrl": "https://github.com/giovannipaologoggia-commits/oskar-dragon-claude-code",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1330315972",
+    "title": "agent-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "automation",
+      "codex",
+      "developer-tools",
+      "hermes-agent",
+      "openclaw"
+    ],
+    "description": "Personal, shareable skills for AI agents such as Hermes and OpenClaw.",
+    "path": "openclaw/warunsinx-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/warunsinx/agent-skills",
+    "source": "github-discovery"
   }
 ]

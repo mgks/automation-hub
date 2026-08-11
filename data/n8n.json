@@ -61117,5 +61117,123 @@
     "type": "repo",
     "repoUrl": "https://github.com/19akshansh/zachmation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1330382814",
+    "title": "n8n-ai-agent-multitool",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n AI agent workflow featuring multi-tool capabilities (SerpApi Google News search, Gmail integration) and memory context window.",
+    "path": "n8n/vrasathishkumar-dev-n8n-ai-agent-multitool/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vrasathishkumar-dev/n8n-ai-agent-multitool",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1258956169",
+    "title": "gtm-outbound-infrastructure",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production n8n workflows for B2B outbound — job signal scraping, AI-powered lead sourcing + ICP validation, and automated email sending with open tracking. Built and used in live client campaigns.",
+    "path": "n8n/jithujsam-cloud-gtm-outbound-infrastructure/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jithujsam-cloud/gtm-outbound-infrastructure",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1330350325",
+    "title": "ai-lead-enrichment-crm-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered lead enrichment and CRM automation workflow built with n8n, OpenAI, Webhooks, and Google Sheets.",
+    "path": "n8n/yassineworkflow-maker-ai-lead-enrichment-crm-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yassineworkflow-maker/ai-lead-enrichment-crm-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1330351088",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflows do n8n",
+    "path": "n8n/testesindauto-lab-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/testesindauto-lab/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1330344072",
+    "title": "AI-Business-Operations-Agent",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "business-operations",
+      "fastapi",
+      "gemini",
+      "n8n",
+      "react"
+    ],
+    "description": "AI-powered business operations agent that detects, investigates, and resolves business issues through human-approved workflows",
+    "path": "n8n/samii782-ai-business-operations-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/samii782/AI-Business-Operations-Agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1330343243",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n automation workflows: AI agents, email handling, and scheduled tasks with Gmail, Sheets, and OpenAI/Gemini integrations.",
+    "path": "n8n/muhammad-armaghan-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Muhammad-Armaghan/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1177207642",
+    "title": "fractal-ai-n8n-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Claude Code skills for building n8n workflows. Open in Claude Code, say 'set me up'.",
+    "path": "n8n/mattyreed1-fractal-ai-n8n-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mattyreed1/fractal-ai-n8n-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1267836114",
+    "title": "ffmpeg-renderer",
+    "tool": "n8n",
+    "tags": [],
+    "description": "HTTP wrapper around ffmpeg for n8n long-form content workflow",
+    "path": "n8n/finwyse2107-ffmpeg-renderer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/finwyse2107/ffmpeg-renderer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1330339396",
+    "title": "n8n-llm",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow n8n com LLM local para análise automatizada de logs de segurança",
+    "path": "n8n/guiluiz12-n8n-llm/",
+    "type": "repo",
+    "repoUrl": "https://github.com/GuiLuiz12/n8n-llm",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1330329633",
+    "title": "n8nWorkflowsDemo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/keijioza-n8nworkflowsdemo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/keijioza/n8nWorkflowsDemo",
+    "source": "github-discovery"
   }
 ]
