@@ -61235,5 +61235,124 @@
     "type": "repo",
     "repoUrl": "https://github.com/keijioza/n8nWorkflowsDemo",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1126592445",
+    "title": "operational-spreadsheet-etl",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automating the transformation of messy Excel operational data into a clean, analytics-ready dataset using n8n workflows and Google Sheets.",
+    "path": "n8n/antoniustanianto-operational-spreadsheet-etl/",
+    "type": "repo",
+    "repoUrl": "https://github.com/antoniustanianto/operational-spreadsheet-etl",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1288446198",
+    "title": "n8n-365-projects",
+    "tool": "n8n",
+    "tags": [],
+    "description": "N8N مكتبة مفتوحة المصدر لـ 365 مشروع  | N8N  Open-source library of 365 workflows",
+    "path": "n8n/enigma7979-n8n-365-projects/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Enigma7979/n8n-365-projects",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1307227862",
+    "title": "lokis-mischief",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Loki's Mischief — Norse mythology brand site with 4 playable browser games (Fenrir, Jormungandr, Hel, Sleipnir) + Make/n8n workflow template marketplace",
+    "path": "n8n/lokibeinblodsson-ctrl-lokis-mischief/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lokibeinblodsson-ctrl/lokis-mischief",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1331426840",
+    "title": "AI-Powered-Meeting-Intelligence-Automation-Workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered n8n workflow that automates meeting intelligence from audio recordings. It validates files, prevents duplicates, transcribes audio with Groq Whisper, extracts summaries, key decisions & action items using Groq LLM, then sends reports via Gmail and logs results in Google Sheets.",
+    "path": "n8n/waariha-asim-ai-powered-meeting-intelligence-automation-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Waariha-Asim/AI-Powered-Meeting-Intelligence-Automation-Workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328258710",
+    "title": "n8n_workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A compilation of n8n workflows",
+    "path": "n8n/zheng5005-n8n_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Zheng5005/n8n_workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1273645617",
+    "title": "n8n-email-incident-classifier",
+    "tool": "n8n",
+    "tags": [
+      "artificial-intelligence",
+      "automation",
+      "gmail",
+      "llm",
+      "n8n",
+      "ollama",
+      "telegram",
+      "workflow"
+    ],
+    "description": "Workflow n8n que detecta incidentes por Gmail, los clasifica con IA (Ollama) y notifica por Telegram",
+    "path": "n8n/martinz18-n8n-email-incident-classifier/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MartinZ18/n8n-email-incident-classifier",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1331401689",
+    "title": "n8n-workflow-guard",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Static safety and reliability checks for exported n8n workflows.",
+    "path": "n8n/mk1-dev0-n8n-workflow-guard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mk1-dev0/n8n-workflow-guard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1315930462",
+    "title": "n8n-nodes-sirenic",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Official French & European company data in n8n, no API key, no account. Your workflow pays per call in USDC on Base via x402. 41 operations across 9 resources: KYB, sanctions screening, financials, VAT, 12-country registries. Zero dependencies.",
+    "path": "n8n/sirenic-eu-n8n-nodes-sirenic/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sirenic-eu/n8n-nodes-sirenic",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1331394713",
+    "title": "2ba422111b2644df-content-creation-financial-for",
+    "tool": "n8n",
+    "tags": [],
+    "description": "manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Content Creatio",
+    "path": "n8n/ncreighton-2ba422111b2644df-content-creation-financial-for/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/2ba422111b2644df-content-creation-financial-for",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1331392625",
+    "title": "785305df-creative-professionals-invoice",
+    "tool": "n8n",
+    "tags": [],
+    "description": "manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Creative Profes",
+    "path": "n8n/ncreighton-785305df-creative-professionals-invoice/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/785305df-creative-professionals-invoice",
+    "source": "github-discovery"
   }
 ]
