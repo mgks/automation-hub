@@ -61354,5 +61354,139 @@
     "type": "repo",
     "repoUrl": "https://github.com/ncreighton/785305df-creative-professionals-invoice",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1332582539",
+    "title": "n8n_AI_Automation_Workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Enterprise n8n AI Automation Workflows combining Google Vision OCR and Gemini LLMs for document processing",
+    "path": "n8n/saskw2010-n8n_ai_automation_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/saskw2010/n8n_AI_Automation_Workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1253899356",
+    "title": "yammbo-alerts",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Cloudflare Worker routing VPS healthcheck and backup alerts to Telegram. Replaced an n8n workflow.",
+    "path": "n8n/yammbocom-yammbo-alerts/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yammbocom/yammbo-alerts",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1332036528",
+    "title": "n8n-solana-price-alert",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "crypto",
+      "n8n",
+      "price-alert",
+      "solana",
+      "telegram-bot",
+      "web3"
+    ],
+    "description": "Free n8n workflow: alerts on Telegram when a Solana SPL token price crosses a threshold — no external database, ready in 5 minutes",
+    "path": "n8n/deusacc-n8n-solana-price-alert/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DeusAcc/n8n-solana-price-alert",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1331660673",
+    "title": "n8n-uptime-ping-alert",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "n8n-workflow",
+      "telegram-bot",
+      "uptime-monitoring"
+    ],
+    "description": "Free n8n workflow: checks a site every 5 minutes and alerts on Telegram only on state change (up/down) — ready in 5 minutes",
+    "path": "n8n/deusacc-n8n-uptime-ping-alert/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DeusAcc/n8n-uptime-ping-alert",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1331592237",
+    "title": "n8n-workflow-packs",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "n8n-templates",
+      "n8n-workflows",
+      "workflow-automation"
+    ],
+    "description": "Ready-to-use n8n workflows — tested automations, import and go. Download at https://negozio.91.99.198.106.sslip.io/",
+    "path": "n8n/deusacc-n8n-workflow-packs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DeusAcc/n8n-workflow-packs",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1332547629",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow automation, queue mode, backed by this fleet's shared Postgres and Valkey",
+    "path": "n8n/jodumont-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JOduMonT/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1330403155",
+    "title": "n8n-automations",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "n8n-automation",
+      "workflow-automation"
+    ],
+    "description": "A collection of production-ready n8n automation workflows with AI Agents, error handling, and clean output design.",
+    "path": "n8n/alaaoka23-n8n-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alaaoka23/n8n-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1332516432",
+    "title": "99-Group-Assesment-Automated-Refinancing-Call-System-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "End-to-end automated mortgage refinancing qualification workflow built with n8n. The system processes customer data, checks eligibility, simulates AI refinancing calls, stores results, and triggers follow-up actions.",
+    "path": "n8n/f1d022124-99-group-assesment-automated-refinancing-call-system-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/F1D022124/99-Group-Assesment-Automated-Refinancing-Call-System-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1332535704",
+    "title": "parity-industry-news-ops",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production n8n Industry News workflow, runbook, and maintenance skill.",
+    "path": "n8n/michaelsmallenberger-design-parity-industry-news-ops/",
+    "type": "repo",
+    "repoUrl": "https://github.com/michaelsmallenberger-design/parity-industry-news-ops",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1244826021",
+    "title": "hyperspell-n8n-node",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Hyperspell — add documents, semantic search, and grounded answers from any workflow",
+    "path": "n8n/hyperspell-hyperspell-n8n-node/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hyperspell/hyperspell-n8n-node",
+    "source": "github-discovery"
   }
 ]

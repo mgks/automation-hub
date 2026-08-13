@@ -20307,5 +20307,108 @@
     "type": "repo",
     "repoUrl": "https://github.com/Fiona-Lynxlynx/-.skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1318942735",
+    "title": "aik8s",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "ai",
+      "aibrix",
+      "cephfs",
+      "claude-code",
+      "codexcli",
+      "containerd",
+      "cuda",
+      "docker",
+      "harness",
+      "hermes-agent",
+      "kubernetes",
+      "llm",
+      "openclaw",
+      "sglang",
+      "skills",
+      "spark",
+      "vllm",
+      "vm"
+    ],
+    "description": "AI/LLM on Kubernetes 基础设施知识库：涵盖 GPU、大数据、调度、分布式训练、LLM 推理、RAG、Agent 与生产运维。",
+    "path": "openclaw/runzhliu-aik8s/",
+    "type": "repo",
+    "repoUrl": "https://github.com/runzhliu/aik8s",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1307007605",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "hermes-agent",
+      "mcp",
+      "openclaw"
+    ],
+    "description": "All of my portable Agent Skills with local validation and MCP access",
+    "path": "openclaw/srinitude-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/srinitude/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1332543752",
+    "title": "feasible-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "PM/QA skills for Claude Code / OpenClaw, generalized from Feasible Research workflows",
+    "path": "openclaw/seahopark-feasible-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/seahopark/feasible-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228660853",
+    "title": "skillforge",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agents",
+      "claude",
+      "cli",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "openclaw",
+      "prompt-engineering",
+      "typescript"
+    ],
+    "description": "Forge portable coding-agent skills with linting, activation tests, render adapters, and local-first packaging.",
+    "path": "openclaw/rogerchappel-skillforge/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rogerchappel/skillforge",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1227004129",
+    "title": "skilldeck",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "local-first",
+      "openclaw",
+      "skills",
+      "typescript"
+    ],
+    "description": "Local-first skill pack manager and verifier for agent instructions.",
+    "path": "openclaw/rogerchappel-skilldeck/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rogerchappel/skilldeck",
+    "source": "github-discovery"
   }
 ]
