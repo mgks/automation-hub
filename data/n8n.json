@@ -61488,5 +61488,156 @@
     "type": "repo",
     "repoUrl": "https://github.com/hyperspell/hyperspell-n8n-node",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1320236708",
+    "title": "automation-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "human-in-the-loop",
+      "industrial-automation",
+      "n8n",
+      "synthetic-data",
+      "typescript",
+      "workflow-automation"
+    ],
+    "description": "Inspectable automation portfolio with workflow explanations, implementation-status labels and synthetic/test boundaries.",
+    "path": "n8n/hugomenz-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hugomenz/automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1311803877",
+    "title": "hammer-flow-site",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Public website for Hammer Flow, a service-led MSP automation initiative showcasing five validated n8n workflow prototypes.",
+    "path": "n8n/carywood7-hammer-flow-site/",
+    "type": "repo",
+    "repoUrl": "https://github.com/carywood7/hammer-flow-site",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1175574538",
+    "title": "n8n-nodes-tracira",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Official n8n community node for Tracira AI output monitoring and approval workflows.",
+    "path": "n8n/deepidealab-n8n-nodes-tracira/",
+    "type": "repo",
+    "repoUrl": "https://github.com/deepidealab/n8n-nodes-tracira",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1333635857",
+    "title": "n8n-workflows-backup",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/nuetey99-n8n-workflows-backup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Nuetey99/n8n-workflows-backup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1318763042",
+    "title": "ibam28",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Personal portfolio showcasing AI Automation, n8n workflows, API integrations, and backend projects.",
+    "path": "n8n/ibam28-ibam28/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ibam28/ibam28",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1326018214",
+    "title": "fluxforge",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An open-source workflow automation engine (n8n/Zapier-style) written from scratch in TypeScript: DAG executor, persistent job queue, pluggable node SDK, canvas-based visual editor.",
+    "path": "n8n/victorhjesussantiago-fluxforge/",
+    "type": "repo",
+    "repoUrl": "https://github.com/VictorHJesusSantiago/fluxforge",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1317412483",
+    "title": "n8n-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Two working n8n automation workflows with tests — invoice/receipt extraction and inbound enquiry triage. Model reads, code decides.",
+    "path": "n8n/benfoster1997-n8n-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/benfoster1997/n8n-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324139202",
+    "title": "vatnode-n8n",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-community-node",
+      "n8n-node",
+      "n8n-nodes",
+      "vat",
+      "vat-number",
+      "vat-validation",
+      "vatnode",
+      "vies",
+      "vies-api"
+    ],
+    "description": "Official n8n community node for vatnode — validate EU VAT numbers against VIES and look up EU VAT rates inside your workflows.",
+    "path": "n8n/vatnode-vatnode-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vatnode/vatnode-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1332655121",
+    "title": "portfolio",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "ai-tools",
+      "gcp",
+      "gcp-firestore",
+      "llm",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "n8n-workflows",
+      "security",
+      "security-automation",
+      "security-scanner",
+      "security-tools"
+    ],
+    "description": "Senior Security Administrator working across IT Operations & Security",
+    "path": "n8n/adastra42-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/adastra42/portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1099716211",
+    "title": "AI-agents-and-Workflow-Automation-with-n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "n8n",
+      "n8n-nodes",
+      "n8n-workflow",
+      "workflow-automation"
+    ],
+    "description": "n8n (pronounced n-eight-n) helps you to connect any app with an API with any other, and manipulate its data with little or no code.  Customizable: highly flexible workflows and the option to build custom nodes. Convenient: use the npm or Docker to try out n8n, or the Cloud hosting option if you want us to handle the infrastructure.",
+    "path": "n8n/swatikhedekar-ai-agents-and-workflow-automation-with-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Swatikhedekar/AI-agents-and-Workflow-Automation-with-n8n",
+    "source": "github-discovery"
   }
 ]
