@@ -61639,5 +61639,187 @@
     "type": "repo",
     "repoUrl": "https://github.com/Swatikhedekar/AI-agents-and-Workflow-Automation-with-n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1280626518",
+    "title": "agentic-automation-lab",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-automation",
+      "business-automation",
+      "data-engineering",
+      "llm",
+      "multi-agent-systems",
+      "n8n",
+      "rag",
+      "workflow-automation"
+    ],
+    "description": "A growing lab of AI agents, intelligent automations, data workflows, RAG systems and production-grade n8n engineering.",
+    "path": "n8n/kooroosh1363-agentic-automation-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kooroosh1363/agentic-automation-lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1296464985",
+    "title": "n8n-legal-workflows-release",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/protomated-n8n-legal-workflows-release/",
+    "type": "repo",
+    "repoUrl": "https://github.com/protomated/n8n-legal-workflows-release",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1333874458",
+    "title": "oss-package-health-monitor",
+    "tool": "n8n",
+    "tags": [
+      "apify-actor",
+      "cisa-kev",
+      "n8n",
+      "npm",
+      "osv",
+      "pypi",
+      "sbom",
+      "security-automation",
+      "vulnerability-scanner"
+    ],
+    "description": "Exact-version npm and PyPI vulnerability scanner using OSV and CISA KEV, with n8n/Make workflows and transparent source status.",
+    "path": "n8n/jarvis-dong-oss-package-health-monitor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jarvis-Dong/oss-package-health-monitor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1334632333",
+    "title": "Ai-Receptionist",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "claude-ai",
+      "mcp",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "retell-ai",
+      "voice-ai",
+      "voice-ai-agents"
+    ],
+    "description": "A production-ready bilingual (English/Bangla) AI voice receptionist for Ostad Academy, built with Retell AI, n8n workflow automation, and MCP integration. Handles course inquiries, class schedules, consultation booking, lead capture, human handoff, and automatic conversation logging.",
+    "path": "n8n/imkausarbd-ai-receptionist/",
+    "type": "repo",
+    "repoUrl": "https://github.com/imkausarbd/Ai-Receptionist",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1194362788",
+    "title": "n8nc",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "cli",
+      "gitops",
+      "n8n",
+      "rust",
+      "workflow"
+    ],
+    "description": "CLI for n8n — sync workflows with Git, manage remote instances",
+    "path": "n8n/rvben-n8nc/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rvben/n8nc",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1334616416",
+    "title": "imkausarbd",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Automation Engineer building AI agents, n8n workflows, RAG chatbots, and MCP integrations using Claude AI and ChatGPT. Helping businesses automate repetitive tasks with smart, reliable AI-powered systems.",
+    "path": "n8n/imkausarbd-imkausarbd/",
+    "type": "repo",
+    "repoUrl": "https://github.com/imkausarbd/imkausarbd",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1334617210",
+    "title": "3df895ae8579cb82-cybersecurity-document-approva",
+    "tool": "n8n",
+    "tags": [],
+    "description": "You shouldn't need a virtual assistant just to move data between apps to automate a multi-tool business process in an afternoon.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Cybersecurity Document Approval Workflow —",
+    "path": "n8n/ncreighton-3df895ae8579cb82-cybersecurity-document-approva/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/3df895ae8579cb82-cybersecurity-document-approva",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1334539032",
+    "title": "n8n-social-media-automation-workflow",
+    "tool": "n8n",
+    "tags": [
+      "api",
+      "facebook-api",
+      "json",
+      "linkedin-api",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "slack-api",
+      "tiktok-api",
+      "youtube-api"
+    ],
+    "description": "This is my first n8n social media automation workflow i have build using n8n. first the agent will generate the content than it will convert into json after it will send to slack approval node once the admin approve the content i will autopost to all connected social platforms",
+    "path": "n8n/kamilmirza05-n8n-social-media-automation-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kamilmirza05/n8n-social-media-automation-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1334135681",
+    "title": "EchoForge",
+    "tool": "n8n",
+    "tags": [
+      "api-integration",
+      "automation",
+      "elevenlabs",
+      "n8n",
+      "n8n-workflow",
+      "no-code",
+      "speech-to-text",
+      "telegram",
+      "telegrambot",
+      "text-to-speech",
+      "voice-ai",
+      "workflow-automation"
+    ],
+    "description": "Text to speech and speech to text automation using n8n, ElevenLabs, and Telegram",
+    "path": "n8n/apoo3va-echoforge/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Apoo3va/EchoForge",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-994970507",
+    "title": "micro-services",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "integration",
+      "n8n",
+      "n8n-nodes",
+      "n8n-workflow",
+      "no-code",
+      "nocode",
+      "nocode4prod",
+      "ui"
+    ],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/runfish5-micro-services/",
+    "type": "repo",
+    "repoUrl": "https://github.com/runfish5/micro-services",
+    "source": "github-discovery"
   }
 ]

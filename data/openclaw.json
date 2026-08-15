@@ -20511,5 +20511,68 @@
     "type": "repo",
     "repoUrl": "https://github.com/aws-samples/sample-well-architected-skills-and-steering",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1275142547",
+    "title": "test-audit-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Autonomous test auditor skill — analyzes changes, writes and runs tests, reports results. Runtime-neutral (Claude Code / Codex / Cursor / OpenClaw).",
+    "path": "openclaw/gtskevin-test-audit-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gtskevin/test-audit-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1203517245",
+    "title": "tts-openclaw-skills-public",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/brucetangc-tts-openclaw-skills-public/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BruceTangc/tts-openclaw-skills-public",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297247269",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "hermes-agent",
+      "openclaw",
+      "skills"
+    ],
+    "description": "Personal Agent Skills — portable SKILL.md skills for Claude Code, OpenClaw, Hermes, and any agent that speaks the open standard.",
+    "path": "openclaw/soonjune-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/soonjune/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1153092183",
+    "title": "openclaw-eve-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-assistant",
+      "clawbot",
+      "clawhub",
+      "esi",
+      "eve-online",
+      "eveonline",
+      "moltbot",
+      "openclaw",
+      "skill",
+      "skills"
+    ],
+    "description": "OpenClaw skill for EVE Online ESI account management",
+    "path": "openclaw/burnshall-ui-openclaw-eve-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/burnshall-ui/openclaw-eve-skill",
+    "source": "github-discovery"
   }
 ]
