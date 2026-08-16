@@ -61821,5 +61821,122 @@
     "type": "repo",
     "repoUrl": "https://github.com/runfish5/micro-services",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1334834861",
+    "title": "node-pilot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "ChatGPT said:  NodePilot is a powerful workflow automation platform inspired by n8n and Zapier. It lets users visually build, manage, and automate workflows by connecting different apps and services.",
+    "path": "n8n/prithivipm2580-node-pilot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/PrithiviPM2580/node-pilot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1335051620",
+    "title": "n8n-ig-comments-management",
+    "tool": "n8n",
+    "tags": [],
+    "description": "N8N Workflow that sends an Instagram private message to people who have posted a new comment",
+    "path": "n8n/devgine-n8n-ig-comments-management/",
+    "type": "repo",
+    "repoUrl": "https://github.com/devgine/n8n-ig-comments-management",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1335497273",
+    "title": "custommer-followup-automation-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that automates customer follow-up emails using Google Sheets and Gmail.",
+    "path": "n8n/amanullah-n8n-custommer-followup-automation-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/amanullah-n8n/custommer-followup-automation-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1305250878",
+    "title": "MySecretCase-Youtube-Seo-Optimization-Pipeline-self-hosted-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Demo requested by MySecretCase. An n8n workflow that takes 400 YouTube videos (title,description,tags,full transcript), works out what each one is actually about, resolves keyword conflicts across the whole catalogue, and generates an optimized title and description for every video. Built self-hosted on Docker, running entirely on free-tier APIs.",
+    "path": "n8n/ll-drepano-mysecretcase-youtube-seo-optimization-pipeline-self-hosted-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LL-Drepano/MySecretCase-Youtube-Seo-Optimization-Pipeline-self-hosted-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1335385501",
+    "title": "n8n-automation-projects",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of practical n8n automation workflows covering data processing, conditional routing, integrations, and workflow orchestration.",
+    "path": "n8n/mazen-alattar-n8n-automation-projects/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mazen-Alattar/n8n-automation-projects",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1335463690",
+    "title": "007f0533-fitness-wellness-invoice-and",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Professional fitness wellness n8n automation workflow — without the professional price tag.  Built for production: error handling, retry logic, and failure notifications included. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Fitness & Wellness Invoice And Payment Follow-Up — fully configured",
+    "path": "n8n/ncreighton-007f0533-fitness-wellness-invoice-and/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/007f0533-fitness-wellness-invoice-and",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1335463616",
+    "title": "754dd2e5-bullet-journal-customer-churn",
+    "tool": "n8n",
+    "tags": [],
+    "description": "manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Built for production: error handling, retry logic, and failure notifications included. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Bul",
+    "path": "n8n/ncreighton-754dd2e5-bullet-journal-customer-churn/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/754dd2e5-bullet-journal-customer-churn",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1335458558",
+    "title": "shop-hunter",
+    "tool": "n8n",
+    "tags": [],
+    "description": "WhatsApp outreach workflow (n8n + OpenClaw) that sends one honest message/day to approved shops offering workflow automation, AI agents, or websites - with approval gates, a 5/day cap, and a permanent opt-out blocklist",
+    "path": "n8n/ryanreo-shop-hunter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ryanreo/shop-hunter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1335235265",
+    "title": "n8n-cicd-pipeline-demo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Deterministic n8n workflow (webhook → validate → log to Sheet) wrapped in a GitHub Actions CI/CD pipeline — validates workflow JSON and tests logic before deploying.",
+    "path": "n8n/gargs123462-n8n-cicd-pipeline-demo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Gargs123462/n8n-cicd-pipeline-demo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1157240134",
+    "title": "Jira-Integration",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "jira",
+      "jira-cloud",
+      "n8n",
+      "slack",
+      "workflows"
+    ],
+    "description": "Production-ready n8n workflow configurations to seamlessly integrate Jira Cloud and Slack",
+    "path": "n8n/sobanshahid10-jira-integration/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sobanshahid10/Jira-Integration",
+    "source": "github-discovery"
   }
 ]
