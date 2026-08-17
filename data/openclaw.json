@@ -20703,5 +20703,34 @@
     "type": "repo",
     "repoUrl": "https://github.com/Danghaiye7797/call-of-duty-script-hub",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1336508202",
+    "title": "connect-openclaw-to-social-media",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "groniz",
+      "mcp",
+      "openclaw",
+      "social-media",
+      "social-publishing"
+    ],
+    "description": "Connect OpenClaw to Groniz through a Skill, MCP, or CLI, then build a reviewed, channel-specific social publishing workflow.",
+    "path": "openclaw/groniz-artifacts-connect-openclaw-to-social-media/",
+    "type": "repo",
+    "repoUrl": "https://github.com/groniz-artifacts/connect-openclaw-to-social-media",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1335530229",
+    "title": "openclaw-agent-os",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Agent OS v1.2 — governance/decision/workflow policy layer over OpenClaw native runtime (2026.7.1-2). 11 core skills + PROTOCOL: proactive, orchestration, task-mgmt, permission-security, verification, self-evolution, memory/knowledge/context governance, ontology, summarize.",
+    "path": "openclaw/brucetangc-openclaw-agent-os/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BruceTangc/openclaw-agent-os",
+    "source": "github-discovery"
   }
 ]
