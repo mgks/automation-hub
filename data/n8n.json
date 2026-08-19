@@ -62232,5 +62232,129 @@
     "type": "repo",
     "repoUrl": "https://github.com/fvadicamo/self-hosted-ai-lab",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1338964337",
+    "title": "n8n-guard",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Finds the n8n workflows that will fail without telling you",
+    "path": "n8n/tinyproof-n8n-guard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tinyproof/n8n-guard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1338932241",
+    "title": "n8n-nodes-nushir",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Nushir — schedule social media posts from your n8n workflows",
+    "path": "n8n/alsaif-n8n-nodes-nushir/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alsaif/n8n-nodes-nushir",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1121602541",
+    "title": "AI-Driven-Task-Assignment-Deadline-Escalation-System",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An automated workflow built using n8n that reads task data from an Excel sheet, checks task assignment and completion status, validates deadlines, and automatically notifies managers via email when tasks are overdue.",
+    "path": "n8n/muhammadsaimatif-coder-ai-driven-task-assignment-deadline-escalation-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muhammadsaimatif-coder/AI-Driven-Task-Assignment-Deadline-Escalation-System",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1294297179",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of n8n automation workflows solving real business problems — AI agents, CRM integrations, API automation, and data processing pipelines.",
+    "path": "n8n/cfherrerad-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Cfherrerad/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1338937914",
+    "title": "AI-Powered-Travel-Reminder-System",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that runs as a daily automated check over a travel booking spreadsheet, uses an LLM to write a personalized WhatsApp message for each customer, and sends it automatically — three days before departure, and one day after return — without ever repeating a message.",
+    "path": "n8n/martinsautomates-ai-powered-travel-reminder-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/martinsautomates/AI-Powered-Travel-Reminder-System",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1338867882",
+    "title": "n8n-nodes-youex",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for the YouEx.ai CRM — read and write leads, contacts, accounts and opportunities, and trigger workflows on CRM changes.",
+    "path": "n8n/youex-ai-n8n-nodes-youex/",
+    "type": "repo",
+    "repoUrl": "https://github.com/youex-ai/n8n-nodes-youex",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1337833407",
+    "title": "n8n-ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "llm",
+      "n8n",
+      "rag",
+      "whatsapp-business-api",
+      "workflow-automation"
+    ],
+    "description": "Four production-style AI automation workflows built with n8n — RAG search, email triage, WhatsApp support, and competitor monitoring",
+    "path": "n8n/hanyg175-n8n-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hanyG175/n8n-ai-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1336290240",
+    "title": "n8n-ai-email-assistent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n & AI Automation Specialit : I build advanced n8n workflows that automate business operations and eliminate manual work. My expertise includes integrating Gmail, OpenAI, CRM platforms, and custom APIs to create smart, 24/7 AI-driven automation systems. If you want to save time, cut operational costs, and streamline your business processes, feel",
+    "path": "n8n/sigmarafi66-debug-n8n-ai-email-assistent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sigmarafi66-debug/n8n-ai-email-assistent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1338899002",
+    "title": "n8n-hiring-automation-system",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A fully automated n8n workflow that handles the entire hiring intake process",
+    "path": "n8n/martinsautomates-n8n-hiring-automation-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/martinsautomates/n8n-hiring-automation-system",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1334473771",
+    "title": "BrainBridge",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "app",
+      "n8n",
+      "n8n-workflow",
+      "nextjs"
+    ],
+    "description": "Quick Capture & AI Enrichment App",
+    "path": "n8n/anubhx-brainbridge/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Anubhx/BrainBridge",
+    "source": "github-discovery"
   }
 ]
