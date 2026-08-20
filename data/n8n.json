@@ -62356,5 +62356,146 @@
     "type": "repo",
     "repoUrl": "https://github.com/Anubhx/BrainBridge",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1000983065",
+    "title": "n8n-nodes-synology-drive",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-community-node-package",
+      "n8n-node"
+    ],
+    "description": "An n8n community node for Synology Drive. Automate file operations on your NAS from n8n workflows.",
+    "path": "n8n/khoazero123-n8n-nodes-synology-drive/",
+    "type": "repo",
+    "repoUrl": "https://github.com/khoazero123/n8n-nodes-synology-drive",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1340147039",
+    "title": "AI-Business-Process-Automation-System",
+    "tool": "n8n",
+    "tags": [],
+    "description": " An AI-powered automation platform that turns manual document review into a hands-off workflow extracting, summarizing, and routing PDF/Word documents through approval, notification, and spreadsheet logging automatically. Built with n8n, Python/FastAPI microservices, Google Gemini, and PostgreSQL, running via Docker Compose.",
+    "path": "n8n/dawoodahmedkhan05-ai-business-process-automation-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DawoodAhmedKhan05/AI-Business-Process-Automation-System",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1322690151",
+    "title": "Flow-Intel",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Static analysis and intelligence engine for automation workflows — score, audit, and secure your n8n JSON exports.",
+    "path": "n8n/aman-gautam67-flow-intel/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Aman-Gautam67/Flow-Intel",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1339743011",
+    "title": "n8n-nodes-firmendata",
+    "tool": "n8n",
+    "tags": [
+      "aml",
+      "automation",
+      "business-registry",
+      "company-data",
+      "company-search",
+      "due-diligence",
+      "german",
+      "germany",
+      "handelsregister",
+      "kyc",
+      "low-code",
+      "n8n",
+      "n8n-community-node-package",
+      "n8n-nodes",
+      "no-code",
+      "ubo",
+      "unternehmensregister",
+      "workflow-automation"
+    ],
+    "description": "n8n community node for German company data — search the Handelsregister, pull financial statements, shareholders and UBO into your workflows. Powered by the FirmenData API.",
+    "path": "n8n/firmendata-n8n-nodes-firmendata/",
+    "type": "repo",
+    "repoUrl": "https://github.com/FirmenData/n8n-nodes-firmendata",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1068816586",
+    "title": "n8n-automations",
+    "tool": "n8n",
+    "tags": [
+      "ai-prompts",
+      "automation",
+      "claude-ai",
+      "mega-vault",
+      "n8n",
+      "startup-checklists",
+      "workflow-automation"
+    ],
+    "description": "The 10,110-Item Mega-Vault: Curated AI prompts, templates, startup checklists, and enterprise n8n automation workflows.",
+    "path": "n8n/edgeagent-n8n-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/EdgeAgent/n8n-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1340129046",
+    "title": "n8n-axi",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Read-only CLI for n8n workflow inventory, classify, and redact checks",
+    "path": "n8n/sherreradacs-n8n-axi/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SherreraDACS/n8n-axi",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1340077916",
+    "title": "AI-Data-Anlayst-Agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered data analytics workflow built with n8n, Google Gemini, and Google Workspace APIs. Dynamically ingests Google Sheets data, performs deterministic cleaning and statistical analysis, generates key KPI insights and Google Docs reports, and delivers HTML summaries through Gmail with validation, REST API, retries, and fault-tolerant execution.",
+    "path": "n8n/shubhranshuacharya-ai-data-anlayst-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ShubhranshuAcharya/AI-Data-Anlayst-Agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1340102895",
+    "title": "gym-hype-video-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Agentic Multimodal Video Processing System: 27-node n8n workflow with GPT-5.4 director/critic agents, OpenCV/MediaPipe pose analysis, Telegram ingestion, FastAPI/FFmpeg renderer, Docker deployment, automated QA & human approval",
+    "path": "n8n/lindermannn-gym-hype-video-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lindermannn/gym-hype-video-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1340092072",
+    "title": "llm-citation-tracker",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Config-driven n8n workflow that tracks brand citation share across ChatGPT, Claude, Perplexity and Gemini. Operated from a Google Sheet, no workflow edits.",
+    "path": "n8n/jnhmac-llm-citation-tracker/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jnhmac/llm-citation-tracker",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1339747216",
+    "title": "n8n-nodes-certyneo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Certyneo — eIDAS-compliant electronic signatures. Send documents to sign, follow envelopes, and trigger workflows on signature events.",
+    "path": "n8n/dadekrahl-n8n-nodes-certyneo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dadekrahl/n8n-nodes-certyneo",
+    "source": "github-discovery"
   }
 ]

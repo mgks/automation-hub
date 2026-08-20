@@ -20732,5 +20732,142 @@
     "type": "repo",
     "repoUrl": "https://github.com/BruceTangc/openclaw-agent-os",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1339312624",
+    "title": "verify-before-answer",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "fact-checking",
+      "hallucination",
+      "llm",
+      "openclaw",
+      "skill"
+    ],
+    "description": "OpenClaw skill: force search/docs verification before answering factual or capability questions — no answering from memory. 回答事实/支持情况类问题前强制先核实。",
+    "path": "openclaw/padepa-verify-before-answer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/padepa/verify-before-answer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1339958925",
+    "title": "social-manipulation-radar",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "ai-agent",
+      "ai-coding",
+      "anti-pua",
+      "ao-de-jing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "kiro",
+      "nopua",
+      "openclaw",
+      "prompt-engineering",
+      "skill",
+      "skills",
+      "vibe-coding"
+    ],
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "path": "openclaw/tubasa821004-hash-social-manipulation-radar/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tubasa821004-hash/social-manipulation-radar",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1162018965",
+    "title": "evc-team-relay-openclaw-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "entire-vc",
+      "mcp",
+      "obsidian",
+      "openclaw",
+      "rest-api",
+      "team-relay"
+    ],
+    "description": "OpenClaw AI agent skill — read and write Obsidian notes via Team Relay REST API",
+    "path": "openclaw/entire-vc-evc-team-relay-openclaw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/entire-vc/evc-team-relay-openclaw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1339895981",
+    "title": "bd2-daily-fortune",
+    "tool": "openclaw",
+    "tags": [
+      "auto-redeem",
+      "brown-dust-2",
+      "browndust2",
+      "coupon",
+      "daily-signin",
+      "game-automation",
+      "gift-code",
+      "openclaw",
+      "openclaw-skill",
+      "python",
+      "zero-dependency"
+    ],
+    "description": "Brown Dust 2 Auto Gift Redemption 2026: Zero-Cost Daily Sign-In Skill",
+    "path": "openclaw/prashantrathor0987-bd2-daily-fortune/",
+    "type": "repo",
+    "repoUrl": "https://github.com/prashantrathor0987/bd2-daily-fortune",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1329442903",
+    "title": "ai-weekly",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "生成可搜索、可筛选、支持暗色模式的 AI 行业新闻单文件 HTML 网站的 Agent 技能。核心引擎为纯 Python（11 模块），零 Agent SDK 依赖，产物为单文件 HTML——可被任意框架复用。单一跨平台 SKILL.md（开放 Agent Skill 规范），Claude Code / OpenAI Codex / OpenCode / OpenClaw / Coze / WorkBuddy 通用，无需任何平台专属包装",
+    "path": "openclaw/elisabeth15501-ai-weekly/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Elisabeth15501/ai-weekly",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1166272958",
+    "title": "openclaw_kicad_pcb",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "KiCad skill for OpenClaw",
+    "path": "openclaw/ekkus93-openclaw_kicad_pcb/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ekkus93/openclaw_kicad_pcb",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1183138153",
+    "title": "humanizer",
+    "tool": "openclaw",
+    "tags": [
+      "agents",
+      "ai-skill",
+      "ai-writing",
+      "claude",
+      "codex",
+      "editing",
+      "humanizer",
+      "llm",
+      "openclaw",
+      "prompt",
+      "prompt-engineering",
+      "style-guide",
+      "text-rewrite",
+      "vscode",
+      "writing"
+    ],
+    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve meaning, match audience and tone, reduce hype and filler, and produce writing that sounds natural, specific, and human across drafts, posts, docs, and messages.",
+    "path": "openclaw/apoapostolov-humanizer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/apoapostolov/humanizer",
+    "source": "github-discovery"
   }
 ]
