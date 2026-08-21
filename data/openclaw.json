@@ -20869,5 +20869,32 @@
     "type": "repo",
     "repoUrl": "https://github.com/apoapostolov/humanizer",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328237306",
+    "title": "awesome-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agentic",
+      "ai-agents",
+      "awesome",
+      "claude",
+      "code-review",
+      "cursor",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "mcp",
+      "plugins",
+      "prompt-engineering",
+      "skills",
+      "templates",
+      "windsurf"
+    ],
+    "description": "Enterprise-grade library of reusable Skills, Agents & Plugins for AI agents — multi-tool (Hermes, Claude, Cursor, Windsurf, OpenClaw, Roo, Cline, AGY). Starter templates, governance & review standard.",
+    "path": "openclaw/pedroiff0-awesome-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pedroiff0/awesome-skills",
+    "source": "github-discovery"
   }
 ]
