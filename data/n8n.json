@@ -62677,5 +62677,128 @@
     "type": "repo",
     "repoUrl": "https://github.com/ihussainisami/real-estate-whatsapp-ai-assistant",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1342338495",
+    "title": "ishan-automation-lab",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Automation, Business Bots, n8n Workflows & Decision Intelligence Projects",
+    "path": "n8n/ishan-automation-lab-ishan-automation-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ishan-automation-lab/ishan-automation-lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1342327666",
+    "title": "playwright-n8n-devops-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "integrates playwright automation results with n8n workflow",
+    "path": "n8n/namitaverma1313-playwright-n8n-devops-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/namitaverma1313/playwright-n8n-devops-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1342323734",
+    "title": "Ai-assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A sleek, responsive web interface designed to seamlessly connect custom frontend users to an n8n AI automation workflow. It delivers a complete hands-free AI assistant experience by combining real-time text chat, voice recognition, audio synthesis, and automated client-side link execution in one lightweight application.",
+    "path": "n8n/saadullahzahid569-dot-ai-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/saadullahzahid569-dot/Ai-assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1342316215",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow collections",
+    "path": "n8n/wubbyweb-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wubbyweb/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1337876190",
+    "title": "error-handling-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n error-handling workflow that automatically detects workflow failures, sends alerts, provides a deactivation option, confirms shutdown, and logs errors for auditing.",
+    "path": "n8n/thewillow1-error-handling-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TheWillow1/error-handling-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1342092711",
+    "title": "N8N-Agents",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Exercicios de Workflow com N8N - SCTEC - IA para Devs",
+    "path": "n8n/prbretas-n8n-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/prbretas/N8N-Agents",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1332386611",
+    "title": "n8n-automations",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "docker",
+      "n8n",
+      "openai",
+      "telegram-bot"
+    ],
+    "description": "Production n8n workflows: AI agents on Telegram, AWS cost reporting, form intake pipelines. Self-hosted on Docker + Traefik.",
+    "path": "n8n/mfdemenezes-n8n-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mfdemenezes/n8n-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1323392233",
+    "title": "lead-intake-automation",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "n8n",
+      "python",
+      "webhooks",
+      "workflow-automation"
+    ],
+    "description": "Sanitized n8n lead intake workflow with structured AI qualification and draft-only follow-up",
+    "path": "n8n/cig13zs-lead-intake-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cig13zs/lead-intake-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1318453817",
+    "title": "production-automation-monitor",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production credential health monitoring for n8n and Zapier with proactive Slack alerts before workflows fail.",
+    "path": "n8n/omonje-production-automation-monitor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Omonje/production-automation-monitor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1313918529",
+    "title": "hireflow-ai-backend",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Backend API for HireFlow AI, featuring FastAPI, PostgreSQL, AI-powered resume parsing and candidate screening, authentication, email automation, and n8n workflow integrations.",
+    "path": "n8n/aliashrafabbasi-hireflow-ai-backend/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aliashrafabbasi/hireflow-ai-backend",
+    "source": "github-discovery"
   }
 ]

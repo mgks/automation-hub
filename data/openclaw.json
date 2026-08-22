@@ -20896,5 +20896,57 @@
     "type": "repo",
     "repoUrl": "https://github.com/pedroiff0/awesome-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1230197805",
+    "title": "agente-cfo",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Agente CFO virtual para PME BR — skill OpenClaw + painel central + instalador",
+    "path": "openclaw/mindopsteam-agente-cfo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MindOpsTeam/agente-cfo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217474218",
+    "title": "openclaw-med-reminder-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Medicine Tracker and reminder skill for openclaw",
+    "path": "openclaw/thegizmopro-openclaw-med-reminder-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thegizmopro/openclaw-med-reminder-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1172287858",
+    "title": "lobstercash-blockrun-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "typescript",
+      "usdc",
+      "x402"
+    ],
+    "description": "BlockRun AI skill for lobster.cash OpenClaw plugin — every BlockRun model paid with Solana USDC via x402",
+    "path": "openclaw/blockrunai-lobstercash-blockrun-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BlockRunAI/lobstercash-blockrun-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1151781063",
+    "title": "awesome-OpenClaw-Money-Maker",
+    "tool": "openclaw",
+    "tags": [
+      "awesome-list",
+      "mcp"
+    ],
+    "description": "🦞💰 Curated list of ways to make money with OpenClaw - automations, skills, services, and strategies",
+    "path": "openclaw/blockrunai-awesome-openclaw-money-maker/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BlockRunAI/awesome-OpenClaw-Money-Maker",
+    "source": "github-discovery"
   }
 ]
