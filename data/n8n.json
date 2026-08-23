@@ -62800,5 +62800,141 @@
     "type": "repo",
     "repoUrl": "https://github.com/aliashrafabbasi/hireflow-ai-backend",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1343272720",
+    "title": "auraproject-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "todos los workflows de n8n",
+    "path": "n8n/gaelserranoaven-auraproject-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gaelserranoaven/auraproject-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1169385001",
+    "title": "aiAutomationDev",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Automation Portfolio – n8n workflows, Telegram bots, OpenAI integrations.",
+    "path": "n8n/tetiana-a-aiautomationdev/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tetiana-a/aiAutomationDev",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1343234419",
+    "title": "ai-agents-lab",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A hands-on collection of AI agent, automation, and generative AI projects — covering LangGraph multi-agent systems, RAG pipelines, workflow automation (n8n), and applied GenAI tools built for real-world use cases.",
+    "path": "n8n/abdelhamid-elmghari-ai-agents-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abdelhamid-elmghari/ai-agents-lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1343223810",
+    "title": "dead-lead-reactivation-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated lead reactivation workflow built with n8n, Airtable, and Gmail to identify stale leads, send personalized follow-ups, detect replies, and update CRM records.",
+    "path": "n8n/kazuminagata30-wq-dead-lead-reactivation-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kazuminagata30-wq/dead-lead-reactivation-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1343220309",
+    "title": "monday-api-integration",
+    "tool": "n8n",
+    "tags": [
+      "monday",
+      "monday-api",
+      "n8n"
+    ],
+    "description": "9-node n8n workflow integrating Monday.com's GraphQL API directly (no native connector) — read, create, update, dedupe, and full error handling. Found 4 real bugs, including a silent triplicate-write and confirmed API errors hidden behind HTTP 200 responses.",
+    "path": "n8n/gargs123462-monday-api-integration/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Gargs123462/monday-api-integration",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1343206848",
+    "title": "4a74cca4-forensic-science-investigati",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Professional forensic science n8n automation workflow — without the professional price tag.  Built for production: error handling, retry logic, and failure notifications included. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Forensic Science & Investigation Lead Capture And Crm Sync — fully confi",
+    "path": "n8n/ncreighton-4a74cca4-forensic-science-investigati/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/4a74cca4-forensic-science-investigati",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1343206395",
+    "title": "50650e6f-spacetech-satellite-competit",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Professional spacetech n8n automation workflow — without the professional price tag.  Import the JSON, set your credentials, click activate. Running in minutes. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Spacetech & Satellite Competitor Monitoring And Alert — fully configured and re",
+    "path": "n8n/ncreighton-50650e6f-spacetech-satellite-competit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/50650e6f-spacetech-satellite-competit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1181259596",
+    "title": "n8n-metrics-dashboard",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-automation",
+      "n8n-community-node",
+      "n8n-workflow"
+    ],
+    "description": "A high-performance, real-time analytics dashboard designed for self-hosted n8n instances",
+    "path": "n8n/giorgoskoufos-n8n-metrics-dashboard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/giorgoskoufos/n8n-metrics-dashboard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1342975998",
+    "title": "ashrafur-s-automation",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-tools",
+      "automation",
+      "loveable",
+      "n8n-workflow",
+      "vibe-coding"
+    ],
+    "description": "An automated workflow and AI-powered website building repository designed to streamline web development, auto-generate responsive layouts, optimize content, and automate routine tasks. Features intelligent design generation, seamless integrations, dynamic content creation, and smart automation tools to accelerate site creation.",
+    "path": "n8n/asem758-ashrafur-s-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Asem758/ashrafur-s-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1148136986",
+    "title": "exemplar",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "discord-bot",
+      "docker-image",
+      "n8n-workflow",
+      "self-hosted",
+      "typescript"
+    ],
+    "description": "Discord bot designed as a vigilant AI assistant. It focuses on automation, moderation, and utility features, acting as a digital sentinel that enforces order, provides support, and enhances server management with precision and reliability.",
+    "path": "n8n/whiteravens20-exemplar/",
+    "type": "repo",
+    "repoUrl": "https://github.com/whiteravens20/exemplar",
+    "source": "github-discovery"
   }
 ]
