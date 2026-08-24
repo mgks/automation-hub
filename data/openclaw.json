@@ -20990,5 +20990,119 @@
     "type": "repo",
     "repoUrl": "https://github.com/jangviktor-web/likeskill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1344376647",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Reusable OpenClaw skills",
+    "path": "openclaw/dt227-ai-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DT227-AI/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1284086793",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-skills",
+      "automation",
+      "ecommerce",
+      "mcp",
+      "no-code",
+      "openclaw",
+      "product-economics",
+      "supplement-compliance",
+      "supplier-research"
+    ],
+    "description": "OpenClaw skills for e-commerce, supplement compliance, supplier research, and product economics. Now open-sourced for the community.",
+    "path": "openclaw/colin1miley-stack-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/colin1miley-stack/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1252482853",
+    "title": "agent-lx-music-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "cli-music",
+      "codex",
+      "hermes",
+      "music-player",
+      "openclaw",
+      "vercel-skills"
+    ],
+    "description": "Modular AI Agent Skills for agent-lx-music (alx) CLI, compatible with Hermes, OpenClaw, Codex, and npx skills",
+    "path": "openclaw/xuepoo-agent-lx-music-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Xuepoo/agent-lx-music-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1300420453",
+    "title": "openclaw-skill-safe-update",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "codex-skill",
+      "devops",
+      "dry-run",
+      "evidence",
+      "fail-closed",
+      "linux",
+      "matrix",
+      "mcp",
+      "npm",
+      "openclaw",
+      "openclaw-skill",
+      "release-engineering",
+      "rollback",
+      "signal",
+      "supply-chain-security",
+      "upgrade"
+    ],
+    "description": "Dry-run rehearsal kit and agent skill for safer OpenClaw upgrades",
+    "path": "openclaw/pdurlej-openclaw-skill-safe-update/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pdurlej/openclaw-skill-safe-update",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1344248309",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw workspace skills",
+    "path": "openclaw/maverickcoderbot-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/maverickcoderbot/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1278714147",
+    "title": "merit-agent-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Free MERIT agent skills + merit CLI — Cursor, Claude Code, Codex, VS Code, Hermes, OpenClaw, Grok Bot, Devin. One-stop OSS cold start (Merit-Hub.ps1).",
+    "path": "openclaw/agentdraven-merit-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AgentDraven/merit-agent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1344220672",
+    "title": "apify-ultimate-scraper",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Universal AI-powered web scraper skill for OpenClaw (Instagram, Facebook, TikTok, YouTube, Google Maps, etc.)",
+    "path": "openclaw/kimicito-apify-ultimate-scraper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kimicito/apify-ultimate-scraper",
+    "source": "github-discovery"
   }
 ]

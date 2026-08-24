@@ -62936,5 +62936,156 @@
     "type": "repo",
     "repoUrl": "https://github.com/whiteravens20/exemplar",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1290175883",
+    "title": "nrw-tourismus-hackathon-web",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Web-Variante des NRW-Tourismus-Hackathon-Starters: n8n-Workflows + Frontends in Claude Code Web (claude.ai/code) ohne Installation.",
+    "path": "n8n/freddy-schuetz-nrw-tourismus-hackathon-web/",
+    "type": "repo",
+    "repoUrl": "https://github.com/freddy-schuetz/nrw-tourismus-hackathon-web",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1337538004",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n automation projects — AI-agent-directed workflow builds",
+    "path": "n8n/norbertas-jankauskas-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/norbertas-jankauskas/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1159361452",
+    "title": "wordpress-webhook-actions",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Trigger HTTP webhooks from WordPress actions (do_action). Easily connect WordPress with n8n, Zapier, Make, or custom workflows.",
+    "path": "n8n/flowsystems-pl-wordpress-webhook-actions/",
+    "type": "repo",
+    "repoUrl": "https://github.com/flowsystems-pl/wordpress-webhook-actions",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1339082598",
+    "title": "AI-Whatsapp-Appointment-Assistant",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-agents-automation",
+      "ai-assisted",
+      "ai-assisted-development",
+      "ai-automation",
+      "n8n",
+      "n8n-automation",
+      "n8n-community-node",
+      "n8n-community-node-package",
+      "n8n-node",
+      "n8n-nodes",
+      "n8n-template",
+      "n8n-workflow",
+      "whatsapp-automation",
+      "whatsapp-bot",
+      "whatsapp-cloud-api"
+    ],
+    "description": "N8n workflow where an AI agent books, checks, and manages appointments over WhatsApp using Groq + Google Calendar.",
+    "path": "n8n/zakir-maswani-ai-whatsapp-appointment-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zakir-maswani/AI-Whatsapp-Appointment-Assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1344246133",
+    "title": "n8n-invoice-extraction",
+    "tool": "n8n",
+    "tags": [
+      "amalia-ai",
+      "docker",
+      "document-processing",
+      "n8n",
+      "ollama",
+      "python"
+    ],
+    "description": "Automated local invoice extraction workflow using n8n, Ollama and Amália, with structured Excel registration and Word expense reports.",
+    "path": "n8n/ruialexrib-n8n-invoice-extraction/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ruialexrib/n8n-invoice-extraction",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1344232116",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Personal collection of n8n workflow exports",
+    "path": "n8n/peterhelge-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/peterhelge/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1324506075",
+    "title": "n8n-ai-automated-newsletter",
+    "tool": "n8n",
+    "tags": [
+      "autoamtion",
+      "gemini-ai",
+      "google-sheets",
+      "javascript",
+      "n8n",
+      "newsletter-automation",
+      "rss-feed",
+      "workflow-automation"
+    ],
+    "description": "An autonomous n8n workflow that fetches RSS news feeds, uses Gemini 2.5 AI to score and summarize articles, archives data to Google Sheets, and dispatches dynamic HTML newsletters via Gmail.",
+    "path": "n8n/mohsin1782005-n8n-ai-automated-newsletter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mohsin1782005/n8n-ai-automated-newsletter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1079996255",
+    "title": "media-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Knowledge Base with YouTube processing, n8n workflows, PostgreSQL storage, and Telegram notifications",
+    "path": "n8n/alexandrefed-media-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alexandrefed/media-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1253394587",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "groq",
+      "llm",
+      "n8n",
+      "workflow-automation",
+      "zapier-alternative"
+    ],
+    "description": "AI-powered n8n automation workflows using Groq — lead follow-up, support triage, appointment booking, content repurposing, and review responses",
+    "path": "n8n/29hashir04-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/29hashir04/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1344023086",
+    "title": "n8n-automation-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflows I've built — booking systems, AI agents, and business process automations",
+    "path": "n8n/adeyemidanielakinsanmi-web-n8n-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/adeyemidanielakinsanmi-web/n8n-automation-workflows",
+    "source": "github-discovery"
   }
 ]
