@@ -63087,5 +63087,134 @@
     "type": "repo",
     "repoUrl": "https://github.com/adeyemidanielakinsanmi-web/n8n-automation-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345540230",
+    "title": "recruiter_outreach_automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that extracts recruiter and job details from pasted text using Gemini AI, then sends a personalized outreach email with resume attached.",
+    "path": "n8n/vandanareddy2-recruiter_outreach_automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Vandanareddy2/recruiter_outreach_automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345359159",
+    "title": "telegram-message-classifier-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow for automated Telegram message classification",
+    "path": "n8n/mazurenka666-svg-telegram-message-classifier-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mazurenka666-svg/telegram-message-classifier-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345540338",
+    "title": "servicehawk-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production automation behind ServiceHawkAI: self-hosted n8n workflows, a FastAPI/SQLite job queue, and design habits that keep failures reaching a human. Credentials redacted; topology real.",
+    "path": "n8n/rodfinch1-design-servicehawk-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rodfinch1-design/servicehawk-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345476003",
+    "title": "puppetflow",
+    "tool": "n8n",
+    "tags": [
+      "browser-automation",
+      "human-in-the-loop",
+      "javascript",
+      "laravel",
+      "n8n",
+      "playwright",
+      "puppeteer",
+      "react",
+      "real-time",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Self-hosted browser automation platform for building, running, monitoring, and controlling JavaScript workflows powered by Puppeteer.",
+    "path": "n8n/puppetflow-puppetflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/puppetflow/puppetflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1085311513",
+    "title": "mcp-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Complete n8n API integration for Claude Desktop and Cursor - 100 workflow templates with intelligent matching",
+    "path": "n8n/leonardosepulvedat-mcp-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/leonardosepulvedat/mcp-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345503861",
+    "title": "7dayrag",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-oriented RAG + AI agent workflow: FastAPI, pgvector hybrid retrieval, grounded answers with citations, tool-calling agent, provider failover (OpenAI/Anthropic/stub), Redis caching, MCP server, n8n automations",
+    "path": "n8n/hamdanprofessional-7dayrag/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HamdanProfessional/7dayrag",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-266339717",
+    "title": "n8n-docs",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.",
+    "path": "n8n/n8n-io-n8n-docs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/n8n-io/n8n-docs",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345341164",
+    "title": "Anes-portfolio-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-style n8n automations: trading intel, lead pipelines, AI tools — every workflow tested, every LLM step has a fallback",
+    "path": "n8n/anesch531-anes-portfolio-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Anesch531/Anes-portfolio-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1344626126",
+    "title": "ecommerce-return-triage-agent",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "groq",
+      "n8n",
+      "shopify",
+      "workflow-automation"
+    ],
+    "description": "workflow: an AI agent triages Shopify returns and keeps its reasoning attached even when the Shopify API call it triggers fails.",
+    "path": "n8n/sengoku-samurai-ecommerce-return-triage-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sengoku-samurai/ecommerce-return-triage-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299678383",
+    "title": "n8n-git-sync",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automatically synchronize n8n workflows with GitHub for version control and backup.",
+    "path": "n8n/fahad09011-n8n-git-sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fahad09011/n8n-git-sync",
+    "source": "github-discovery"
   }
 ]
