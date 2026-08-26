@@ -63216,5 +63216,143 @@
     "type": "repo",
     "repoUrl": "https://github.com/fahad09011/n8n-git-sync",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1346712945",
+    "title": "n8n-nodes-random-delay",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Pause a workflow for a random duration within a range",
+    "path": "n8n/najielkotob-n8n-nodes-random-delay/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NajiElKotob/n8n-nodes-random-delay",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1346757727",
+    "title": "My-Ai-Automation-Portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My portfolio site — automation workflows I've built with n8n, Make & Zapier, presented as case studies.",
+    "path": "n8n/oseremenjoy0-hub-my-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/oseremenjoy0-hub/My-Ai-Automation-Portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1346762854",
+    "title": "n8n-lead-intake-demo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow demo: webhook lead intake with validation and persistence, plus real sandbox gotchas encountered",
+    "path": "n8n/benzytai-n8n-lead-intake-demo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BenzyTAi/n8n-lead-intake-demo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1311143330",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/xandxander-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/XandXander/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1346719537",
+    "title": "Orianna",
+    "tool": "n8n",
+    "tags": [],
+    "description": " Voice-first personal assistant on Telegram — organizes school & daily life via self-hosted n8n workflows, running 24/7 for free.",
+    "path": "n8n/jwagnerpenagos-ai-orianna/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jwagnerpenagos-ai/Orianna",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1346697561",
+    "title": "immobilien-maengelmanager-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow demo for structured defect reporting and human review in property management",
+    "path": "n8n/smam96-immobilien-maengelmanager-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SmAM96/immobilien-maengelmanager-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1346700870",
+    "title": "iot-monitoring-automation",
+    "tool": "n8n",
+    "tags": [
+      "cloud-integration",
+      "esp32",
+      "event-driven",
+      "firebase",
+      "iot",
+      "monitoring-system",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "Technical case study on an end-to-end IoT monitoring and automation workflow using ESP32, Firebase, n8n, Google Sheets, and automated alerts",
+    "path": "n8n/yahya-alfar-iot-monitoring-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yahya-alfar/iot-monitoring-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1314505016",
+    "title": "termux-dev-station",
+    "tool": "n8n",
+    "tags": [
+      "android-dev",
+      "code-oss",
+      "godot-4",
+      "mali-gpu",
+      "n8n",
+      "no-proot",
+      "opencode",
+      "openrouter",
+      "termux",
+      "virgl",
+      "vulkan",
+      "xfce"
+    ],
+    "description": "🚀 100% Native Android Dev Station via Termux (No PRoot/Chroot). Accelerated XFCE4 Desktop with VirGL + Vulkan (Mali/Adreno GPU), Godot 4, Code-OSS, n8n Automation, and Multi-AI Workflows (OpenCode, Gemini & OpenRouter).",
+    "path": "n8n/yerensoncasares-termux-dev-station/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Yerensoncasares/termux-dev-station",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1227538520",
+    "title": "n8n-nodes-scriptureflow",
+    "tool": "n8n",
+    "tags": [
+      "bible-api",
+      "n8n",
+      "scriptureflow",
+      "typescript",
+      "workflow-automation"
+    ],
+    "description": "n8n community node for integrating ScriptureFlow Bible API tools into automation workflows.",
+    "path": "n8n/exnav29-n8n-nodes-scriptureflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Exnav29/n8n-nodes-scriptureflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1335210432",
+    "title": "prospect-pal",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered outbound automation workflow builder — builds production n8n workflows from a plain-English ICP description",
+    "path": "n8n/diamitani-prospect-pal/",
+    "type": "repo",
+    "repoUrl": "https://github.com/diamitani/prospect-pal",
+    "source": "github-discovery"
   }
 ]

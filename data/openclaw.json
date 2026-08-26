@@ -21226,5 +21226,83 @@
     "type": "repo",
     "repoUrl": "https://github.com/3338902669-ops/openclaw-skills-pack",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1342399512",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw agent skills — SKILL.md 格式的 agent 能力集合",
+    "path": "openclaw/raphlorr-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RaphLorr/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1178488601",
+    "title": "docwen-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "DocWen integration for OpenClaw (Plugin + Skill)",
+    "path": "openclaw/zhyx91-docwen-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ZHYX91/docwen-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186832619",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-studio",
+      "chatgpt",
+      "claude-code",
+      "dsh",
+      "dsh-plugin",
+      "openclaw",
+      "qclaw",
+      "skill",
+      "skills",
+      "workbuddy",
+      "workbuddy-skill"
+    ],
+    "description": "ForeVIP for AI Agent skills",
+    "path": "openclaw/fore-vip-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fore-vip/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1176864004",
+    "title": "APTstory_auto-public-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "아파트 스토리 - Skills for OPENCLAW",
+    "path": "openclaw/mammonite-aptstory_auto-public-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mammonite/APTstory_auto-public-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1217679485",
+    "title": "klik-import-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "claude-code",
+      "data-migration",
+      "hermes-agent",
+      "klik",
+      "memory",
+      "openclaw",
+      "skill",
+      "typescript"
+    ],
+    "description": "Klik Memory Import Skill — collect, redact, and upload AI agent memory to Klik. Works with Claude Code, OpenClaw, Hermes Agent, and any Agent Skills v1.0 compatible tool.",
+    "path": "openclaw/minervacap2022-klik-import-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/minervacap2022/klik-import-skill",
+    "source": "github-discovery"
   }
 ]
