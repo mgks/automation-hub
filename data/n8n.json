@@ -63354,5 +63354,115 @@
     "type": "repo",
     "repoUrl": "https://github.com/diamitani/prospect-pal",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1344697853",
+    "title": "ai-workforce-whatsapp-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": " n8n workflow for managing shift confirmations and employee communication over WhatsApp, with Google Sheets, OpenAI, and human escalation when needed.",
+    "path": "n8n/niv30-ai-workforce-whatsapp-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Niv30/ai-workforce-whatsapp-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348151595",
+    "title": "SiteScan--On-page-SEO-Checker-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An intelligent, fully automated n8n workflow designed to audit, diagnose, and repair on-page SEO metadata at scale.",
+    "path": "n8n/nikhilesh-attal-sitescan--on-page-seo-checker-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Nikhilesh-Attal/SiteScan--On-page-SEO-Checker-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348143032",
+    "title": "email-triage-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that classifies incoming Gmail with an LLM, drafts replies for human review, and logs every decision to a spreadsheet.",
+    "path": "n8n/horaaciodiazz-email-triage-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/horaaciodiazz/email-triage-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1248625171",
+    "title": "n8n-workflows-api.arkoncore.cc",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/saladin1980-n8n-workflows-api.arkoncore.cc/",
+    "type": "repo",
+    "repoUrl": "https://github.com/saladin1980/n8n-workflows-api.arkoncore.cc",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348136288",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/rajath-raman-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rajath-raman/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348127439",
+    "title": "n8n-reliability-lab",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A production-oriented n8n workflow demonstrating webhook validation, idempotency, PostgreSQL persistence, and automated acceptance tests.",
+    "path": "n8n/liuxueqi0044-n8n-reliability-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/liuxueqi0044/n8n-reliability-lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225957653",
+    "title": "game-calendar",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Vibecoded node.js project that is fully fed by an n8n workflow taking care of everything. Used Cloudflare Pages to host and to build every git push.",
+    "path": "n8n/simosimin8n-game-calendar/",
+    "type": "repo",
+    "repoUrl": "https://github.com/simosimin8n/game-calendar",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1338301584",
+    "title": "costarica-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/arunroy404-costarica-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ArunRoy404/costarica-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348114323",
+    "title": "n8n-variable-loop-practice",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Variable & Loop Logic Practice - Product Order Processing Workflow",
+    "path": "n8n/mussaboctacer-n8n-variable-loop-practice/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mussaboctacer/n8n-variable-loop-practice",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1341446386",
+    "title": "Job-Application-Assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered job application automation workflow built with n8n. It simplifies the job application process by analyzing a candidate’s CV against a job description, generating a personalized cover letter, sending the result via Gmail, logging application details in Google Sheets, and automatically creating a follow-up reminder in Google Calendar.",
+    "path": "n8n/karthikgovindu990-gkr-job-application-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/karthikgovindu990-gkr/Job-Application-Assistant",
+    "source": "github-discovery"
   }
 ]
