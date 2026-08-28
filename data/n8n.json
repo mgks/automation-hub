@@ -63464,5 +63464,135 @@
     "type": "repo",
     "repoUrl": "https://github.com/karthikgovindu990-gkr/Job-Application-Assistant",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1349425359",
+    "title": "ai-automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of production-style n8n workflows: AI agents, voice AI, lead generation, financial automation, content, and customer support — built by Ascenta.",
+    "path": "n8n/rayyan1122pk-star-ai-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rayyan1122pk-star/ai-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1317483799",
+    "title": "cv-tailoring-pipeline",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "cv-generator",
+      "gemini",
+      "job-application",
+      "job-search",
+      "latex",
+      "n8n",
+      "n8n-workflow",
+      "resume-builder",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Self-hosted n8n workflow that scrapes job postings, scores them against your experience bank, tailors a CV with a schema-enforced AI call, compiles it to PDF, and delivers it daily, unattended, on free-tier infrastructure.",
+    "path": "n8n/iamferi-cv-tailoring-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iamFeri/cv-tailoring-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1339285475",
+    "title": "MerchRoute",
+    "tool": "n8n",
+    "tags": [],
+    "description": "MerchRoute is a  e-commerce platform for managing product procurement, AI-powered image and video generation and review, pricing, shipping, and automated or manual product listing on Wildberries and Ozon. It integrates PostgreSQL, n8n workflows, and media-generation services while keeping business data and credentials under the user's control.",
+    "path": "n8n/kyleliu-ai-merchroute/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kyleliu-ai/MerchRoute",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-918998487",
+    "title": "n8n-nodes-tanss",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for integrating the TANSS API into automated workflows for ticketing and service management.",
+    "path": "n8n/buddiesd-n8n-nodes-tanss/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BuddiesD/n8n-nodes-tanss",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1332814757",
+    "title": "n8n-automations",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "bhp",
+      "docker",
+      "n8n",
+      "postgresql",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Self-hosted n8n workflows for business process automation: BHP deadline monitoring with error handling, retry and execution logging to PostgreSQL.",
+    "path": "n8n/jacekszulcc-n8n-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jacekszulcc/n8n-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1342608331",
+    "title": "joplin_plugin_joplin2n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Send Joplin notes to n8n workflows via webhook. (Joplin 노트를 n8n 웹훅으로 전송하는 플러그인)",
+    "path": "n8n/bonik21-joplin_plugin_joplin2n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bonik21/joplin_plugin_joplin2n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1312640793",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Portfolio technique workflows n8n - agents IA, APIs, automatisations",
+    "path": "n8n/landzi123-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Landzi123/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1287446535",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": " \"n8n workflow automation projects and client solutions\"",
+    "path": "n8n/osho-n8n-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/osho-n8n/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348905452",
+    "title": "N8Z",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Single-file dashboard for executing and monitoring n8n workflows.",
+    "path": "n8n/ra-light93-n8z/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ra-Light93/N8Z",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1349367337",
+    "title": "job-board-Ai",
+    "tool": "n8n",
+    "tags": [],
+    "description": "nextjs project with n8n workflow ",
+    "path": "n8n/rahim-dad-job-board-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rahim-dad/job-board-Ai",
+    "source": "github-discovery"
   }
 ]
