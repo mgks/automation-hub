@@ -63594,5 +63594,134 @@
     "type": "repo",
     "repoUrl": "https://github.com/rahim-dad/job-board-Ai",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1350301846",
+    "title": "Instagram-Content-Performance-Analyzer",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Built an n8n workflow that pulls the last 30 days of Reels for any public Instagram profile via API, nor- malizes the data, and calculates performance metrics (engagement rate, views vs. median, performance tier) per post.",
+    "path": "n8n/santhosh1108-instagram-content-performance-analyzer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Santhosh1108/Instagram-Content-Performance-Analyzer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1350234729",
+    "title": "jack-automation-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "gemini",
+      "google-sheets",
+      "groq",
+      "indonesia",
+      "n8n",
+      "no-code",
+      "telegram",
+      "whatsapp",
+      "workflow-automation"
+    ],
+    "description": "No-code/low-code automation portfolio by Jack — n8n workflows for WhatsApp/Telegram/Google Sheets + AI (HSE reporting, daily reminders, finance dashboard). Built & tested, ID/EN.",
+    "path": "n8n/gacorauto4-tech-jack-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gacorauto4-tech/jack-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1272891738",
+    "title": "auto-hub",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A self-hosted personal automation OS built for Raspberry Pi 5. AutoHub bundles a web terminal, plugin runner, Docker manager, n8n workflow integration, file browser, and Telegram notifications into a single Docker Compose stack — accessible from anywhere via a Cloudflare Tunnel.",
+    "path": "n8n/dahamdissanayake-auto-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DahamDissanayake/auto-hub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-633521165",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Backup of our workflows in the best open-source alternative to Zapier",
+    "path": "n8n/somos-criptonautas-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/somos-criptonautas/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1336031037",
+    "title": "quytttb.github.io",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Portfolio cá nhân — Automation & AI. Hệ thống quản lý đơn hàng đa kênh, bot nhận khách, n8n workflow, IoT ESP32.",
+    "path": "n8n/quytttb-quytttb.github.io/",
+    "type": "repo",
+    "repoUrl": "https://github.com/quytttb/quytttb.github.io",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1344856652",
+    "title": "N8N-Workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/travelert698-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/travelert698/N8N-Workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1094432409",
+    "title": "UDIA-N8N-WORKFLOWS",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/nicorodrigueez-udia-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nicorodrigueez/UDIA-N8N-WORKFLOWS",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1125984571",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "homelab",
+      "n8n",
+      "telegram",
+      "unifi",
+      "workflows"
+    ],
+    "description": "Collection of n8n automation workflows for home lab and network management",
+    "path": "n8n/shawn-falconbury-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Shawn-Falconbury/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1066011623",
+    "title": "n8n-workflows-backup",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/alexey-omelchuk-n8n-workflows-backup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alexey-omelchuk/n8n-workflows-backup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1350192138",
+    "title": "n8n-support-ticket-triage",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that AI-triages support tickets, sets helpdesk priority/tags, logs to Google Sheets, and Slack-alerts on high/urgent.",
+    "path": "n8n/rehanrnd-n8n-support-ticket-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rehanrnd/n8n-support-ticket-triage",
+    "source": "github-discovery"
   }
 ]

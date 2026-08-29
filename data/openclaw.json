@@ -21668,5 +21668,61 @@
     "type": "repo",
     "repoUrl": "https://github.com/yonlandwu/tung-shing-almanac-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1350190693",
+    "title": "skill-mms-receive",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw/Pi skill: query received MMS on Android/Termux via telephony content provider. Structured JSON output. Stateless.",
+    "path": "openclaw/woodmanlegion-skill-mms-receive/",
+    "type": "repo",
+    "repoUrl": "https://github.com/woodmanlegion/skill-mms-receive",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1343703890",
+    "title": "yotta-memory",
+    "tool": "openclaw",
+    "tags": [
+      "yottaskills"
+    ],
+    "description": "File-based cross-agent memory standard for AI agents. Zero-dependency CLI (init/remember/recall/forget/archive/export/import), 4-type memory (FACT/PREF/BOUND/COMMIT), user-level + project-level scopes. Works with any Agent Skills-compatible agent (Claude Code, Codex, Cursor, OpenClaw, 78+).",
+    "path": "openclaw/yottameta-yotta-memory/",
+    "type": "repo",
+    "repoUrl": "https://github.com/YottaMeta/yotta-memory",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1151758748",
+    "title": "agentpay-core",
+    "tool": "openclaw",
+    "tags": [
+      "agents",
+      "api",
+      "base",
+      "billing",
+      "idempotency",
+      "openclaw",
+      "payments",
+      "receipts",
+      "usdc"
+    ],
+    "description": "USDC (Base) pay-per-call rail for OpenClaw skills",
+    "path": "openclaw/shinertx-agentpay-core/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shinertx/agentpay-core",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1350189957",
+    "title": "helldivers2-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: Helldivers 2 live war status query via helldivers2.dev API",
+    "path": "openclaw/propersama-helldivers2-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ProperSAMA/helldivers2-skill",
+    "source": "github-discovery"
   }
 ]
