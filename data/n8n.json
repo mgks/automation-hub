@@ -63723,5 +63723,130 @@
     "type": "repo",
     "repoUrl": "https://github.com/rehanrnd/n8n-support-ticket-triage",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1351076364",
+    "title": "agentic-automation-control-plane",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Agentic Automation Control Plane — Reliable AI Agents, n8n Workflows, Human Approval & Observability",
+    "path": "n8n/ahmed2qaid-agentic-automation-control-plane/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ahmed2qaid/agentic-automation-control-plane",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1350769594",
+    "title": "finance-mvp-ruche",
+    "tool": "n8n",
+    "tags": [],
+    "description": "MVP validação conciliação Ruche — página + workflow n8n",
+    "path": "n8n/team-ruche-finance-mvp-ruche/",
+    "type": "repo",
+    "repoUrl": "https://github.com/team-ruche/finance-mvp-ruche",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1334150884",
+    "title": "Hireo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "  │ Hireo — AI-powered hiring platform. Full-stack monorepo with a Python/FastAPI backend, LangGraph AI agents for candidate evaluation and exam generation,   and a React/TanStack Start frontend. Features JWT auth, Redis caching, n8n workflow automation, and Cloudinary media handling.",
+    "path": "n8n/satishkhatri-alt-hireo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SatishKhatri-alt/Hireo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1304674087",
+    "title": "kelas-otomesyen",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Kumpulan project dan tugas dari Kelas Agentic AI Automation — Kelas Otomesyen. Mulai dari setup VPS, Docker, hingga workflow automation dengan n8n dan AI integration.",
+    "path": "n8n/rizaledc-kelas-otomesyen/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rizaledc/kelas-otomesyen",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348698556",
+    "title": "ai-n8n-starter",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Real n8n workflow exports with a structural validator and linter",
+    "path": "n8n/sangiya-ai-n8n-starter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sangiya/ai-n8n-starter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348695560",
+    "title": "ai-n8n-advanced",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Real ETL/RAG/CRM n8n workflow exports with a structural validator",
+    "path": "n8n/sangiya-ai-n8n-advanced/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sangiya/ai-n8n-advanced",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1351038837",
+    "title": "n8n-reddit-brand-monitor",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: monitor Reddit for brand mentions, classify sentiment with AI, log to Google Sheets, and alert Slack on negatives",
+    "path": "n8n/rehanrnd-n8n-reddit-brand-monitor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rehanrnd/n8n-reddit-brand-monitor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1350985666",
+    "title": "botvy",
+    "tool": "n8n",
+    "tags": [
+      "ai-assistant",
+      "docker",
+      "flutter",
+      "local-llm",
+      "n8n",
+      "nestjs",
+      "ollama",
+      "postgresql",
+      "prisma",
+      "privacy",
+      "react",
+      "self-hosted",
+      "spec-driven-development",
+      "typescript"
+    ],
+    "description": "Self-hosted multi-user AI assistant platform: NestJS gateway, Flutter app, React admin portal, n8n workflows, and a local LLM. Your data, your hardware, no cloud provider.",
+    "path": "n8n/mohammedmoataz-botvy/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MohammedMoataz/botvy",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1351021979",
+    "title": "672a6da3-stock-market-investing-clien",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Professional stock investing n8n automation workflow — without the professional price tag.  Built for production: error handling, retry logic, and failure notifications included. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Stock Market & Investing Client Onboarding Automation — fully configured",
+    "path": "n8n/ncreighton-672a6da3-stock-market-investing-clien/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/672a6da3-stock-market-investing-clien",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1296930311",
+    "title": "ai-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI workflow stack with n8n, LiteLLM, Ollama and Tailscale",
+    "path": "n8n/kylegolfer-ai-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/KyleGolfer/ai-workflow",
+    "source": "github-discovery"
   }
 ]
