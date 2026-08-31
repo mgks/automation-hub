@@ -63848,5 +63848,157 @@
     "type": "repo",
     "repoUrl": "https://github.com/KyleGolfer/ai-workflow",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1285591430",
+    "title": "n8n-trading",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow trading project ",
+    "path": "n8n/jawmis-n8n-trading/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jawmis/n8n-trading",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1176962320",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/shahidjalally-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shahidjalally/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1351930457",
+    "title": "ai-profit-army",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "ecommerce",
+      "landing-page",
+      "n8n",
+      "python"
+    ],
+    "description": "Automatización de negocios con IA: workflows n8n, landings, ecommerce y toolkits operativos",
+    "path": "n8n/alicelabs-llc-ai-profit-army/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alicelabs-llc/ai-profit-army",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1281703426",
+    "title": "workflow-automation-showcase",
+    "tool": "n8n",
+    "tags": [
+      "back-office",
+      "make",
+      "n8n",
+      "showcase",
+      "workflow-automation",
+      "zapier"
+    ],
+    "description": "Automation Hub — back-office workflow automation across n8n, Make and Zapier. Architectural showcase with a runnable, sanitized educational prototype (synthetic data).",
+    "path": "n8n/fernandoxavier02-workflow-automation-showcase/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fernandoxavier02/workflow-automation-showcase",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345255180",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/d4kshn-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/d4kshn/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1351175650",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready n8n automation workflows: Gmail→Sheets/Drive pipeline and Telegram receipt OCR",
+    "path": "n8n/aaroncrisologo-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AaronCrisologo/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1351879256",
+    "title": "ai-it-incident-triage",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Explainable n8n workflow for sanitized IT incident triage with a deterministic safety baseline, optional AI enrichment, tests, and human review.",
+    "path": "n8n/joshua-l-delacruz-ai-it-incident-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/joshua-l-delacruz/ai-it-incident-triage",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348936469",
+    "title": "n8n-end-user-credentials-demo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A worked example of n8n end-user credentials: the calling application half. Signs a user in via OIDC, then runs an n8n workflow as that person against their own Gmail.",
+    "path": "n8n/jabbson-n8n-end-user-credentials-demo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jabbson/n8n-end-user-credentials-demo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1351302455",
+    "title": "n8n-voice-receptionist",
+    "tool": "n8n",
+    "tags": [
+      "ai-receptionist",
+      "appointment-booking",
+      "deepgram",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow",
+      "voice-agent",
+      "voice-ai"
+    ],
+    "description": "Free, production n8n AI voice receptionist: answers calls, checks a real diary, offers slots and books appointments. Includes a Deepgram TTS proxy.",
+    "path": "n8n/wizbit-org-n8n-voice-receptionist/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Wizbit-org/n8n-voice-receptionist",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1351241819",
+    "title": "N8N-Workflow-Builder-Agent-skills-N8N",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "ai-agent-framework",
+      "ai-agent-security",
+      "ai-agent-skill",
+      "ai-agent-skills",
+      "ai-agent-tools",
+      "ai-agents",
+      "ai-agents-automation",
+      "ai-agents-framework",
+      "n8n",
+      "n8n-automation",
+      "n8n-node",
+      "n8n-template",
+      "n8n-workflow",
+      "n8n-workflows",
+      "workflow-automation",
+      "workflow-automation-ai",
+      "workflow-automations"
+    ],
+    "description": "Enterprise-grade Agent Skill suite for designing, building, and validating production-ready n8n workflows using Antigravity & Agentic AI IDEs. Includes 12 skill modules, a 131-rule automated Python validator, complete node/expression reference catalogs, and 8 ready-to-import workflow templates.",
+    "path": "n8n/abbibo-n8n-workflow-builder-agent-skills-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abbibo/N8N-Workflow-Builder-Agent-skills-N8N",
+    "source": "github-discovery"
   }
 ]
