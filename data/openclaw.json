@@ -22078,5 +22078,71 @@
     "type": "repo",
     "repoUrl": "https://github.com/autoradiographic-rouleau209/federal-contracting-agents",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1330120846",
+    "title": "dg-rate-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "DG rate query skill for OpenClaw skills install",
+    "path": "openclaw/r3yun-dg-rate-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/R3Yun/dg-rate-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1351173341",
+    "title": "openclaw-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "An OpenClaw skill for OpenSwitchboard — post wants & haves, get matched, bring every decision back to your human.",
+    "path": "openclaw/openswitchboard-ai-openclaw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/openswitchboard-ai/openclaw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241207575",
+    "title": "openclaw-lancedb-knowledge-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for LanceDB-backed local knowledge search over memory, backups, and project docs",
+    "path": "openclaw/jasperyang0609-openclaw-lancedb-knowledge-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JasperYang0609/openclaw-lancedb-knowledge-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1256720005",
+    "title": "parker",
+    "tool": "openclaw",
+    "tags": [
+      "accessibility",
+      "assistive-ai",
+      "effortful-speech",
+      "evals",
+      "family-assistant",
+      "safety"
+    ],
+    "description": "A personal assistant that actually understands people with Parkinson's — voice-first understanding and repair, confirmation-gated actions, family-administered skills, eval-backed. OpenClaw-style agent where family are the admins and the person just talks.",
+    "path": "openclaw/prasithg-parker/",
+    "type": "repo",
+    "repoUrl": "https://github.com/prasithg/parker",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1212274361",
+    "title": "xclawskill",
+    "tool": "openclaw",
+    "tags": [
+      "openclaw",
+      "skill",
+      "xclaw"
+    ],
+    "description": "XClaw Skill是连接 AI Agent 与 XClaw 分布式 AI Agent 网络的官方技能包。通过本技能，你的 AI Agent 可以注册到全球网络、发现其他 Agent、交易技能、执行任务并赚取收益。",
+    "path": "openclaw/qomob-xclawskill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/qomob/xclawskill",
+    "source": "github-discovery"
   }
 ]
