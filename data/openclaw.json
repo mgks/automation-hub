@@ -22144,5 +22144,126 @@
     "type": "repo",
     "repoUrl": "https://github.com/qomob/xclawskill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270971481",
+    "title": "Typecho-Publisher",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Typecho Skill — AI-driven article publishing plugin for Typecho",
+    "path": "openclaw/coolingrabbit-typecho-publisher/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CoolingRabbit/Typecho-Publisher",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1341538805",
+    "title": "restore-author-voice",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "codex",
+      "humanize",
+      "openclaw",
+      "writing"
+    ],
+    "description": "A provenance-first agent skill for drafting, rewriting, and removing AI patterns without inventing a human voice.",
+    "path": "openclaw/semoncat-restore-author-voice/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SemonCat/restore-author-voice",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1225178950",
+    "title": "anysearch-skill",
+    "tool": "openclaw",
+    "tags": [
+      "anysearch",
+      "hermes",
+      "openclaw",
+      "qclaw",
+      "skill",
+      "skills"
+    ],
+    "description": "Unified real-time search engine skill for AI agents. Supports general web search, vertical domain search, parallel batch search, and full-page content extraction.",
+    "path": "openclaw/anysearch-ai-anysearch-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anysearch-ai/anysearch-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348218883",
+    "title": "ideashell-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agentskills",
+      "ai-memory",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "ideashell",
+      "mcp",
+      "mcp-server",
+      "note-taking",
+      "notes",
+      "openclaw",
+      "opencode",
+      "second-brain",
+      "skills",
+      "todo",
+      "voice-notes"
+    ],
+    "description": "Agent skill and MCP server for ideaShell (闪念贝壳). Let Claude Code, Codex, Cursor, ChatGPT and any MCP client search, read and write your notes, voice recordings and to-dos.",
+    "path": "openclaw/roundreddot-ideashell-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RoundRedDot/ideashell-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-987041093",
+    "title": "PyOmniTS",
+    "tool": "openclaw",
+    "tags": [
+      "benchmarking",
+      "claude-code",
+      "codex",
+      "deep-learning",
+      "gemini-cli",
+      "irregular-time-series",
+      "missing-values",
+      "openclaw",
+      "skills",
+      "time-series",
+      "time-series-analysis",
+      "time-series-classification",
+      "time-series-forecasting"
+    ],
+    "description": "🔬 A Researcher&Agent-Friendly Framework for Time Series Analysis. Train Any Model on Any Dataset!",
+    "path": "openclaw/ladbaby-pyomnits/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ladbaby/PyOmniTS",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1344993302",
+    "title": "judgment-loop",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "critical-thinking",
+      "decision-making",
+      "openclaw",
+      "skills-sh"
+    ],
+    "description": "An open Agent Skill that turns uncertainty into falsifiable judgment, cheap tests, and user-owned action.",
+    "path": "openclaw/sirsws-judgment-loop/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sirsws/judgment-loop",
+    "source": "github-discovery"
   }
 ]

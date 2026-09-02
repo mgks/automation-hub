@@ -64172,5 +64172,145 @@
     "type": "repo",
     "repoUrl": "https://github.com/JRJthegreat/facebook-ads-spy-agent",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1353358791",
+    "title": "ai-invoice-extraction",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered invoice extraction workflow built with n8n, Google Gemini, PDF extraction, and Google Sheets.",
+    "path": "n8n/bluemoonways-ai-invoice-extraction/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bluemoonways/ai-invoice-extraction",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1279851590",
+    "title": "AI-Student-Study-Planner-Agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "**AI Student Study Planner Agent** is an AI-powered study assistant built with **n8n** and **Google Gemini**. It creates personalized study plans, practice quizzes, revision checklists, and study tips based on subjects, exam dates, and available study time, helping students prepare efficiently through automated AI workflows.",
+    "path": "n8n/amol099-ai-student-study-planner-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Amol099/AI-Student-Study-Planner-Agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1354211108",
+    "title": "shopnest-ticket-intelligence-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: AI ticket summarisation, response generation and LLM-as-a-Judge evaluation for ShopNest Global support tickets",
+    "path": "n8n/anirudhatalmale6-alt-shopnest-ticket-intelligence-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anirudhatalmale6-alt/shopnest-ticket-intelligence-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1329581888",
+    "title": "sociallisteningapi-examples",
+    "tool": "n8n",
+    "tags": [
+      "brand-monitoring",
+      "competitor-monitoring",
+      "linkedin-api",
+      "marketing-automation",
+      "mcp",
+      "n8n",
+      "openclaw",
+      "reddit-api",
+      "social-listening",
+      "twitter-api"
+    ],
+    "description": "Ready-to-use brand and competitor monitoring workflows for n8n, OpenClaw, MCP, and JavaScript.",
+    "path": "n8n/shash7-sociallisteningapi-examples/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shash7/sociallisteningapi-examples",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1256430863",
+    "title": "n8n-nodes-pantrist",
+    "tool": "n8n",
+    "tags": [
+      "groceries",
+      "home-automation",
+      "meal-planning",
+      "n8n",
+      "n8n-community-node-package",
+      "n8n-integration",
+      "n8n-nodes",
+      "pantrist",
+      "pantry",
+      "shopping-list",
+      "typescript"
+    ],
+    "description": "n8n community node for Pantrist - trigger workflows on shopping-list and pantry changes, and read/write items from any automation.",
+    "path": "n8n/pantrist-dev-n8n-nodes-pantrist/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Pantrist-dev/n8n-nodes-pantrist",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348544874",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "api-integration",
+      "automation",
+      "gemini",
+      "llm",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "n8n automations with rate limiting, output validation and error branches. Includes a daily job radar scored by an LLM.",
+    "path": "n8n/afmancilla92-star-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/afmancilla92-star/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1354185018",
+    "title": "n8n-ai-automation-complete-systems",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready n8n automation systems for AI, sales, CRM, operations, onboarding, document processing, and business workflows.",
+    "path": "n8n/riles1975-n8n-ai-automation-complete-systems/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Riles1975/n8n-ai-automation-complete-systems",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1354174087",
+    "title": "8d89768255783691-crypto-tax-document-generation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Every crypto tax professionals needs this — most just don't know it yet.  Built for production: error handling, retry logic, and failure notifications included. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Crypto Tax Document Generation — fully configured and ready to use - Pre-built n8n workflow",
+    "path": "n8n/ncreighton-8d89768255783691-crypto-tax-document-generation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/8d89768255783691-crypto-tax-document-generation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1351813098",
+    "title": "-agent-intent-verifier",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered intent verification for autonomous agent payments- AI-powered intent verification workflow with a human-in-the-loop Step-Up approval process. Built with n8n (4-agent pipeline), Claude API, Airtable (audit log), and a Lovable front-end.",
+    "path": "n8n/sangamesh-vn--agent-intent-verifier/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sangamesh-vn/-agent-intent-verifier",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1354172338",
+    "title": "8a52e4e5-smart-home-tech-data-backup-an",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Professional smart home tech n8n automation workflow — without the professional price tag.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Smart Home Tech Data Backup And Disaster Recovery — fully configured and ready to",
+    "path": "n8n/ncreighton-8a52e4e5-smart-home-tech-data-backup-an/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/8a52e4e5-smart-home-tech-data-backup-an",
+    "source": "github-discovery"
   }
 ]
