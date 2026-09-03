@@ -64312,5 +64312,131 @@
     "type": "repo",
     "repoUrl": "https://github.com/ncreighton/8a52e4e5-smart-home-tech-data-backup-an",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1350970753",
+    "title": "ai-business-automation-hub",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready AI lead automation platform with n8n, LLM integration, APIs, database workflows, and a business dashboard.",
+    "path": "n8n/c-vsimonvictor-ai-business-automation-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/C-VSIMONVICTOR/ai-business-automation-hub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355427943",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflows de n8n que resuelven tareas pequeñas ",
+    "path": "n8n/chrisullua-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chrisullua/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355411821",
+    "title": "telemake",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automation pipeline - Django API, n8n orchestration workflow and Telegram bot.",
+    "path": "n8n/kiprotich-code-telemake/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kiprotich-Code/telemake",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355165742",
+    "title": "referral-partner-app",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Insurance referral app powered by n8n and a multi-agent AI triage workflow.",
+    "path": "n8n/mr-glucose-referral-partner-app/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mr-Glucose/referral-partner-app",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1352995009",
+    "title": "Nico_Robin",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An example of setting up an AI assistant that has data from directus and workflows from n8n behind it.",
+    "path": "n8n/hereliesadvaith-nico_robin/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hereliesadvaith/Nico_Robin",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1298421409",
+    "title": "empire-server-forge",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Empire English Community infrastructure -- n8n workflows, n8n-MCP server, server hardening, and the admin Telegram command bot. Split out of EEC-REPO + Kiro-Master-Index 2026-07-12, full history preserved.",
+    "path": "n8n/empireenglishcommunity-glitch-empire-server-forge/",
+    "type": "repo",
+    "repoUrl": "https://github.com/empireenglishcommunity-glitch/empire-server-forge",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355339539",
+    "title": "workflow-bollettino",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Due Workflow n8n per generare un bollettino meteo in località della liguria/piemonte",
+    "path": "n8n/andre6226-workflow-bollettino/",
+    "type": "repo",
+    "repoUrl": "https://github.com/andre6226/workflow-bollettino",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1247836155",
+    "title": "axonflow-n8n-node",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AxonFlow n8n community node — call AxonFlow policy and HITL endpoints from your n8n workflows",
+    "path": "n8n/getaxonflow-axonflow-n8n-node/",
+    "type": "repo",
+    "repoUrl": "https://github.com/getaxonflow/axonflow-n8n-node",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355320109",
+    "title": "nano-n8n-templates",
+    "tool": "n8n",
+    "tags": [
+      "arabic",
+      "automation",
+      "egypt",
+      "n8n",
+      "salla",
+      "saudi-arabia",
+      "whatsapp",
+      "zid"
+    ],
+    "description": "Open-source n8n workflow templates for Gulf & Egypt e-commerce and clinics: WhatsApp Cloud API, Salla, Zid, Paymob, Moyasar/Tabby, Google Sheets/Calendar. Arabic-first. By Nano AI.",
+    "path": "n8n/marwanayman128-nano-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/marwanayman128/nano-n8n-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1350479643",
+    "title": "sample-n8n-feedback-router",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "claude-ai",
+      "freelance",
+      "n8n",
+      "portfolio",
+      "workflow-automation"
+    ],
+    "description": "Portfolio sample: n8n workflow that classifies customer feedback with Claude and routes urgent negative reports to Slack while logging everything to Google Sheets.",
+    "path": "n8n/peterwkdev-creator-sample-n8n-feedback-router/",
+    "type": "repo",
+    "repoUrl": "https://github.com/peterwkdev-creator/sample-n8n-feedback-router",
+    "source": "github-discovery"
   }
 ]
