@@ -64438,5 +64438,191 @@
     "type": "repo",
     "repoUrl": "https://github.com/peterwkdev-creator/sample-n8n-feedback-router",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1356583976",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production automations (AI receptionists, speed-to-lead, missed-call rescue, CRM write-back) rebuilt as importable n8n workflows",
+    "path": "n8n/123maria0608-star-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/123maria0608-star/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355813462",
+    "title": "beFruitbe-ai-content-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered video content pipeline prototype for beFruitbe using LLM agents, a brand knowledge base, n8n automation and human-in-the-loop workflows.",
+    "path": "n8n/andrew-paa-befruitbe-ai-content-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Andrew-paa/beFruitbe-ai-content-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1104785860",
+    "title": "n8n-nodes-sklearn",
+    "tool": "n8n",
+    "tags": [
+      "machine-learning",
+      "n8n",
+      "n8n-nodes",
+      "scikit-learn",
+      "sklearn"
+    ],
+    "description": "Custom n8n nodes for integrating scikit-learn machine learning algorithms into your n8n workflows.",
+    "path": "n8n/arturovaine-n8n-nodes-sklearn/",
+    "type": "repo",
+    "repoUrl": "https://github.com/arturovaine/n8n-nodes-sklearn",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1211764257",
+    "title": "Gen_AI-MicroSaaS-Project-Dental-App",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This project is a **fully automated AI-powered Dental Appointment Booking System** built using:  * ⚙️ n8n (workflow automation) * 🤖 AI Agent (data processing) * 🌐 Lovable (frontend UI builder)   Use Cases  * Dental Clinics 🦷 * Medical Appointment Systems 🏥",
+    "path": "n8n/mks604-gen_ai-microsaas-project-dental-app/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mks604/Gen_AI-MicroSaaS-Project-Dental-App",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1318788137",
+    "title": "universal-email-agent-n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "ai-automation",
+      "ai-automation-agency",
+      "ai-automation-tools",
+      "automateiq-labs",
+      "automation",
+      "email-automation",
+      "email-automation-tool",
+      "gemini-api",
+      "gemini-api-integration",
+      "gmail-automation",
+      "google-sheets",
+      "google-sheets-api",
+      "groq-api",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "n8n-workflows",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Production-grade AI email automation agent — 46 nodes, dual-AI (Gemini + Groq), OCR, sentiment detection, prompt injection protection & confidence-based auto-replies. Built with n8n.",
+    "path": "n8n/muhammadantor-universal-email-agent-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muhammadantor/universal-email-agent-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1356383653",
+    "title": "ai-whatsapp-business-bot-n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "ai-chatbot",
+      "automateiq-labs",
+      "automation",
+      "bangladesh",
+      "business-automation",
+      "case-study",
+      "chatbot",
+      "conversational-ai",
+      "customer-support-automation",
+      "llm",
+      "multimodel-ai",
+      "n8n",
+      "n8n-workflow",
+      "whatsapp",
+      "whatsapp-api",
+      "whatsapp-bot",
+      "workflow"
+    ],
+    "description": "Production WhatsApp AI bot case study — n8n, Gemini + Groq dual-AI, multi-modal, self-healing. AutomateIQ Labs.",
+    "path": "n8n/muhammadantor-ai-whatsapp-business-bot-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muhammadantor/ai-whatsapp-business-bot-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355259866",
+    "title": "n8n-nodes-renderform",
+    "tool": "n8n",
+    "tags": [
+      "image-generation",
+      "n8n",
+      "n8n-automation",
+      "n8n-community-node",
+      "n8n-node",
+      "n8n-nodes",
+      "n8n-template",
+      "n8n-workflow",
+      "video-generation"
+    ],
+    "description": "Official RenderForm integration for n8n.io",
+    "path": "n8n/renderform-n8n-nodes-renderform/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RenderForm/n8n-nodes-renderform",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355603828",
+    "title": "dairy-automation",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "automation-testing",
+      "n8n",
+      "n8n-workflow",
+      "postgres",
+      "reporting",
+      "sql",
+      "telegram-bot-ai-assistant",
+      "workflow-automation"
+    ],
+    "description": "An n8n workflow that automatically generates and delivers daily sales summaries for a multi-region dairy distribution business — one detailed report per region, plus a company-wide ranked overview — all via Telegram, on a fixed schedule, with zero manual reporting.",
+    "path": "n8n/harriesh-git-dairy-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/harriesh-git/dairy-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1079116704",
+    "title": "aegis-emergency-mesh",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "aiagent",
+      "n8n-workflow"
+    ],
+    "description": "In this repository you will find a comprehensive AI Powered Disaster Management coordination system for rescue teams to respond to facilitate citizens in any possible Way. ",
+    "path": "n8n/muhammadhamza180-aegis-emergency-mesh/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muhammadhamza180/aegis-emergency-mesh",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1354277635",
+    "title": "n8n-automations",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "on-premise"
+    ],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/george-rafhael-dev-n8n-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/George-Rafhael-Dev/n8n-automations",
+    "source": "github-discovery"
   }
 ]

@@ -22372,5 +22372,126 @@
     "type": "repo",
     "repoUrl": "https://github.com/Straniero44/wenai",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355798360",
+    "title": "industry-research",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "研究行业结构、商业模式、产业链、竞争格局和近期变化的开源 Agent Skill，支持 Claude Code / Codex / OpenClaw / Hermes Agent",
+    "path": "openclaw/jiguang9-industry-research/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jiguang9/industry-research",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355827345",
+    "title": "shipmate",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "openclaw",
+      "software-engineering"
+    ],
+    "description": "Industrial-grade fullstack software engineering skill suite for autonomous coding agents.",
+    "path": "openclaw/fize-shipmate/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Fize/shipmate",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1096163980",
+    "title": "agent-config",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "embedding",
+      "lancedb",
+      "org-mode",
+      "pi-coding-agent",
+      "rag",
+      "semantic-search"
+    ],
+    "description": "Skills SSOT and proving ground for entwurf — one operator's memory, skills, and 1KB identity carried identically across pi, Claude Code, Codex, Antigravity, Copilot, OMP, and OpenClaw. Semantic memory (Qwen3-Embedding-8B + LanceDB), 43 shared skills, and a version-pinned bench for agent runtimes.",
+    "path": "openclaw/junghan0611-agent-config/",
+    "type": "repo",
+    "repoUrl": "https://github.com/junghan0611/agent-config",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1356486287",
+    "title": "agent-dashboard",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "azure",
+      "azure-ai-foundry",
+      "monitoring",
+      "nextjs",
+      "openclaw"
+    ],
+    "description": "Monitor KnowAll AI and customer AI agents across Azure tenants — status, skills and recent activity. Built with the same stack as ZapDesk and Thyme.",
+    "path": "openclaw/knowall-ai-agent-dashboard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/knowall-ai/agent-dashboard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205160137",
+    "title": "wxmp-article-pipeline",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: wxmp-article-pipeline",
+    "path": "openclaw/meltemi-q-wxmp-article-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Meltemi-Q/wxmp-article-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1356593280",
+    "title": "free-model-rotator",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "🔄 OpenClaw/Hermes skill: Auto-fetch free models from OpenRouter and inject into openclaw.json as fallbacks",
+    "path": "openclaw/lx277856602-free-model-rotator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lx277856602/free-model-rotator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1161379409",
+    "title": "CountBot",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "ai-assisted",
+      "assistant",
+      "deepseek-v4",
+      "official"
+    ],
+    "description": "更适配中文用户的轻量开源AI Agent | 国产大模型Coding plan支持 | 兼容OpenClaw Skills生态| 已接入微信ClawBot/微博龙虾/飞书/钉钉/QQ/小智AI/Telegram/deepseek-v4。",
+    "path": "openclaw/countbot-ai-countbot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/countbot-ai/CountBot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1120540348",
+    "title": "awesome-agent-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "awsome-list",
+      "claudecode",
+      "openclaw",
+      "skills"
+    ],
+    "description": "Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit",
+    "path": "openclaw/libukai-awesome-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/libukai/awesome-agent-skills",
+    "source": "github-discovery"
   }
 ]
