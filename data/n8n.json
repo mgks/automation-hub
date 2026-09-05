@@ -64624,5 +64624,137 @@
     "type": "repo",
     "repoUrl": "https://github.com/George-Rafhael-Dev/n8n-automations",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1323279694",
+    "title": "n8n-leads-sem-site",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow to identify businesses without a website, normalize contacts, score leads, and prepare sales outreach.",
+    "path": "n8n/jhonwictordev-n8n-leads-sem-site/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jhonwictordev/n8n-leads-sem-site",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357751008",
+    "title": "n8n-source-watch",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n monitoring workflow built around one question: how would you know if this stopped working? Catches the failure that produces no error.",
+    "path": "n8n/systsezer-n8n-source-watch/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SystSezer/n8n-source-watch",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1262019204",
+    "title": "mworago-vip-feed",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Plugin WordPress — RSS feed des articles VIP pour workflow n8n de traduction",
+    "path": "n8n/bzhzion-mworago-vip-feed/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bzhzion/mworago-vip-feed",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1356773393",
+    "title": "workflow-cmp",
+    "tool": "n8n",
+    "tags": [
+      "agent",
+      "andorid",
+      "automation",
+      "cmp",
+      "compose",
+      "dag",
+      "desktop",
+      "dify",
+      "engine",
+      "flow",
+      "ios",
+      "json",
+      "kmp",
+      "kotlin",
+      "multiplatform",
+      "n8n",
+      "script",
+      "workflow"
+    ],
+    "description": "A declarative DAG workflow orchestration and automation engine for Kotlin Multiplatform & Compose Multiplatform (Android, iOS, Desktop).",
+    "path": "n8n/xiaoyvyv-workflow-cmp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xiaoyvyv/workflow-cmp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357720000",
+    "title": "Email_Generator_Workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An automated n8n workflow that generates personalized emails using OpenAI, logs execution data to Google Sheets, and sends messages via Gmail.",
+    "path": "n8n/romilpatel740-hue-email_generator_workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/romilpatel740-hue/Email_Generator_Workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357703151",
+    "title": "n8n-automation-workflow-projects",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "A repository of n8n workflows.",
+    "path": "n8n/rmyys-n8n-automation-workflow-projects/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rmyys/n8n-automation-workflow-projects",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357697843",
+    "title": "n8n-pocs",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Prospective collection of n8n workflows.",
+    "path": "n8n/maho42-n8n-pocs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Maho42/n8n-pocs",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1356409336",
+    "title": "marketvision-agentic-AI-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An AI agent workflow that takes a one-line research brief in chat, autonomously researches a market, analyzes competitors, builds a full go-to-market strategy, writes it to a Google Doc, exports it as a PDF, and emails the finished report — all with built-in retry logic and failure guardrails so a bad run never gets delivered as if it succeeded",
+    "path": "n8n/anastaciamarinho-hub-marketvision-agentic-ai-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anastaciamarinho-hub/marketvision-agentic-AI-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357689745",
+    "title": "DocuChat",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A two-workflow RAG system in n8n which takes a user-uploaded PDF and trains an AI to answer questions on it.",
+    "path": "n8n/bilmobaggins-docuchat/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bilmoBaggins/DocuChat",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357687115",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "N8N project, AI workflows",
+    "path": "n8n/leadwiseai-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LeadWiseAI/n8n",
+    "source": "github-discovery"
   }
 ]

@@ -22493,5 +22493,68 @@
     "type": "repo",
     "repoUrl": "https://github.com/libukai/awesome-agent-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-995842113",
+    "title": "Beav",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "content-creation",
+      "harness-engineering",
+      "hermes",
+      "hermes-agent",
+      "openclaw",
+      "skills",
+      "xhs",
+      "xhs-downloader",
+      "xhs-tool",
+      "xiaohongshu",
+      "xiaohongshu-downloader",
+      "xiaohongshu-scraper"
+    ],
+    "description": "小红书 AI 工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集",
+    "path": "openclaw/jamailar-beav/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jamailar/Beav",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1356977955",
+    "title": "openclaw-publisher",
+    "tool": "openclaw",
+    "tags": [
+      "clawhub",
+      "developer-tools",
+      "github-actions",
+      "openclaw",
+      "publishing",
+      "release-automation",
+      "skills"
+    ],
+    "description": "Evidence-driven ClawHub publishing, release verification, and skill growth tools.",
+    "path": "openclaw/bonniegeng-max-openclaw-publisher/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bonniegeng-max/openclaw-publisher",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1131615490",
+    "title": "simmer-sdk",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "hermes-agent",
+      "kalshi",
+      "openclaw",
+      "polymarket",
+      "prediction-markets"
+    ],
+    "description": "Prediction market harness for AI agents — skills, MCP server, and Python SDK",
+    "path": "openclaw/spartanlabsxyz-simmer-sdk/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SpartanLabsXyz/simmer-sdk",
+    "source": "github-discovery"
   }
 ]
