@@ -64756,5 +64756,150 @@
     "type": "repo",
     "repoUrl": "https://github.com/LeadWiseAI/n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1358724655",
+    "title": "flowsentry",
+    "tool": "n8n",
+    "tags": [
+      "ci-cd",
+      "devsecops",
+      "n8n",
+      "owasp",
+      "sast",
+      "scanner",
+      "security",
+      "workflow-automation"
+    ],
+    "description": "Security scanner for n8n workflows - 18 rules, zero dependencies, SARIF output, CI-ready",
+    "path": "n8n/vasilicasijarvis-flowsentry/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vasilicasijarvis/flowsentry",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1331113476",
+    "title": "n8n-nodes-justfill",
+    "tool": "n8n",
+    "tags": [
+      "mail-merge",
+      "n8n",
+      "n8n-community-node",
+      "pdf-automation",
+      "pdf-forms",
+      "workflow-automation"
+    ],
+    "description": "n8n community node for JustFill — fill PDF forms from workflow data",
+    "path": "n8n/mrmaciej1-n8n-nodes-justfill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mrmaciej1/n8n-nodes-justfill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345785619",
+    "title": "n8n-mcp",
+    "tool": "n8n",
+    "tags": [],
+    "description": "  A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you  ",
+    "path": "n8n/x-cmd-install-n8n-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/x-cmd-install/n8n-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1347511659",
+    "title": "n8n-nodes-mcp-studio",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "mcp",
+      "model-context-protocol",
+      "n8n",
+      "n8n-community-node-package",
+      "rag"
+    ],
+    "description": "Give AI agents persistent context in n8n. Turn docs, code repos, PDFs, specs, and other MCP servers into a live Model Context Protocol endpoint your workflows read before they act.",
+    "path": "n8n/zthewriter-n8n-nodes-mcp-studio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zthewriter/n8n-nodes-mcp-studio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1358519117",
+    "title": "Hackathon",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A Flight Management System built with FastAPI, Supabase Postgres, n8n, Pinecone, RAG, Groq, Google embeddings, and Gmail. It manages live flight inventory, seat holds, atomic bookings, cancellations, refunds, waitlists, audit logs, scheduled reminders, operational reports, policy-question drafting, and fraud review workflows.",
+    "path": "n8n/coddies-hackathon/",
+    "type": "repo",
+    "repoUrl": "https://github.com/coddies/Hackathon",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1358586310",
+    "title": "n8n-workflow-pack",
+    "tool": "n8n",
+    "tags": [],
+    "description": "CC0 n8n workflows: Inbound Radar (answer engine), Invoice Chaser (AI payment reminders), Instant Lead Responder (webhook→AI reply). Import, paste keys, activate.",
+    "path": "n8n/coremerch-n8n-workflow-pack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/coremerch/n8n-workflow-pack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1358519938",
+    "title": "bilqueesfayaz",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Data Science graduate skilled in Power BI, Tableau, n8n automation, and Streamlit. I turn data into dashboards, automate workflows, and analyze finances (valuation, forecasting, modeling). Interned in Business Analysis at Imperium Dynamics & Banking Operations at Meezan Bank. Always learning, always building.",
+    "path": "n8n/bilqueesfayaz-bilqueesfayaz/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bilqueesfayaz/bilqueesfayaz",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1358692456",
+    "title": "n8n-admin-mcp",
+    "tool": "n8n",
+    "tags": [
+      "devops",
+      "mcp",
+      "model-context-protocol",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "MCP server for n8n administration: workflow backup, rollback, duplication, node-param patching, and replay-sample-payload - with a pre-duplication write-safety policy",
+    "path": "n8n/mattmaas-n8n-admin-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mattmaas/n8n-admin-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1354601878",
+    "title": "n8n-nodes-raposa",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "approval-workflow",
+      "human-in-the-loop",
+      "n8n",
+      "n8n-community-node-package"
+    ],
+    "description": "n8n community node for Raposa Aval: put a human approval step in front of any workflow action that moves money or changes something irreversible",
+    "path": "n8n/agentlabbusiness-n8n-nodes-raposa/",
+    "type": "repo",
+    "repoUrl": "https://github.com/agentlabbusiness/n8n-nodes-raposa",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1358689563",
+    "title": "n8n-support-triage",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Self-hosted n8n support-ticket pipeline: jailbreak guardrail, schema-bound LLM classification with confidence routing, human approval gate, and an MCP server exposing the queue to agents. Workflows generated as code.",
+    "path": "n8n/pardesco-n8n-support-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Pardesco/n8n-support-triage",
+    "source": "github-discovery"
   }
 ]
