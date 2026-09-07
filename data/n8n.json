@@ -64901,5 +64901,133 @@
     "type": "repo",
     "repoUrl": "https://github.com/Pardesco/n8n-support-triage",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359456571",
+    "title": "-Automated-Client-Management-Follow-Up-System",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An automated client management and follow-up system built with n8n, Supabase, Google Forms, Google Sheets, and Gmail. It automates client requests, generates unique request IDs, manages call scheduling, and keeps client information synchronized throughout the workflow.",
+    "path": "n8n/n8nnees-source--automated-client-management-follow-up-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/n8nnees-source/-Automated-Client-Management-Follow-Up-System",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-807834672",
+    "title": ".github",
+    "tool": "n8n",
+    "tags": [
+      "agent-skills",
+      "api",
+      "b2b",
+      "data-enrichment",
+      "developer-tools",
+      "leadmagic",
+      "mcp",
+      "n8n"
+    ],
+    "description": "LeadMagic developer tools for B2B data enrichment: REST API, n8n workflows, MCP integrations, and AI agent skills.",
+    "path": "n8n/leadmagic-.github/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LeadMagic/.github",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359671173",
+    "title": "n8n-ai-lead-qualification-crm",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Tested n8n workflow for lead validation, AI-assisted scoring, duplicate detection, routing, and CRM-ready outcomes.",
+    "path": "n8n/diane-builds-n8n-ai-lead-qualification-crm/",
+    "type": "repo",
+    "repoUrl": "https://github.com/diane-builds/n8n-ai-lead-qualification-crm",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1322520731",
+    "title": "musfiraai-tools-backend",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Free tool/automation/n8n workflow request backend for Musfiraai",
+    "path": "n8n/musman550-musfiraai-tools-backend/",
+    "type": "repo",
+    "repoUrl": "https://github.com/musman550/musfiraai-tools-backend",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359654086",
+    "title": "automacao-ia",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Descreva a automação em português e receba um workflow n8n válido pronto para importar, com grafo de nós ao vivo e guia de configuração.",
+    "path": "n8n/lyraarteltda-automacao-ia/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lyraarteltda/automacao-ia",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1009415143",
+    "title": "leadmagic-n8n",
+    "tool": "n8n",
+    "tags": [
+      "data-enrichment",
+      "email-finder",
+      "email-validation",
+      "leadmagic",
+      "n8n",
+      "n8n-community-node",
+      "sales-automation",
+      "workflow-automation"
+    ],
+    "description": "n8n community node for LeadMagic email finding, email validation, contact and company enrichment, job research, and workflow automation.",
+    "path": "n8n/leadmagic-leadmagic-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LeadMagic/leadmagic-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359642574",
+    "title": "2b6b1628-pharmacy-drug-store-data-bac",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A single corrupted file or ransomware attack can shut down your pharmacy for days, endangering patient safety and costing thousands. Stop hoping your manual backups are enough—automate protection with this dedicated N8N workflow.  This workflow eliminates the risk of data loss by automatically backing up your pharmacy management system, patient rec",
+    "path": "n8n/ncreighton-2b6b1628-pharmacy-drug-store-data-bac/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/2b6b1628-pharmacy-drug-store-data-bac",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359642516",
+    "title": "182b1538-special-education-iep-custom",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Stop losing IEP families to silent disengagement—predict churn before they leave and re-engage automatically with a workflow built for special education retention.  This N8N workflow analyzes IEP customer data to flag at-risk accounts based on milestones, communication gaps, and service usage. It then triggers personalized re-engagement sequences,",
+    "path": "n8n/ncreighton-182b1538-special-education-iep-custom/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/182b1538-special-education-iep-custom",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359642446",
+    "title": "08d289d0-special-education-iep-review",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Stop drowning in IEP paperwork and missing critical deadlines. This N8N workflow automates the relentless cycle of review monitoring and response, so you can focus on supporting students instead of chasing compliance.  Special education teams waste hours manually tracking IEP reviews, sending reminders, and filing responses. This automation elimina",
+    "path": "n8n/ncreighton-08d289d0-special-education-iep-review/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/08d289d0-special-education-iep-review",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359642392",
+    "title": "fdd7f7f6-dental-practice-management-cli",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Stop juggling paper forms and manual data entry: Automate your dental practice client onboarding from first contact to scheduled appointment—no coding required.  This n8n workflow eliminates the repetitive tasks of collecting patient forms, verifying insurance, and updating practice management software. By connecting your intake forms, scheduling s",
+    "path": "n8n/ncreighton-fdd7f7f6-dental-practice-management-cli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/fdd7f7f6-dental-practice-management-cli",
+    "source": "github-discovery"
   }
 ]

@@ -22696,5 +22696,113 @@
     "type": "repo",
     "repoUrl": "https://github.com/daht-mad/openclaw-slack-search",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359646073",
+    "title": "xiaoyaoclaw-beautify-github-readme",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "design",
+      "documentation",
+      "github",
+      "openclaw",
+      "readme",
+      "skill",
+      "svg"
+    ],
+    "description": "OpenClaw 技能：美化 GitHub README —— 重新设计仓库主页，或创建纯 SVG hero、章节标题、徽章、信息图与动效素材，内置渲染级视觉验证与深浅双主题安全。| An OpenClaw skill for GitHub README makeovers — redesign repo homepages or craft pure-SVG heroes, section headers, badges, infographics and motion assets, with render-level visual verification and dark/light theme safety built in.",
+    "path": "openclaw/dtsola-xiaoyaoclaw-beautify-github-readme/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dtsola/xiaoyaoclaw-beautify-github-readme",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359679263",
+    "title": "scribe",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Portable documentation-generation skills for Hermes and OpenClaw",
+    "path": "openclaw/tadpole256-scribe/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tadpole256/scribe",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182353280",
+    "title": "translate-book",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Agent skill for Codex, Claude Code, and OpenClaw that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents.",
+    "path": "openclaw/deusyu-translate-book/",
+    "type": "repo",
+    "repoUrl": "https://github.com/deusyu/translate-book",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1329531946",
+    "title": "workled",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "dsh",
+      "dsh-plugin",
+      "openclaw",
+      "opencode"
+    ],
+    "description": "workled skill https://www.bilibili.com/video/BV1FK4k6WEKe",
+    "path": "openclaw/git-hub-cloud-workled/",
+    "type": "repo",
+    "repoUrl": "https://github.com/git-hub-cloud/workled",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357631432",
+    "title": "hermes-agent-desktop",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "dsh",
+      "grok",
+      "grokbuild",
+      "mcp",
+      "model-router",
+      "open-source",
+      "openclaw",
+      "openclaw-ui",
+      "pi",
+      "provider-management",
+      "rust",
+      "skills-management",
+      "typescript",
+      "vibe-coding"
+    ],
+    "description": "Deploy Nous Research's Hermes agent on Windows, Mac, or Linux with local Ollama or cloud APIs, featuring tools, skills, schedules, and a gateway.",
+    "path": "openclaw/oghanshyam68-gif-hermes-agent-desktop/",
+    "type": "repo",
+    "repoUrl": "https://github.com/oghanshyam68-gif/hermes-agent-desktop",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359034353",
+    "title": "knowledge-asset-health-check",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "codex-skill",
+      "document-analysis",
+      "knowledge-management",
+      "offline-first",
+      "openclaw",
+      "python",
+      "trae-work",
+      "workbuddy"
+    ],
+    "description": "纯本地、无大模型的企业知识资产体检 Agent Skill",
+    "path": "openclaw/s2dongman-knowledge-asset-health-check/",
+    "type": "repo",
+    "repoUrl": "https://github.com/s2dongman/knowledge-asset-health-check",
+    "source": "github-discovery"
   }
 ]
