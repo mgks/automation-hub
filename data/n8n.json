@@ -65029,5 +65029,162 @@
     "type": "repo",
     "repoUrl": "https://github.com/ncreighton/fdd7f7f6-dental-practice-management-cli",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328791059",
+    "title": "AI-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Building AI-powered workflow automations using n8n, APIs, Python, LLMs and AI agents.",
+    "path": "n8n/varundee21-ai-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/varundee21/AI-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1360850245",
+    "title": "Shopify_Return-to-Subscription_Safeguard",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Enterprise n8n workflow safeguarding Shopify revenue via Return-to-Subscription automation. Intercepts return webhooks (AfterShip/Loop) to pause or cancel matching Recharge subscriptions. Eliminates double-billing and chargebacks with 5-tier idempotency, Google Sheets audit logging, and Discord alerting.",
+    "path": "n8n/anasabidshaikh-shopify_return-to-subscription_safeguard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anasabidshaikh/Shopify_Return-to-Subscription_Safeguard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345786410",
+    "title": "lifespace-n8n-nodes",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Official n8n community nodes for integrating workflows and AI agents with LifeSpace.",
+    "path": "n8n/huangshirui-lifespace-n8n-nodes/",
+    "type": "repo",
+    "repoUrl": "https://github.com/huangshirui/lifespace-n8n-nodes",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1360847912",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/beto18v-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Beto18v/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1351609442",
+    "title": "n8n-whatsapp-outreach",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Personalised WhatsApp outreach for local businesses with no website. n8n workflow.",
+    "path": "n8n/aayan-cloud-n8n-whatsapp-outreach/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aayan-cloud/n8n-whatsapp-outreach",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1354882931",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "agentic-rag",
+      "ai-agents",
+      "ai-governance",
+      "docker",
+      "langchain",
+      "local-ai",
+      "mcp",
+      "n8n",
+      "ollama",
+      "predictive-analytics-for-business",
+      "privacy-first",
+      "rag",
+      "supabase",
+      "vector-database",
+      "workflow-automation"
+    ],
+    "description": "Official n8n creator | Production-ready automation workflows: Agentic RAG, multi-KB AI agents, AI governance, and privacy-first local inference. Stack: Ollama · Supabase · LangChain · MCP · Docker · Gemini. fromus.ca/ai-builds",
+    "path": "n8n/nenedesign-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nenedesign/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1360772969",
+    "title": "noc-bot",
+    "tool": "n8n",
+    "tags": [
+      "aiops",
+      "alert-triage",
+      "datadog",
+      "incident-response",
+      "n8n",
+      "observability",
+      "slack-bot",
+      "sre"
+    ],
+    "description": "Scheduled n8n workflow that triages NOC alerts: Slack ingestion, parallel Datadog and AWS Health enrichment, runbook matching, and LLM diagnosis posted in-thread.",
+    "path": "n8n/juancoder23-noc-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JuanCoder23/noc-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1088579168",
+    "title": "floyo",
+    "tool": "n8n",
+    "tags": [
+      "analytics",
+      "automation",
+      "changelog",
+      "hardonia",
+      "integration-discovery",
+      "intelligence",
+      "local-first",
+      "metrics",
+      "monitoring",
+      "n8n",
+      "observability",
+      "workflow",
+      "workflow-intelligence"
+    ],
+    "description": "Workflow-intelligence: detect hidden integration/automation opportunities from local usage.",
+    "path": "n8n/hardonian-floyo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Hardonian/floyo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1360028567",
+    "title": "enterprise-voice-avatar-assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Deploy an enterprise virtual assistant on OpenShift AI with voice, a lip-synced avatar, and cited RAG answers over company documents, plus n8n workflows for document extraction and service requests.",
+    "path": "n8n/heiba-enterprise-voice-avatar-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/heiba/enterprise-voice-avatar-assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1226191315",
+    "title": "n8n-attendance-ai-workflow",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "google-sheets-api",
+      "llm",
+      "n8n",
+      "openrouter",
+      "telegram-bot",
+      "workflows"
+    ],
+    "description": "Sistema automatizado de gestión y análisis de inasistencias con n8n, OpenRouter (LLM), Google Sheets y Telegram Bot.",
+    "path": "n8n/testebangq-n8n-attendance-ai-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TEstebanGQ/n8n-attendance-ai-workflow",
+    "source": "github-discovery"
   }
 ]

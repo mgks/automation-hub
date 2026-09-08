@@ -22804,5 +22804,138 @@
     "type": "repo",
     "repoUrl": "https://github.com/s2dongman/knowledge-asset-health-check",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1136611506",
+    "title": "lobster",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one step.",
+    "path": "openclaw/openclaw-lobster/",
+    "type": "repo",
+    "repoUrl": "https://github.com/openclaw/lobster",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1340445101",
+    "title": "linkpix-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "aigc",
+      "claude-code",
+      "cross-border-ecommerce",
+      "ecommerce",
+      "openclaw",
+      "skills",
+      "video-generation"
+    ],
+    "description": "85 个电商 AI Agent Skills — 商品图 / 带货视频 / 爆款复刻 / POD 印花 / 跨境选品。Agent skills for e-commerce content generation by LinkPix (青虎AI)",
+    "path": "openclaw/autoagc-linkpix-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/autoagc/linkpix-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1358197942",
+    "title": "openclaw-webapp-kit",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw 2026.6.6 WebSearch plugin and local React/Vite web app skill",
+    "path": "openclaw/zjing0329-openclaw-webapp-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zjing0329/openclaw-webapp-kit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1360830904",
+    "title": "chriseckenrode-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Portable agent skills for model orchestration, GLM workers, and Hermes or OpenClaw on Hetzner",
+    "path": "openclaw/ceckenrode-chriseckenrode-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ceckenrode/chriseckenrode-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357998885",
+    "title": "enterprise-ai-project-assessor",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "面向企业 AI 产品经理与业务评审团队的 Agent Skill：兼容 Codex、OpenClaw 与 Claude Code，评估 PRD、POC、试点和上线方案，输出立项结论、证据缺口与验证计划。",
+    "path": "openclaw/hope138-enterprise-ai-project-assessor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hope138/enterprise-ai-project-assessor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-321631117",
+    "title": "dedao-dl",
+    "tool": "openclaw",
+    "tags": [
+      "dedao",
+      "iget"
+    ],
+    "description": "得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。可结合 openclaw +skill 等使用",
+    "path": "openclaw/yann0917-dedao-dl/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yann0917/dedao-dl",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1360810057",
+    "title": "wikiskills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "本项目基于 Google Research 与 Virginia Tech 发表的最新研究成果《WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution》（arXiv:2608.27454），为各类 AI Agent（包括 Antigravity、Cursor、Claude Code、OpenClaw 及通用 Agent 工具链）提供开箱即用的经验持久化演化引擎与经过论文实证的高价值领域技能库。",
+    "path": "openclaw/luoshuhui-wikiskills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/luoshuhui/wikiskills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1185230767",
+    "title": "resume-helper",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for AI-powered resume optimization and job application",
+    "path": "openclaw/zealxz-resume-helper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zealxz/resume-helper",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1191063318",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "bluesky",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "content-scheduling",
+      "instagram-automation",
+      "linkedin-api",
+      "mcp",
+      "mcp-server",
+      "openclaw",
+      "publora",
+      "skill-md",
+      "social-media-api",
+      "social-media-automation",
+      "social-media-scheduling",
+      "telegram-bot",
+      "threads",
+      "tiktok"
+    ],
+    "description": "Official Publora skills for AI agents: post and schedule to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon and Telegram from Claude Code, Codex, Cursor or OpenClaw through the Publora MCP server. 9 SKILL.md, MIT. Install: npx skills add publora/skills",
+    "path": "openclaw/publora-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/publora/skills",
+    "source": "github-discovery"
   }
 ]
