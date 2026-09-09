@@ -22937,5 +22937,112 @@
     "type": "repo",
     "repoUrl": "https://github.com/publora/skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1362113670",
+    "title": "agent-rewards",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Turn your Claude Code / Codex / Grok / Hermes / Openclaw traces into USDC/USDT — an open-source agent-trace data marketplace (skill + MCP).",
+    "path": "openclaw/josecookai-agent-rewards/",
+    "type": "repo",
+    "repoUrl": "https://github.com/josecookai/agent-rewards",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1230572279",
+    "title": "365-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "coding-agents",
+      "diagram",
+      "drawio",
+      "image-generation",
+      "literature-review",
+      "marketplace",
+      "mermaid",
+      "obsidian",
+      "openclaw",
+      "openclaw-skills",
+      "plugin-marketplace",
+      "scientific-research",
+      "semantic-scholar",
+      "skill-md",
+      "skillsmp",
+      "tts"
+    ],
+    "description": "Agent skills for daily use",
+    "path": "openclaw/agents365-ai-365-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Agents365-ai/365-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1312755450",
+    "title": "safeline-waf",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "SafeLine WAF inspection & automation skill for OpenClaw — report generation, LLM-judge auto-block, blacklist management, Feishu push",
+    "path": "openclaw/ishadowland-safeline-waf/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ishadowland/safeline-waf",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1361580040",
+    "title": "agent-harness-aibom",
+    "tool": "openclaw",
+    "tags": [
+      "agent-harness",
+      "ai-security",
+      "aibom",
+      "cyclonedx",
+      "mcp",
+      "python",
+      "sbom",
+      "supply-chain-security"
+    ],
+    "description": "AIBOM generator for AI agent harnesses (Hermes, OpenClaw) - CycloneDX 1.6 output for runtime, model, skill, MCP, hook, and secrets-surface components",
+    "path": "openclaw/aj7ay-agent-harness-aibom/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Aj7Ay/agent-harness-aibom",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192883275",
+    "title": "android-gradle-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for Android app development with Gradle build system. Includes AGP/Gradle version compatibility, project templates, and build automation scripts.",
+    "path": "openclaw/thatgfsj-android-gradle-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Thatgfsj/android-gradle-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345947606",
+    "title": "shopaholic-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "ai-skills",
+      "china-ecommerce",
+      "claude-skill",
+      "mcp",
+      "openclaw",
+      "pi-agent",
+      "prompt-engineering",
+      "shopaholic",
+      "shopping-advisor"
+    ],
+    "description": "AI购物向导Skill - Shopping decision skill for AI Agents",
+    "path": "openclaw/staysound4-shopaholic-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/StaySound4/shopaholic-skill",
+    "source": "github-discovery"
   }
 ]

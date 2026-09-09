@@ -65186,5 +65186,144 @@
     "type": "repo",
     "repoUrl": "https://github.com/TEstebanGQ/n8n-attendance-ai-workflow",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1362134217",
+    "title": "prompt-ops-console",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Prompt Management + n8n Workflow Operations console (React + TypeScript)",
+    "path": "n8n/viswavivek-prompt-ops-console/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Viswavivek/prompt-ops-console",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1332036855",
+    "title": "loop-control",
+    "tool": "n8n",
+    "tags": [
+      "ai-workflow",
+      "content-production",
+      "hyperframes",
+      "multi-account",
+      "n8n",
+      "react",
+      "supabase",
+      "typescript",
+      "vite",
+      "workflow-automation"
+    ],
+    "description": "Multi-account loop engineering workflow control platform",
+    "path": "n8n/dann-55-loop-control/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DaNN-55/loop-control",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1361741696",
+    "title": "n8n-instantly-smtp-bulk-upload",
+    "tool": "n8n",
+    "tags": [
+      "api-v2",
+      "bulk-upload",
+      "cold-email",
+      "google-sheets",
+      "instantly-ai",
+      "n8n",
+      "n8n-workflow",
+      "smtp"
+    ],
+    "description": "Open-source n8n workflow: bulk-create custom SMTP accounts in Instantly API v2 from Google Sheets — skip-if-exists + status write-back",
+    "path": "n8n/branclelabs-n8n-instantly-smtp-bulk-upload/",
+    "type": "repo",
+    "repoUrl": "https://github.com/branclelabs/n8n-instantly-smtp-bulk-upload",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328554896",
+    "title": "n8n-local",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Just a local n8n workflow (expiremental)",
+    "path": "n8n/dd134345-n8n-local/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DD134345/n8n-local",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1115883969",
+    "title": "n8n-google-meta-ads",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "gemini",
+      "google-ads",
+      "mcp",
+      "mcp-server",
+      "meta-ads",
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "n8n workflows: AI agent on your Google Ads + Meta Ads via the Ryze MCP (https://connector.get-ryze.ai/mcp), Gamma audit decks, Nano Banana static ads",
+    "path": "n8n/irinabuht12-oss-n8n-google-meta-ads/",
+    "type": "repo",
+    "repoUrl": "https://github.com/irinabuht12-oss/n8n-google-meta-ads",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1156744584",
+    "title": "ai-content-generation-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated AI content generation workflow with multi-level validation, quality assurance, and comprehensive logging. Built with n8n, OpenAI GPT-4, and Google Sheets.",
+    "path": "n8n/mauro-montenegro-data-ai-content-generation-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mauro-montenegro-data/ai-content-generation-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1362076901",
+    "title": "telegram-receipt-photo-processing-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow automation pipeline that automatically processes receipt photos sent through Telegram. The workflow uses Google Gemini to extract receipt details, saves the original photo to Google Drive by submission date, and logs the extracted information with a Drive link in Google Sheets.",
+    "path": "n8n/shuakyle21-telegram-receipt-photo-processing-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shuakyle21/telegram-receipt-photo-processing-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1362070416",
+    "title": "ejo-expense-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: Google Chat receipt photos to Claude vision to Supabase",
+    "path": "n8n/kalis-blank-ejo-expense-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kalis-blank/ejo-expense-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1362048144",
+    "title": "n8n_Workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/lisceet-n8n_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Lisceet/n8n_Workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1362048111",
+    "title": "n8n_workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/luisricardotorresnunez-n8n_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/luisricardotorresnunez/n8n_workflows",
+    "source": "github-discovery"
   }
 ]
