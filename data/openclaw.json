@@ -23044,5 +23044,44 @@
     "type": "repo",
     "repoUrl": "https://github.com/StaySound4/shopaholic-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1363396339",
+    "title": "trade-automatizado-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Skill OpenClaw para setups delta-neutros e ordens solo em DEX/CEX configuráveis (Nado, Hyperliquid, Kraken e CEXs via CCXT).",
+    "path": "openclaw/codelab-intushub-trade-automatizado-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CodeLab-IntusHub/trade-automatizado-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357587941",
+    "title": "farmdash-openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "10 open OpenClaw agent skills for DeFi intelligence: Trail Heat, FarmScore, risk, yield, swaps, perps. Read-only, zero-custody. By FarmDash (farmdash.one).",
+    "path": "openclaw/parmasanandgarlic-farmdash-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Parmasanandgarlic/farmdash-openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345831824",
+    "title": "markitdown-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-skill",
+      "document-conversion",
+      "hermes-agent",
+      "markitdown",
+      "openclaw"
+    ],
+    "description": "Convert documents and web pages to Markdown with Microsoft MarkItDown. Auto-trigger when a user gives a file or link and asks to read/analyze/summarize/extract/deposit to a knowledge base; also cuts AI token cost by converting to plain Markdown first (OpenClaw/Hermes/WorkBuddy skill).",
+    "path": "openclaw/stwhwing-markitdown-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/stwhwing/markitdown-skill",
+    "source": "github-discovery"
   }
 ]
