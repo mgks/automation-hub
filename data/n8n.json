@@ -65484,5 +65484,149 @@
     "type": "repo",
     "repoUrl": "https://github.com/odeliyach/CareerOS",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1365186971",
+    "title": "ai-test-case-generator",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Generate detailed QA test cases from a short description and push them into Jira - a self-hosted n8n workflow powered by Google Gemini.",
+    "path": "n8n/nileshvary-ai-test-case-generator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nileshvary/ai-test-case-generator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1234871214",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "openai",
+      "portfolio",
+      "whatsapp",
+      "workflow-automation",
+      "workflows"
+    ],
+    "description": "n8n automation portfolio — AI content pipelines, WhatsApp delivery and data capture. Each project documented as a business case, with architecture and import guide.",
+    "path": "n8n/juanidives-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/juanidives/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1360423242",
+    "title": "mini-flow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n 搬迁到 Cloudflare Workers 的工作流引擎（D1 + Workflows + Durable Object SSE）",
+    "path": "n8n/827802685-mini-flow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/827802685/mini-flow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1365191115",
+    "title": "ai-job-search-n8n-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A sanitized n8n workflow for AI-assisted job discovery, evaluation, and manual review.",
+    "path": "n8n/adrianwanders-ai-job-search-n8n-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AdrianWanders/ai-job-search-n8n-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1363586441",
+    "title": "hris-smart",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered Human Resources Information System for employee management, resume parsing, intelligent autofill, authentication, CRUD operations, and workflow automation using React, Next.js, Node.js, NestJS, PostgreSQL, Tailwind CSS, Docker, n8n, and Ollama.",
+    "path": "n8n/tyronepl-hris-smart/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tyronepl/hris-smart",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1353335127",
+    "title": "N8N-Templates",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "awesome-list",
+      "chatbots",
+      "langchain",
+      "llm",
+      "low-code",
+      "n8n",
+      "n8n-templates",
+      "n8n-workflows",
+      "no-code",
+      "openai",
+      "rag",
+      "self-hosted",
+      "telegram-bot",
+      "workflow-automation"
+    ],
+    "description": "Curated collection of 350+ production-ready n8n automation workflow templates. AI agents, RAG, LLMs, Telegram bots, email automation, DevOps & more.",
+    "path": "n8n/ahmedfawzyjr-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ahmedfawzyjr/N8N-Templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357962989",
+    "title": "n8n-Academy-QS101",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Hands-on n8n Academy QS101 projects covering workflow automation, data processing, AI agents, APIs, JavaScript, scheduling, and integrations.",
+    "path": "n8n/diegoleaogarcia-n8n-academy-qs101/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DiegoLeaoGarcia/n8n-Academy-QS101",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1365102478",
+    "title": "invoice-extractor-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: invoice photo to validated Google Sheets row via dual-LLM cross-check + human-in-the-loop",
+    "path": "n8n/christhiandonnylacandu-invoice-extractor-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/christhiandonnylacandu/invoice-extractor-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1364733828",
+    "title": "yellowai-lead-sniper",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Yellow.ai AI Intern - Assignment 1: n8n workflow that snipes high-value GitHub leads from repo stargazers",
+    "path": "n8n/shaurya55555-yellowai-lead-sniper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Shaurya55555/yellowai-lead-sniper",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1364848941",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "finance",
+      "invoice-processing",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow",
+      "uae",
+      "whatsapp"
+    ],
+    "description": "Seven n8n workflows for finance and operations teams: WhatsApp lead agent, order to fulfilment, AI lead response, invoice intake, month end close, approvals, content QA gate. Built and tested on sample data.",
+    "path": "n8n/finamatik-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/finamatik/n8n-workflows",
+    "source": "github-discovery"
   }
 ]

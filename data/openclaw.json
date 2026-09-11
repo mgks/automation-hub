@@ -23083,5 +23083,97 @@
     "type": "repo",
     "repoUrl": "https://github.com/stwhwing/markitdown-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182828999",
+    "title": "waingro",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI Agent Security Scanner — detects malicious patterns in OpenClaw skills and MCP servers",
+    "path": "openclaw/north-echo-waingro/",
+    "type": "repo",
+    "repoUrl": "https://github.com/north-echo/waingro",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1339923728",
+    "title": "tsinghua-campus-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "清华校园技能包 campus skill for OpenClaw — 网络学堂/课表/成绩/图书馆/文献/邮箱 一站式校园事务",
+    "path": "openclaw/tomuiv-tsinghua-campus-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TOMUIV/tsinghua-campus-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1150942202",
+    "title": "openclaw-docker",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Docker setup with Cloudflare Tunnel - persistent skills, no Homebrew required",
+    "path": "openclaw/fsightprop-openclaw-docker/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fsightprop/openclaw-docker",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1364031831",
+    "title": "my-agent-my-way-openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/tb-ai-engineer888-my-agent-my-way-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TB-AI-Engineer888/my-agent-my-way-openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1363674034",
+    "title": "family-wealth-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AgentSkills: family wealth IPS + China A-share monitor/dividend/bond helpers (Cursor/Claude/Hermes/OpenClaw)",
+    "path": "openclaw/osbornwj-family-wealth-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OsbornWJ/family-wealth-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1298163814",
+    "title": "bossai-ecommerce-ai-team-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "ai-agent",
+      "bossai",
+      "claude-code",
+      "codex",
+      "ecommerce",
+      "openclaw",
+      "source-available"
+    ],
+    "description": "BossAI 电商总管 Skill：单一入口自动调度电商AI员工。公开源码，非商业免费，商业使用需授权。",
+    "path": "openclaw/liufeng1976-bossai-ecommerce-ai-team-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/liufeng1976/bossai-ecommerce-ai-team-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1210755598",
+    "title": "tekt.md",
+    "tool": "openclaw",
+    "tags": [
+      "claude",
+      "claw",
+      "hermes-agent",
+      "openclaw",
+      "picoclaw"
+    ],
+    "description": "Tekt — the open-source utility belt for your AI harness. Sets up an AI sandbox on Linux or Windows with pre-vetted tools, agents, MCP servers and skills. Bring your own intelligence: Ollama, OpenRouter, OpenAI, Anthropic.",
+    "path": "openclaw/xingh-tekt.md/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xingh/tekt.md",
+    "source": "github-discovery"
   }
 ]
