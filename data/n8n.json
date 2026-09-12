@@ -65628,5 +65628,191 @@
     "type": "repo",
     "repoUrl": "https://github.com/finamatik/n8n-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1366459278",
+    "title": "edupulse-crm-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Enterprise Student Exam Management CRM Dashboard with automated n8n AI Workflow Pipeline powered by Google Gemini 2.5 Flash.",
+    "path": "n8n/adityadwis-26-edupulse-crm-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Adityadwis-26/edupulse-crm-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1366851821",
+    "title": "connector-rust-server",
+    "tool": "n8n",
+    "tags": [],
+    "description": "High-performance Rust connector server for n8n workflow engine",
+    "path": "n8n/catzpro01-connector-rust-server/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Catzpro01/connector-rust-server",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1366862673",
+    "title": "leadflow-pro",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-Powered Lead Management Platform — Full-stack app with n8n workflows, GHL automations, and VPS deployment",
+    "path": "n8n/reonjy-leadflow-pro/",
+    "type": "repo",
+    "repoUrl": "https://github.com/reonjy/leadflow-pro",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1366815878",
+    "title": "n8n-mcp-guard",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "Let an AI agent build and change your n8n workflows with a guaranteed way back: every write is backed up, version-checked, and verified by readback.",
+    "path": "n8n/farazhayder-n8n-mcp-guard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/FarazHayder/n8n-mcp-guard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1361389649",
+    "title": "n8n-silent-workflow-check",
+    "tool": "n8n",
+    "tags": [
+      "monitoring",
+      "n8n",
+      "n8n-workflow",
+      "observability",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Find n8n workflows that are active but have not run — the failure that produces no failed execution, so no error workflow fires",
+    "path": "n8n/triponymous-n8n-silent-workflow-check/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Triponymous/n8n-silent-workflow-check",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1366667569",
+    "title": "Restaurant-Ai-Agent",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "chatbot",
+      "conversational-agent",
+      "conversational-ai",
+      "customer-service-bot",
+      "google-sheets-api",
+      "inventory-management-solutions",
+      "inventory-management-system",
+      "llm",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "prompt-engineering",
+      "restaurant-automation",
+      "self-hosted",
+      "structured-output",
+      "telegram-bot-with-ai"
+    ],
+    "description": "Built an AI ordering assistant with n8n, OpenRouter, Google Sheets, and Telegram. Customers order in natural language (any language), the AI remembers the conversation, confirms details, and auto-logs orders with sequential numbers — zero manual spreadsheet work. Debugged with Claude",
+    "path": "n8n/walid-amr-restaurant-ai-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Walid-Amr/Restaurant-Ai-Agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1366539990",
+    "title": "n8n-dance-course-enrollment-automation",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automated",
+      "n8n",
+      "n8n-workflow",
+      "ngrok",
+      "ngrok-server",
+      "ngrok-tunnel"
+    ],
+    "description": "Automated dance-course enrollment confirmation workflow built with Google Forms, Google Sheets, n8n, and Gmail.",
+    "path": "n8n/raghuseamit-n8n-dance-course-enrollment-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/raghuseAmit/n8n-dance-course-enrollment-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1289489844",
+    "title": "My-First-n8n-Workflows",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "data-cleaning",
+      "data-cleaning-and-eda",
+      "data-cleaning-preprocessing",
+      "data-processing",
+      "data-transformation",
+      "eda",
+      "etl",
+      "etl-automation",
+      "google-sheets",
+      "low-code",
+      "n8n",
+      "n8n-automation",
+      "n8n-community-node",
+      "n8n-node",
+      "n8n-workflow",
+      "n8n-workflow-automation",
+      "no-code",
+      "slack"
+    ],
+    "description": "A simple workflow using Google Sheets to fetch data and process it by combining first_name and last_name into a full_name field. Useful for data normalization, reporting, and preparing user data for export or integration with other systems.Features  * Manual workflow execution * Fetch rows from Google Sheets * Transform data using field mapping",
+    "path": "n8n/walid-amr-my-first-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Walid-Amr/My-First-n8n-Workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359416793",
+    "title": "Life-Event-Compliance-Assistant",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "automation",
+      "liveevent",
+      "llm",
+      "n8n",
+      "n8n-workflow",
+      "organization",
+      "rag"
+    ],
+    "description": "An n8n-powered life-event compliance assistant that classifies personal administrative events, builds jurisdiction-specific checklists, stores deadlines, and creates Google Calendar reminders with human-review safeguards.",
+    "path": "n8n/ayarihanine-life-event-compliance-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ayarihanine/Life-Event-Compliance-Assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1358782677",
+    "title": "donor-retention-workflow",
+    "tool": "n8n",
+    "tags": [
+      "google-sheets",
+      "llama3",
+      "n8n-workflow",
+      "ollama"
+    ],
+    "description": "Automation workflow that segments donors and send personalized messages",
+    "path": "n8n/tiennguyen93-donor-retention-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TienNguyen93/donor-retention-workflow",
+    "source": "github-discovery"
   }
 ]
