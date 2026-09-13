@@ -65814,5 +65814,167 @@
     "type": "repo",
     "repoUrl": "https://github.com/TienNguyen93/donor-retention-workflow",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-949203950",
+    "title": "mcp-n8n-workflow-builder",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "ai-tools",
+      "api-management",
+      "automation-platform",
+      "claude-ai",
+      "cursor-ide",
+      "low-code",
+      "mcp",
+      "model-context-protocol",
+      "multi-instance",
+      "n8n",
+      "natural-language",
+      "no-code",
+      "nodejs",
+      "typescript",
+      "workflow-automation",
+      "workflow-builder"
+    ],
+    "description": "AI-powered n8n workflow automation through natural language. MCP server enabling Claude AI & Cursor IDE to create, manage, and monitor workflows via Model Context Protocol. Multi-instance support, 17 tools, comprehensive docs. Build workflows conversationally without manual JSON editing.",
+    "path": "n8n/salacoste-mcp-n8n-workflow-builder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/salacoste/mcp-n8n-workflow-builder",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1367906789",
+    "title": "inbound-lead-triage",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "claude",
+      "googlesheets",
+      "n8n"
+    ],
+    "description": "n8n workflow: web form lead → validated → classified by Claude → Google Sheet + urgent-lead alert. Built as a portfolio piece.",
+    "path": "n8n/xaviersutherlin-inbound-lead-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xaviersutherlin/inbound-lead-triage",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1364994492",
+    "title": "dbsre-nexus",
+    "tool": "n8n",
+    "tags": [
+      "apache-geode",
+      "cloudflare-tunnel",
+      "dbsre",
+      "microk8s",
+      "mysql",
+      "n8n",
+      "postgresql",
+      "sql-server",
+      "vercel"
+    ],
+    "description": "DBSRE Nexus ⚡ Cross-Database Reliability Control Plane & N8N Workflow Orchestration Hub",
+    "path": "n8n/leoaboin-dbsre-nexus/",
+    "type": "repo",
+    "repoUrl": "https://github.com/leoaboin/dbsre-nexus",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1367894168",
+    "title": "SAS_Educa-o_automatizador_N8N",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow e automação experimental em n8n para testes de integração de API e estudos de tráfego HTTP",
+    "path": "n8n/cristianoems-df-sas_educa-o_automatizador_n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CRISTIANOEMS-DF/SAS_Educa-o_automatizador_N8N",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1367880806",
+    "title": "broker-inbox-triage",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Free n8n workflow that classifies and labels a broker inbox in Gmail",
+    "path": "n8n/jlebaynham-broker-inbox-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jlebaynham/broker-inbox-triage",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1367871078",
+    "title": "n8n-security-alert-monitoring-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated security alert monitoring and incident response workflow built with n8n, Google Sheets, and Gmail.",
+    "path": "n8n/sajalshakeel-n8n-security-alert-monitoring-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sajalshakeel/n8n-security-alert-monitoring-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1367807165",
+    "title": "n8n-automation-templates",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-minded n8n workflow templates for CRM, ERP, WhatsApp, reporting, and business process automation.",
+    "path": "n8n/morsoflab-n8n-automation-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Morsoflab/n8n-automation-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1367872359",
+    "title": "5d3c1eab-tutoring-test-prep-review-mo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Professional tutoring n8n automation workflow — without the professional price tag.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Tutoring & Test Prep Review Monitoring And Response Automation — fully configured and re",
+    "path": "n8n/ncreighton-5d3c1eab-tutoring-test-prep-review-mo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ncreighton/5d3c1eab-tutoring-test-prep-review-mo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1367729920",
+    "title": "smart-lead-automation",
+    "tool": "n8n",
+    "tags": [
+      "docker",
+      "fastapi",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "postgresql",
+      "python",
+      "readme"
+    ],
+    "description": "Automação de qualificação e priorização de leads com n8n, Python, FastAPI, PostgreSQL e Docker, incluindo lead scoring, roteamento comercial e notificações por e-mail.",
+    "path": "n8n/vitormazon12-smart-lead-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vitormazon12/smart-lead-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1367724658",
+    "title": "n8n-IP-abuse-report-watcher",
+    "tool": "n8n",
+    "tags": [
+      "abuseipdb",
+      "automation",
+      "ip-reputation",
+      "n8n",
+      "n8n-workflow",
+      "security-monitoring",
+      "slack",
+      "slack-webhook"
+    ],
+    "description": "The n8n action that watches AbuseIPDB reports for specified IPs and immediately reports any new finding into slack ",
+    "path": "n8n/robustagile-n8n-ip-abuse-report-watcher/",
+    "type": "repo",
+    "repoUrl": "https://github.com/robustagile/n8n-IP-abuse-report-watcher",
+    "source": "github-discovery"
   }
 ]

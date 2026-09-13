@@ -23175,5 +23175,37 @@
     "type": "repo",
     "repoUrl": "https://github.com/xingh/tekt.md",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1178503769",
+    "title": "guaardvark",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "ai-workstation",
+      "claude-code",
+      "claude-code-plugin",
+      "coding-agent",
+      "comfyui",
+      "llm",
+      "local-ai",
+      "mcp",
+      "mcp-server",
+      "multi-agent",
+      "ollama",
+      "python",
+      "rag",
+      "self-hosted",
+      "stable-diffusion",
+      "video-generation",
+      "voice-assistant"
+    ],
+    "description": "The self-hosted AI studio: local video, image, music, voice, LoRA training, coding swarms, RAG and screen agents on one GPU, driven from the Studio or by your coding agent (Claude Code, Cursor, Codex, OpenClaw) through MCP and skills.",
+    "path": "openclaw/guaardvark-guaardvark/",
+    "type": "repo",
+    "repoUrl": "https://github.com/guaardvark/guaardvark",
+    "source": "github-discovery"
   }
 ]
