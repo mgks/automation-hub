@@ -23357,5 +23357,59 @@
     "type": "repo",
     "repoUrl": "https://github.com/officalkiran12/awesome-agent-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209438050",
+    "title": "ai-thoughts",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI agent skills + bilingual (EN/CN) articles & essays — OpenClaw, Hermes, OpenCode. See PORTFOLIO.md for the overview.",
+    "path": "openclaw/negtivspace-ai-thoughts/",
+    "type": "repo",
+    "repoUrl": "https://github.com/negtivspace/ai-thoughts",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1209202589",
+    "title": "ai-thoughts",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI agent skills + bilingual (EN/CN) articles & essays — OpenClaw, Hermes, OpenCode. See PORTFOLIO.md for the overview.",
+    "path": "openclaw/j3ffyang-ai-thoughts/",
+    "type": "repo",
+    "repoUrl": "https://github.com/j3ffyang/ai-thoughts",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1238532570",
+    "title": "stock-analysis-plugin",
+    "tool": "openclaw",
+    "tags": [
+      "a-shares",
+      "ai-agent",
+      "akshare",
+      "algorithmic-trading",
+      "backtesting",
+      "deepseek-harness",
+      "dsh-plugin",
+      "factor-investing",
+      "hermes-agent",
+      "hk-stocks",
+      "pi-agent",
+      "pi-extension",
+      "quantitative-finance",
+      "quantitative-trading",
+      "stock-analysis",
+      "stock-market",
+      "technical-analysis",
+      "tushare",
+      "us-stocks",
+      "yfinance"
+    ],
+    "description": "Multi-market stock analysis, screening & backtesting plugin for AI agents — 39 tools + 20 strategy skills across A/HK/US/JP/KR/TW markets, works with Pi Agent, Hermes, OpenClaw & dsh",
+    "path": "openclaw/weaxs-stock-analysis-plugin/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Weaxs/stock-analysis-plugin",
+    "source": "github-discovery"
   }
 ]

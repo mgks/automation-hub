@@ -66179,5 +66179,166 @@
     "type": "repo",
     "repoUrl": "https://github.com/khanarhamali/clinic-booking-form",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1370801024",
+    "title": "n8n-customer-feedback-ai-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated customer feedback analysis and classification workflow using n8n, Google Sheets, and Gemini 1.5 LLM with Structured Output Parsing.",
+    "path": "n8n/esoyc-n8n-customer-feedback-ai-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/esoyc/n8n-customer-feedback-ai-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1360960461",
+    "title": "AI_auto",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of AI automation projects — multi-agent systems, RAG pipelines, and workflow automations built with n8n, LLMs, and the Model Context Protocol (MCP).",
+    "path": "n8n/yousefoza20036-ai_auto/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yousefoza20036/AI_auto",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-867271847",
+    "title": "n8n-nodes-opensearch",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-nodes",
+      "opensearch"
+    ],
+    "description": "This is an n8n community node. It lets you use OpenSearch in your n8n workflows.",
+    "path": "n8n/stevenlafl-n8n-nodes-opensearch/",
+    "type": "repo",
+    "repoUrl": "https://github.com/stevenlafl/n8n-nodes-opensearch",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1370776482",
+    "title": "ai_agents_workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered automation workflows built in n8n — lead intake classification with LLM tagging, and a RAG-based chat agent using Pinecone and Gemini for document Q&A.",
+    "path": "n8n/suvinathapa-ai_agents_workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SuvinaThapa/ai_agents_workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1370764897",
+    "title": "n8n-odoo-workflows",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "erp",
+      "n8n",
+      "odoo",
+      "workflow-automation"
+    ],
+    "description": "Three production-minded n8n workflows for Odoo: idempotent order sync, auditable dunning, and deduplicated CRM intake.",
+    "path": "n8n/freefish1218-n8n-odoo-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/freefish1218/n8n-odoo-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1370639916",
+    "title": "ai-sales-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Autonomous AI sales agent for construction — 9-workflow n8n pipeline that finds federal projects, qualifies them with a local LLM, enriches contacts, drafts and sends outreach, handles replies, and syncs to CRM.",
+    "path": "n8n/azubukouju8-dev-ai-sales-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/azubukouju8-dev/ai-sales-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1254776784",
+    "title": "n8n-nodes-rendobar",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "api",
+      "automation",
+      "captions",
+      "ffmpeg",
+      "image-generation",
+      "media-processing",
+      "n8n",
+      "n8n-community-node-package",
+      "n8n-nodes",
+      "rendobar",
+      "video",
+      "workflow-automation"
+    ],
+    "description": "n8n community nodes for Rendobar. Automate media processing workflows using the Rendobar API in n8n.",
+    "path": "n8n/rendobar-n8n-nodes-rendobar/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rendobar/n8n-nodes-rendobar",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1346716799",
+    "title": "Global-Lead-Finder",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "google-places-api",
+      "lead-generation",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "react",
+      "workflow-automation"
+    ],
+    "description": "AI-powered B2B lead generation tool using Google Places API, n8n, and Gemini",
+    "path": "n8n/zohaib-mzb-global-lead-finder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Zohaib-mzb/Global-Lead-Finder",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1186008701",
+    "title": "Poets4Life",
+    "tool": "n8n",
+    "tags": [
+      "community",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "poet",
+      "poets4life"
+    ],
+    "description": "พื้นที่แห่งถ้อยคำที่เติมเต็มพลังใจ พบกับบทกวี คำคม และสุภาษิตที่จะช่วยนำทางและสร้างแรงบันดาลใจในทุกย่างก้าวของชีวิต ถ่ายทอดผ่านมุมมองของ 'น้องคูเปอร์' ไบค์เกอร์ตัวน้อยที่มีหัวใจสุดเก๋า 😎",
+    "path": "n8n/funkyboyz-poets4life/",
+    "type": "repo",
+    "repoUrl": "https://github.com/funkyboyz/Poets4Life",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1369283933",
+    "title": "n8n-dual-rag-ai-agent",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "automation",
+      "gemini",
+      "n8n",
+      "n8n-workflow",
+      "qdrant",
+      "rag"
+    ],
+    "description": "Modular dual-RAG n8n automation workflow using Qdrant Vector Store, Gemini, and Qwen for document ingestion and AI task execution.",
+    "path": "n8n/noxflamereal-n8n-dual-rag-ai-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/noxflamereal/n8n-dual-rag-ai-agent",
+    "source": "github-discovery"
   }
 ]
