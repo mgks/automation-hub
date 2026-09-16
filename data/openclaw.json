@@ -23411,5 +23411,33 @@
     "type": "repo",
     "repoUrl": "https://github.com/Weaxs/stock-analysis-plugin",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1183997726",
+    "title": "clipcat-skill",
+    "tool": "openclaw",
+    "tags": [
+      "affiliate-marketing",
+      "agent-skills",
+      "ai-agent",
+      "ai-video",
+      "claude-code",
+      "cli",
+      "ecommerce",
+      "openclaw",
+      "prompt-engineering",
+      "sora",
+      "tiktok",
+      "tiktok-shop",
+      "ugc",
+      "ugc-ads",
+      "veo3",
+      "video-generation"
+    ],
+    "description": "TikTok e-commerce video generation, replication, and analysis SKILL",
+    "path": "openclaw/clipcat-ai-clipcat-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Clipcat-ai/clipcat-skill",
+    "source": "github-discovery"
   }
 ]

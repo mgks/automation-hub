@@ -66340,5 +66340,148 @@
     "type": "repo",
     "repoUrl": "https://github.com/noxflamereal/n8n-dual-rag-ai-agent",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1356314746",
+    "title": "leads-demo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Inbound lead qualification: cheap rules first, the model only on survivors, every decision backed by a quote. Live demo plus the n8n workflow export.",
+    "path": "n8n/uncleom-leads-demo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/uncleom/leads-demo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1372421138",
+    "title": "n8n-telegram-task-manager",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow to create and update tasks/work orders via Telegram bot integration",
+    "path": "n8n/drod971-n8n-telegram-task-manager/",
+    "type": "repo",
+    "repoUrl": "https://github.com/drod971/n8n-telegram-task-manager",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1370490459",
+    "title": "mr-bubba-store",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "business-automation",
+      "data-cleaning",
+      "data-cleanup",
+      "n8n",
+      "small-business",
+      "spreadsheet-automation",
+      "spreadsheet-services",
+      "web-development"
+    ],
+    "description": "Mr Bubba Services: practical web development, data cleanup, and n8n workflow implementation",
+    "path": "n8n/rngbubba-mr-bubba-store/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RNGBubba/mr-bubba-store",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1371826037",
+    "title": "AI-Automation-Engineer-AAE-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Autonomous AI Automation Engineer (AAE) platform for requirement intake, formal specification synthesis, n8n workflow generation, zero-trust governance approval, deployment, runtime diagnostics, and self-healing repair with durable PostgreSQL persistence.",
+    "path": "n8n/teleiosite-ai-automation-engineer-aae-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Teleiosite/AI-Automation-Engineer-AAE-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1372402316",
+    "title": "WhatsApp-AI-Chatbot-Workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This repository contains a fully automated WhatsApp chatbot workflow built entirely on n8n, designed to handle text, voice, and image messages through a single conversational interface.",
+    "path": "n8n/jayjogarajiya67-whatsapp-ai-chatbot-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jayjogarajiya67/WhatsApp-AI-Chatbot-Workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1372388017",
+    "title": "Ai-content-repurposing-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that turns a single article or YouTube link into platform-ready content drafts, routes them through Slack for human approval, and auto-publishes approved posts to LinkedIn",
+    "path": "n8n/aaliyan-coder-ai-content-repurposing-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Aaliyan-coder/Ai-content-repurposing-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1370735830",
+    "title": "motoboy-prime-automacao-entregas-n8n",
+    "tool": "n8n",
+    "tags": [
+      "google-api",
+      "google-maps",
+      "google-sheets",
+      "logistic",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "telegrambot"
+    ],
+    "description": "Automação logística no n8n para cálculo de rotas, otimização de menor distância (Python/JS) e gestão financeira via Telegram e Google Sheets.",
+    "path": "n8n/erik-dos-santos-motoboy-prime-automacao-entregas-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Erik-Dos-Santos/motoboy-prime-automacao-entregas-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1372044225",
+    "title": "croma-n8n-templates",
+    "tool": "n8n",
+    "tags": [
+      "croma",
+      "kyc",
+      "latam",
+      "mcp",
+      "n8n",
+      "n8n-templates",
+      "n8n-workflow",
+      "public-data"
+    ],
+    "description": "n8n workflow templates for Croma: official public records from Latin America and the US via REST and MCP",
+    "path": "n8n/croma-labs-croma-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/croma-labs/croma-n8n-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1371785241",
+    "title": "multimodal-telegram-ai-agent",
+    "tool": "n8n",
+    "tags": [
+      "agentic",
+      "ai",
+      "ai-agent",
+      "aiagent",
+      "automation",
+      "multi-agent",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "telegram",
+      "text",
+      "text-to-speech",
+      "vision",
+      "voice-agent",
+      "workflow-automation"
+    ],
+    "description": "An advanced, open-source n8n workflow that automatically routes and processes text, images, and voice messages using multi-modal AI agents and sub-agent tools. Highly customizable template for autonomous customer service and automation bots.",
+    "path": "n8n/noxflamereal-multimodal-telegram-ai-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/noxflamereal/multimodal-telegram-ai-agent",
+    "source": "github-discovery"
   }
 ]
