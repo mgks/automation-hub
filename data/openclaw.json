@@ -23439,5 +23439,81 @@
     "type": "repo",
     "repoUrl": "https://github.com/Clipcat-ai/clipcat-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1373872618",
+    "title": "ai-podcast-voiceover-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-podcast-voiceover",
+      "ai-voice",
+      "article-to-podcast",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "openclaw",
+      "podcast",
+      "podcast-generator",
+      "skill-md",
+      "text-to-speech",
+      "tts",
+      "voiceover"
+    ],
+    "description": "AI podcast voiceover agent skill for Claude Code, Codex & OpenClaw: turn an article, notes, or a finished script into a solo podcast episode with a consistent host voice, natural pacing, pronunciation control, and a ready-to-publish audio file. AI播客配音 · 文章转播客",
+    "path": "openclaw/beatra-ai-ai-podcast-voiceover-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/beatra-ai/ai-podcast-voiceover-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1179431371",
+    "title": "purrcat",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "agent-framework",
+      "agentskills",
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "copilot",
+      "hermes",
+      "openclaw",
+      "skills",
+      "vibe-coding"
+    ],
+    "description": "PurrCat Agent",
+    "path": "openclaw/purrpod-purrcat/",
+    "type": "repo",
+    "repoUrl": "https://github.com/PurrPod/purrcat",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1373861823",
+    "title": "ai-video-generator-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-video",
+      "ai-video-editing",
+      "ai-video-generator",
+      "b-roll",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "generative-ai",
+      "image-to-video",
+      "openclaw",
+      "skill-md",
+      "text-to-video",
+      "video-extension",
+      "video-generation"
+    ],
+    "description": "AI video generator agent skill for Claude Code, Codex & OpenClaw: generate, animate, edit, and extend short videos from text, images, or existing clips for ads, product stories, social posts, b-roll, and cinematic concepts. AI视频生成 · 文生视频 · 图生视频",
+    "path": "openclaw/beatra-ai-ai-video-generator-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/beatra-ai/ai-video-generator-skill",
+    "source": "github-discovery"
   }
 ]
