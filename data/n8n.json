@@ -66646,5 +66646,145 @@
     "type": "repo",
     "repoUrl": "https://github.com/atushi1841/n8n-japan-price-monitor",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1375301230",
+    "title": "youtube-ai-automation-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "End-to-end AI video automation workflow built with n8n, OpenAI, Kling AI, ElevenLabs, Google Drive, fal.ai FFmpeg, and YouTube.",
+    "path": "n8n/sabuj-chandra-das-youtube-ai-automation-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sabuj-chandra-das/youtube-ai-automation-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1375198377",
+    "title": "rafaelalsilveira",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Automation, n8n, AI Agents, and practical workflow projects.",
+    "path": "n8n/rafaelalsilveira-rafaelalsilveira/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rafaelalsilveira/rafaelalsilveira",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1375263140",
+    "title": "china-supplier-rfq-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow for automatically scoring and qualifying suppliers based on price, MOQ, and lead time",
+    "path": "n8n/maggiegao-dev-china-supplier-rfq-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/maggiegao-dev/china-supplier-rfq-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1375262749",
+    "title": "unified-whatsapp-webhook-gateway",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A high-performance unified webhook gateway connecting Evolution API and WAHA with CRMs, WooCommerce, and n8n workflows.",
+    "path": "n8n/seotarek-unified-whatsapp-webhook-gateway/",
+    "type": "repo",
+    "repoUrl": "https://github.com/seotarek/unified-whatsapp-webhook-gateway",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1375254595",
+    "title": "khushrupapara",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-focused developer building LLM applications, AI agents, RAG systems, and intelligent automation workflows with Python, LangChain, Gemini, n8n, and APIs.",
+    "path": "n8n/khushrupapara-khushrupapara/",
+    "type": "repo",
+    "repoUrl": "https://github.com/khushrupapara/khushrupapara",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1367590447",
+    "title": "agentic-devflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A semi-autonomous agentic developer workflow: n8n for triggers/approvals, MCP for the tool layer, pluggable LLM backends (Claude or any OpenAI-compatible server).",
+    "path": "n8n/abhirammv2000-agentic-devflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abhirammv2000/agentic-devflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345368454",
+    "title": "rsuelvo-vault",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Vault de Obsidian del proyecto RSUELVO: arquitectura, ERD, workflows n8n, política WhatsApp y wireframes de la app móvil",
+    "path": "n8n/skinnypizza-rsuelvo-vault/",
+    "type": "repo",
+    "repoUrl": "https://github.com/skinnypizza/rsuelvo-vault",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1322865851",
+    "title": "awesome-n8n-community-nodes",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-automation",
+      "n8n-community-node",
+      "n8n-community-node-package",
+      "n8n-node",
+      "n8n-nodes",
+      "n8n-workflow"
+    ],
+    "description": "A curated list of n8n community nodes",
+    "path": "n8n/bhavyshekhaliya-awesome-n8n-community-nodes/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bhavyshekhaliya/awesome-n8n-community-nodes",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1375232316",
+    "title": "crypto-ai-guardian-bot",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "crypto",
+      "cryptocurrency",
+      "google-sheets",
+      "langchain",
+      "n8n",
+      "n8n-workflow",
+      "openai",
+      "telegram-bot-with-ai"
+    ],
+    "description": "n8n automation: Telegram AI crypto assistant with alerts, signal scoring, whale detection, and daily market reports",
+    "path": "n8n/aziziarya-crypto-ai-guardian-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AziziArya/crypto-ai-guardian-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1374209790",
+    "title": "ActuaryFlow-AI",
+    "tool": "n8n",
+    "tags": [
+      "actuarial-science",
+      "ai-agents",
+      "fastapi",
+      "github-actions",
+      "html5",
+      "llm",
+      "markdown",
+      "n8n-workflow",
+      "python",
+      "rag"
+    ],
+    "description": "Designed around a workflow like your n8n example: user request → LLM agent → memory → policy RAG → actuarial tools → decision router → human review/notification.",
+    "path": "n8n/halim-math-actuaryflow-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/halim-math/ActuaryFlow-AI",
+    "source": "github-discovery"
   }
 ]

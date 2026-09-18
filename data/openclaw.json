@@ -23515,5 +23515,32 @@
     "type": "repo",
     "repoUrl": "https://github.com/beatra-ai/ai-video-generator-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1329489019",
+    "title": "stateroot",
+    "tool": "openclaw",
+    "tags": [
+      "agent-memory",
+      "agentic-ai",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "kimi",
+      "local-first",
+      "mcp",
+      "openclaw",
+      "rust",
+      "vscode-extension"
+    ],
+    "description": "Switch harnesses. Keep the agent. Cross-harness continuity for AI coding agents — persona, memory, plans, skills, sessions, and project history carry across Claude Code, Codex, Cursor, Kimi Code, Pi, and DeepSeek Harness. Local-first CLI.",
+    "path": "openclaw/cogniztech-stateroot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CognizTech/stateroot",
+    "source": "github-discovery"
   }
 ]
