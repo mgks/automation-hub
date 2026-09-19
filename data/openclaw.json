@@ -23542,5 +23542,71 @@
     "type": "repo",
     "repoUrl": "https://github.com/CognizTech/stateroot",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1376663715",
+    "title": "bitsweave-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "BitsWeave OpenClaw / ClawHub package — MCP OAuth shell + skill, no secrets.",
+    "path": "openclaw/kirchoff-digital-bitsweave-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kirchoff-digital/bitsweave-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1375060507",
+    "title": "apple-app-intents-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agents",
+      "app-intents",
+      "apple",
+      "apple-intelligence",
+      "claude-code",
+      "codex",
+      "gemini",
+      "ios",
+      "openclaw",
+      "shortcuts",
+      "siri",
+      "swift"
+    ],
+    "description": "Teach your coding agent to build iOS apps with Siri, Shortcuts, and Apple Intelligence using free, open-source skill.",
+    "path": "openclaw/dexter04056-apple-app-intents-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Dexter04056/apple-app-intents-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1373049178",
+    "title": "awesome-openclaw",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-automation",
+      "anthropic",
+      "clawdbot",
+      "community-agents",
+      "crewclaw",
+      "docker",
+      "hermes",
+      "knowledge-management",
+      "mcp",
+      "moltbot",
+      "no-code",
+      "openclaw",
+      "openclaw-skills",
+      "productivity",
+      "usecase",
+      "workflow-automation",
+      "zh-cn"
+    ],
+    "description": "Discover the ultimate curated toolkit for OpenClaw—a self-hosted AI agent with 50+ integrations, tutorials, skills, and community resources.",
+    "path": "openclaw/garcev77-awesome-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/garcev77/awesome-openclaw",
+    "source": "github-discovery"
   }
 ]

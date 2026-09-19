@@ -66786,5 +66786,188 @@
     "type": "repo",
     "repoUrl": "https://github.com/halim-math/ActuaryFlow-AI",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1375747891",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "here i keep my n8n workflows.",
+    "path": "n8n/ashwin-choudhary-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ashwin-Choudhary/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1361715696",
+    "title": "AI-Workflow-Orchestrator",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered workflow orchestrator that understands natural-language requests, breaks them into tasks, selects the best automation platform (Make, Zapier, or n8n), connects required integrations, generates workflows, validates them, and eventually deploys them automatically.",
+    "path": "n8n/kavyansh1275-spec-ai-workflow-orchestrator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kavyansh1275-spec/AI-Workflow-Orchestrator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1374942712",
+    "title": "snap-api-website-screenshots-in-one-call",
+    "tool": "n8n",
+    "tags": [
+      "apis-io",
+      "apis-io-submission"
+    ],
+    "description": "Single-endpoint website-screenshot and rendering service that captures any public URL with a Chromium engine, returning PNG/JPEG/WebP images, PDFs, or scroll/video recordings via one GET request. Designed for developers, n8n workflows, and automated pipelines.",
+    "path": "n8n/api-evangelist-snap-api-website-screenshots-in-one-call/",
+    "type": "repo",
+    "repoUrl": "https://github.com/api-evangelist/snap-api-website-screenshots-in-one-call",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1376584927",
+    "title": "n8n-github-pr-summary",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "ci",
+      "code-review",
+      "developer-tools",
+      "devops",
+      "github",
+      "github-webhook",
+      "llm",
+      "n8n",
+      "n8n-workflow",
+      "pull-request"
+    ],
+    "description": "n8n workflow that summarises a GitHub pull request with an LLM and posts one comment: what changed, why it matters, risks, review focus. HMAC-verified deliveries, repo allowlist, secrets and lockfiles kept out of the prompt, comment updated in place. One importable JSON, 12 end-to-end tests against a pinned n8n. MIT.",
+    "path": "n8n/fractal-techware-n8n-github-pr-summary/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Fractal-Techware/n8n-github-pr-summary",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1376584640",
+    "title": "n8n-incident-triage-workflow",
+    "tool": "n8n",
+    "tags": [
+      "aiops",
+      "alertmanager",
+      "automation",
+      "devops",
+      "incident-response",
+      "llm",
+      "n8n",
+      "n8n-workflow",
+      "observability",
+      "oncall",
+      "prometheus",
+      "sre"
+    ],
+    "description": "n8n workflow that turns an Alertmanager alert group into one triaged chat message: summary, likely cause, first checks, runbook and silence links. Secrets are redacted before the prompt and the notification still arrives when the LLM fails. One importable JSON, 10 end-to-end tests against a pinned n8n. MIT.",
+    "path": "n8n/fractal-techware-n8n-incident-triage-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Fractal-Techware/n8n-incident-triage-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1376574991",
+    "title": "hn-jobs-radar",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "hacker-news",
+      "job-search",
+      "n8n",
+      "workflow"
+    ],
+    "description": "n8n workflow: scans Hacker News 'Who is hiring?' + YC jobs every N days, scores by your keywords, sends a Telegram digest",
+    "path": "n8n/mulunur-hn-jobs-radar/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mulunur/hn-jobs-radar",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1376172020",
+    "title": "Central-Reliability-Retry-and-Dead-Letter-System",
+    "tool": "n8n",
+    "tags": [
+      "backend-engineering",
+      "devops",
+      "error-handling",
+      "exponential-backoff",
+      "javascript",
+      "n8n",
+      "n8n-workflow",
+      "reliability-engineering",
+      "retry-mechanism",
+      "retry-mechanism-for-unreliable-inputs",
+      "workflow-automation"
+    ],
+    "description": "Production-grade, centralized error handling, exponential backoff retries, and Dead-Letter Queue (DLQ) engine for n8n workflows with Google Sheets & Gmail integration.",
+    "path": "n8n/arsalannoor90-central-reliability-retry-and-dead-letter-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ArsalanNoor90/Central-Reliability-Retry-and-Dead-Letter-System",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1375973399",
+    "title": "job-fit-scorer-automation",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "google-sheets",
+      "groq",
+      "llm",
+      "llms",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "workflow"
+    ],
+    "description": "n8n automation that scores job postings against my skills using the Groq LLM API, then logs results to Google Sheets",
+    "path": "n8n/ahmedkhan42000-job-fit-scorer-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ahmedkhan42000/job-fit-scorer-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1374581827",
+    "title": "job-automation-agent",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "low-code",
+      "n8n",
+      "n8n-automation",
+      "n8n-nodes",
+      "n8n-workflow"
+    ],
+    "description": "Autonomous AI agent for automating job applications, from data extraction and email generation to personalized application workflows and delivery. Built with n8n, APIs, and LLM-powered automation.",
+    "path": "n8n/yasouimo-job-automation-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Yasouimo/job-automation-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1375751900",
+    "title": "instagram-ai-crm",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "crm-dashboard",
+      "instagram-automation",
+      "n8n-workflow",
+      "nextjs15",
+      "prisma",
+      "typescript",
+      "whisper-ai"
+    ],
+    "description": "Production-grade Instagram CRM Dashboard & n8n Multimodal AI Agent Workflow (Next.js 15, Tailwind v4, Prisma, Whisper & Meta Graph API)",
+    "path": "n8n/rayyan1122pk-star-instagram-ai-crm/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rayyan1122pk-star/instagram-ai-crm",
+    "source": "github-discovery"
   }
 ]
