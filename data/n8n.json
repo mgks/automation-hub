@@ -66969,5 +66969,191 @@
     "type": "repo",
     "repoUrl": "https://github.com/rayyan1122pk-star/instagram-ai-crm",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1130081218",
+    "title": "n8n_workflows_backup",
+    "tool": "n8n",
+    "tags": [],
+    "description": "N8N workflows for Mimir RBT version",
+    "path": "n8n/ember96-n8n_workflows_backup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ember96/n8n_workflows_backup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199889021",
+    "title": "technology-operations-library",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "cybersecurity",
+      "google-workspace",
+      "it-operations",
+      "microsoft-365",
+      "n8n",
+      "private-equity",
+      "venture-capital"
+    ],
+    "description": "Practical resources for technology operations: guides, workflows, cloud baselines, documentation, training, and implementation examples.",
+    "path": "n8n/hellojdmiller-technology-operations-library/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hellojdmiller/technology-operations-library",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1297557420",
+    "title": "edit-theory-agents",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "api",
+      "automation",
+      "groq",
+      "n8n"
+    ],
+    "description": "AI automation workflows (n8n + Groq) for D2C Brands",
+    "path": "n8n/samhita1008-edit-theory-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Samhita1008/edit-theory-agents",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1010123551",
+    "title": "n8n-templates",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of ready-to-use n8n automation workflows for streamlining tasks like data syncing, API integration, and AI agent orchestration.",
+    "path": "n8n/haziq046-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Haziq046/n8n-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1377765749",
+    "title": "Claude_coding",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This repo is for building Apps, website, and n8n workflows. Agent and Agentic models.",
+    "path": "n8n/greatyinkus-claude_coding/",
+    "type": "repo",
+    "repoUrl": "https://github.com/greatyinkus/Claude_coding",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1377532172",
+    "title": "ComapanyFlow",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-assisted-development",
+      "ai-automation",
+      "ai-model",
+      "ai-tools",
+      "n8n",
+      "n8n-automation",
+      "n8n-nodes",
+      "n8n-template",
+      "n8n-workflow",
+      "n8n-workflows"
+    ],
+    "description": "a complete automated company systems",
+    "path": "n8n/abdalrahman-musa-comapanyflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Abdalrahman-Musa/ComapanyFlow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1350937481",
+    "title": "SchemeSetu",
+    "tool": "n8n",
+    "tags": [
+      "css",
+      "gmail-api",
+      "google-sheets-api",
+      "html",
+      "javascript",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "whatsapp-api"
+    ],
+    "description": "SchemeSetu - AI Powered Government Scheme Eligibility & Assistance Platform",
+    "path": "n8n/satvik-creations-schemesetu/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Satvik-Creations/SchemeSetu",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1377242724",
+    "title": "neuro-case",
+    "tool": "n8n",
+    "tags": [
+      "case-study",
+      "chatbot",
+      "docker",
+      "gigachat",
+      "linux",
+      "n8n-workflow",
+      "postmortem",
+      "raspberry-pi",
+      "telegram-bot-with-ai",
+      "tls"
+    ],
+    "description": "Кейс: чат-бот кофейни пережил миграцию на сертификаты Минцифры",
+    "path": "n8n/alex133052-neuro-case/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alex133052/neuro-case",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1377140663",
+    "title": "n8n-ffmpeg-http-render-kit",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "avalux",
+      "content-automation",
+      "docker",
+      "ebu-r128",
+      "express",
+      "ffmpeg",
+      "loudnorm",
+      "mit-license",
+      "n8n",
+      "n8n-workflow",
+      "render-service",
+      "self-hosted",
+      "social-video",
+      "vertical-video",
+      "video-automation",
+      "video-rendering"
+    ],
+    "description": "Stop your video automations from dying when n8n can't install ffmpeg. Replace Execute Command ffmpeg steps with one HTTP render call: 9:16 reframe, logo overlay, EBU R128 loudness. MIT, by Avalux.",
+    "path": "n8n/avalux-io-n8n-ffmpeg-http-render-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/avalux-io/n8n-ffmpeg-http-render-kit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1376763575",
+    "title": "MTUCI-RAG-Example",
+    "tool": "n8n",
+    "tags": [
+      "codex",
+      "codex-project",
+      "codex-skill",
+      "n8n",
+      "n8n-workflow",
+      "python",
+      "rio",
+      "teaching-materials"
+    ],
+    "description": "Пример готового проекта, реализованный с n8n и Codex, в рамках учебной программы МТУСИ",
+    "path": "n8n/daniel-robotic-mtuci-rag-example/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Daniel-Robotic/MTUCI-RAG-Example",
+    "source": "github-discovery"
   }
 ]
