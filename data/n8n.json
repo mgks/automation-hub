@@ -67155,5 +67155,165 @@
     "type": "repo",
     "repoUrl": "https://github.com/Daniel-Robotic/MTUCI-RAG-Example",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1379014561",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "github-api",
+      "gmail-api",
+      "low-code",
+      "n8n",
+      "no-code",
+      "workflow-automation"
+    ],
+    "description": "AI-powered automation workflows built with n8n — GitHub notifier with error handling",
+    "path": "n8n/xhenzouu-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Xhenzouu/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378637954",
+    "title": "n8n-lead-response",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "customer-communication",
+      "lead-generation",
+      "missed-call",
+      "n8n",
+      "small-business",
+      "sms",
+      "twilio",
+      "voice",
+      "workflow-automation"
+    ],
+    "description": "Fourteen n8n workflows so a small business never loses a lead to a missed call, then follows up on quotes and invoices. Pulled out of a live production install, credentials stripped, test log included.",
+    "path": "n8n/mikematthewsai-n8n-lead-response/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mikematthewsai/n8n-lead-response",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378776965",
+    "title": "ai-lead-enrichment-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "KI-gestützter n8n-Workflow zur automatisierten Recherche und Anreicherung von Firmen-Leads mit Branche, Kurzprofil und personalisiertem Gesprächseinstieg.",
+    "path": "n8n/denizk276-ai-lead-enrichment-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Denizk276/ai-lead-enrichment-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1102479675",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automation workflows built with n8n.",
+    "path": "n8n/mrmechazilla-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mrmechazilla/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378968525",
+    "title": "n8n-automation-template",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Base n8n project: webhook -> AI reply (OpenAI) -> Google Sheets CRM -> email. Docker + example workflows.",
+    "path": "n8n/javierparradev-n8n-automation-template/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JavierparraDev/n8n-automation-template",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378782404",
+    "title": "workflow-render",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "developer-tools",
+      "n8n",
+      "svg",
+      "visualization",
+      "workflow"
+    ],
+    "description": "Render workflow and execution JSON to SVG/PNG offline; embed and export. n8n is the first supported platform.",
+    "path": "n8n/ludwiggerdes-workflow-render/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LudwigGerdes/workflow-render",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378782222",
+    "title": "workflow-tester",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "developer-tools",
+      "n8n",
+      "testing",
+      "webhooks",
+      "workflow"
+    ],
+    "description": "Generate and run contract tests from the payloads a workflow trigger can receive. n8n is the first supported platform.",
+    "path": "n8n/ludwiggerdes-workflow-tester/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LudwigGerdes/workflow-tester",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378781953",
+    "title": "integration-mock",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "developer-tools",
+      "mock",
+      "n8n",
+      "testing",
+      "workflow"
+    ],
+    "description": "Mock the APIs a workflow's integrations call; snapshot real runs and replay them. n8n is the first supported platform.",
+    "path": "n8n/ludwiggerdes-integration-mock/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LudwigGerdes/integration-mock",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378781732",
+    "title": "workflow-lint",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "developer-tools",
+      "linter",
+      "n8n",
+      "workflow"
+    ],
+    "description": "Lint and format workflow JSON; pre-commit hook, GitHub Action, MCP server. n8n is the first supported platform.",
+    "path": "n8n/ludwiggerdes-workflow-lint/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LudwigGerdes/workflow-lint",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378950133",
+    "title": "n8n-whatsapp-automation",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "n8n-whatsapp-automation-for-ecommerce"
+    ],
+    "description": "A complete WhatsApp automation system for order processing using n8n workflows, Node.js, and WhatsApp Business API.",
+    "path": "n8n/kaizen108-n8n-whatsapp-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kaizen108/n8n-whatsapp-automation",
+    "source": "github-discovery"
   }
 ]

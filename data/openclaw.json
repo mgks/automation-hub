@@ -23720,5 +23720,164 @@
     "type": "repo",
     "repoUrl": "https://github.com/sno-ai/sno-station",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1280037832",
+    "title": "awesome-finai-tools-zn",
+    "tool": "openclaw",
+    "tags": [
+      "ai-tools",
+      "akshare",
+      "awesome-list",
+      "baostock",
+      "china",
+      "china-stock-market",
+      "claude-skills",
+      "eastmoney",
+      "finance",
+      "fintech",
+      "investment-research",
+      "market-data",
+      "mcp-server",
+      "openclaw",
+      "quantitative-trading",
+      "skill-ecosystem",
+      "trading-bot",
+      "tushare"
+    ],
+    "description": "中国金融 AI 工具全景图：Market Data MCP / 量化框架 / 券商 Skills / 金融 CLI / Python 金融库。覆盖 A股 港股 基金 期货 行情数据 量化回测 因子挖掘 舆情分析 投研。支持 OpenClaw / Claude / Cursor / Coze 等 AI Agent 平台。每周自动巡检更新。",
+    "path": "openclaw/lj22503-awesome-finai-tools-zn/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lj22503/awesome-finai-tools-zn",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1372684760",
+    "title": "obsidian-memory-plugin",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "A self-growing long-term memory skill for Obsidian, packaged for OpenClaw and Codex.",
+    "path": "openclaw/annual30k-obsidian-memory-plugin/",
+    "type": "repo",
+    "repoUrl": "https://github.com/annual30k/obsidian-memory-plugin",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1379003167",
+    "title": "notebooklm-py",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+    "path": "openclaw/clarexj-cc-notebooklm-py/",
+    "type": "repo",
+    "repoUrl": "https://github.com/clarexj-cc/notebooklm-py",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319223866",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Agent 可复用技能库（SKILL.md 格式，按分类组织）",
+    "path": "openclaw/devil-del127-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DEVIL-del127/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1334886742",
+    "title": "docgent-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skills for Docgent document access",
+    "path": "openclaw/vanaheim-labs-docgent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Vanaheim-Labs/docgent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378952424",
+    "title": "deep-read",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "ai-agent-skill",
+      "ai-tools",
+      "claude-code",
+      "openclaw"
+    ],
+    "description": "🧠 AI Agent Skill: 用《如何阅读一本书》的分析阅读框架深读整本书（艾德勒十五条规则），输出 HTML 解读页 | Analytical reading as an agent pipeline",
+    "path": "openclaw/outmansay-deep-read/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OutmanSay/deep-read",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1199242637",
+    "title": "ledger-cli",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "ai-agent-skill",
+      "ai-tools",
+      "claude-code",
+      "openclaw"
+    ],
+    "description": "🧠 AI Agent Skill: 自然语言记账，数据全本地 | AI agent skill for expense tracking in natural language",
+    "path": "openclaw/outmansay-ledger-cli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OutmanSay/ledger-cli",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1369099683",
+    "title": "social-publish",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "ai-agent-skill",
+      "ai-tools",
+      "claude-code",
+      "openclaw"
+    ],
+    "description": "🧠 AI Agent Skill: 一句话全平台发布（微博/即刻/知乎/公众号草稿/小红书/今日头条/百家号），带确认门、失败不静默 | Cross-posting skill for Chinese social platforms",
+    "path": "openclaw/outmansay-social-publish/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OutmanSay/social-publish",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1203903517",
+    "title": "codex-switch",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "ai-agent-skill",
+      "ai-tools",
+      "claude-code",
+      "openclaw"
+    ],
+    "description": "🧠 AI Agent Skill: ChatGPT Plus 多账号切换 + OpenClaw 双缓存同步 | AI agent skill for switching ChatGPT Plus accounts",
+    "path": "openclaw/outmansay-codex-switch/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OutmanSay/codex-switch",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1201344853",
+    "title": "inbox-pipeline",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "ai-agent-skill",
+      "ai-tools",
+      "claude-code",
+      "openclaw"
+    ],
+    "description": "🧠 AI Agent Skill: AI 驱动的 Obsidian inbox 自动分类归档管线 | AI agent skill for automated knowledge inbox processing",
+    "path": "openclaw/outmansay-inbox-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OutmanSay/inbox-pipeline",
+    "source": "github-discovery"
   }
 ]
