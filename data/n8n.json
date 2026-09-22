@@ -67315,5 +67315,125 @@
     "type": "repo",
     "repoUrl": "https://github.com/kaizen108/n8n-whatsapp-automation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1380756143",
+    "title": "essentia_ai_medical_scheduling_assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered medical scheduling assistant using FastAPI, PostgreSQL and n8n, with tool-calling agents, multimodal interactions and automated scheduling workflows.",
+    "path": "n8n/iansaft-essentia_ai_medical_scheduling_assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iansaft/essentia_ai_medical_scheduling_assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1349351411",
+    "title": "varevant.com",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "api-integration",
+      "automation",
+      "n8n",
+      "nodejs",
+      "postgresql",
+      "supabase",
+      "typescript",
+      "webhooks"
+    ],
+    "description": "Automation & integration engineering: APIs, webhooks, n8n, PostgreSQL/Supabase and reliable AI-assisted workflows.",
+    "path": "n8n/naraya07pedro-spec-varevant.com/",
+    "type": "repo",
+    "repoUrl": "https://github.com/naraya07pedro-spec/varevant.com",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1380267575",
+    "title": "commerce-competitive-intelligence",
+    "tool": "n8n",
+    "tags": [],
+    "description": "建立競品價格與評論分析 Demo 的專案基礎，供後續 Codex、Python 與 n8n workflow 開發使用",
+    "path": "n8n/3pwei-commerce-competitive-intelligence/",
+    "type": "repo",
+    "repoUrl": "https://github.com/3pwei/commerce-competitive-intelligence",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1368319717",
+    "title": "app-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow automation for technical people, with Home Assistant and MQTT wired in.",
+    "path": "n8n/hassio-addons-app-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hassio-addons/app-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1380781534",
+    "title": "tri-emails-jev",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Trier sa boîte mail avec Jev (TypeSafe) : 4 templates prêts à l'emploi - script Python, workflow n8n, scénario Make, skill Claude Code.",
+    "path": "n8n/colindargent-tri-emails-jev/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ColinDargent/tri-emails-jev",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1380779417",
+    "title": "AI-workflow-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An event-driven AI workflow automation pipeline using n8n webhooks, Gemini 2.5 Flash JSON schema extraction, and automated routing to Slack and Google Sheets.",
+    "path": "n8n/duhranduhran-ai-workflow-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DuhranDuhran/AI-workflow-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1380637975",
+    "title": "ai-risk-triage",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that turns an AI use-case intake form into a risk-triaged, auditable register entry in Notion — LLM draft + deterministic governance rules (EU AI Act tiers, NIST AI RMF, ISO/IEC 42001 Annex A).",
+    "path": "n8n/garynair-ai-risk-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/garynair/ai-risk-triage",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1380764695",
+    "title": "Cat-TicTac",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Cat-TicTac es un videojuego de Gato desarrollado con React, React Router y JSON Server. El proyecto implementa componentes reutilizables, manejo de estados y hooks, rutas dinámicas, consumo de datos mediante GET y POST, registro de resultados y conexión con un workflow de n8n mediante Webhook.",
+    "path": "n8n/anaocampo1994fwdcostarica-code-cat-tictac/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anaocampo1994fwdcostarica-code/Cat-TicTac",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1380758144",
+    "title": "domain-gap-engine",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Local-first, evidence-grounded friction research for configurable hardware and software domains, with generated n8n workflows.",
+    "path": "n8n/cjmurphy164752-collab-domain-gap-engine/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cjmurphy164752-collab/domain-gap-engine",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1380746649",
+    "title": "ai-content-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered content automation workflows using n8n, Zapier, and AI tools.",
+    "path": "n8n/ogungbadeayobamifodilulahi-glitch-ai-content-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ogungbadeayobamifodilulahi-glitch/ai-content-automation",
+    "source": "github-discovery"
   }
 ]

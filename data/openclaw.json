@@ -23879,5 +23879,30 @@
     "type": "repo",
     "repoUrl": "https://github.com/OutmanSay/inbox-pipeline",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1371973036",
+    "title": "ticker-universe-builder",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-skills",
+      "clawhub",
+      "cryptocurrency",
+      "equities",
+      "finance",
+      "market-data",
+      "openclaw",
+      "python",
+      "skills",
+      "stock-market",
+      "watchlist",
+      "zero-dependency"
+    ],
+    "description": "An agent skill that builds and maintains auditable ticker universes for fourteen markets — every member carrying a role, a reason and dated evidence — and renders them as TradingView watchlists. An observation instrument, not investment advice.",
+    "path": "openclaw/bitpunklabs-ticker-universe-builder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bitpunklabs/ticker-universe-builder",
+    "source": "github-discovery"
   }
 ]
