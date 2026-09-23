@@ -67435,5 +67435,213 @@
     "type": "repo",
     "repoUrl": "https://github.com/ogungbadeayobamifodilulahi-glitch/ai-content-automation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1369297632",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "automation",
+      "integration",
+      "n8n",
+      "n8n-workflows",
+      "no-code",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Production n8n workflows from real client builds — email triage, lead routing, CRM sync, social publishing. Import the JSON, swap the credentials, run it.",
+    "path": "n8n/waseemnasir2k26-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/waseemnasir2k26/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1283224328",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-automation",
+      "api",
+      "automation",
+      "business-automation",
+      "crm",
+      "document-processing",
+      "email-automation",
+      "gmail",
+      "google-drive",
+      "google-sheets",
+      "google-workspace",
+      "invoice-processing",
+      "lead-management",
+      "n8n",
+      "notion",
+      "ocr",
+      "portfolio",
+      "rss",
+      "workflow-automation"
+    ],
+    "description": "Production-ready n8n workflows for AI-powered business automation, document processing, Google Workspace, and API integrations.",
+    "path": "n8n/shaban27-dev-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Shaban27-dev/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1352693520",
+    "title": "n8n-approval-patterns",
+    "tool": "n8n",
+    "tags": [
+      "approvals",
+      "n8n",
+      "nextjs",
+      "security",
+      "webhooks",
+      "workflow-automation"
+    ],
+    "description": "Tokenized multi-stage approval workflows for n8n: single-use hashed tokens, GET-confirm/POST-commit, audit trail.",
+    "path": "n8n/blackdiamondcyber-png-n8n-approval-patterns/",
+    "type": "repo",
+    "repoUrl": "https://github.com/blackdiamondcyber-png/n8n-approval-patterns",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1382594651",
+    "title": "n8n-renewal-reminders-sms",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "reminders",
+      "small-business",
+      "sms",
+      "twilio",
+      "workflow-automation"
+    ],
+    "description": "n8n workflow that texts a service business owner before licenses, insurance and registrations run out. Tap Done and it rolls to next year. Twilio, no database.",
+    "path": "n8n/mikematthewsai-n8n-renewal-reminders-sms/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mikematthewsai/n8n-renewal-reminders-sms",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1382029072",
+    "title": "security-automation-platform",
+    "tool": "n8n",
+    "tags": [
+      "cybersecurity",
+      "devsecops",
+      "dfir",
+      "fastapi",
+      "n8n",
+      "security-automation",
+      "soar",
+      "soc",
+      "threat-intelligence",
+      "vulnerability-management"
+    ],
+    "description": "Cyber Constellation — 65 orchestrated security workflows across SOC, GRC, IAM, vulnerability management, DFIR, DevSecOps and cloud posture, behind a FastAPI control plane with JWT auth and HMAC-verified webhooks.",
+    "path": "n8n/gururajseethur-security-automation-platform/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gururajseethur/security-automation-platform",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1382515151",
+    "title": "Homework-Reminder-n8n",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "discord-webhook",
+      "execute-command",
+      "n8n",
+      "python",
+      "reminder-bot"
+    ],
+    "description": "Automated homework reminder workflow using n8n, Python script (Execute Command) for data processing, and Discord notifications.",
+    "path": "n8n/hafiz-abubakar-dev-homework-reminder-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hafiz-abubakar-dev/Homework-Reminder-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1300273032",
+    "title": "lead-capture-and-crm-sync",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-automation",
+      "airtable-integration",
+      "groq-integration",
+      "lead-generation",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "no-code",
+      "sales-automation",
+      "slack-integration",
+      "typeform-api"
+    ],
+    "description": "AI-powered n8n lead automation with verified CRM sync and failure handling.",
+    "path": "n8n/ihussainisami-lead-capture-and-crm-sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ihussainisami/lead-capture-and-crm-sync",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1362737518",
+    "title": "funnel-sight",
+    "tool": "n8n",
+    "tags": [
+      "ai-content-generation",
+      "claude-api",
+      "marketing-automation",
+      "n8n-workflow",
+      "seo"
+    ],
+    "description": "Fictional microsite created as part of the RS7424 AI Certification training exercise.",
+    "path": "n8n/cecilemaindron-funnel-sight/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CecileMaindron/funnel-sight",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1097653768",
+    "title": "n8n-templates",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "n8n-automation",
+      "n8n-template",
+      "n8n-templates",
+      "n8n-workflow",
+      "workflow",
+      "workflows"
+    ],
+    "description": "Collection of ready-to-use n8n templates for automations, data fetching, notifications, and integrations. Includes free workflows, detailed guides, and modular components for building powerful automations quickly.",
+    "path": "n8n/paoloronco-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/paoloronco/n8n-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1342520861",
+    "title": "n8n-transcription-workflows",
+    "tool": "n8n",
+    "tags": [
+      "apify",
+      "n8n",
+      "n8n-workflow",
+      "podcast",
+      "speech-to-text",
+      "transcription",
+      "youtube-transcript"
+    ],
+    "description": "n8n transcription templates and Apify API examples for podcasts, audio, video and captions. Tested quickstarts with explicit pricing and reliability limits.",
+    "path": "n8n/jx-yan-n8n-transcription-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jx-yan/n8n-transcription-workflows",
+    "source": "github-discovery"
   }
 ]

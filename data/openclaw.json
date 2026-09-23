@@ -23904,5 +23904,54 @@
     "type": "repo",
     "repoUrl": "https://github.com/bitpunklabs/ticker-universe-builder",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1164964582",
+    "title": "discogs_sync",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Tool to search discogs marketplace, and maintain wantlist and collection.  Includes a SKILL.md for use in openclaw.",
+    "path": "openclaw/khaney64-discogs_sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/khaney64/discogs_sync",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1382546669",
+    "title": "stellar-trail",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-skills",
+      "memory",
+      "openclaw",
+      "protocol"
+    ],
+    "description": "Unified 6-phase execution discipline + persistent cross-session memory protocol for AI agents (installable via skills.sh)",
+    "path": "openclaw/hoshiyomix-stellar-trail/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hoshiyomiX/stellar-trail",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1202117056",
+    "title": "rozo-intents-skills",
+    "tool": "openclaw",
+    "tags": [
+      "bridge",
+      "clawhub",
+      "cryptopayments",
+      "ethereum",
+      "openclaw",
+      "smart-contracts",
+      "solana",
+      "stablecoin",
+      "stellar"
+    ],
+    "description": "Cross-chain crypto payments and bridging via Rozo. Send USDC/USDT across Ethereum, Base, BNB Chain, Solana, and Stellar. Use when user says \"pay\", \"send\", \"transfer\", \"payout\", \"check balance\", \"payment status\", or shares a QR code screenshot. ",
+    "path": "openclaw/rozoai-rozo-intents-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RozoAI/rozo-intents-skills",
+    "source": "github-discovery"
   }
 ]
