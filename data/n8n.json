@@ -67643,5 +67643,162 @@
     "type": "repo",
     "repoUrl": "https://github.com/jx-yan/n8n-transcription-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1381096737",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n automation workflows",
+    "path": "n8n/err404memory-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/err404memory/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1384292091",
+    "title": "gtmos",
+    "tool": "n8n",
+    "tags": [
+      "clay",
+      "dbt",
+      "experimentation",
+      "fastapi",
+      "gtm",
+      "hubspot",
+      "lead-scoring",
+      "n8n",
+      "nextjs",
+      "postgresql",
+      "posthog",
+      "revenue-operations",
+      "reverse-etl",
+      "revops",
+      "sales-automation"
+    ],
+    "description": "An AI-native GTM control plane: product signals, enrichment, explainable scoring, routing, idempotent workflows, CRM reverse ETL and experimentation. FastAPI, Postgres, Next.js, dbt, n8n. One of four integrations is verified by execution and the repo leads with that; synthetic data only, it has never sent a message.",
+    "path": "n8n/yds233013-gtmos/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yds233013/gtmos",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1383918119",
+    "title": "motonapratica-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Documentação e workflows N8N do Moto Na Pratica - Sistema de automação para portal de notícias sobre motociclismo",
+    "path": "n8n/eliejosuevargas01-stack-motonapratica-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/eliejosuevargas01-stack/motonapratica-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1376974288",
+    "title": "conduit",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "express",
+      "llm",
+      "mcp",
+      "n8n-alternative",
+      "nodejs",
+      "react",
+      "react-flow",
+      "workflow",
+      "workflow-automation"
+    ],
+    "description": "n8n-style workflow engine where the AI drafts, a human approves, and code verifies (React Flow + Express + MCP)",
+    "path": "n8n/rhlfur2055-prog-conduit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rhlfur2055-prog/conduit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1336715046",
+    "title": "ai-automation-projects",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered process automation projects using n8n — built for procurement, supply chain, and workflow efficiency",
+    "path": "n8n/estacioaaron-ai-automation-projects/",
+    "type": "repo",
+    "repoUrl": "https://github.com/EstacioAaron/ai-automation-projects",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1384125524",
+    "title": "n8n-nodes-ragas",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A community n8n node that brings Ragas RAG evaluation into your workflows. Pipe your RAG pipeline's outputs in, get metric scores (faithfulness, answer relevancy, context precision/recall, and more) out — then branch on thresholds downstream.",
+    "path": "n8n/arturovaine-n8n-nodes-ragas/",
+    "type": "repo",
+    "repoUrl": "https://github.com/arturovaine/n8n-nodes-ragas",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1312536652",
+    "title": "lead-segmentation-ai-scoring-automation",
+    "tool": "n8n",
+    "tags": [
+      "google-sheets",
+      "groq-integration",
+      "lead-generation-automation",
+      "n8n",
+      "n8n-automation",
+      "n8n-template",
+      "n8n-workflow",
+      "sales-automation",
+      "webhook"
+    ],
+    "description": "An n8n workflow that automatically receives, validates, classifies, and AI scores inbound leads from any web form, then routes them to the right Google Sheet and notifies your sales team instantly.",
+    "path": "n8n/ihussainisami-lead-segmentation-ai-scoring-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ihussainisami/lead-segmentation-ai-scoring-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1155224191",
+    "title": "OpenWA-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "OpenWA Community Nodes for n8n - WhatsApp automation workflow nodes",
+    "path": "n8n/rmyndharis-openwa-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rmyndharis/OpenWA-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378711264",
+    "title": "ai-voice-interviewer",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Voice AI interview system with two interchangeable voice backends: managed cloud (Vapi) and a self-hosted pipeline (Pipecat + Deepgram). Same n8n workflows and scoring on both, $1.50 vs $0.02 per session. Python, Supabase, Docker.",
+    "path": "n8n/drianp-belarmino-ai-voice-interviewer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/drianp-belarmino/ai-voice-interviewer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1383824731",
+    "title": "n8n-dca-signal-mm200",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "bitcoin",
+      "coinbase",
+      "crypto",
+      "dca",
+      "french",
+      "n8n",
+      "n8n-workflow",
+      "telegram-bot"
+    ],
+    "description": "Workflow n8n gratuit : signal DCA Bitcoin basé sur la moyenne mobile 200 jours, envoyé sur Telegram (API publique Coinbase, aucune clé).",
+    "path": "n8n/hatem6584-n8n-dca-signal-mm200/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HATEM6584/n8n-dca-signal-mm200",
+    "source": "github-discovery"
   }
 ]

@@ -23953,5 +23953,72 @@
     "type": "repo",
     "repoUrl": "https://github.com/RozoAI/rozo-intents-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1181957081",
+    "title": "d2l-cli",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "ai-agents",
+      "assistant",
+      "automation",
+      "brightspace",
+      "brightspace-api",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "cli",
+      "cursor",
+      "d2l",
+      "d2l-brightspace",
+      "education",
+      "learning",
+      "lms",
+      "openclaw",
+      "openclaw-skills",
+      "python",
+      "skills"
+    ],
+    "description": "Give your AI agent read-only access to your D2L Brightspace courses — grades, due dates, syllabi, lecture files. One-message setup, works at any Brightspace school.",
+    "path": "openclaw/aaryan-kapoor-d2l-cli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Aaryan-Kapoor/d2l-cli",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1379303016",
+    "title": "amazon-ads-optimization",
+    "tool": "openclaw",
+    "tags": [
+      "acos",
+      "advertising",
+      "agent-skill",
+      "amazon-ads",
+      "amazon-ppc",
+      "amazon-seller",
+      "claude-skill",
+      "ecommerce",
+      "openclaw",
+      "ppc",
+      "skills",
+      "tacos"
+    ],
+    "description": "可执行的亚马逊广告投放优化方法论（Agent Skill）：盈亏平衡 ACoS 口径、9 层诊断规则表、SQP 份额漏斗、6 轮理论交叉验证、零依赖 CLI。",
+    "path": "openclaw/wany-i-amazon-ads-optimization/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Wany-i/amazon-ads-optimization",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1384439402",
+    "title": "aws-free-tier-onboarding",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: complete the AWS Free Tier 探索 AWS onboarding tasks from the CLI to reach US$200 in credits",
+    "path": "openclaw/acmuhan-aws-free-tier-onboarding/",
+    "type": "repo",
+    "repoUrl": "https://github.com/acmuhan/aws-free-tier-onboarding",
+    "source": "github-discovery"
   }
 ]
