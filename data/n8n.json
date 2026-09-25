@@ -67800,5 +67800,161 @@
     "type": "repo",
     "repoUrl": "https://github.com/HATEM6584/n8n-dca-signal-mm200",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1191105415",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/ssd-007-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ssd-007/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1386569445",
+    "title": "n8n-nodes-mbxflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "MBX Flow for n8n: save drafts and schedule social posts from your workflows.",
+    "path": "n8n/mediaboxent-technologies-n8n-nodes-mbxflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MediaBoxEnt-Technologies/n8n-nodes-mbxflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1377236999",
+    "title": "n8n-ai-invoice-collections-automation",
+    "tool": "n8n",
+    "tags": [
+      "accounts-receivable",
+      "ai-agents",
+      "amazon-bedrock",
+      "amazon-s3",
+      "aws",
+      "dynamodb",
+      "generative-ai",
+      "human-in-the-loop",
+      "invoice-automation",
+      "n8n",
+      "portfolio-project",
+      "workflow-automation"
+    ],
+    "description": "Enterprise-style n8n invoice collections automation with AWS, Bedrock AI agents, human approval, audit trails, and safe email workflows.",
+    "path": "n8n/gaboscini-n8n-ai-invoice-collections-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gaboscini/n8n-ai-invoice-collections-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1293095609",
+    "title": "swell-event",
+    "tool": "n8n",
+    "tags": [],
+    "description": "The surf-trip automation. When the forecast fires, this n8n workflow books the whole thing.",
+    "path": "n8n/aaronparton2-sketch-swell-event/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aaronparton2-sketch/swell-event",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1354521737",
+    "title": "japow-event",
+    "tool": "n8n",
+    "tags": [],
+    "description": "When Niseko dumps 40cm, this n8n workflow books the flights, the chalet and the beers before you've checked the forecast.",
+    "path": "n8n/aaronparton2-sketch-japow-event/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aaronparton2-sketch/japow-event",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1368146827",
+    "title": "kook",
+    "tool": "n8n",
+    "tags": [
+      "anthropic",
+      "automation",
+      "claude",
+      "elevenlabs",
+      "n8n",
+      "n8n-workflow",
+      "surfing",
+      "telegram",
+      "twilio",
+      "voice-ai"
+    ],
+    "description": "Checks the surf, counts the crowd on the beach cam with Claude, and if it's pumping calls in sick and gets an AI voice to ring the bakery. An n8n workflow.",
+    "path": "n8n/aaronparton2-sketch-kook/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aaronparton2-sketch/kook",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1386601154",
+    "title": "n8n-webhook-to-file",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow n8n que recebe dados via Webhook, processa as informações e gera um arquivo local automaticamente.",
+    "path": "n8n/sildeveloper-n8n-webhook-to-file/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SilDeveloper/n8n-webhook-to-file",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1386567004",
+    "title": "n8n-product-category-router",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow n8n para processamento de formulários, roteamento de produtos por categoria e geração de arquivos.",
+    "path": "n8n/sildeveloper-n8n-product-category-router/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SilDeveloper/n8n-product-category-router",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1386277873",
+    "title": "n8n-ai-receptionist-workflow",
+    "tool": "n8n",
+    "tags": [
+      "aiagent",
+      "aiassistant",
+      "aiautomation",
+      "aideepseek",
+      "api",
+      "gemini-api",
+      "groq-api",
+      "n8n",
+      "n8n-workflow",
+      "openrouter-api"
+    ],
+    "description": "A 24/7 Multi-Channel AI Receptionist & Booking Automation Workflow built with n8n, Gemini AI, GreenAPI (WhatsApp), Facebook Messenger, Google Sheets, and Telegram.",
+    "path": "n8n/sajeebtheanalyst-n8n-ai-receptionist-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SajeebTheAnalyst/n8n-ai-receptionist-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1311500061",
+    "title": "projeto-automacao-n8n-atendimento-consultorio",
+    "tool": "n8n",
+    "tags": [
+      "chatbot",
+      "ia",
+      "inteligencia-artificial",
+      "n8n",
+      "n8n-automation",
+      "n8n-node",
+      "n8n-workflow",
+      "redis-cache",
+      "supabase",
+      "whatsapp-api"
+    ],
+    "description": "Fluxo de atendimento automático via WhatsApp para consultórios odontológicos com IA Generativa, transcrição de áudio, buffer de mensagens picadas, histórico de conversas e gerenciamento de agendamentos via Google Calendar.",
+    "path": "n8n/poliato2015-max-projeto-automacao-n8n-atendimento-consultorio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/poliato2015-max/projeto-automacao-n8n-atendimento-consultorio",
+    "source": "github-discovery"
   }
 ]

@@ -24020,5 +24020,45 @@
     "type": "repo",
     "repoUrl": "https://github.com/acmuhan/aws-free-tier-onboarding",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1348300209",
+    "title": "xiaoyaoclaw-kb-retriever",
+    "tool": "openclaw",
+    "tags": [
+      "claude",
+      "clawhub",
+      "knowledge-base",
+      "local-first",
+      "openclaw",
+      "rag",
+      "retrieval",
+      "skills"
+    ],
+    "description": "OpenClaw local knowledge-base retriever: hierarchical data_structure.md index navigation + progressive retrieval over md/pdf/xlsx, zero dependencies, Windows & macOS. 本地知识库检索器：分层索引 + 渐进式检索，零依赖双平台。",
+    "path": "openclaw/dtsola-xiaoyaoclaw-kb-retriever/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dtsola/xiaoyaoclaw-kb-retriever",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1349479783",
+    "title": "xiaoyaoclaw-web-clipper",
+    "tool": "openclaw",
+    "tags": [
+      "clawhub",
+      "clipping",
+      "knowledge-base",
+      "markdown",
+      "openclaw",
+      "readability",
+      "skill",
+      "web-clipper"
+    ],
+    "description": "OpenClaw web clipper skill: save any web page as clean local Markdown with frontmatter. Dual-engine extraction, Chinese-safe filenames, batch clipping with dedup, output lands in knowledge/clippings/ ready for kb-retriever indexing. 中文：OpenClaw 网页剪藏工具，双引擎正文提取、中文友好、批量去重，输出直通知识库建索引。",
+    "path": "openclaw/dtsola-xiaoyaoclaw-web-clipper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dtsola/xiaoyaoclaw-web-clipper",
+    "source": "github-discovery"
   }
 ]
