@@ -24060,5 +24060,112 @@
     "type": "repo",
     "repoUrl": "https://github.com/dtsola/xiaoyaoclaw-web-clipper",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1390004236",
+    "title": "RetroCastAgentSkill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "cli",
+      "finmind",
+      "flask-free",
+      "jinja2",
+      "portfolio-analysis",
+      "retirement-planning",
+      "taiwan-stock"
+    ],
+    "description": "RetroCast agent skill v1.3.3 (Flask-free CLI for OpenClaw agents). 對話式驅動台股投資組合歷史回測與退休存活率分析。",
+    "path": "openclaw/kalapontsai-retrocastagentskill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kalapontsai/RetroCastAgentSkill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1363250113",
+    "title": "iphone-duo-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "codex",
+      "foldable",
+      "ios",
+      "iphone-duo",
+      "swiftui",
+      "uikit"
+    ],
+    "description": "Agent Skills for adapting SwiftUI, UIKit, and AVFoundation apps to iPhone Duo (iOS 27.1): fold-aware layout, vertical bars, scenes, camera, and testing. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and OpenClaw.",
+    "path": "openclaw/hechen-iphone-duo-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hechen/iphone-duo-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1282799832",
+    "title": "FTShare-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "agent-skills",
+      "agent-tools",
+      "ai-finance",
+      "claude-code",
+      "codex",
+      "financial-data",
+      "ftshare",
+      "market-data",
+      "openclaw",
+      "quantitative-finance",
+      "skill",
+      "structured-data"
+    ],
+    "description": "FTShare financial data Skill for AI agents｜通过自然语言路由基础金融数据与 FTShare 特色因子。",
+    "path": "openclaw/ftshare-lab-ftshare-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/FTShare-Lab/FTShare-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1238201746",
+    "title": "martins-awesome-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "arxiv",
+      "awesome-list",
+      "awesome-skills",
+      "excalidraw",
+      "hermes-agent",
+      "human-in-the-loop",
+      "mcp",
+      "notion",
+      "openclaw",
+      "p5js",
+      "public-safe",
+      "research",
+      "skill-library",
+      "software-development",
+      "subagents",
+      "tdd",
+      "telegram",
+      "telegram-bot",
+      "webhooks"
+    ],
+    "description": "Martin's Awesome Skills: public-safe Hermes and OpenClaw agent skills with Telegram approval workflows",
+    "path": "openclaw/martin-hausleitner-martins-awesome-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Martin-Hausleitner/martins-awesome-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1363364551",
+    "title": "goncloud-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Config y ops del gateway OpenClaw (Windows) — config, plugin summa-gate, agentes pipeline, workshop skills",
+    "path": "openclaw/gon0801-goncloud-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gon0801/goncloud-openclaw",
+    "source": "github-discovery"
   }
 ]

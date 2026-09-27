@@ -68118,5 +68118,171 @@
     "type": "repo",
     "repoUrl": "https://github.com/onyxaholguin-cyber/n8n-workflow-audit",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378742209",
+    "title": "n8n-automation-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production n8n workflows for AI agent routing, lead generation, webhook idempotency, and automated client onboarding.",
+    "path": "n8n/amsnowden2011-source-n8n-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/amsnowden2011-source/n8n-automation-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1352122566",
+    "title": "bluemoonways",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Automation Specialist | n8n | AI Agents | Workflow Automation",
+    "path": "n8n/bluemoonways-bluemoonways/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bluemoonways/bluemoonways",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1390034103",
+    "title": "n8n-workflows-mittelstand",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Generic n8n workflow examples for mid-sized companies: quote routing, invoice approval, onboarding. No credentials, no client data.",
+    "path": "n8n/globalnet-strategies-n8n-workflows-mittelstand/",
+    "type": "repo",
+    "repoUrl": "https://github.com/GlobalNet-Strategies/n8n-workflows-mittelstand",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1388495086",
+    "title": "AICOS-Lead-Response-Kit",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AICOS Lead Response Kit — Clinics Edition. An n8n workflow package for lead validation, qualification, prioritization, duplicate detection, owner review, and follow-up preparation.",
+    "path": "n8n/trtalotaibi-boop-aicos-lead-response-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/trtalotaibi-boop/AICOS-Lead-Response-Kit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1388193596",
+    "title": "puppetflow",
+    "tool": "n8n",
+    "tags": [
+      "browser-automation",
+      "human-in-the-loop",
+      "javascript",
+      "laravel",
+      "n8n",
+      "playwright",
+      "puppeteer",
+      "react",
+      "real-time",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Self-hosted browser automation platform for building, running, monitoring, and controlling JavaScript workflows powered by Puppeteer.",
+    "path": "n8n/puppetflow-puppetflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/puppetflow/puppetflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1191731183",
+    "title": "pdf-decrypt-service",
+    "tool": "n8n",
+    "tags": [],
+    "description": "PDF decrypt microservice for n8n workflow (pypdfium2 + FastAPI)",
+    "path": "n8n/kting0918-pdf-decrypt-service/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kting0918/pdf-decrypt-service",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1389780306",
+    "title": "AI_e-commerce_Assitant_bot",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-tools",
+      "assistant",
+      "automation",
+      "ecommerce",
+      "intelligence",
+      "llm",
+      "n8n",
+      "n8n-workflow",
+      "shop",
+      "store",
+      "telegram"
+    ],
+    "description": "Trilingual (AR/FR/EN) AI receptionist for an electronics shop named \"Synapse Digital\" — fully powered by a single n8n workflow (Telegram, voice, Google Calendar, MongoDB, PostgreSQL).",
+    "path": "n8n/ilyeess-rj-ai_e-commerce_assitant_bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ilyeess-Rj/AI_e-commerce_Assitant_bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1389670965",
+    "title": "gig-radar",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "automation",
+      "deepseek",
+      "freelance",
+      "llm",
+      "n8n",
+      "n8n-workflow",
+      "no-code",
+      "reddit",
+      "rss",
+      "telegram-bot"
+    ],
+    "description": "n8n workflow that finds small paid automation gigs on Reddit and the n8n forum, scores them with DeepSeek AI, and sends the best ones to Telegram.",
+    "path": "n8n/yesyesyanyan-gig-radar/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yesyesyanyan/gig-radar",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1138671999",
+    "title": "jekyll-notion-cms",
+    "tool": "n8n",
+    "tags": [
+      "jekyll",
+      "jekyll-plugin",
+      "jekyll-plugins",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow",
+      "notion",
+      "notion-api",
+      "notion-database"
+    ],
+    "description": "Jekyll plugin to sync content from Notion databases",
+    "path": "n8n/maxime-lenne-jekyll-notion-cms/",
+    "type": "repo",
+    "repoUrl": "https://github.com/maxime-lenne/jekyll-notion-cms",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1389139022",
+    "title": "n8n-line-ai-agent",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "line-bot",
+      "llm",
+      "mcp",
+      "n8n",
+      "n8n-workflow",
+      "openrouter"
+    ],
+    "description": "LINE AI assistant on n8n: LLM agent with tool use (Google Weather/Places/Routes, web & flight search via MCP, image understanding) + Taiwan stock market briefings",
+    "path": "n8n/brenttbear2-n8n-line-ai-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Brenttbear2/n8n-line-ai-agent",
+    "source": "github-discovery"
   }
 ]
