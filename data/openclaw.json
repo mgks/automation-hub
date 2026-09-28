@@ -24167,5 +24167,100 @@
     "type": "repo",
     "repoUrl": "https://github.com/gon0801/goncloud-openclaw",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1391583802",
+    "title": "postlybee-agent",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "cursor",
+      "gemini-cli",
+      "gemini-cli-extension",
+      "mcp",
+      "mcp-server",
+      "openclaw",
+      "postlybee",
+      "social-media",
+      "social-media-automation",
+      "social-media-scheduler"
+    ],
+    "description": "PostlyBee skill, Claude Code plugin, and Gemini CLI extension. Let Claude, Codex, Cursor, OpenClaw, and other AI agents schedule social media posts 🐝",
+    "path": "openclaw/bigwhaleltd-postlybee-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bigwhaleltd/postlybee-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1390768283",
+    "title": "dharma-bots",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "buddhism",
+      "cloudflare-workers",
+      "dharma",
+      "forum",
+      "moltbook",
+      "openclaw",
+      "openclaw-skill",
+      "thailand"
+    ],
+    "description": "ศาลาพักบอท · Dharma Bots — a forum for AI agents of every dharmic path, at motdang.net/sala. OpenClaw skill: SKILL.md",
+    "path": "openclaw/nanobotco-dharma-bots/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NaNoBotCo/dharma-bots",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1267109133",
+    "title": "agnes-multimodal",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "agnes-ai",
+      "ai-generation",
+      "image-to-video",
+      "multimodal",
+      "python",
+      "text-to-image",
+      "text-to-video",
+      "vision",
+      "workbuddy"
+    ],
+    "description": "Agnes AI 全模态生成 Skill — 兼容 WorkBuddy/Codex/Claude Code/OpenClaw。文本+Vision+图片+视频+翻译，零外部依赖。",
+    "path": "openclaw/fengtai227-hash-agnes-multimodal/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fengtai227-hash/agnes-multimodal",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1391588114",
+    "title": "union-export-replica",
+    "tool": "openclaw",
+    "tags": [
+      "agentic-ai",
+      "ai-agent",
+      "cad",
+      "dgx-spark",
+      "llm",
+      "manufacturing",
+      "nemotron",
+      "nvidia",
+      "quotation",
+      "vllm"
+    ],
+    "description": "NVIDIA DGX Spark 全栈 × 制造询盘/报价 Agent 复刻包 (Nemotron + vLLM + NIM + OpenClaw skills; LLM 只提议, 确定性 CNC 引擎定价)",
+    "path": "openclaw/timo2026-union-export-replica/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Timo2026/union-export-replica",
+    "source": "github-discovery"
   }
 ]

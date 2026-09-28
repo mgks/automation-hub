@@ -68284,5 +68284,151 @@
     "type": "repo",
     "repoUrl": "https://github.com/Brenttbear2/n8n-line-ai-agent",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1365510573",
+    "title": "n8n-hermes-agents",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflows for Hermes multi-agent orchestration",
+    "path": "n8n/sa1avatus-n8n-hermes-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sa1avatus/n8n-hermes-agents",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1385163270",
+    "title": "openapi-flow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "OpenAPI-aware natural language to n8n workflow library",
+    "path": "n8n/carefreelife98-openapi-flow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/carefreelife98/openapi-flow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1235227430",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Collection of powerful n8n automation workflows for AI, productivity, business, and integrations.",
+    "path": "n8n/cuebicai-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cuebicai/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1329039315",
+    "title": "ai-hr-automation-suite",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "hr-automation",
+      "n8n",
+      "openai",
+      "workflow-automation"
+    ],
+    "description": "6 n8n workflows automating HR end-to-end: onboarding, leave, sentiment, policy Q&A, AI resume screening, WhatsApp HR bot",
+    "path": "n8n/nilesh-builds-ai-hr-automation-suite/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Nilesh-builds/ai-hr-automation-suite",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1389927447",
+    "title": "desafio-rpa-portal-transparencia",
+    "tool": "n8n",
+    "tags": [],
+    "description": "RPA Python/Playwright para o Portal da Transparência, API FastAPI e workflow n8n",
+    "path": "n8n/ecommjet-desafio-rpa-portal-transparencia/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ecommjet/desafio-rpa-portal-transparencia",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1391550668",
+    "title": "project-02-ai-lead-notification-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered lead notification workflow built with n8n, OpenAI, Google Forms, Google Sheets, and WhatsApp.",
+    "path": "n8n/garyvargas-project-02-ai-lead-notification-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/garyvargas/project-02-ai-lead-notification-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1391550965",
+    "title": "AInews-n8n-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "a simple automation workflow that fetches ai news, drafts an email containing snippets and sends it at the specified time",
+    "path": "n8n/vinita-byte-ainews-n8n-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vinita-byte/AInews-n8n-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1372039182",
+    "title": "professor-Marooy-student-support-agent-n8n",
+    "tool": "n8n",
+    "tags": [
+      "n8n-workflow"
+    ],
+    "description": "AI-powered student support agent built with n8n: classifies student questions, answers from a knowledge base, and escalates unknown cases to a human ticket.",
+    "path": "n8n/hossein-temp-account-professor-marooy-student-support-agent-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hossein-temp-account/professor-Marooy-student-support-agent-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1391237592",
+    "title": "n8n-astrology-ai-agent",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "ai-agents",
+      "ai-astrologer",
+      "ai-chatbot",
+      "ai-companion",
+      "astrology",
+      "astrology-ai",
+      "birth-chart",
+      "chatbot",
+      "horoscope",
+      "n8n",
+      "n8n-ai-agent",
+      "n8n-template",
+      "n8n-workflow",
+      "natal-chart",
+      "no-code",
+      "roxyapi",
+      "starter-template",
+      "tarot",
+      "workflow-automation"
+    ],
+    "description": "n8n astrology AI agent template: a chat companion that reads natal charts, daily horoscopes and tarot from live calculations. Import and chat in minutes.",
+    "path": "n8n/roxyapi-n8n-astrology-ai-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RoxyAPI/n8n-astrology-ai-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1213127297",
+    "title": "pedidai",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "angular",
+      "docker",
+      "mcp-server",
+      "n8n-workflow",
+      "spring-boot"
+    ],
+    "description": "Pedidai es una plataforma web de gestión empresarial B2B diseñada para que las pymes centralicen y optimicen sus operaciones de compra y gestión de proveedores.",
+    "path": "n8n/devepsdev-pedidai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/devepsdev/pedidai",
+    "source": "github-discovery"
   }
 ]
