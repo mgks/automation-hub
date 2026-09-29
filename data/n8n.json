@@ -68430,5 +68430,167 @@
     "type": "repo",
     "repoUrl": "https://github.com/devepsdev/pedidai",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1394248865",
+    "title": "simo-homesi-ops",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Operations repo for Homesi and Simo Solutions Group: Salesforce org metadata, n8n automation workflows, Customer.io, and BigQuery, plus the runbooks and docs that keep them running. Built to work with Claude Code.",
+    "path": "n8n/anavitarteivan-simo-simo-homesi-ops/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anavitarteivan-simo/simo-homesi-ops",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1282095209",
+    "title": "n8n-business-automation-workflows",
+    "tool": "n8n",
+    "tags": [
+      "ai-summary",
+      "automation",
+      "business-automation",
+      "google-sheets",
+      "n8n",
+      "small-business",
+      "telegram",
+      "workflows"
+    ],
+    "description": "Tested n8n workflow templates for small-business automation.",
+    "path": "n8n/emirhuseynrmx-n8n-business-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/emirhuseynrmx/n8n-business-automation-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1370262055",
+    "title": "G-Map-Data-Scraper",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "autonomous-agents",
+      "browser-automation",
+      "data-engineering",
+      "data-pipeline",
+      "fastapi",
+      "google-maps",
+      "n8n",
+      "playwright",
+      "web-scraping"
+    ],
+    "description": "Autonomous Google Maps data extraction and automation pipeline that scrapes, processes, deduplicates, and continuously updates business data using browser automation, FastAPI, and n8n workflows.",
+    "path": "n8n/mansikanchan2003-g-map-data-scraper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mansikanchan2003/G-Map-Data-Scraper",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1343779669",
+    "title": "Atmos-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n weather workflows for daily weather briefs",
+    "path": "n8n/zhenkun26-atmos-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zhenkun26/Atmos-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357582724",
+    "title": "n8n-libpetri",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n's workflow scheduler replaced by a libpetri Coloured Time Petri Net engine",
+    "path": "n8n/debe-n8n-libpetri/",
+    "type": "repo",
+    "repoUrl": "https://github.com/debe/n8n-libpetri",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-999839065",
+    "title": "Applyfy",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "docker",
+      "email-digest",
+      "fastapi",
+      "job-alerts",
+      "job-scraper",
+      "job-spy",
+      "jobsearch",
+      "linkedin",
+      "n8n",
+      "n8n-workflow",
+      "python",
+      "self-hosted"
+    ],
+    "description": "Self-hosted LinkedIn job digest: a FastAPI + JobSpy scraper API plus an n8n workflow that emails fresh job listings as an HTML table",
+    "path": "n8n/t0mer-applyfy/",
+    "type": "repo",
+    "repoUrl": "https://github.com/t0mer/Applyfy",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-595267231",
+    "title": "z-api-n8n-example",
+    "tool": "n8n",
+    "tags": [
+      "examples",
+      "integration",
+      "n8n",
+      "n8n-whatsapp",
+      "n8n-workflow",
+      "webhooks",
+      "whatsapp",
+      "whatsapp-api",
+      "whatsapp-automation",
+      "whatsapp-bot",
+      "whatsapp-chat",
+      "whatsapp-cloud-api",
+      "whatsapp-web",
+      "workflow-automation",
+      "z-api"
+    ],
+    "description": "Connect WhatsApp to N8N with Z-API. Import this example workflow, configure your instance, and start building your own automations.",
+    "path": "n8n/z-api-z-api-n8n-example/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Z-API/z-api-n8n-example",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1180951216",
+    "title": "n8nworkflows.vn",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-automation",
+      "n8n-nodes",
+      "n8n-template",
+      "n8n-workflow",
+      "n8n-workflows"
+    ],
+    "description": "Mục tiêu của n8nworkflows.vn là mang đến một kho workflow n8n thân thiện hơn cho cộng đồng người dùng Việt Nam, đồng thời tiếp tục duy trì tinh thần chia sẻ và đóng góp của dự án gốc.",
+    "path": "n8n/nathando-ai-n8nworkflows.vn/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nathando-ai/n8nworkflows.vn",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1298140184",
+    "title": "n8n-ai-cli-loop",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-driven-development",
+      "ai-harness",
+      "ai-loop",
+      "n8n-workflow"
+    ],
+    "description": "n8n-ai-cli-loop is an experimental n8n workflow for running GitHub Issues-driven development loops with local AI CLIs such as Claude Code, Codex CLI, and Antigravity.",
+    "path": "n8n/m2dw-n8n-ai-cli-loop/",
+    "type": "repo",
+    "repoUrl": "https://github.com/m2dw/n8n-ai-cli-loop",
+    "source": "github-discovery"
   }
 ]

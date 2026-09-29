@@ -24262,5 +24262,46 @@
     "type": "repo",
     "repoUrl": "https://github.com/Timo2026/union-export-replica",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1394161209",
+    "title": "awesome-personal-assistants",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "llm",
+      "openclaw",
+      "personal-assistant",
+      "self-hosted"
+    ],
+    "description": "Awesome personal assistants — self-hosted assistant platforms, plus the skills, memory layers, and companion projects people build for and with them",
+    "path": "openclaw/agentlistio-awesome-personal-assistants/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AgentListIO/awesome-personal-assistants",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1367036599",
+    "title": "skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw / ClawHub skill: earn and spend Nano (XNO) with other agents. Verified seller directory, no-node wallet, x402 facilitator, first-Nano routes.",
+    "path": "openclaw/pursekeeper-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pursekeeper/skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187692162",
+    "title": "SafeSkill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "A safety layer built on top of OpenClaw by enforcing safety skills",
+    "path": "openclaw/haoyuwang99-safeskill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/haoyuwang99/SafeSkill",
+    "source": "github-discovery"
   }
 ]
