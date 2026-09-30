@@ -68592,5 +68592,185 @@
     "type": "repo",
     "repoUrl": "https://github.com/m2dw/n8n-ai-cli-loop",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359159702",
+    "title": "n8n-automation-projects.",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of workflow automation projects built using n8n, APIs, AI, databases and third-party integrations.",
+    "path": "n8n/harshitasharma1912-n8n-automation-projects./",
+    "type": "repo",
+    "repoUrl": "https://github.com/harshitasharma1912/n8n-automation-projects.",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1377510390",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "I will upload all my n8n workflows i made from learning to advance",
+    "path": "n8n/sumamah-proj-hub-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sumamah-proj-hub/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1366948862",
+    "title": "ai-marketing-toolkit",
+    "tool": "n8n",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "ai-marketing",
+      "claude-code",
+      "competitor-analysis",
+      "content-marketing",
+      "keyword-research",
+      "llm",
+      "marketing-automation",
+      "n8n",
+      "seo"
+    ],
+    "description": "Open-source agentic marketing toolkit: agent skills, automations, notebooks, and scripts for SEO, keyword research, competitor analysis, positioning, voice, and content ops. Drop-in SKILL.md workflows for Claude Code, Kilo, Codex, and any AI agent. Run marketing like an engineering team. ISC licensed.",
+    "path": "n8n/isaacbell-ai-marketing-toolkit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/IsaacBell/ai-marketing-toolkit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1274613679",
+    "title": "academic-flow-notifier",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow automation system that monitors academic activities and sends automatic deadline notifications/alerts through integration with Trello, using n8n, Python, Google Sheets, Google Calender and Gmail",
+    "path": "n8n/m1llyz-academic-flow-notifier/",
+    "type": "repo",
+    "repoUrl": "https://github.com/M1llyz/academic-flow-notifier",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1382069451",
+    "title": "AIBuildsSeptemberShowcase",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "evaluation",
+      "llm",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "Production n8n AI agent workflows, plus a replay that reproduces one recorded run figure for figure. The evaluation harness that measures them: github.com/DHuberPortfolio/workflow-eval-harness",
+    "path": "n8n/dhuberportfolio-aibuildsseptembershowcase/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DHuberPortfolio/AIBuildsSeptemberShowcase",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1380850483",
+    "title": "github-repositories-radar_PT2",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-tools",
+      "arabic-language",
+      "artificial-intelligence",
+      "automation",
+      "llm",
+      "n8n",
+      "n8n-workflow",
+      "telegram",
+      "telegrambot",
+      "text-to-speech"
+    ],
+    "description": "Autonomous n8n workflow that scans GitHub daily for trending repos matching your interests (AI, automation, free APIs), scores their relevance, and delivers Arabic voice + text + image breakdowns via Telegram. Also answers on-demand questions about any specific repo, grounded in its real README — no hallucinated features.",
+    "path": "n8n/ilyeess-rj-github-repositories-radar_pt2/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ilyeess-Rj/github-repositories-radar_PT2",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1396693195",
+    "title": "github-repositories-radar-PT1",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "arabic",
+      "automation",
+      "daily-digest",
+      "github-api",
+      "langchain",
+      "llm",
+      "low-code",
+      "multi-agent",
+      "n8n",
+      "n8n-workflow",
+      "scheduled-tasks",
+      "telegam-bot"
+    ],
+    "description": "🔭 Part 1/2: Autonomous scheduled n8n workflow that scans GitHub for 50K+ star AI & automation repos, reads real READMEs via API, and broadcasts structured Arabic reports to Telegram.",
+    "path": "n8n/ilyeess-rj-github-repositories-radar-pt1/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ilyeess-Rj/github-repositories-radar-PT1",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1396509678",
+    "title": "n8n-ats-pipeline",
+    "tool": "n8n",
+    "tags": [
+      "gemini-api",
+      "groq-api",
+      "javascript",
+      "n8n",
+      "n8n-automation",
+      "n8n-node",
+      "n8n-workflow"
+    ],
+    "description": "N8N & IA - Scrap",
+    "path": "n8n/flmoratorio-cyber-n8n-ats-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/flmoratorio-cyber/n8n-ats-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1396176396",
+    "title": "n8n-instagram-reels-publisher",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "instagram-graph-api",
+      "instagram-reels",
+      "instagram-stories",
+      "n8n",
+      "n8n-workflow",
+      "resumable-upload",
+      "self-hosted"
+    ],
+    "description": "n8n sub-workflow that publishes Instagram Reels and video Stories via resumable upload, with no public video URL.",
+    "path": "n8n/bugraskl-n8n-instagram-reels-publisher/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bugraskl/n8n-instagram-reels-publisher",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1396134318",
+    "title": "n8n-instagram-autopilot",
+    "tool": "n8n",
+    "tags": [
+      "ffmpeg",
+      "gemini",
+      "instagram-automation",
+      "llm-as-judge",
+      "n8n",
+      "n8n-workflow",
+      "restaurant-marketing",
+      "veo"
+    ],
+    "description": "n8n workflows that turn a folder of food photos into judged, designed Instagram posts, stories and a weekly AI reel.",
+    "path": "n8n/bugraskl-n8n-instagram-autopilot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bugraskl/n8n-instagram-autopilot",
+    "source": "github-discovery"
   }
 ]

@@ -24303,5 +24303,105 @@
     "type": "repo",
     "repoUrl": "https://github.com/haoyuwang99/SafeSkill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1396773088",
+    "title": "wslc-ai-agent",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "blazor",
+      "claude",
+      "containers",
+      "dotnet",
+      "dotnet-maui",
+      "mcp",
+      "mcp-server",
+      "mudblazor",
+      "windows",
+      "wsl",
+      "wslc"
+    ],
+    "description": "Local agent and MCP server for WSLC (Windows Subsystem for Linux Containers): a web dashboard, Windows and Android clients, and a skill for Claude, Hermes, OpenClaw and other AI agents.",
+    "path": "openclaw/berpiztu-wslc-ai-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Berpiztu/wslc-ai-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1154966618",
+    "title": "ClawGuard",
+    "tool": "openclaw",
+    "tags": [
+      "agents",
+      "ai",
+      "audit",
+      "mcp",
+      "rust",
+      "security"
+    ],
+    "description": "Security analysis platform for AI agent skills (OpenClaw SKILL.md format)",
+    "path": "openclaw/recursiveintell-clawguard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RecursiveIntell/ClawGuard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1312539982",
+    "title": "news-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "alaska",
+      "api-client",
+      "civic-tech",
+      "claude-skills",
+      "clawhub",
+      "journalism",
+      "local-news",
+      "news-api",
+      "open-data",
+      "openclaw",
+      "public-meetings",
+      "python"
+    ],
+    "description": "Local News API: a read-only agent skill for searching a local newsroom's articles, sources, meeting transcripts and events on the Communities News platform. Example: Alaska News, alaskanews.com/api/v1.",
+    "path": "openclaw/news-community-news-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/news-community/news-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1156129648",
+    "title": "bsv-openclaw-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "BSV (Bitcoin SV) wallet skill for OpenClaw — balance, send, receive via WhatsOnChain API",
+    "path": "openclaw/axiemaid-bsv-openclaw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/axiemaid/bsv-openclaw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1396793579",
+    "title": "sendit-agent-integrations",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Public SendIt CLI, MCP setup, and agent skills for Grok, Muse, Hermes, and OpenClaw",
+    "path": "openclaw/shree-git-sendit-agent-integrations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Shree-git/sendit-agent-integrations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1156971297",
+    "title": "sendit-openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Official SendIt OpenClaw plugin (@sendit/openclaw) + sendit-openclaw skill pack",
+    "path": "openclaw/shree-git-sendit-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Shree-git/sendit-openclaw",
+    "source": "github-discovery"
   }
 ]
