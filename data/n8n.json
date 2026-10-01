@@ -68772,5 +68772,135 @@
     "type": "repo",
     "repoUrl": "https://github.com/bugraskl/n8n-instagram-autopilot",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1275055462",
+    "title": "vfic-chatbot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "VFIC recruitment chatbot — n8n workflows (Zalo + MiniMax/Gemini + Supabase)",
+    "path": "n8n/4rankng-vfic-chatbot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/4rankng/vfic-chatbot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1030303888",
+    "title": "n8n_workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/lcondliffe-n8n_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lcondliffe/n8n_workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1399048594",
+    "title": "n8n-ai-automatic-video-publisher",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated video publishing workflow built with n8n. Videos added to Google Drive are automatically analyzed with Google Gemini, enriched with AI-generated titles, descriptions and hashtags, and published to YouTube.",
+    "path": "n8n/estherkarl-n8n-ai-automatic-video-publisher/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Estherkarl/n8n-ai-automatic-video-publisher",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1397927947",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/jahdielk134-maker-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jahdielk134-maker/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1399025252",
+    "title": "lead-scraper-outreach-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that scrapes business leads, reads their websites, and uses Google Gemini to write a personalized outreach email for each one. Saves everything to Google Sheets and sends via Gmail.",
+    "path": "n8n/sadia-cs-lead-scraper-outreach-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sadia-CS/lead-scraper-outreach-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1146396316",
+    "title": "audio-splitter",
+    "tool": "n8n",
+    "tags": [
+      "api",
+      "audio",
+      "audio-processing",
+      "audio-splitter",
+      "docker",
+      "docker-compose",
+      "fastapi",
+      "ffmpeg",
+      "helm",
+      "kubernetes",
+      "microservice",
+      "n8n",
+      "python3",
+      "rest-api",
+      "workflow-automation"
+    ],
+    "description": "🎵 FastAPI microservice for splitting audio files into chunks via FFmpeg. Supports MP3, WAV, FLAC, OGG, M4A, AAC, WMA, OPUS. Docker & Kubernetes (Helm) ready. Integrates with n8n workflows.",
+    "path": "n8n/blackaxgit-audio-splitter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/blackaxgit/audio-splitter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1398969884",
+    "title": "chatbot-ai-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow AI Chatbot Web menggunakan n8n",
+    "path": "n8n/ekaferdyfebriyansyah-chatbot-ai-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/EkaFerdyFebriyansyah/chatbot-ai-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1398882660",
+    "title": "ai-automated-job-hunter",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated n8n workflow that scrapes job boards and uses Google Gemini AI to analyze and filter postings against multiple resumes in parallel.",
+    "path": "n8n/mark-0909-ai-automated-job-hunter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mark-0909/ai-automated-job-hunter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1398915650",
+    "title": "airtable-n8n-recruitment-pipeline",
+    "tool": "n8n",
+    "tags": [
+      "airtable",
+      "api",
+      "n8n"
+    ],
+    "description": "Airtable recruitment CRM with an n8n workflow that syncs live remote jobs from the Remotive API, with deduplication and run logging",
+    "path": "n8n/joshuafloresricafort-code-airtable-n8n-recruitment-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/joshuafloresricafort-code/airtable-n8n-recruitment-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1380849716",
+    "title": "ai-automation-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Sanitized n8n workflows and portfolio source for Sleyd Presentation, Scrollytelling and AutoData Analyst",
+    "path": "n8n/immunieid-code-ai-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/immunieid-code/ai-automation-workflows",
+    "source": "github-discovery"
   }
 ]
