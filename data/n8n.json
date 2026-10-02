@@ -68902,5 +68902,171 @@
     "type": "repo",
     "repoUrl": "https://github.com/immunieid-code/ai-automation-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1400984299",
+    "title": "meus-desafios-criativos",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Repositório do Desafio Criativo da DIO: Planejando Automações com N8N. Contém o prompt estruturado e a documentação técnica de um workflow de onboarding de clientes (Google Forms, Drive, Slack e Gmail) com tratamento de erros.",
+    "path": "n8n/aleccarval-meus-desafios-criativos/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aleccarval/meus-desafios-criativos",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1399426757",
+    "title": "Tugas-chatbot-SIB-NFA-muhammadputrajp",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow n8n chatbot Putra Food untuk tugas NF Academy",
+    "path": "n8n/0110124195muhammadputrajp-tugas-chatbot-sib-nfa-muhammadputrajp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/0110124195muhammadputrajp/Tugas-chatbot-SIB-NFA-muhammadputrajp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1400970278",
+    "title": "lead-automation",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "fastapi",
+      "google-sheets",
+      "llm",
+      "n8n",
+      "telegram",
+      "tilda",
+      "yandexgpt"
+    ],
+    "description": "Заявки с сайта и Tilda → AI-разбор (YandexGPT) → Google Таблица + Telegram · n8n workflow + FastAPI",
+    "path": "n8n/abdallah950-lead-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AbdAllAh950/lead-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1397012614",
+    "title": "n8n-nodes-mailsocket",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for mailsocket — create an email inbox and wait for the OTP or magic link inside an n8n workflow.",
+    "path": "n8n/mailsocket-n8n-nodes-mailsocket/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mailsocket/n8n-nodes-mailsocket",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1400956135",
+    "title": "n8n-Portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Professional portfolio: AI automation, agentic systems and AI governance for regulated industries. Public case studies, no proprietary workflows.",
+    "path": "n8n/lauravitelli-portfolio-n8n-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lauravitelli-portfolio/n8n-Portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1396847912",
+    "title": "nourhan-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "automation",
+      "llm",
+      "n8n",
+      "portfolio-website",
+      "react",
+      "svg",
+      "tailwindcss",
+      "vite",
+      "workflow-automation"
+    ],
+    "description": "Interactive portfolio presenting n8n automation systems as workflow diagrams. Built with React, Tailwind CSS and SVG.",
+    "path": "n8n/nourhanmohamed-eng-nourhan-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NourhanMohamed-eng/nourhan-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1400101691",
+    "title": "website-automation",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "google-sheets",
+      "n8n",
+      "n8n-automation",
+      "n8n-nodes",
+      "n8n-workflow",
+      "website-automation",
+      "wordpress-api",
+      "wordpress-development"
+    ],
+    "description": "Practical website automation workflows using n8n, WordPress, Google Sheets, AI, webhooks, and APIs.",
+    "path": "n8n/jay21121967-website-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JAY21121967/website-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1400430422",
+    "title": "ai-automation-workflows",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "llm",
+      "n8n-workflow",
+      "python",
+      "voice-agent",
+      "webhooks",
+      "workflow-automation"
+    ],
+    "description": "n8n and Make workflows for AI agents, voice agents, lead qualification and customer feedback automation",
+    "path": "n8n/scottmachor-creator-ai-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/scottmachor-creator/ai-automation-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1400035147",
+    "title": "n8n-stolperfallen",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "error-handling",
+      "german",
+      "n8n",
+      "n8n-workflow",
+      "workflow"
+    ],
+    "description": "Drei n8n-Vorlagen zu stillen Fehlern: If-Node ohne combinator, Umgebungsvariablen im Code-Node, Error-Workflow",
+    "path": "n8n/st-ton-n8n-stolperfallen/",
+    "type": "repo",
+    "repoUrl": "https://github.com/St-ton/n8n-stolperfallen",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1365780427",
+    "title": "competitive-pricing-agent",
+    "tool": "n8n",
+    "tags": [
+      "apify",
+      "competitive-intelligence",
+      "ecommerce",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow",
+      "postgres",
+      "price-monitoring",
+      "supabase",
+      "web-scraping"
+    ],
+    "description": "Source, schema and tests for the n8n template 'Monitor competitor price shifts with Apify, Postgres, OpenAI, and Slack'. Keeps its own price history and alerts only on real moves.",
+    "path": "n8n/luispintoapify-competitive-pricing-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/luispintoapify/competitive-pricing-agent",
+    "source": "github-discovery"
   }
 ]

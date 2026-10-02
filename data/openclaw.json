@@ -24477,5 +24477,45 @@
     "type": "repo",
     "repoUrl": "https://github.com/abyssbugg-labs/sourcery-agent-bundle",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1401002451",
+    "title": "youtube-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "hermes-agent",
+      "mcp",
+      "openclaw",
+      "subtitles",
+      "youtube",
+      "youtube-transcript"
+    ],
+    "description": "YouTube transcripts, search, channels and summaries for AI agents (Claude Code, Codex, OpenClaw, Hermes). Powered by YTAPI.",
+    "path": "openclaw/ytapi-youtube-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ytapi/youtube-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1384329313",
+    "title": "overwing-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-safety",
+      "clawhub",
+      "content-moderation",
+      "guardrails",
+      "openclaw",
+      "openclaw-skill",
+      "overwing"
+    ],
+    "description": "Overwing skill for OpenClaw: check text for safety, personal data and more before your agent sends or acts on it. pass / fail / review verdicts with calibrated confidence.",
+    "path": "openclaw/frod27-overwing-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/frod27/overwing-skill",
+    "source": "github-discovery"
   }
 ]
