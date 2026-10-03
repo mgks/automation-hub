@@ -24517,5 +24517,82 @@
     "type": "repo",
     "repoUrl": "https://github.com/frod27/overwing-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359381856",
+    "title": "vettly",
+    "tool": "openclaw",
+    "tags": [
+      "apis-io",
+      "apis-io-submission"
+    ],
+    "description": "Developer-first content moderation for text, images, and video with policy versioning, appeals, and audit trails. Also offers OpenClaw Guardrails for vetting agent skills and authorizing runtime actions.",
+    "path": "openclaw/api-evangelist-vettly/",
+    "type": "repo",
+    "repoUrl": "https://github.com/api-evangelist/vettly",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402606118",
+    "title": "openclaw-workspace-public",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw workspace - public subset (code + skills + public docs)",
+    "path": "openclaw/alisonxccc-openclaw-workspace-public/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Alisonxccc/openclaw-workspace-public",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378243546",
+    "title": "canfly-ai",
+    "tool": "openclaw",
+    "tags": [
+      "a2a",
+      "agent-commerce",
+      "agent-native",
+      "agents",
+      "ai-agents",
+      "apis-json",
+      "marketplace",
+      "mcp",
+      "openclaw",
+      "taiwan",
+      "usdc"
+    ],
+    "description": "CanFly (CanFly.ai) is a Taipei, Taiwan launchpad and marketplace for OpenClaw AI agents, founded in 2026: people use it for install guides, hardware picks and community profiles, and software agents use the same site to register, publish skills and buy skills from one another in USDC on Base — via a TaskEscrow contract or the Machine Payments…",
+    "path": "openclaw/api-evangelist-canfly-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/api-evangelist/canfly-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1244275134",
+    "title": "STS2_Skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "For agent to play Slay the Spire 2 autoly。一个可用于astrbot,openclaw,hermes实现agent自动游玩杀戮尖塔2功能的skill。",
+    "path": "openclaw/sakikotgw-sts2_skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sakikoTGW/STS2_Skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1389969811",
+    "title": "agent-examples",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "claude",
+      "instagram",
+      "mcp",
+      "social-media",
+      "tiktok"
+    ],
+    "description": "Connect Claude, ChatGPT, Codex, Cursor, Gemini CLI and OpenClaw to Wahlu: guides, example prompts, a Claude plugin and skills for social media scheduling.",
+    "path": "openclaw/wahlu-agent-examples/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wahlu/agent-examples",
+    "source": "github-discovery"
   }
 ]

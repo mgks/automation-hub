@@ -69068,5 +69068,160 @@
     "type": "repo",
     "repoUrl": "https://github.com/luispintoapify/competitive-pricing-agent",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1399958102",
+    "title": "aircon-service-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Synthetic-data portfolio prototype for a controlled aircon-service booking workflow using FastAPI, PostgreSQL, Alembic, and n8n.",
+    "path": "n8n/vince-aboy-aircon-service-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Vince-aboy/aircon-service-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402597165",
+    "title": "anima-das-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Automation Engineer & Systems Architect building intelligent, reliable business workflows with n8n, AI agents, APIs, CRM integrations, data validation, and human-in-the-loop automation. This portfolio showcases practical automation systems for lead research, qualification, outreach, process optimization, and scalable workflow orchestration.",
+    "path": "n8n/anima-das-anima-das-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Anima-Das/anima-das-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402571766",
+    "title": "accessflow-iam-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "IAM authorization automation workflow built with n8n, REST APIs and RBAC concepts.",
+    "path": "n8n/jaganbhasker1122-accessflow-iam-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jaganbhasker1122/accessflow-iam-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402584726",
+    "title": "n8n-creator-outreach-list",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "creator-outreach",
+      "influencer-marketing",
+      "instagram",
+      "instagram-api",
+      "lead-generation",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow",
+      "social-media-api"
+    ],
+    "description": "A free n8n workflow: Instagram creators posting about your keywords, with the business email and phone from their contact card, deduped into Google Sheets or CSV. One InsightSocial key.",
+    "path": "n8n/insightsocial-n8n-creator-outreach-list/",
+    "type": "repo",
+    "repoUrl": "https://github.com/insightsocial/n8n-creator-outreach-list",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402584668",
+    "title": "n8n-viral-content-radar",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "content-strategy",
+      "instagram-api",
+      "instagram-reels",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow",
+      "social-media-api",
+      "tiktok",
+      "tiktok-api",
+      "viral-content"
+    ],
+    "description": "A free n8n workflow: every weekday, this week's top TikToks and Reels in your niche, the top video's transcript, and an AI brief on why they spread and what to shoot. One InsightSocial key.",
+    "path": "n8n/insightsocial-n8n-viral-content-radar/",
+    "type": "repo",
+    "repoUrl": "https://github.com/insightsocial/n8n-viral-content-radar",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1399076407",
+    "title": "business-automation-system",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Engineering-focused business automation system integrating APIs, webhooks, n8n workflows, AI-assisted automation, and backend services.",
+    "path": "n8n/muchlis99-business-automation-system/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Muchlis99/business-automation-system",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1400651538",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [
+      "arktype",
+      "bullmq",
+      "bun",
+      "drizzle-orm",
+      "elysia",
+      "n8n",
+      "postgresql",
+      "redis",
+      "typescript",
+      "workflow-automation"
+    ],
+    "description": "Workflow automation tool inspired by n8n, built from scratch in TypeScript. Connect nodes and run them by click, webhook or cron. Bun · Elysia · PostgreSQL · Drizzle · Redis. Work in progress.",
+    "path": "n8n/samchinmaya-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/samchinmaya/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402363742",
+    "title": "n8n-workflow-linter",
+    "tool": "n8n",
+    "tags": [
+      "cli",
+      "linter",
+      "n8n",
+      "python",
+      "reliability"
+    ],
+    "description": "Static lint for n8n workflow JSON: missing error handling, HTTP nodes without timeouts/retries, hardcoded secrets, trigger problems, dead nodes. Free utility from Payload.",
+    "path": "n8n/payloadhq-n8n-workflow-linter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Payloadhq/n8n-workflow-linter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402308996",
+    "title": "n8n-reliability-free-samples",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "n8n",
+      "reliability",
+      "workflow-automation"
+    ],
+    "description": "Two free, fully standalone n8n workflows. Samples from the n8n Production AI Agent Reliability Kit by Payload.",
+    "path": "n8n/payloadhq-n8n-reliability-free-samples/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Payloadhq/n8n-reliability-free-samples",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402534140",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/pythagoras-19-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pythagoras-19/n8n-workflows",
+    "source": "github-discovery"
   }
 ]
