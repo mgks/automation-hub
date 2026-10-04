@@ -24594,5 +24594,22 @@
     "type": "repo",
     "repoUrl": "https://github.com/wahlu/agent-examples",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1403878742",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "openclaw",
+      "prompts",
+      "skills",
+      "writing"
+    ],
+    "description": "OpenClaw skills and prompts for everyday agent problems. Start with Remove AI slop: make AI drafts read naturally.",
+    "path": "openclaw/redrookai-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RedRookAI/openclaw-skills",
+    "source": "github-discovery"
   }
 ]

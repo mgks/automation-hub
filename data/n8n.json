@@ -69223,5 +69223,191 @@
     "type": "repo",
     "repoUrl": "https://github.com/pythagoras-19/n8n-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1403869699",
+    "title": "n8n-ai-lead-scraper",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "crm",
+      "google-sheets",
+      "lead-generation",
+      "n8n",
+      "openai"
+    ],
+    "description": "n8n workflow template: automatically enriches a company list with email, LinkedIn, size and industry using GPT-4o-mini + Google Sheets",
+    "path": "n8n/plainform-n8n-ai-lead-scraper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/plainform/n8n-ai-lead-scraper",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1403762721",
+    "title": "agent-toolkit",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "developer-tools",
+      "linter",
+      "mcp",
+      "n8n",
+      "oauth",
+      "stripe-webhooks",
+      "webhooks"
+    ],
+    "description": "Free tools for building AI agents and automations: workflow preflight linter, webhook signature inspector, OAuth permission planner.",
+    "path": "n8n/teamshift-io-agent-toolkit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/teamshift-io/agent-toolkit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1403785211",
+    "title": "n8n-uptime-telegram-alert",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "homelab",
+      "n8n",
+      "self-hosted",
+      "telegram",
+      "uptime-monitoring"
+    ],
+    "description": "Free import-ready n8n workflow: HTTP uptime check that alerts your Telegram when a service goes down.",
+    "path": "n8n/gregorymammone-coder-n8n-uptime-telegram-alert/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gregorymammone-coder/n8n-uptime-telegram-alert",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1398656149",
+    "title": "DraftStudio",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-writing",
+      "claude-code",
+      "content-generation",
+      "groq",
+      "llama",
+      "llm",
+      "multi-agent-systems",
+      "n8n",
+      "openrouter",
+      "python",
+      "telegram-bot",
+      "workflow-automation"
+    ],
+    "description": "Your own little AI writing studio ✍️ Five agents take a request, research it, draft it and review it, and only hand it over once it scores 80/100 or better. Run it as a Python script on Groq, or as an n8n workflow you can chat with on Telegram.",
+    "path": "n8n/mattsebastianh-draftstudio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mattsebastianh/DraftStudio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355582510",
+    "title": "Multichannel-Commerce-Ops",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Multichannel commerce operations platform for order synchronization, inventory, ledger, reporting, alerts, reconciliation, and workflow automation with FastAPI, React, PostgreSQL, and n8n.",
+    "path": "n8n/mis-or-multichannel-commerce-ops/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MIS-or/Multichannel-Commerce-Ops",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1234322361",
+    "title": "n8n-workflow-agent",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "fastapi",
+      "n8n",
+      "python",
+      "workflow"
+    ],
+    "description": "Prompt-to-deploy n8n workflow agent — type a natural-language goal, get a validated n8n workflow JSON, deploy to a live n8n instance with one click. FastAPI + Flet + OpenAI/Claude.",
+    "path": "n8n/jryahia-n8n-workflow-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jryahia/n8n-workflow-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402104849",
+    "title": "automation-templates",
+    "tool": "n8n",
+    "tags": [
+      "ai-cost",
+      "automation",
+      "make",
+      "n8n",
+      "n8n-workflow",
+      "workflow-templates"
+    ],
+    "description": "n8n and Make templates for AI API budget alerts, team meeting slots and recurring schedule checks, using the free OperatorNest tool API.",
+    "path": "n8n/operatornest-automation-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OperatorNest/automation-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1403381918",
+    "title": "generative-ai-video-production-publishing-pipeline",
+    "tool": "n8n",
+    "tags": [
+      "ai-video",
+      "content-automation",
+      "generative-ai",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "social-media-automation",
+      "video-automation"
+    ],
+    "description": "AI-powered n8n pipeline for cinematic short-form video generation, VEO 3 prompt engineering, production tracking, and automated publishing to TikTok, Instagram, and YouTube.",
+    "path": "n8n/anima-das-generative-ai-video-production-publishing-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Anima-Das/generative-ai-video-production-publishing-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1403367268",
+    "title": "multilingual-ai-hotel-guest-assistant",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "customer-support",
+      "customer-support-ai",
+      "multilingual-ai",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow"
+    ],
+    "description": "Multilingual AI hotel guest assistant built with n8n, GPT-4o-mini, WhatsApp, Viber, Slack, and Google Sheets for automated guest support and human handoff.",
+    "path": "n8n/anima-das-multilingual-ai-hotel-guest-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Anima-Das/multilingual-ai-hotel-guest-assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1403347554",
+    "title": "ai-local-business-lead-intelligence-outreach",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "lead-generation",
+      "local-business",
+      "n8n",
+      "n8n-workflow",
+      "web-scraping"
+    ],
+    "description": "AI-powered n8n pipeline for local business lead discovery, contact enrichment, email validation, personalized outreach, lead scoring, and Google Sheets export.",
+    "path": "n8n/anima-das-ai-local-business-lead-intelligence-outreach/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Anima-Das/ai-local-business-lead-intelligence-outreach",
+    "source": "github-discovery"
   }
 ]
