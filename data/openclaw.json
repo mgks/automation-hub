@@ -24611,5 +24611,16 @@
     "type": "repo",
     "repoUrl": "https://github.com/RedRookAI/openclaw-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1364134379",
+    "title": "openclaw-fxmacrodata",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Native FXMacroData research tools and macroeconomic briefing Skill for OpenClaw",
+    "path": "openclaw/fxmacrodata-openclaw-fxmacrodata/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fxmacrodata/openclaw-fxmacrodata",
+    "source": "github-discovery"
   }
 ]

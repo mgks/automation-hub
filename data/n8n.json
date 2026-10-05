@@ -69409,5 +69409,170 @@
     "type": "repo",
     "repoUrl": "https://github.com/Anima-Das/ai-local-business-lead-intelligence-outreach",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1405096858",
+    "title": "salons-near-me",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n automation workflow to extract business names and phone numbers from Google Maps and export the results to CSV.",
+    "path": "n8n/abhi22469-salons-near-me/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ABHI22469/salons-near-me",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1404560870",
+    "title": "flowdelta",
+    "tool": "n8n",
+    "tags": [
+      "acceptance-testing",
+      "local-first",
+      "n8n",
+      "release-notes",
+      "workflow",
+      "workflow-diff"
+    ],
+    "description": "Turn n8n workflow changes into client-ready release notes and acceptance plans",
+    "path": "n8n/blucca-flowdelta/",
+    "type": "repo",
+    "repoUrl": "https://github.com/blucca/flowdelta",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1405058398",
+    "title": "dsh-tool-n8n",
+    "tool": "n8n",
+    "tags": [
+      "awesome-dsh-plugin",
+      "deepseek-harness",
+      "dsh-plugin",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "n8n workflow automation tools for DeepSeek Harness",
+    "path": "n8n/ljh-snow-dsh-tool-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LJH-snow/dsh-tool-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1404012422",
+    "title": "n8n-ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI automation portfolio featuring 9 n8n workflows: AI agents, Gmail triage, news summarizer, meeting minutes, API monitoring, and more. Built with Groq, Gemini, Google Workspace, Slack, Telegram. Self-hosted on Docker. Seeking remote junior roles.",
+    "path": "n8n/divyaahirodiya-n8n-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/divyaahirodiya/n8n-ai-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1404896099",
+    "title": "marvin-integration-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n integration for Marvin: trigger n8n workflows from Marvin workflows with signed requests, pick them from n8n's list, and record results back",
+    "path": "n8n/inneropen-marvin-integration-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/InnerOpen/marvin-integration-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1247510608",
+    "title": "flowprov",
+    "tool": "n8n",
+    "tags": [
+      "agentic-workflows",
+      "drift-detection",
+      "fastapi",
+      "llm-observability",
+      "n8n",
+      "pgvector",
+      "provenance",
+      "python"
+    ],
+    "description": "Provenance and drift detection for n8n / BuildShip agentic workflows",
+    "path": "n8n/999et-flowprov/",
+    "type": "repo",
+    "repoUrl": "https://github.com/999et/flowprov",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1405017757",
+    "title": "ai-receptionist-workflows",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "n8n",
+      "nextjs",
+      "typescript",
+      "vapi",
+      "voice-agent",
+      "workflow-automation"
+    ],
+    "description": "Next.js business demo with Vapi voice, n8n chat and alerts, and sanitized calendar workflow templates.",
+    "path": "n8n/skabo42000-ai-receptionist-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/skabo42000/ai-receptionist-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402758758",
+    "title": "ai-blog-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Blog Automation Workflow built with n8n and Open AI.",
+    "path": "n8n/ainnne0130-sudo-ai-blog-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ainnne0130-sudo/ai-blog-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1126762486",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "json",
+      "n8n-workflow"
+    ],
+    "description": "n8n Automations & AI Agents",
+    "path": "n8n/mdimamhosen-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mdimamhosen/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1394700372",
+    "title": "aifactory-hub-showcase",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-tools",
+      "automation-tools",
+      "comfyui",
+      "content-factory",
+      "cpp",
+      "desktop-app",
+      "desktop-automation",
+      "gemini",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "ollama",
+      "qml",
+      "qt6",
+      "qtcreator"
+    ],
+    "description": "Development Engineering AI Suite — Public showcase of a proprietary Qt 6 + QML platform ... See Demo Live Showcase 👇",
+    "path": "n8n/hamda-chaouch-aifactory-hub-showcase/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hamda-chaouch/aifactory-hub-showcase",
+    "source": "github-discovery"
   }
 ]
