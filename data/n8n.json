@@ -69574,5 +69574,158 @@
     "type": "repo",
     "repoUrl": "https://github.com/hamda-chaouch/aifactory-hub-showcase",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1401648045",
+    "title": "n8n-vercel",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Containerized n8n workflow engine on Vercel backed by Supabase Postgres",
+    "path": "n8n/timothy191-n8n-vercel/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Timothy191/n8n-vercel",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1406701087",
+    "title": "tugas-pertemuan-1",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Pembuatan Agen AI Chatbot Web dengan Workflow n8n.cloud",
+    "path": "n8n/kib27-tugas-pertemuan-1/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kib27/tugas-pertemuan-1",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1362049745",
+    "title": "secure-database-webhook-gateway",
+    "tool": "n8n",
+    "tags": [
+      "database",
+      "javascript",
+      "learning-project",
+      "n8n",
+      "webhooks",
+      "workflow-automation"
+    ],
+    "description": "n8n workflow sandbox exploring webhook processing, payload transformation, and database integration patterns.",
+    "path": "n8n/naveensharmatech-secure-database-webhook-gateway/",
+    "type": "repo",
+    "repoUrl": "https://github.com/naveensharmatech/secure-database-webhook-gateway",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1406682959",
+    "title": "blucca",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "postgresql",
+      "profile",
+      "typescript"
+    ],
+    "description": "Useful software, connected workflows, and clear technical handoffs. An AI-led builder, working in the open.",
+    "path": "n8n/blucca-blucca/",
+    "type": "repo",
+    "repoUrl": "https://github.com/blucca/blucca",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-981218673",
+    "title": "Chaishillomnitech1",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Sovereign GRPO AI agent training for Omnitech1 by Chais Hill. Linked to: https://github.com/OpenPipe/ART — Automates Claude/Grok-style workflows, IP systems, and n8n flows. “Allahu Akbar — Sovereign Systems Only.”https://expansion-three.vercel.app/trigger.html",
+    "path": "n8n/chaishillomnitech1-chaishillomnitech1/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chaishillomnitech1/Chaishillomnitech1",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1401164265",
+    "title": "lunavera-homes",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "cloudflare-pages",
+      "lead-generation",
+      "n8n",
+      "real-estate"
+    ],
+    "description": "Property landing page with an AI lead qualification workflow (n8n + LLM)",
+    "path": "n8n/lizzymcruz-lunavera-homes/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lizzymcruz/lunavera-homes",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1406655997",
+    "title": "n8n-finance-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/thebeizway-n8n-finance-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TheBeizWay/n8n-finance-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1405899870",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Practical n8n automation workflows using AI, business logic, and reliable integrations.",
+    "path": "n8n/alexcartercode-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AlexCarterCode/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-364334749",
+    "title": "OMatlhabe",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "config",
+      "javascript",
+      "n8n",
+      "portfolio",
+      "workflow-automation"
+    ],
+    "description": "AI automation portfolio: n8n workflows, AI agents, system integrations and documented case studies for onboarding and operational intake.",
+    "path": "n8n/omatlhabe-omatlhabe/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OMatlhabe/OMatlhabe",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1405949884",
+    "title": "leadscout-ai-lead-research",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent-tools",
+      "ai-agents",
+      "ai-agents-automation",
+      "hubspot",
+      "hubspot-api",
+      "hubspot-crm",
+      "lead-generation",
+      "lead-generation-automation",
+      "llm-evaluation",
+      "llm-evaluation-toolkit",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow",
+      "sales-automation",
+      "web-scraping-python"
+    ],
+    "description": "An n8n and Python automation that researches companies from their public websites and news, scores how well each one fits an ideal-customer profile, and drafts a personalized outreach email from verified facts only.",
+    "path": "n8n/anjeesanjeet-leadscout-ai-lead-research/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anjeesanjeet/leadscout-ai-lead-research",
+    "source": "github-discovery"
   }
 ]

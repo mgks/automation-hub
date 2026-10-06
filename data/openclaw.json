@@ -24622,5 +24622,54 @@
     "type": "repo",
     "repoUrl": "https://github.com/fxmacrodata/openclaw-fxmacrodata",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1180472096",
+    "title": "otto-mate-2",
+    "tool": "openclaw",
+    "tags": [
+      "agentic-ai",
+      "ai-agent",
+      "ai-playground",
+      "ai-workbench",
+      "anthropic",
+      "autogpt",
+      "autonomous-agents",
+      "browser-automation",
+      "claude",
+      "crewai",
+      "gemini",
+      "huggingface",
+      "luma-ai",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "openclaw-skills",
+      "playwright",
+      "replicate",
+      "task-automation"
+    ],
+    "description": "Ottomate — universal AI agent workbench: 190+ connectors, 200+ skills, browser automation, visual pipelines, cron scheduler. Powered by Claude, GPT-4o, Gemini.",
+    "path": "openclaw/rhythrosalabs-otto-mate-2/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RhythrosaLabs/otto-mate-2",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1156414394",
+    "title": "clawsouls-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "claude-code",
+      "persona",
+      "skill",
+      "soul-spec"
+    ],
+    "description": "OpenClaw skill for managing AI agent personas",
+    "path": "openclaw/clawsouls-clawsouls-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/clawsouls/clawsouls-skill",
+    "source": "github-discovery"
   }
 ]
