@@ -69727,5 +69727,182 @@
     "type": "repo",
     "repoUrl": "https://github.com/anjeesanjeet/leadscout-ai-lead-research",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1408071013",
+    "title": "automation-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "postgresql",
+      "python",
+      "whatsapp-api"
+    ],
+    "description": "Automation case studies and runnable projects: n8n workflows, WhatsApp Cloud API, LLM order parsing, POS integrations and thermal ticket printing.",
+    "path": "n8n/jufaiqamus-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JuFaiQamus/automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1343623882",
+    "title": "n8n-ai-automation-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI image-generation automation using Banana Pro API and n8n. This project demonstrates automated prompt processing, API integration, and high-quality image generation for content creation, storytelling, social media, thumbnails, and other AI-powered workflows.",
+    "path": "n8n/kashan474-n8n-ai-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kashan474/n8n-ai-automation-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1354366478",
+    "title": "n8n-probe",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-nodes",
+      "observability",
+      "opentelemetry",
+      "prometheus",
+      "testing",
+      "typescript",
+      "vitest"
+    ],
+    "description": "Testing and observability toolkit for n8n custom nodes and workflows",
+    "path": "n8n/mihaelaaghirculesei-n8n-probe/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MihaelaAghirculesei/n8n-probe",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1406862753",
+    "title": "n8n-check",
+    "tool": "n8n",
+    "tags": [
+      "cli",
+      "github-actions",
+      "junit",
+      "n8n",
+      "regression-testing",
+      "testing",
+      "workflow-automation",
+      "workflow-testing"
+    ],
+    "description": "Real n8n workflow regression checks: JSON fixtures, local HTTP mocks, exact request/output assertions and JUnit reports.",
+    "path": "n8n/blucca-n8n-check/",
+    "type": "repo",
+    "repoUrl": "https://github.com/blucca/n8n-check",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1408189261",
+    "title": "n8n-nodes-mailmycard",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for MailMyCard: send handwritten cards from any workflow",
+    "path": "n8n/mailmycard-n8n-nodes-mailmycard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MailMyCard/n8n-nodes-mailmycard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1403214221",
+    "title": "n8n-workflows-for-business",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-receptionist",
+      "automation",
+      "lead-generation",
+      "n8n",
+      "n8n-templates",
+      "n8n-workflows",
+      "no-code",
+      "openai",
+      "small-business",
+      "whatsapp",
+      "workflow-automation"
+    ],
+    "description": "30 n8n workflows for small businesses: AI receptionist, WhatsApp, lead routing, follow-ups, invoices, SEO. Validated, documented, with running costs.",
+    "path": "n8n/oussch702-n8n-workflows-for-business/",
+    "type": "repo",
+    "repoUrl": "https://github.com/oussch702/n8n-workflows-for-business",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1408053097",
+    "title": "clase-8-evaluacion-agentes",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Clase 8 AI Automation Avanzado (Coderhouse) — AI-as-a-Judge en n8n: sub-workflow Juez con rúbrica, umbrales, self-healing y human in the loop sobre el Agente de Churn",
+    "path": "n8n/jeyzee23-clase-8-evaluacion-agentes/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jeyzee23/clase-8-evaluacion-agentes",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1183914470",
+    "title": "nextjs-blog-cms",
+    "tool": "n8n",
+    "tags": [
+      "agentic-workflow",
+      "blog",
+      "claude",
+      "claude-code",
+      "cms",
+      "copilot",
+      "integration-flow",
+      "llms",
+      "mcp-server",
+      "n8n-workflow",
+      "nextjs",
+      "postgresql",
+      "sonarqube",
+      "supabase",
+      "tailwindcss",
+      "tiptap-editor",
+      "vitest",
+      "workflow-automation"
+    ],
+    "description": "A full-stack Blog CMS built with Next.js (App Router), Supabase, TailwindCSS, and shadcn/ui. Features Supabase Auth with role-based access control, a WYSIWYG editor, draft/publish workflow, an AI writing assistant, a headless REST API, and MCP-powered development workflows.",
+    "path": "n8n/thepracticalengineer-nextjs-blog-cms/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thepracticalengineer/nextjs-blog-cms",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1408106744",
+    "title": "n8n-Workflow-Cli",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "n8n-automation",
+      "n8n-workflow"
+    ],
+    "description": "Run n8n workflows in the background from a terminal. No server or localhost needed: log in, pick workflows, and stop them any time.",
+    "path": "n8n/stardog555-n8n-workflow-cli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/StarDog555/n8n-Workflow-Cli",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1408011193",
+    "title": "studio-look-peluqueria",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "automation",
+      "claude",
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "Agente de WhatsApp con IA (n8n + Claude) para peluquerías: agenda citas entre varios estilistas en Google Calendar, responde con RAG y aplica un programa de fidelidad.",
+    "path": "n8n/itskitsu-studio-look-peluqueria/",
+    "type": "repo",
+    "repoUrl": "https://github.com/itskitsu/studio-look-peluqueria",
+    "source": "github-discovery"
   }
 ]

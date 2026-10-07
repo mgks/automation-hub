@@ -24671,5 +24671,43 @@
     "type": "repo",
     "repoUrl": "https://github.com/clawsouls/clawsouls-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1176078742",
+    "title": "trade-show-skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-automation",
+      "b2b",
+      "b2b-sales",
+      "crm",
+      "email-templates",
+      "event-intelligence",
+      "event-management",
+      "exhibition",
+      "exhibitor",
+      "gtm",
+      "openclaw",
+      "openclaw-skills",
+      "trade-show",
+      "trade-show-marketing",
+      "trade-shows"
+    ],
+    "description": "OpenClaw skills for trade show planning — show selection, booth outreach, budget/ROI, on-site lead qualification, competitor intel, and post-show follow-up",
+    "path": "openclaw/lensmorofficial-trade-show-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LensmorOfficial/trade-show-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1269465276",
+    "title": "agents",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AgentMetal skills + Claude plugin — teach Claude / Hermes / OpenClaw to provision VPSes via AgentMetal.",
+    "path": "openclaw/agentmetal-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/agentmetal/agents",
+    "source": "github-discovery"
   }
 ]
