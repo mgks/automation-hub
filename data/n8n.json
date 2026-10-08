@@ -69904,5 +69904,138 @@
     "type": "repo",
     "repoUrl": "https://github.com/itskitsu/studio-look-peluqueria",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319036393",
+    "title": "Synapse-RiskOps",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Built an autonomous AI platform that predicts infrastructure failures, performs root cause analysis using GenAI, provides preventive guidance, and automates alerts, ticketing, and remediation workflows through n8n, improving incident response efficiency.",
+    "path": "n8n/jayrajsinhbhatti-synapse-riskops/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JayrajsinhBhatti/Synapse-RiskOps",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1409627001",
+    "title": "faceless-content-n8n-workflow",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "content-automation",
+      "n8n",
+      "workflow"
+    ],
+    "description": "Free n8n workflows for a faceless content pipeline. Import, add your own credentials, turn on.",
+    "path": "n8n/autopilotbackend-faceless-content-n8n-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/autopilotbackend/faceless-content-n8n-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1368314686",
+    "title": "AI-Fabric-Migration-n8n-Automation",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "genai",
+      "migration",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "AI-powered migration workflow automation built with n8n.",
+    "path": "n8n/arun-srinivasan-builds-ai-fabric-migration-n8n-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/arun-srinivasan-builds/AI-Fabric-Migration-n8n-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1403128858",
+    "title": "n8n-ai-automation-lab",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "automation",
+      "content-marketing",
+      "marketing-automation",
+      "n8n",
+      "n8n-template",
+      "n8n-workflows",
+      "openai",
+      "templates",
+      "workflow"
+    ],
+    "description": "Free n8n workflow templates for AI content & ops automation by AI Automation Lab",
+    "path": "n8n/zhp910318-n8n-ai-automation-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zhp910318/n8n-ai-automation-lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1092314979",
+    "title": "N8N_Workflows_Demo_Projects",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/vaishnavthorwat-n8n_workflows_demo_projects/",
+    "type": "repo",
+    "repoUrl": "https://github.com/VaishnavThorwat/N8N_Workflows_Demo_Projects",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1409680192",
+    "title": "ai-data-extraction-and-document-processor",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that receives a PDF invoice via GMail, extracts, analyzes, and validates data and records appropriately in Supabase.",
+    "path": "n8n/uilamdracarys-ai-data-extraction-and-document-processor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/UilamDracarys/ai-data-extraction-and-document-processor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402316076",
+    "title": "n8n-ai-chatbot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow AI Chatbot Web n8n dengan Google Gemini dan Google Sheets",
+    "path": "n8n/mriflan11-n8n-ai-chatbot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mriflan11/n8n-ai-chatbot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1409633719",
+    "title": "ai-content-repurposing-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered content repurposing workflow built with n8n that transforms one source article into structured LinkedIn, Instagram, X posts, summaries, and content ideas using AI Agent automation.",
+    "path": "n8n/shivobuli-ai-content-repurposing-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shivobuli/ai-content-repurposing-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1409353986",
+    "title": "n8n-nodes-banger",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Banger: send Product email, manage contacts and lists, run Journeys, and trigger workflows from Banger events.",
+    "path": "n8n/bangermail-n8n-nodes-banger/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bangermail/n8n-nodes-banger",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1409155697",
+    "title": "agent-industry-lab",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Practical Agents, reusable Skills and industry workflows — Dify, n8n, LangGraph and evaluated RAG.",
+    "path": "n8n/zhf33-agent-industry-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ZHF33/agent-industry-lab",
+    "source": "github-discovery"
   }
 ]

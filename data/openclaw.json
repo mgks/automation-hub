@@ -24709,5 +24709,47 @@
     "type": "repo",
     "repoUrl": "https://github.com/agentmetal/agents",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1405179302",
+    "title": "andco-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Bring your own AI to AndCo — install packages for OpenClaw, Claude Code and Codex.",
+    "path": "openclaw/ethan-ys-andco-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ethan-YS/andco-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1375334047",
+    "title": "ai-growth-intelligence",
+    "tool": "openclaw",
+    "tags": [
+      "knowledge-tools",
+      "personal-project"
+    ],
+    "description": "OpenClaw Skill：从有出处的公开信息生成中文 AI、GitHub 与 Skill 情报简报。 | An OpenClaw skill that creates sourced Chinese briefings on AI, GitHub projects and agent skills.",
+    "path": "openclaw/instl999-ai-growth-intelligence/",
+    "type": "repo",
+    "repoUrl": "https://github.com/instl999/ai-growth-intelligence",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1409654110",
+    "title": "openclaw-skill-ci",
+    "tool": "openclaw",
+    "tags": [
+      "ci",
+      "contract-testing",
+      "openclaw",
+      "python",
+      "skills"
+    ],
+    "description": "Offline CI tooling for pinned OpenClaw skill metadata, prerequisites, team policy and safe synthetic behavior contracts.",
+    "path": "openclaw/sha-shank-03-openclaw-skill-ci/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sha-shank-03/openclaw-skill-ci",
+    "source": "github-discovery"
   }
 ]
