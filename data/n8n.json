@@ -70037,5 +70037,132 @@
     "type": "repo",
     "repoUrl": "https://github.com/ZHF33/agent-industry-lab",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1401291627",
+    "title": "lexhive-growth-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Growth automation funnel with React frontend, API backend, n8n workflows, and Airtable integration",
+    "path": "n8n/pradeepguna30-commits-lexhive-growth-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pradeepguna30-commits/lexhive-growth-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1404243180",
+    "title": "Autoviti",
+    "tool": "n8n",
+    "tags": [],
+    "description": "SaaS d'automatisation IA en production pour les domaines viticoles de Champagne : assistant LLM à function calling sous contrôle humain, OCR GPT-4o Vision, 28 workflows n8n. Vitrine technique, code source privé.",
+    "path": "n8n/thibaultvasseur-autoviti/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ThibaultVasseur/Autoviti",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1411275970",
+    "title": "automation-n8n-workflows-kb",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/ardin301cekat-automation-n8n-workflows-kb/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ardin301cekat/automation-n8n-workflows-kb",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1411256983",
+    "title": "tugas-2",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow n8n Generate Gambar Konten Otomatis",
+    "path": "n8n/dzikraauliasyfa-tugas-2/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dzikraauliasyfa/tugas-2",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1411257242",
+    "title": "n8n-gmail-ai-responder",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered Gmail auto-responder and summarizer workflow built in n8n.",
+    "path": "n8n/ahskimas3-hash-n8n-gmail-ai-responder/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ahskimas3-hash/n8n-gmail-ai-responder",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1410069800",
+    "title": "automation-workflows",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "freelance",
+      "integration",
+      "make-com",
+      "n8n",
+      "n8n-workflows",
+      "portfolio",
+      "python",
+      "workflow-automation",
+      "zapier"
+    ],
+    "description": "Production-ready automation workflows: n8n templates, Zapier zaps, Python scripts, and AI agents — each with docs, architecture diagrams, and setup guides. Built and maintained by Le The Vinh. Open for automation projects.",
+    "path": "n8n/lethevinh-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lethevinh/automation-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1411067367",
+    "title": "toolkit-migration",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Toolkit de migração para a Azion: portal estático, proxy autenticado para n8n e workflow Cloudflare -> Azion",
+    "path": "n8n/brunoaziongit-toolkit-migration/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BrunoAzionGit/toolkit-migration",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1410620380",
+    "title": "n8n-human-review-pipeline",
+    "tool": "n8n",
+    "tags": [
+      "human-in-the-loop",
+      "llm",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "n8n workflow: an LLM drafts, deterministic checks review the draft, a human approves, revises or rejects before anything is published",
+    "path": "n8n/pingkui-n8n-human-review-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/pingkui/n8n-human-review-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1410474454",
+    "title": "n8n-nodes-flashdata",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Google search results and YouTube metadata and transcripts for n8n workflows",
+    "path": "n8n/flashdata-dev-n8n-nodes-flashdata/",
+    "type": "repo",
+    "repoUrl": "https://github.com/flashdata-dev/n8n-nodes-flashdata",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1411194548",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/jrojasgarcia99-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jrojasgarcia99/n8n-workflows",
+    "source": "github-discovery"
   }
 ]
