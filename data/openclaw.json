@@ -24751,5 +24751,117 @@
     "type": "repo",
     "repoUrl": "https://github.com/sha-shank-03/openclaw-skill-ci",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1205782243",
+    "title": "my-plane",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Plane.so skill for OpenClaw - manage projects, work items, cycles, and modules via CLI",
+    "path": "openclaw/honluk-my-plane/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HonLuk/my-plane",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1394604533",
+    "title": "mini-OpenClaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "mini-OpenClaw 是复刻 OpenClaw 体验的本地透明 AI Agent 工作台，SKILL.md 说明书拖入即用。含金量在 Agent 工程化：双流解析统一逐字输出与工具调用为七类 SSE 事件；分段保存让每轮工具回合独立成消息、喂 LLM 时自动合并；MEMORY.md 全文注入与 RAG 检索一键切换，MD5 检测免重建索引；长对话前 50% LLM 压缩归档、摘要累积不丢；终端黑名单、目录白名单、路径穿越检查三道沙箱；六文件 System Prompt 每轮重读即生效。FastAPI 加 LangChain create_agent 加 DeepSeek 加 Next.js 构建，JSON 与 Markdown 持久化无数据库，适合作为个人 AI 副手的最小可读实现",
+    "path": "openclaw/weathercore-mini-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/WeatherCore/mini-OpenClaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-971243074",
+    "title": "Everywhere",
+    "tool": "openclaw",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-assistant",
+      "avalonia",
+      "claude",
+      "deepseek",
+      "desktop-app",
+      "flow-state",
+      "gemini",
+      "hermes-agent",
+      "mcp",
+      "on-screen-awareness",
+      "openai",
+      "openclaw",
+      "personal",
+      "skills"
+    ],
+    "description": "On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.",
+    "path": "openclaw/sylinko-everywhere/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sylinko/Everywhere",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1412714084",
+    "title": "Video-direct-skill-max",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Video-Director is a publication-grade video production skill engineered specifically for autonomous AI harnesses: Google DeepMind Antigravity, Anthropic Claude Code, OpenAI Codex / ChatGPT, xAI Grok Bot, Nous Hermes, and OpenClaw.",
+    "path": "openclaw/vihan4189-max-video-direct-skill-max/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vihan4189-max/Video-direct-skill-max",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1409345016",
+    "title": "kniferevive-agent-commerce",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "bitcoin-lightning",
+      "knife-sharpening",
+      "openclaw",
+      "stripe-checkout",
+      "woocommerce"
+    ],
+    "description": "KnifeRevive Concierge skill and WooCommerce adapter candidate for Annex shopping and authorized prepaid Bay Area sharpening.",
+    "path": "openclaw/svetlyoh-kniferevive-agent-commerce/",
+    "type": "repo",
+    "repoUrl": "https://github.com/svetlyoh/kniferevive-agent-commerce",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1369552764",
+    "title": "cc-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "electron",
+      "openclaw",
+      "qoder",
+      "skills",
+      "webdav",
+      "windows",
+      "zcode"
+    ],
+    "description": "Unified SKILL manager for AI agents (Claude Code / Codex / OpenClaw / ZCode / Qoder): junction-link sharing, dedupe merge, project scopes, WebDAV backup",
+    "path": "openclaw/kaamil95-cc-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kaamil95/cc-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1332286843",
+    "title": "ContinuitySkills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Structured API skills that turn Continuity into an agent-native cloud. Projects, folders, files, asset search, story graphs, and OpenClaw backup - ready for any AI agent to use out of the box.",
+    "path": "openclaw/stagecontinuity-continuityskills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/StageContinuity/ContinuitySkills",
+    "source": "github-discovery"
   }
 ]

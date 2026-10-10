@@ -70164,5 +70164,151 @@
     "type": "repo",
     "repoUrl": "https://github.com/jrojasgarcia99/n8n-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1403444398",
+    "title": "n8n-templates",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflows for historical Polymarket order book data",
+    "path": "n8n/polyorderbookslabs-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/polyorderbookslabs/n8n-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1405688072",
+    "title": "integrations",
+    "tool": "n8n",
+    "tags": [
+      "activepieces",
+      "ai-sdk",
+      "arcmira",
+      "dify",
+      "dlt",
+      "langchain",
+      "langgraph",
+      "n8n",
+      "n8n-community-node-package",
+      "openai-agents",
+      "pydantic-ai",
+      "transcript-search",
+      "typescript",
+      "youtube"
+    ],
+    "description": "YouTube transcript search for agents and workflows. LangChain, AI SDK, n8n, Activepieces, Dify and MCP examples with timestamped source evidence.",
+    "path": "n8n/arcmira-integrations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/arcmira/integrations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1382052652",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow",
+    "path": "n8n/manikchoudhary470-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/manikchoudhary470/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-996911586",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Collection of n8n workflows for automation.",
+    "path": "n8n/hemsoft-dev-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hemsoft-dev/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1412590100",
+    "title": "cerebro-web-agent",
+    "tool": "n8n",
+    "tags": [
+      "autonomous-agents",
+      "browser-automation",
+      "n8n",
+      "playwright",
+      "qdrant",
+      "vector-database",
+      "web-agent",
+      "workflow-automation"
+    ],
+    "description": "Autonomous web navigation and automated workflow agent equipped with Qdrant vector memory, Playwright, and n8n webhook orchestration.",
+    "path": "n8n/omniversodigital-cerebro-web-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/omniversodigital/cerebro-web-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1412630945",
+    "title": "n8n-nodes-tanvo",
+    "tool": "n8n",
+    "tags": [
+      "ai-image-generator",
+      "ai-video-generator",
+      "automation",
+      "image-to-video",
+      "n8n",
+      "n8n-community-node-package",
+      "n8n-nodes",
+      "nano-banana",
+      "suno",
+      "tanvo",
+      "text-to-image"
+    ],
+    "description": "n8n community node for Tanvo: generate images, video and songs with AI (Nano Banana, Kling, Veo, Seedance, Suno) and run ready-made photo apps in your workflows.",
+    "path": "n8n/tanvoai-n8n-nodes-tanvo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tanvoai/n8n-nodes-tanvo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1412608346",
+    "title": "ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI automation projects built with n8n, Python and LLMs: workflows that save time for small businesses.",
+    "path": "n8n/jimmyjimenez-dev-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JimmyJimenez-Dev/ai-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1412591105",
+    "title": "n8n-workflow-inspector",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Chrome extension that explains n8n workflows in plain English and checks them for API keys, personal details and IDs before you share them. Runs offline.",
+    "path": "n8n/jlebaynham-n8n-workflow-inspector/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jlebaynham/n8n-workflow-inspector",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1412588716",
+    "title": "10-n8n-masterwork-workflows-double-efficiency-with-automated-solutions",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Dataset / resource listing. Sponsor to obtain the full data files.",
+    "path": "n8n/nextcombo-10-n8n-masterwork-workflows-double-efficiency-with-automated-solutions/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nextcombo/10-n8n-masterwork-workflows-double-efficiency-with-automated-solutions",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1412584437",
+    "title": "n8n-daily-operations-brief",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow portfolio: scheduled operations reporting, KPI analysis, AI-generated management briefs, and anomaly alerts.",
+    "path": "n8n/sarahsabouni-n8n-daily-operations-brief/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sarahsabouni/n8n-daily-operations-brief",
+    "source": "github-discovery"
   }
 ]
