@@ -70310,5 +70310,153 @@
     "type": "repo",
     "repoUrl": "https://github.com/Sarahsabouni/n8n-daily-operations-brief",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413884838",
+    "title": "crop-advisor-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A repository about n8n workflow agent to help farmers",
+    "path": "n8n/fox-blaze-crop-advisor-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Fox-blaze/crop-advisor-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1133000208",
+    "title": "Camouflow",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "anti-detect",
+      "antidetect",
+      "antidetect-browser",
+      "automation",
+      "browser",
+      "browser-automation",
+      "camoufox",
+      "cloakbrowser",
+      "local-first",
+      "mcp",
+      "playwright",
+      "python",
+      "qml"
+    ],
+    "description": "Local-first browser automation with Camoufox and CloakBrowser: reviewed AI workflows, structured extraction, deterministic replay and local MCP/n8n integrations.",
+    "path": "n8n/tort1k558-camouflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Tort1k558/Camouflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413131428",
+    "title": "AlexCarterCode",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My portfolio showcasing n8n workflow automation, AI integrations, API connections, and practical automation projects.",
+    "path": "n8n/alexcartercode-alexcartercode/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AlexCarterCode/AlexCarterCode",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413887036",
+    "title": "n8n-content-engine",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflows that turn a Google Sheet brief into a blog post, YouTube metadata and a captioned 9:16 AI video. Uses Gemini, Omni Flash/Veo and ffmpeg, with a manual fallback, two approval gates and auto-upload to YouTube Shorts.",
+    "path": "n8n/harmony-tech-sudo-n8n-content-engine/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Harmony-Tech-sudo/n8n-content-engine",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413881138",
+    "title": "n8n-ai-ticket-triage",
+    "tool": "n8n",
+    "tags": [
+      "customer-support",
+      "gemini",
+      "helpdesk",
+      "llm",
+      "n8n",
+      "prompt-injection",
+      "support-ops",
+      "ticket-triage",
+      "zendesk"
+    ],
+    "description": "n8n workflow that suggests a queue for support tickets and sends doubtful ones to a human. Synthetic demo with a pre-registered evaluation.",
+    "path": "n8n/ndvelasquez-n8n-ai-ticket-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ndvelasquez/n8n-ai-ticket-triage",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413856616",
+    "title": "ai-email-classification",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered email classification and reply automation workflow built with n8n and Google Gemini.",
+    "path": "n8n/tusar488b-ai-email-classification/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tusar488b/ai-email-classification",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1409854299",
+    "title": "YaprBot",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "byok",
+      "groq",
+      "llm",
+      "markdown",
+      "n8n",
+      "n8n-workflow",
+      "self-hosted",
+      "speech-to-text",
+      "telegram-bot",
+      "voice-notes",
+      "whisper"
+    ],
+    "description": "Ramble into a Telegram voice note, get a tidy .md back. Self-hosted n8n workflow with Whisper + LLM and community-made modes.",
+    "path": "n8n/ezerevello-yaprbot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ezerevello/YaprBot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1078416639",
+    "title": "n8n-Automation-Projects",
+    "tool": "n8n",
+    "tags": [],
+    "description": "“A curated collection of AI-powered n8n automation workflows built by Saad, focused on business productivity, AI integration, and digital workflow optimization",
+    "path": "n8n/saad-khanzada-n8n-automation-projects/",
+    "type": "repo",
+    "repoUrl": "https://github.com/saad-khanzada/n8n-Automation-Projects",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1369562024",
+    "title": "ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Working n8n automation workflows for SaaS businesses",
+    "path": "n8n/kumaraditya-09-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/KumarAditya-09/ai-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413856794",
+    "title": "n8n-ai-asmr-video-generator",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n-powered AI automation workflow for streamlining ASMR video content generation, integrating AI services, APIs, and automated content processing.",
+    "path": "n8n/alvinjohn0417-n8n-ai-asmr-video-generator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alvinjohn0417/n8n-ai-asmr-video-generator",
+    "source": "github-discovery"
   }
 ]

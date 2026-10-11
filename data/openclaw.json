@@ -24863,5 +24863,71 @@
     "type": "repo",
     "repoUrl": "https://github.com/StageContinuity/ContinuitySkills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413182091",
+    "title": "vietnamese-writing",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Vietnamese writing skill for AI agents — Giói AI viết tiếng Việt tự nhiên, đặc biệt cho bình luận bóng đá. OpenClaw/Pi Harness compatible.",
+    "path": "openclaw/lcking-vietnamese-writing/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Lcking/vietnamese-writing",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1234562545",
+    "title": "openclaw-skill-manager",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill classification & statistics tool | OpenClaw 技能分类与统计工具",
+    "path": "openclaw/kuntao2011-openclaw-skill-manager/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kuntao2011/openclaw-skill-manager",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413874695",
+    "title": "superpowers-openclaw-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Complete Superpowers methodology for OpenClaw. A 12-skill collection that enforces design-before-code, TDD, systematic debugging, verification, and structured code review. Use when you want rigorous AI-assisted development workflow.",
+    "path": "openclaw/jarrettluo-superpowers-openclaw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jarrettluo/superpowers-openclaw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413872778",
+    "title": "ai-hot-digest-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "每晚聚合 AI 热点（新闻/模型/MCP/Skills/套餐）并推送微信的 OpenClaw skill。Daily AI hot news aggregation with LLM summary and WeChat push.",
+    "path": "openclaw/jarrettluo-ai-hot-digest-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jarrettluo/ai-hot-digest-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413872024",
+    "title": "send-email-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Send emails via SMTP using Python. Supports 163/QQ/Gmail/Outlook. OpenClaw skill.",
+    "path": "openclaw/jarrettluo-send-email-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jarrettluo/send-email-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1408676129",
+    "title": "FDE_Feisu_agents",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "项目优先评估 Hermes 作为 Agent Runtime，实际接入方式和隔离能力尚待验证。OpenClaw 作为 Gateway、设备节点和本地 Agent 方向的参考，并保留后续适配可能。飞书作为企业成员的交互入口、业务数据底座和审批入口。自研部分负责个人助手、共享业务 Agent、权限治理、审批、审计、知识检索、知识冲突治理、运维和 Skill 生命周期。",
+    "path": "openclaw/sixeat-fde_feisu_agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sixeat/FDE_Feisu_agents",
+    "source": "github-discovery"
   }
 ]
