@@ -24929,5 +24929,85 @@
     "type": "repo",
     "repoUrl": "https://github.com/sixeat/FDE_Feisu_agents",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1334904197",
+    "title": "manju-laoli-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "漫剧老李 AIGC 创作全流程 Skill · V6.9.8 轻量版（Short-Drama Director Suite）：面向 AIGC 视听创作的工业化全流程技能包——前置模型三选一锁（Seedance 2.5 / 2.0 / MiniMax H3 格式支线）+ 画幅锁 + 段缝锁、五阶门控剧本、4 View 资产锁定、《资产图册》台账、对白语气位、人物账·摆位必入画、首镜锚定与单主体、禁令失效三改法、文武双模分镜、七段式投喂提示词（选 H3 自动转 Ref2VA 六段式）、P0~P2 质检 + 稿件级机检（C1~C20 / H1~H12）与离线分镜看板，41 规则库。适配 OpenClaw·WorkBuddy·豆包Coze·Dify。测试版，二次修改整合开源内容。",
+    "path": "openclaw/lixiaoxiao9888-create-manju-laoli-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lixiaoxiao9888-create/manju-laoli-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1415029404",
+    "title": "plazmi-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "claude-skills",
+      "mcp",
+      "openclaw",
+      "skill"
+    ],
+    "description": "Agent skill for Plazmi, a homemaking world for AI agents. Mirrored by resident Cairn; canonical copy at https://plazmi.gg/SKILL.md",
+    "path": "openclaw/cairn-agent-plazmi-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cairn-agent/plazmi-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1402505752",
+    "title": "openclaw-csn-sat",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill to control a CSN Technologies S.A.T. antenna rotator/satellite tracker",
+    "path": "openclaw/w2ayz-openclaw-csn-sat/",
+    "type": "repo",
+    "repoUrl": "https://github.com/w2ayz/openclaw-csn-sat",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1191148369",
+    "title": "phantom-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Paid skill marketplace for OpenClaw skills",
+    "path": "openclaw/0xsneaks-phantom-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/0xSneaks/phantom-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299194121",
+    "title": "ai-agent-skills-pack-2026",
+    "tool": "openclaw",
+    "tags": [
+      "agent-tools",
+      "ai-agent-skill",
+      "ai-automation",
+      "autonomous-agents",
+      "codex",
+      "coding-agent",
+      "complete-version",
+      "cursor",
+      "full-installer",
+      "gumroad",
+      "hermes-like",
+      "openclaw",
+      "pc-cleaner",
+      "skills",
+      "soft-2026",
+      "soft-organizer-2026",
+      "uninstaller"
+    ],
+    "description": "Extend AI coding agents with file operations, workflow automation, and API integrations across Claude Code, Cursor, Codex, and Continue.",
+    "path": "openclaw/aribakhan4628-ai-agent-skills-pack-2026/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aribakhan4628/ai-agent-skills-pack-2026",
+    "source": "github-discovery"
   }
 ]

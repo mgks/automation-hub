@@ -70458,5 +70458,157 @@
     "type": "repo",
     "repoUrl": "https://github.com/alvinjohn0417/n8n-ai-asmr-video-generator",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1414965146",
+    "title": "github-workspace-mcp-server",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Importable GItHub n8n workflow",
+    "path": "n8n/ryanjayleyva-github-workspace-mcp-server/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ryanjayleyva/github-workspace-mcp-server",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1414634852",
+    "title": "vuln-triage",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Ranks vulnerable dependencies by real-world exploit risk (CISA KEV, EPSS) and routes each fix to its owner. AI-written fix briefs, n8n workflows, MCP server.",
+    "path": "n8n/andrew-chung-au-vuln-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/andrew-chung-au/vuln-triage",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413635672",
+    "title": "n8n-sprint2-issue-triage",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Week 6 public test repository for an n8n GitHub Issue Triage workflow",
+    "path": "n8n/goulding-pfw-n8n-sprint2-issue-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/goulding-pfw/n8n-sprint2-issue-triage",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1408912287",
+    "title": "n8n-explain",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A cognitive-mental-model guide to the n8n workflow-automation engine, from a close reading of its source (EN + 中文)",
+    "path": "n8n/geekchow-n8n-explain/",
+    "type": "repo",
+    "repoUrl": "https://github.com/geekchow/n8n-explain",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1414950635",
+    "title": "google-maps-lead-collector",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that collects B2B business leads from Google Maps into Google Sheets",
+    "path": "n8n/mdhasan27-google-maps-lead-collector/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mdhasan27/google-maps-lead-collector",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1414458561",
+    "title": "n8n-sprint2-issue-triage",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Week 6 public test repository for an n8n GitHub Issue Triage workflow",
+    "path": "n8n/hamdantayyab-n8n-sprint2-issue-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HamdanTayyab/n8n-sprint2-issue-triage",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1414889661",
+    "title": "showonce",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "chrome-extension",
+      "mcp",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "Do a task once in your browser. Get an n8n workflow that does it forever.",
+    "path": "n8n/subnautixx-showonce/",
+    "type": "repo",
+    "repoUrl": "https://github.com/subnautixx/showonce",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1414619259",
+    "title": "n8n-vision-grader",
+    "tool": "n8n",
+    "tags": [
+      "automated-grading",
+      "docker-compose",
+      "education",
+      "google-drive",
+      "google-sheets",
+      "llm",
+      "n8n",
+      "n8n-workflow",
+      "vision",
+      "vision-llm"
+    ],
+    "description": "n8n workflow that grades student assignments from a Google Drive folder with a vision LLM (one call per file): PDF/image in, Google Sheets out, plus a Docker PDF-to-image sidecar.",
+    "path": "n8n/0xminomus-n8n-vision-grader/",
+    "type": "repo",
+    "repoUrl": "https://github.com/0xMinomus/n8n-vision-grader",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1400236242",
+    "title": "n8n-job-hunter",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "automation",
+      "gemini",
+      "job-search",
+      "n8n",
+      "n8n-workflow",
+      "whatsapp-api"
+    ],
+    "description": "n8n workflow that finds entry-level tech jobs daily, scores them against your CV with Gemini, and sends a WhatsApp report.",
+    "path": "n8n/bodamansour-n8n-job-hunter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bodamansour/n8n-job-hunter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1405498564",
+    "title": "LeadPilot-Free",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "automations",
+      "free",
+      "lead-generation",
+      "lead-generation-tool",
+      "lead-scraper",
+      "leads",
+      "marketing-automation",
+      "n8n",
+      "n8n-workflow",
+      "no-code",
+      "open-source",
+      "rongonkairy",
+      "sales-automation",
+      "workflow-automation"
+    ],
+    "description": "🚀 LeadPilot-Free: a free, ready-to-import n8n workflow that automates lead generation: find, collect, and organize leads on autopilot. No coding needed.",
+    "path": "n8n/rongonkairy-leadpilot-free/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RongonKairy/LeadPilot-Free",
+    "source": "github-discovery"
   }
 ]
