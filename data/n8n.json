@@ -70610,5 +70610,148 @@
     "type": "repo",
     "repoUrl": "https://github.com/RongonKairy/LeadPilot-Free",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1414644839",
+    "title": "n8n-telegram-claude-bot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Telegram chatbot built in n8n. Messages arrive via a Telegram webhook, go to Claude (Anthropic API) with a custom system prompt, and the reply is sent back to the chat. Self-hosted with Docker and exposed over HTTPS with ngrok. Includes the exported workflow JSON and a setup guide.",
+    "path": "n8n/winovateam-bit-n8n-telegram-claude-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/winovateam-bit/n8n-telegram-claude-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1416486764",
+    "title": "danira-competitor-product-monitoring",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that monitors competitor product prices and stock availability, detects meaningful changes, and sends Telegram alerts.",
+    "path": "n8n/zahraraeisi-danira-competitor-product-monitoring/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zahraraeisi/danira-competitor-product-monitoring",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1390496999",
+    "title": "n8n-nodes-roxyapi",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "ai-agents",
+      "astrology",
+      "astrology-api",
+      "chinese-astrology",
+      "feng-shui",
+      "horoscope",
+      "human-design",
+      "kundli",
+      "n8n",
+      "n8n-community-node",
+      "n8n-node",
+      "n8n-nodes",
+      "natal-chart",
+      "no-code",
+      "numerology",
+      "roxyapi",
+      "tarot",
+      "vedic-astrology",
+      "workflow-automation"
+    ],
+    "description": "Astrology API node for n8n and its AI Agent. The Spiritual OS layer: Western, Vedic, tarot, numerology and 18+ domains on one key. Workflows in minutes.",
+    "path": "n8n/roxyapi-n8n-nodes-roxyapi/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RoxyAPI/n8n-nodes-roxyapi",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1416321388",
+    "title": "n8n-cookbook",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "cookbook",
+      "low-code",
+      "n8n",
+      "no-code",
+      "workflow-automation"
+    ],
+    "description": "10 practical, ready-to-import n8n workflow recipes for beginners: each with a step-by-step guide, node-by-node explanation and validated workflow JSON",
+    "path": "n8n/yalinma-n8n-cookbook/",
+    "type": "repo",
+    "repoUrl": "https://github.com/YalinMa/n8n-cookbook",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1416451540",
+    "title": "ai-website-competitor-analysis",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An AI-powered n8n workflow that analyzes a website URL, summarizes its services, target audience, business model, and key features, and identifies its top 3 competitors with competitive comparisons and business insights using Google Gemini.",
+    "path": "n8n/bhaskarbalivada-ai-website-competitor-analysis/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bhaskarbalivada/ai-website-competitor-analysis",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1416455994",
+    "title": "n8n-ai-lead-classifier-demo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Real n8n LLM workflow using Hive/GLM 5.3 with structured output, validation, retries, failure handling, and 9/9 tests.",
+    "path": "n8n/jadusaa-n8n-ai-lead-classifier-demo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jadusaa/n8n-ai-lead-classifier-demo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1416452110",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/iamsabbirahamed-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/iamsabbirahamed/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1416450657",
+    "title": "flowpilot-ai",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "ai-agent",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "An AI-powered team accountability and workflow automation system built with n8n to intelligently track tasks, identify blockers, monitor deadlines, and automate team communication. ",
+    "path": "n8n/syedamahnoor-sm-flowpilot-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/syedamahnoor-sm/flowpilot-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1416431954",
+    "title": "gmail-automation-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "mail Automation is an n8n workflow I built solo to track internship applications without manually digging through my inbox. ",
+    "path": "n8n/fadhilramadhan983-gmail-automation-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fadhilramadhan983/gmail-automation-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1416403682",
+    "title": "n8n-scholarship-eligibility-email-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that automates scholarship eligibility checking based on a student's percentage. After a user submits a form, the workflow evaluates their eligibility and sends a personalized email notification through Gmail.",
+    "path": "n8n/bhaskarbalivada-n8n-scholarship-eligibility-email-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bhaskarbalivada/n8n-scholarship-eligibility-email-automation",
+    "source": "github-discovery"
   }
 ]
