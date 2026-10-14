@@ -70753,5 +70753,162 @@
     "type": "repo",
     "repoUrl": "https://github.com/bhaskarbalivada/n8n-scholarship-eligibility-email-automation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1418292590",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Things i just be thinking of",
+    "path": "n8n/sonnysly03-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sonnysly03/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1418109341",
+    "title": "n8n-templates",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Free n8n workflows that watch self-hosted AI tools (Ollama, Open WebUI, n8n, LiteLLM...) for known vulnerabilities and risky settings. By MV2 of Munim, Inc.",
+    "path": "n8n/munimv2-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/munimv2/n8n-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1418276044",
+    "title": "ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Automation Engineer portfolio showcasing intelligent AI agents, n8n workflow automation, multi-agent customer service systems, RAG chatbots, CRM and lead management, email automation, and AI-powered business process solutions.",
+    "path": "n8n/shugakanee-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Shugakanee/ai-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1418262776",
+    "title": "n8n-python-integration",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Bridge the gap between n8n's visual workflows and production Python applications. This repository demonstrates how to convert, integrate, and execute n8n workflows within Python code, allowing teams to leverage both low-code development and programmatic flexibility.",
+    "path": "n8n/minion0906-debug-n8n-python-integration/",
+    "type": "repo",
+    "repoUrl": "https://github.com/minion0906-debug/n8n-python-integration",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1097173620",
+    "title": "sticker-generator",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "image-generation",
+      "n8n",
+      "openai",
+      "react",
+      "supabase",
+      "typescript"
+    ],
+    "description": "AI sticker generator using OpenAI Images, React, Supabase and n8n workflows",
+    "path": "n8n/deruvodaniel-sticker-generator/",
+    "type": "repo",
+    "repoUrl": "https://github.com/deruvodaniel/sticker-generator",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1418241502",
+    "title": "n8n-agents",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Building AI agents using n8n workflow for automation of daily tasks",
+    "path": "n8n/minion0906-debug-n8n-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/minion0906-debug/n8n-agents",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1401177998",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready n8n workflows: data sync, validation, error handling, and AI integration",
+    "path": "n8n/kkautomations-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kkautomations/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1418068114",
+    "title": "open-data-actor-workflows",
+    "tool": "n8n",
+    "tags": [
+      "apify",
+      "apify-actor",
+      "automation",
+      "b2b-leads",
+      "data-api",
+      "lead-generation",
+      "make",
+      "n8n",
+      "n8n-workflow",
+      "open-data",
+      "public-records",
+      "scraper",
+      "workflow-templates",
+      "zapier",
+      "zapier-integration"
+    ],
+    "description": "Ready-made n8n, Make and Zapier workflows for 24 open-data and lead-generation Apify actors. Maintained by the actors author.",
+    "path": "n8n/mamoo85-open-data-actor-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mamoo85/open-data-actor-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1418197917",
+    "title": "lanexbuilds.github.io",
+    "tool": "n8n",
+    "tags": [
+      "gohighlevel",
+      "n8n",
+      "n8n-alternative",
+      "n8n-automation",
+      "n8n-node",
+      "n8n-nodes",
+      "n8n-workflow",
+      "n8n-workflows",
+      "workflow",
+      "zapier"
+    ],
+    "description": "Production-grade n8n automation schematics, local AI pipelines, and autonomous backend systems.",
+    "path": "n8n/lanexbuilds-lanexbuilds.github.io/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LanexBuilds/lanexbuilds.github.io",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1418133250",
+    "title": "licitacoes-pncp-ia",
+    "tool": "n8n",
+    "tags": [
+      "automacao",
+      "compras-publicas",
+      "docker",
+      "lei-14133",
+      "licitacoes",
+      "mcp",
+      "n8n",
+      "n8n-workflow",
+      "pncp",
+      "pregao-eletronico",
+      "python"
+    ],
+    "description": "Captação de licitações do PNCP com n8n e IA: filtra, lê o edital, cruza com a tabela de preços e gera Excel, proposta prévia e declarações.",
+    "path": "n8n/max-martins-licitacoes-pncp-ia/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Max-Martins/licitacoes-pncp-ia",
+    "source": "github-discovery"
   }
 ]

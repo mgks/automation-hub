@@ -25009,5 +25009,31 @@
     "type": "repo",
     "repoUrl": "https://github.com/aribakhan4628/ai-agent-skills-pack-2026",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1171723267",
+    "title": "apple-photos-cleaner",
+    "tool": "openclaw",
+    "tags": [
+      "apple-photos",
+      "claude-skill",
+      "python"
+    ],
+    "description": "OpenClaw skill for Apple Photos library cleanup, analysis, duplicate detection, and timeline recaps. Pure Python, no API tokens needed.",
+    "path": "openclaw/and3rn3t-apple-photos-cleaner/",
+    "type": "repo",
+    "repoUrl": "https://github.com/and3rn3t/apple-photos-cleaner",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1336105185",
+    "title": "shared-agent-memory",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "A universal cross-agent memory skill — share long-term memory (preferences, workflow, facts) across any agent that reads SKILL.md.通用的跨 Agent 共享记忆库 Skill —— 让 Codex / Claude Code / Hermes / OpenClaw 等任意 agent 共享同一份长期记忆（偏好、处理方式、经验），跨会话复用之，无需重复描述自己。",
+    "path": "openclaw/ruanzhou9-shared-agent-memory/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ruanzhou9/shared-agent-memory",
+    "source": "github-discovery"
   }
 ]
