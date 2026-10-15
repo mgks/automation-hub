@@ -70910,5 +70910,165 @@
     "type": "repo",
     "repoUrl": "https://github.com/Max-Martins/licitacoes-pncp-ia",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1420092402",
+    "title": "news-intelligence-digest",
+    "tool": "n8n",
+    "tags": [
+      "claude",
+      "claude-code",
+      "deduplication",
+      "llm",
+      "n8n",
+      "news-aggregator",
+      "postgresql",
+      "rss",
+      "telegram-bot-ai-assistant",
+      "text-clustering",
+      "workflow-automation"
+    ],
+    "description": "workflow that fetches RSS/Atom feeds, removes duplicates, groups the same story across sources, scores it against your topics, and sends a daily Telegram digest with capped AI summaries. PostgreSQL storage, feed health alerts and Telegram commands.",
+    "path": "n8n/alvintnw-news-intelligence-digest/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alvintnw/news-intelligence-digest",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1417923843",
+    "title": "liveview",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An overview of all your n8n workflows in one place, so you can manage multiple n8n workflows and instances from one central, visual view. ",
+    "path": "n8n/viralistic-liveview/",
+    "type": "repo",
+    "repoUrl": "https://github.com/viralistic/liveview",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1403727623",
+    "title": "automation-templates",
+    "tool": "n8n",
+    "tags": [
+      "chatbot",
+      "content-automation",
+      "javascript",
+      "n8n",
+      "n8n-workflows",
+      "python",
+      "workflow-automation"
+    ],
+    "description": "14 n8n workflows with setup guides and runnable demos for scheduling, support, cited content and operations. Includes a Python source collector.",
+    "path": "n8n/benian-technologies-automation-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/benian-technologies/automation-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299957642",
+    "title": "n8n-nodes-posteahora",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for PosteAhora — schedule & publish social posts across every network from your workflows.",
+    "path": "n8n/posteahora-n8n-nodes-posteahora/",
+    "type": "repo",
+    "repoUrl": "https://github.com/posteahora/n8n-nodes-posteahora",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1299707655",
+    "title": "n8n_AI_Agent_Automation_Workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/mdyeasinaraf07-n8n_ai_agent_automation_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mdyeasinaraf07/n8n_AI_Agent_Automation_Workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1419952116",
+    "title": "n8n-ai-lead-qualifier",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that scores contact form leads with code + Gemini, saves them to HubSpot, alerts sales in Slack, and never loses a lead when the AI or CRM fails. Demo project with fictional data.",
+    "path": "n8n/ridho2420-n8n-ai-lead-qualifier/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ridho2420/n8n-ai-lead-qualifier",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1394165683",
+    "title": "jan-website",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-automation",
+      "automation",
+      "claude-code",
+      "github-pages",
+      "llm",
+      "multi-agent-systems",
+      "n8n",
+      "portfolio",
+      "portfolio-website",
+      "static-site",
+      "workflow-automation"
+    ],
+    "description": "Portfolio of Jan, AI agent builder and automation specialist: n8n workflows, multi-agent systems and AI automation projects.",
+    "path": "n8n/janmm97-jan-website/",
+    "type": "repo",
+    "repoUrl": "https://github.com/janmm97/jan-website",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1419961624",
+    "title": "gemini-image-edit",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "docker",
+      "gemini",
+      "image-editing",
+      "n8n",
+      "nextjs"
+    ],
+    "description": "Gemini image editing: Next.js front end, n8n workflows for API-key auth, prompt presets, logging to Sheets and storage in Drive.",
+    "path": "n8n/anuchanamlee-gemini-image-edit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anuchanamlee/gemini-image-edit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1419958547",
+    "title": "lab-m01-maintenance-demo",
+    "tool": "n8n",
+    "tags": [
+      "google-sheets",
+      "javascript",
+      "maintenance",
+      "n8n",
+      "portfolio",
+      "technical-documentation",
+      "testing",
+      "workflow-automation"
+    ],
+    "description": "Maintenance workflow demonstrator: n8n, DEMO ledger and Gmail. Three documented cloud baseline flows; 13 reproducible offline scenarios.",
+    "path": "n8n/bh-automation-lab-m01-maintenance-demo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bh-automation/lab-m01-maintenance-demo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1415737633",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-grade n8n workflows powered by AI. Lead qualification, email triage, and intelligent appointment systems built with Gemini, OpenAI, and more. New projects coming.",
+    "path": "n8n/taha-021-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/taha-021/n8n-automation-portfolio",
+    "source": "github-discovery"
   }
 ]

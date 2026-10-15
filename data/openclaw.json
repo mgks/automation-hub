@@ -25035,5 +25035,48 @@
     "type": "repo",
     "repoUrl": "https://github.com/Ruanzhou9/shared-agent-memory",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1223577501",
+    "title": "oc-tools",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw management toolkit: agent setup, skill management, workflow orchestration",
+    "path": "openclaw/joseph118789-max-oc-tools/",
+    "type": "repo",
+    "repoUrl": "https://github.com/joseph118789-max/oc-tools",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1221061473",
+    "title": "ai-research-skills",
+    "tool": "openclaw",
+    "tags": [
+      "academic-writing",
+      "agentic-ai",
+      "agentskills",
+      "ai-research",
+      "ai-skills",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "gemini",
+      "literature-review",
+      "marketplace",
+      "multi-agent",
+      "notebooklm",
+      "obsidian",
+      "openclaw",
+      "research",
+      "research-workflow",
+      "skill-md",
+      "zotero"
+    ],
+    "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writing, and cross-agent delegation for Claude Code, Codex, Gemini, Cursor, OpenClaw, and generic AI clients.",
+    "path": "openclaw/wenyuchiou-ai-research-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/WenyuChiou/ai-research-skills",
+    "source": "github-discovery"
   }
 ]
