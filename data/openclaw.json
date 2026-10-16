@@ -25078,5 +25078,80 @@
     "type": "repo",
     "repoUrl": "https://github.com/WenyuChiou/ai-research-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1421026773",
+    "title": "aim",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AIM — Agent Identity Migration: Samsung Smart Switch for AI agents. Move persona, memories, skills, cron & config between harnesses (Hermes/OpenClaw/Claude Code) and across OSes. Portable .aim bundles with redaction + encrypted secrets vault.",
+    "path": "openclaw/roryquarrier-aim/",
+    "type": "repo",
+    "repoUrl": "https://github.com/roryquarrier/aim",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1416386910",
+    "title": "qwen21-nsfw-pose-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "comfyui",
+      "image-generation",
+      "openclaw",
+      "pose-control",
+      "qwen-image"
+    ],
+    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "path": "openclaw/arekejoker-qwen21-nsfw-pose-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1262874834",
+    "title": "rls-onboarding-wizard",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for client RLS onboarding wizard",
+    "path": "openclaw/jasperyang0609-rls-onboarding-wizard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JasperYang0609/rls-onboarding-wizard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1376841160",
+    "title": "agent-toggle",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "mcp",
+      "python"
+    ],
+    "description": "Temporarily disable and restore AI-agent skills, agents, commands, rules, plugins and MCP servers across Claude Code, Codex, Grok, OpenCode, OpenClaw, Copilot and Vibe. Nothing is deleted, and it shows what each item costs at session start.",
+    "path": "openclaw/weskao-agent-toggle/",
+    "type": "repo",
+    "repoUrl": "https://github.com/weskao/agent-toggle",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1398604082",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code-plugin",
+      "gemini-cli-extension",
+      "hermes-agent",
+      "openclaw",
+      "skill-md"
+    ],
+    "description": "Openpath skill and plugin for AI agents: job openings (mostly Austin and remote) and Austin local businesses from the open directory of real-world listings, with an inbox to reach each owner.",
+    "path": "openclaw/openpath-sh-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/openpath-sh/skills",
+    "source": "github-discovery"
   }
 ]

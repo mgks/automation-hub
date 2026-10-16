@@ -71070,5 +71070,158 @@
     "type": "repo",
     "repoUrl": "https://github.com/taha-021/n8n-automation-portfolio",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1421528562",
+    "title": "n8n-quote-templates",
+    "tool": "n8n",
+    "tags": [
+      "follow-up",
+      "gmail-automation",
+      "google-sheets-automation",
+      "n8n",
+      "n8n-templates",
+      "n8n-workflow",
+      "n8n-workflows",
+      "quote-follow-up"
+    ],
+    "description": "There is one person behind Small Hours. A team of AI agents built these three free n8n workflows for small service businesses that quote jobs by email: collect quote requests in Google Sheets, book accepted jobs in Google Calendar, and get a weekly quote summary by Gmail. Tested with real Gmail, Sheets and Calendar accounts.",
+    "path": "n8n/smallhourstools-n8n-quote-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/smallhourstools/n8n-quote-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1417051939",
+    "title": "ki-servicedesk-pilot",
+    "tool": "n8n",
+    "tags": [
+      "ai-assistants",
+      "groq",
+      "human-in-the-loop",
+      "it-service-desk",
+      "low-code",
+      "n8n",
+      "notion",
+      "responsible-ai",
+      "workflow-automation"
+    ],
+    "description": "n8n-Workflow: KI-Assistent für den IT-Service-Desk mit Human-in-the-Loop – Notion-Wissensdatenbank, KI-Vorschlag, menschliche Freigabe, Fehler-Fallback.",
+    "path": "n8n/gundula-automates-ki-servicedesk-pilot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Gundula-automates/ki-servicedesk-pilot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1421560153",
+    "title": "n8n-nodes-dualtran",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node — translate in workflows with Google or your own AI model (BYOK).",
+    "path": "n8n/seigwen-n8n-nodes-dualtran/",
+    "type": "repo",
+    "repoUrl": "https://github.com/seigwen/n8n-nodes-dualtran",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1421555584",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/bendover002-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Bendover002/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1080186397",
+    "title": "Ollama-AI-Automation-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Local AI automation workflow with n8n and Ollama, integrating document processing, Google Drive, PDF handling, and privacy-first on-device intelligence.",
+    "path": "n8n/nicholasbirochi-ollama-ai-automation-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nicholasbirochi/Ollama-AI-Automation-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1319332048",
+    "title": "smart-cfo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Smart CFO knowledge files and n8n agent workflow resources",
+    "path": "n8n/sonigovind5-smart-cfo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sonigovind5/smart-cfo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1421513038",
+    "title": "inboxops",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that classifies incoming business email with an LLM, proposes an action in Odoo, and waits for human approval before any write. Work in progress.",
+    "path": "n8n/osama3636-inboxops/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Osama3636/inboxops",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1318563473",
+    "title": "TGS-2024045801-Agentic-AI-for-Business-Process-Automation",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-security",
+      "business-process-automation",
+      "courseware",
+      "human-in-the-loop",
+      "n8n",
+      "rag",
+      "singapore",
+      "skillsfuture",
+      "telegram",
+      "training",
+      "workflow-automation",
+      "wsq"
+    ],
+    "description": "WSQ courseware for Agentic AI for Business Process Automation (TGS-2024045801): a 2-day, 16-hour course in workflow-first agentic automation with n8n — five hands-on labs covering triggers and actions, a webhook-triggered AI agent, an agentic chatbot, human-in-the-loop approval and a RAG chatbot.",
+    "path": "n8n/tertiarycourses-tgs-2024045801-agentic-ai-for-business-process-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tertiarycourses/TGS-2024045801-Agentic-AI-for-Business-Process-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1389388093",
+    "title": "resilient-n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "anthropic-claude",
+      "automation",
+      "integration",
+      "llm",
+      "n8n",
+      "openai",
+      "postgresql",
+      "workflow-automation"
+    ],
+    "description": "Four n8n workflows built around one question: what should an automation do when something goes wrong? Idempotency, visible retry loops, dead letters, and LLM extraction verified against the source document.",
+    "path": "n8n/gouthamkumarg-resilient-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/GouthamkumarG/resilient-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1001143860",
+    "title": "workflows_setup",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automatic Process to deploy n8n in a virtual server",
+    "path": "n8n/carlosjimenezdiaz-workflows_setup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/carlosjimenezdiaz/workflows_setup",
+    "source": "github-discovery"
   }
 ]
