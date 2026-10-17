@@ -71223,5 +71223,149 @@
     "type": "repo",
     "repoUrl": "https://github.com/carlosjimenezdiaz/workflows_setup",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422886049",
+    "title": "JobHunt---Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated Job Search System using n8n to collect job listings, store job details in Excel, and send updated job reports via WhatsApp and Gmail. Simplifies job tracking, reduces manual effort, and helps users stay updated on relevant job opportunities through workflow automation.",
+    "path": "n8n/dhanush0914-jobhunt---automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/DHANUSH0914/JobHunt---Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422806242",
+    "title": "n8n-nodes-litellm-budget",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "budget",
+      "litellm",
+      "llm",
+      "n8n",
+      "n8n-community-node-package"
+    ],
+    "description": "n8n community node for the LiteLLM proxy: chat, models, spend and a budget check that stops workflows before they overspend",
+    "path": "n8n/sametdemirtas-n8n-nodes-litellm-budget/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SametDemirtas/n8n-nodes-litellm-budget",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1418337322",
+    "title": "n8n-free-workflows",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "Three importable n8n workflows with a single Config node, sticky notes, and no credentials baked in.",
+    "path": "n8n/takaratomita-n8n-free-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/takaratomita/n8n-free-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1418337237",
+    "title": "n8n-preflight",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "n8n-workflow",
+      "secret-scanner"
+    ],
+    "description": "Scan n8n workflow JSON for leaked API keys, credential IDs, pinned data and private URLs before you share or sell it.",
+    "path": "n8n/takaratomita-n8n-preflight/",
+    "type": "repo",
+    "repoUrl": "https://github.com/takaratomita/n8n-preflight",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422823561",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This lists some of the n8n workflows I have built for projects or for clients",
+    "path": "n8n/pranavsingla101-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/PranavSingla101/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422852050",
+    "title": "Freelancer-AI-Client-Deal-Delivery-Agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An end-to-end multi-agent n8n workflow designed to automate freelance client intake, AI requirement analysis, proposal generation, human approval gates, automated content creation, QA loops, and invoicing.",
+    "path": "n8n/nabihashahid-nitizen-freelancer-ai-client-deal-delivery-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nabihashahid-nitizen/Freelancer-AI-Client-Deal-Delivery-Agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1388448432",
+    "title": "n8n-git-ui",
+    "tool": "n8n",
+    "tags": [
+      "dag",
+      "dark-mode",
+      "diff-viewer",
+      "git",
+      "git-visualizer",
+      "interactive-graph",
+      "n8n",
+      "python",
+      "workflow",
+      "zero-server"
+    ],
+    "description": "Zero-Server Git DAG & Commit Visualizer in n8n Workflow Style",
+    "path": "n8n/skszone01-n8n-git-ui/",
+    "type": "repo",
+    "repoUrl": "https://github.com/skszone01/n8n-git-ui",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422824868",
+    "title": "Freelancer-AI-Client-Deal-Delivery-Agent-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Freelancer AI Client Deal & Delivery Agent  An end-to-end multi-agent n8n workflow designed to automate a client-facing freelance/agency service lifecycle. It seamlessly handles lead intake, requirement analysis, proposal generation, human approval gates, automated content delivery, quality assurance, revision loops, and invoicing.",
+    "path": "n8n/nabihashahid-nitizen-freelancer-ai-client-deal-delivery-agent-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nabihashahid-nitizen/Freelancer-AI-Client-Deal-Delivery-Agent-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422840019",
+    "title": "vigilancia-innovacion-ia",
+    "tool": "n8n",
+    "tags": [
+      "automatizacion",
+      "gemini",
+      "ia",
+      "n8n",
+      "rss",
+      "telegram"
+    ],
+    "description": "Vigilancia continua de innovación con IA: workflows de n8n que extraen casos de IA de la prensa y generan informes semanales y borradores para redes (Gemini gratis)",
+    "path": "n8n/jaimegp03-vigilancia-innovacion-ia/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jaimegp03/vigilancia-innovacion-ia",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422808180",
+    "title": "whatsapp-ai-agent-n8n-framework",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Enterprise AI-Powered WhatsApp Chatbot Architecture using n8n Workflow Automation, WAHA (WhatsApp HTTP API), and OpenAI LLM Agent with Session Memory Buffer.",
+    "path": "n8n/fyunanto-whatsapp-ai-agent-n8n-framework/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fyunanto/whatsapp-ai-agent-n8n-framework",
+    "source": "github-discovery"
   }
 ]
