@@ -25379,5 +25379,91 @@
     "type": "repo",
     "repoUrl": "https://github.com/beatra-ai/photo-to-anime-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1373850846",
+    "title": "ai-image-generator-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-art",
+      "ai-image-editor",
+      "ai-image-generator",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "generative-ai",
+      "illustration",
+      "image-editing",
+      "image-generation",
+      "openclaw",
+      "poster-design",
+      "skill-md",
+      "social-media-graphics",
+      "text-to-image"
+    ],
+    "description": "AI image generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: generate, compose, and edit product images, brand visuals, posters, social graphics, illustrations, and photo variations. AI图片生成 · 文生图 · AI修图",
+    "path": "openclaw/beatra-ai-ai-image-generator-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/beatra-ai/ai-image-generator-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1262427763",
+    "title": "kiri-engine-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "KIRI Engine 3D Scan API Skill for OpenClaw - Generate 3D models and Gaussian Splatting assets",
+    "path": "openclaw/taosiuman-kiri-engine-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/taosiuman/kiri-engine-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182415864",
+    "title": "oauth-disguise",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill: Configure Anthropic OAuth tokens as API keys via environment variable injection",
+    "path": "openclaw/jiafar-oauth-disguise/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jiafar/oauth-disguise",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1365636779",
+    "title": "vidaa-streaming-skill",
+    "tool": "openclaw",
+    "tags": [
+      "experiment"
+    ],
+    "description": "Reusable OpenClaw skill for authorized Hisense/VIDAA TV control and local media streaming",
+    "path": "openclaw/richardokonicha-vidaa-streaming-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/richardokonicha/vidaa-streaming-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1423875021",
+    "title": "conector-modelos",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Skill para agentes: conectar proveedores y modelos de IA en cualquier arnes (OpenCode, Claude Code, Codex CLI, Qwen Code, Command Code, OpenClaw, Hermes y mas) con deteccion, dry-run, backup, probe real y verificacion",
+    "path": "openclaw/gilmanpro-conector-modelos/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gilmanpro/conector-modelos",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1345819867",
+    "title": "openclaw-lovelogic",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "LoveLogicAI downstream layer for OpenClaw — consent-native memory kernel, deployment config, and agent skills. Includes $LOVE token system (4 contracts, 43 tests).",
+    "path": "openclaw/remylovelogicai-openclaw-lovelogic/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RemyLoveLogicAI/openclaw-lovelogic",
+    "source": "github-discovery"
   }
 ]
