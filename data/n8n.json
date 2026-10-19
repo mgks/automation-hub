@@ -71528,5 +71528,146 @@
     "type": "repo",
     "repoUrl": "https://github.com/useapi/notebooklm-api",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1424982577",
+    "title": "santander_2026_automacao_com_n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Repositório para o bootcamp Santander 2026 Automação com N8N. Aprenda do zero como construir automações de processos com N8N, conectando Inteligência Artificial, workflows, integrações, APIs e webhooks em uma trilha prática que vai dos fundamentos até um projeto real de RPA com Python.",
+    "path": "n8n/rafael-soares-oliveira-santander_2026_automacao_com_n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Rafael-soares-oliveira/santander_2026_automacao_com_n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1424614097",
+    "title": "n8n-nodes-popnow",
+    "tool": "n8n",
+    "tags": [
+      "ai-image-generator",
+      "ai-video-generator",
+      "flux",
+      "generative-ai",
+      "image-to-video",
+      "kling",
+      "music-generation",
+      "n8n",
+      "n8n-community-node-package",
+      "n8n-nodes",
+      "n8n-workflow",
+      "nano-banana",
+      "popnow",
+      "seedance",
+      "suno",
+      "text-to-image",
+      "text-to-speech",
+      "text-to-video",
+      "workflow-automation"
+    ],
+    "description": "n8n community node for PopNow: AI video, image, music and speech generation (Kling, Seedance, Wan, Nano Banana, Flux, Suno) in n8n workflows.",
+    "path": "n8n/popnow-ai-n8n-nodes-popnow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/popnow-ai/n8n-nodes-popnow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1423431438",
+    "title": "n8n-form-crm-automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "10 n8n workflows: website forms, HubSpot CRM, Google Sheets and email, with webhooks, data mapping and error handling",
+    "path": "n8n/kelvintrinhsg-n8n-form-crm-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/KelvinTrinhSG/n8n-form-crm-automations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1424898283",
+    "title": "n8n-sync",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "ci-cd",
+      "cli",
+      "devops",
+      "n8n",
+      "version-control"
+    ],
+    "description": "Git-friendly version control for n8n Community Edition workflows — since Enterprise Source Control is €667/mo",
+    "path": "n8n/badwalx-n8n-sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/badwalx/n8n-sync",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1424994953",
+    "title": "automation-proof",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "testing",
+      "workflow-automation"
+    ],
+    "description": "Recorded n8n demonstrations with simulated services, an evidence verifier, and a reusable acceptance checklist. Not a production workflow pack.",
+    "path": "n8n/zenoutlabs-automation-proof/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zenoutlabs/automation-proof",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1424943378",
+    "title": "examples",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Working examples for the thirds.ai API: HTML to PDF with page numbers, certificates from a CSV, Open Graph images, batch ad sizes, n8n and Make workflows. (Disclosure: I'm connected to thirds.ai.)",
+    "path": "n8n/thirdsai-examples/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thirdsai/examples",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1424885818",
+    "title": "n8n-nodes-whatsarab",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Official n8n community node for WhatsArab: send WhatsApp messages and templates, manage contacts and tags, and trigger workflows from WhatsArab webhooks.",
+    "path": "n8n/whatsarabhq-n8n-nodes-whatsarab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/WhatsArabHQ/n8n-nodes-whatsarab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422156942",
+    "title": "flow-desk-ai",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered ticket management that combines LLM-based classification, workflow automation with n8n, and a Next.js dashboard to streamline business processes with reliable integrations and traceable execution.",
+    "path": "n8n/marcosportales-flow-desk-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/marcosportales/flow-desk-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1366759765",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/bintangazhar-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bintangazhar/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1424911712",
+    "title": "videogen-workflow-templates",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Importable n8n workflows for approved scripts, training decks, and voiceovers. Core nodes only, with execution tests.",
+    "path": "n8n/video-gen-videogen-workflow-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/video-gen/videogen-workflow-templates",
+    "source": "github-discovery"
   }
 ]
