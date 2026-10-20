@@ -71669,5 +71669,139 @@
     "type": "repo",
     "repoUrl": "https://github.com/video-gen/videogen-workflow-templates",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1409389959",
+    "title": "podcast-to-blog-newsletter-n8n",
+    "tool": "n8n",
+    "tags": [
+      "anthropic",
+      "assemblyai",
+      "automation",
+      "claude",
+      "content-automation",
+      "n8n",
+      "podcast",
+      "workflow-automation"
+    ],
+    "description": "n8n workflow that turns each new podcast episode into a blog draft and a newsletter draft. Live for the FiveCardGuys podcast since July 2026.",
+    "path": "n8n/danielkang-dev-podcast-to-blog-newsletter-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/danielkang-dev/podcast-to-blog-newsletter-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1320927667",
+    "title": "Portfolio_",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A single-page portfolio site showcasing my work in AI integration and workflow automation, which includes: projects built with n8n, the Claude API, and Claude Code. ",
+    "path": "n8n/onyebuchiochiedike-portfolio_/",
+    "type": "repo",
+    "repoUrl": "https://github.com/OnyebuchiOchiedike/Portfolio_",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1426418325",
+    "title": "n8n-server-ops-starter-lite",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Free lite preview of the Linux/Server Ops n8n Starter Pack (1 workflow). Full pack: caoyadong.gumroad.com/l/fnxeb",
+    "path": "n8n/caoyadong888-wq-n8n-server-ops-starter-lite/",
+    "type": "repo",
+    "repoUrl": "https://github.com/caoyadong888-wq/n8n-server-ops-starter-lite",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1426401864",
+    "title": "n8n-agent-assertions",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Four read-only n8n workflows that watch AI agents in production: credential liveness, success rate, cost and iteration ceiling, golden case. Alerts go through your existing error workflow.",
+    "path": "n8n/jarrod-wright-n8n-agent-assertions/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jarrod-wright/n8n-agent-assertions",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1426380804",
+    "title": "n8n-workflows-small-business",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/sayedomnisoft-n8n-workflows-small-business/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sayedomnisoft/n8n-workflows-small-business",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1426354592",
+    "title": "duartelabs-ai-automation-suite",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Examples, n8n workflows and MCP config for DuarteLabs Apify Actors",
+    "path": "n8n/adrian1998duarte-lgtm-duartelabs-ai-automation-suite/",
+    "type": "repo",
+    "repoUrl": "https://github.com/adrian1998duarte-lgtm/duartelabs-ai-automation-suite",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1425160106",
+    "title": "heliosHR",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "employee-onboarding",
+      "identity-management",
+      "llm",
+      "mcp",
+      "n8n",
+      "python"
+    ],
+    "description": "heliosHR is an AI-assisted employee onboarding prototype with configurable LLMs, an MCP server, policy-based access controls, and an n8n workflow.",
+    "path": "n8n/varaprasad-rasuri-iraspace-helioshr/",
+    "type": "repo",
+    "repoUrl": "https://github.com/varaprasad-rasuri-iraspace/heliosHR",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1426355397",
+    "title": "ops-inbox-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI workflows for a research institute's operations inboxes. Lane 1: IT service desk triage with n8n, Python and Claude: redaction, rule-based routing, shadow mode and an evaluation with a pre-registered acceptance bar.",
+    "path": "n8n/zeussilver-ops-inbox-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zeussilver/ops-inbox-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1214577111",
+    "title": "n8n-insta",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Versioned content workflows with PostgreSQL state, human approval, duplicate protection, retry handling, and publishing evidence.",
+    "path": "n8n/rajchodisetti-n8n-insta/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RajChodisetti/n8n-insta",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1426344553",
+    "title": "n8n-ai-ticket-triage",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "llm",
+      "n8n",
+      "ollama",
+      "postgresql",
+      "workflow-automation"
+    ],
+    "description": "n8n workflow that triages support messages with a local LLM, stores tickets in PostgreSQL and alerts Slack/Discord",
+    "path": "n8n/dinulimann-n8n-ai-ticket-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dinulimann/n8n-ai-ticket-triage",
+    "source": "github-discovery"
   }
 ]

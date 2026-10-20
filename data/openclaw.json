@@ -25601,5 +25601,74 @@
     "type": "repo",
     "repoUrl": "https://github.com/mentio-dev/openclaw-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1360919614",
+    "title": "openClaw-skills-atiliocedeno",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/4geeksacademy-openclaw-skills-atiliocedeno/",
+    "type": "repo",
+    "repoUrl": "https://github.com/4GeeksAcademy/openClaw-skills-atiliocedeno",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1196982492",
+    "title": "last30days-skill-cn",
+    "tool": "openclaw",
+    "tags": [
+      "claude-code",
+      "dsh-plugin",
+      "openclaw",
+      "openclaw-skills",
+      "rednotebook",
+      "research",
+      "tiktok",
+      "web-search"
+    ],
+    "description": "last30days-cn 是一个 AI Agent 技能（Skill），能够自动搜索中国互联网 8 大主流平台最近 30 天的内容，综合分析后生成有据可查的研究报告。",
+    "path": "openclaw/jesseovo-last30days-skill-cn/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jesseovo/last30days-skill-cn",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413012237",
+    "title": "cenhua",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "knowledge-base",
+      "local-first",
+      "offline-first",
+      "openclaw-skill",
+      "personal-knowledge-management",
+      "python",
+      "second-brain"
+    ],
+    "description": "Personal second brain as a single CLI and OpenClaw skill. Drop files into an inbox; get answers with [doc P page] citations traceable to your archived originals. Vectorless tree indexes + exact local grep, any OpenAI-compatible endpoint.",
+    "path": "openclaw/world327-cenhua/",
+    "type": "repo",
+    "repoUrl": "https://github.com/world327/cenhua",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1426390053",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "mcp",
+      "openclaw",
+      "task-management",
+      "workmedow"
+    ],
+    "description": "Official WorkMedow Agent Skill: share goals, input requests, and verified results across your agents.",
+    "path": "openclaw/workmedow-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/workmedow/skills",
+    "source": "github-discovery"
   }
 ]
