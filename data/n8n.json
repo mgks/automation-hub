@@ -71803,5 +71803,143 @@
     "type": "repo",
     "repoUrl": "https://github.com/dinulimann/n8n-ai-ticket-triage",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1426974283",
+    "title": "JavaMifiOps",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Mini-ERP for JavaMifi Operations: Inventory, Rental Booking, Payment Gateway, Issue Tracker, and n8n Telegram Workflow Automation",
+    "path": "n8n/hermawanhantanto-javamifiops/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hermawanhantanto/JavaMifiOps",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1053134506",
+    "title": "n8n-render",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow automation deployment on Render with PostgreSQL",
+    "path": "n8n/darkdanteew-n8n-render/",
+    "type": "repo",
+    "repoUrl": "https://github.com/darkdanteew/n8n-render",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1427104958",
+    "title": "Multi-agent-customer-support-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A professional AI-powered customer support dashboard built with Google AI Studio, featuring email triage, priority and sentiment analysis, automated reply suggestions, and human review workflows. Includes an interactive demo UI inspired by an n8n multi-agent automation workflow.",
+    "path": "n8n/yasaswini6611-multi-agent-customer-support-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Yasaswini6611/Multi-agent-customer-support-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1427797302",
+    "title": "n8n-sales-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that takes orders through a form, auto-calculates prices, logs sales to Google Sheets, and emails the owner a weekly summary. Includes error alerts.",
+    "path": "n8n/codewithwesy-n8n-sales-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/codewithWesy/n8n-sales-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1420789533",
+    "title": "truquence-public",
+    "tool": "n8n",
+    "tags": [
+      "acceptance-testing",
+      "action-contract",
+      "action-contracts",
+      "agent-evaluation",
+      "agent-observability",
+      "agent-safety",
+      "ai-agents",
+      "audit-log",
+      "claude-code",
+      "evidence",
+      "llm-agents",
+      "mcp",
+      "n8n",
+      "python",
+      "receipt-verification",
+      "reconciliation",
+      "workflow-automation"
+    ],
+    "description": "Check exported workflow runs and supplied action-contract evidence against explicit expectations, offline.",
+    "path": "n8n/cplj-truquence-public/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cplj/truquence-public",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1421381350",
+    "title": "Pipe-Runvas",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Pipe — Hermes Desktop plugin: design + run protocols, pipelines, workflows, reference guides, libraries, wiring diagrams and build plans (n8n pipelines, ComfyUI model graphs)",
+    "path": "n8n/gabebac-pipe-runvas/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Gabebac/Pipe-Runvas",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1426048874",
+    "title": "n8n-nodes-djomy",
+    "tool": "n8n",
+    "tags": [],
+    "description": "N8N automation node to easily use Djomy in your workflows.",
+    "path": "n8n/djoomy-n8n-nodes-djomy/",
+    "type": "repo",
+    "repoUrl": "https://github.com/djoomy/n8n-nodes-djomy",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1427739200",
+    "title": "aplicacao-aula09-topesp",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automação de workflows com n8n — consulta de CEP, rotina diária e formulário de fornecedor, com cliente Python da API (Aula 09, Tópicos Especiais em Programação, UNEMAT Sinop)",
+    "path": "n8n/rdnevess-aplicacao-aula09-topesp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Rdnevess/aplicacao-aula09-topesp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1157517745",
+    "title": "automation",
+    "tool": "n8n",
+    "tags": [
+      "airtable",
+      "api-integration",
+      "automation",
+      "google-sheets",
+      "n8n",
+      "rss",
+      "self-hosted",
+      "whatsapp",
+      "workflow-automation"
+    ],
+    "description": "Self-hosted n8n automations: lead capture, content radars, error alerting, fiscal and finance integrations — each with status and sanitized workflow",
+    "path": "n8n/baraoeverton-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/BaraoEverton/automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1427802520",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "path": "n8n/ravikishan-ji-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ravikishan-ji/n8n",
+    "source": "github-discovery"
   }
 ]

@@ -25670,5 +25670,186 @@
     "type": "repo",
     "repoUrl": "https://github.com/workmedow/skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1427811986",
+    "title": "sec-ai-skill",
+    "tool": "openclaw",
+    "tags": [
+      "clawhub",
+      "finance",
+      "openclaw",
+      "sec-edgar",
+      "skill"
+    ],
+    "description": "OpenClaw skill @lkcair/sec: 23 SEC EDGAR functions from sec-finance-ai. Thousands of downloads on ClawHub.",
+    "path": "openclaw/lkcair-sec-ai-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lkcair/sec-ai-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1157390060",
+    "title": "yfinance-ai-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill @lkcair/stocks: 68 Yahoo Finance tools from yfinance-ai. Thousands of downloads on ClawHub.",
+    "path": "openclaw/lkcair-yfinance-ai-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lkcair/yfinance-ai-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1133874914",
+    "title": "sec-finance-ai",
+    "tool": "openclaw",
+    "tags": [
+      "edgar",
+      "finance",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "openclaw",
+      "openwebui",
+      "sec-edgar"
+    ],
+    "description": "AI-powered SEC EDGAR integration. 23 tools for 10-K, 10-Q, 8-K, proxies, IPOs, 13D/13G, Form 4 insiders, 13F holdings and XBRL financials, plus full-text search and reading inside any filing. MCP server (uvx sec-finance-ai), OpenClaw skill and OpenWebUI tool, with thousands of downloads on ClawHub and OpenWebUI.",
+    "path": "openclaw/lkcair-sec-finance-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lkcair/sec-finance-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1085385159",
+    "title": "yfinance-ai",
+    "tool": "openclaw",
+    "tags": [
+      "finance",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "openclaw",
+      "openwebui",
+      "yahoo-finance",
+      "yfinance"
+    ],
+    "description": "World's first AI-powered Yahoo Finance integration. 68 tools for stocks, ETFs, crypto, forex and commodities: prices, history, fundamentals, ratios, earnings and estimates, dividends, options, holders, news, movers and calendars. MCP server (uvx yfinance-ai), OpenClaw skill and OpenWebUI tool, with thousands of downloads on ClawHub and OpenWebUI.",
+    "path": "openclaw/lkcair-yfinance-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lkcair/yfinance-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1301932013",
+    "title": "mlx-agent",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "agent-skills",
+      "agentic-workflow",
+      "antigravity",
+      "apple-silicon",
+      "claude-code",
+      "codex",
+      "hermes-agent",
+      "llm",
+      "local-first",
+      "local-llm",
+      "macos",
+      "mlx",
+      "mlx-lm",
+      "openclaw",
+      "opencode",
+      "research",
+      "research-tools"
+    ],
+    "description": "🍏 Discover, verify, and wire local MLX-optimized models on Apple Silicon: plugins for Claude Code, Codex, Antigravity, and OpenCode, skills for OpenClaw and Hermes Agent, plus a portable AgentSkill.",
+    "path": "openclaw/cavi-ai-mlx-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cavi-ai/mlx-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1206566990",
+    "title": "SkillClaw",
+    "tool": "openclaw",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "ai-agent",
+      "collective-intelligence",
+      "continual-learning",
+      "hermes",
+      "llm",
+      "llms",
+      "openclaw",
+      "self-evolving",
+      "skill-evolution",
+      "skill-learning",
+      "skills"
+    ],
+    "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+    "path": "openclaw/amap-ml-skillclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AMAP-ML/SkillClaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1378725567",
+    "title": "agent-engineering-mindset",
+    "tool": "openclaw",
+    "tags": [
+      "agent-engineering",
+      "ai-agents",
+      "developer-tools",
+      "llm-agents",
+      "multi-agent",
+      "openclaw",
+      "workflow-automation"
+    ],
+    "description": "A portable OpenClaw skill for isolated worktrees, verified merges, clean canonical runtimes, and disciplined multi-agent engineering.",
+    "path": "openclaw/liranhuang-agent-engineering-mindset/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LiranHuang/agent-engineering-mindset",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1185383885",
+    "title": "douyin-search-openclaw",
+    "tool": "openclaw",
+    "tags": [
+      "douyin",
+      "douyin-api",
+      "douyin-scraper",
+      "skills",
+      "social-media"
+    ],
+    "description": "抖音公开内容智能搜索，精准检索视频/图文/用户数据,支持多维度排序与时间筛选,输出结构化JSON/Markdown,助力短视频营销、竞品分析与热点追踪",
+    "path": "openclaw/um-why-douyin-search-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/um-why/douyin-search-openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1427734022",
+    "title": "clord-openclaw-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill for explicit, observable C-lord dispatch; pre-test implementation",
+    "path": "openclaw/yousan-clord-openclaw-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yousan/clord-openclaw-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1421634298",
+    "title": "skillcheck",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Directory of agent SKILL.md skills with compatibility checks for Hermes, OpenClaw, Claude Code, and Codex. Indexes metadata only; never hosts skill code.",
+    "path": "openclaw/mystickcal-skillcheck/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mystickcal/skillcheck",
+    "source": "github-discovery"
   }
 ]
