@@ -25851,5 +25851,116 @@
     "type": "repo",
     "repoUrl": "https://github.com/mystickcal/skillcheck",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1255838566",
+    "title": "KingdeeDataAnalyzer",
+    "tool": "openclaw",
+    "tags": [
+      "accounting",
+      "claude-skills",
+      "data-analysis",
+      "excel",
+      "finance",
+      "financial-analysis",
+      "invoice",
+      "kingdee",
+      "local-first",
+      "openclaw",
+      "python",
+      "skills",
+      "spreadsheet",
+      "sqlite",
+      "workbuddy"
+    ],
+    "description": "金蝶云星空经营数据分析 Skill｜导出→Excel/HTML 报表，本地优先（Kingdee Cloud data analysis skill）",
+    "path": "openclaw/littlebeaverstudio-kingdeedataanalyzer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LittleBeaverStudio/KingdeeDataAnalyzer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1222268156",
+    "title": "KingdeeDataExporter",
+    "tool": "openclaw",
+    "tags": [
+      "accounting",
+      "claude-skills",
+      "data-export",
+      "erp",
+      "excel",
+      "finance",
+      "kingdee",
+      "local-first",
+      "openclaw",
+      "python",
+      "skill",
+      "workbuddy"
+    ],
+    "description": "金蝶云星空多表单据/报表导出 Skill｜销售/存货/采购/银行流水/AR-AP（Kingdee Cloud data exporter）",
+    "path": "openclaw/littlebeaverstudio-kingdeedataexporter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LittleBeaverStudio/KingdeeDataExporter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1215133631",
+    "title": "awesome-ai-media-skills-cn",
+    "tool": "openclaw",
+    "tags": [
+      "ai-tools",
+      "awesome",
+      "awesome-list",
+      "claude-code",
+      "claude-skills",
+      "content-creation",
+      "curated-list",
+      "openclaw",
+      "openclaw-skill",
+      "openclaw-skills",
+      "social-media"
+    ],
+    "description": "AI 视频与自媒体领域的 Claude Code skills、Openclaw skills, MCP 服务器、AI Agent 能力精选合集 — 涵盖视频生成、多平台运营、内容自动化等。",
+    "path": "openclaw/juneyaooo-awesome-ai-media-skills-cn/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JuneYaooo/awesome-ai-media-skills-cn",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1429107289",
+    "title": "openclaw-skill-mes-serial-lookup",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: MES system serial number lookup for robot/cabinet models",
+    "path": "openclaw/joeyearlytobed-openclaw-skill-mes-serial-lookup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JoeyEarlyToBed/openclaw-skill-mes-serial-lookup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1429096556",
+    "title": "openclaw-agent-orchestration-kit",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Reusable OpenClaw agent orchestration skill, architecture, classroom guide, and project-flow demo",
+    "path": "openclaw/irumhahn-openclaw-agent-orchestration-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/IrumHahn/openclaw-agent-orchestration-kit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1162943644",
+    "title": "computational-chemistry-agent-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "computational-chemistry",
+      "openclaw"
+    ],
+    "description": "Agent skills to run computational-chemistry tasks, used in OpenClaw",
+    "path": "openclaw/jinzhezenggroup-computational-chemistry-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jinzhezenggroup/computational-chemistry-agent-skills",
+    "source": "github-discovery"
   }
 ]

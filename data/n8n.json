@@ -71941,5 +71941,175 @@
     "type": "repo",
     "repoUrl": "https://github.com/ravikishan-ji/n8n",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1414117094",
+    "title": "awesome-n8n-alternatives",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "awesome-list",
+      "kortix",
+      "n8n",
+      "n8n-alternative",
+      "open-source",
+      "workflow-automation"
+    ],
+    "description": "Kortix is the open-source AI Operating System. A source-cited list of n8n alternatives: what each one does, what it runs on, and how a fixed workflow differs from open-ended agent work.",
+    "path": "n8n/artemshatokhin-awesome-n8n-alternatives/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ArtemShatokhin/awesome-n8n-alternatives",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1429160722",
+    "title": "speed-to-lead-ai",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "cloudflare-workers",
+      "lead-generation",
+      "llm",
+      "n8n"
+    ],
+    "description": "AI speed-to-lead: instant lead reply via Cloudflare Worker, message router, n8n workflow and eval",
+    "path": "n8n/robericksanders-speed-to-lead-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RoberickSanders/speed-to-lead-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1429155549",
+    "title": "n8n-daily-digest",
+    "tool": "n8n",
+    "tags": [
+      "apify",
+      "automation",
+      "gmail",
+      "n8n",
+      "n8n-workflow",
+      "openai",
+      "youtube"
+    ],
+    "description": "n8n workflow: a daily email with AI summaries of the new videos from the YouTube channels you follow (YouTube Data API, Apify, OpenAI, Gmail).",
+    "path": "n8n/inmanjeffrey89-cell-n8n-daily-digest/",
+    "type": "repo",
+    "repoUrl": "https://github.com/inmanjeffrey89-cell/n8n-daily-digest",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1429152495",
+    "title": "n8n-nodes-placeos",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n nodes for PlaceOS: read and control systems, manage bookings and visitors, and trigger workflows on status changes",
+    "path": "n8n/placeos-n8n-nodes-placeos/",
+    "type": "repo",
+    "repoUrl": "https://github.com/PlaceOS/n8n-nodes-placeos",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1429086110",
+    "title": "finops-integration-hub",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Order-to-cash integration for finance ops: EspoCRM/Salesforce to Odoo ERP sync, reconciliation, Zammad/Jira tickets, n8n workflows, LlamaIndex triage agent traced in Langfuse",
+    "path": "n8n/tajaddin-finops-integration-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Tajaddin/finops-integration-hub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1107844116",
+    "title": "ag-mcp-chat-app",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Complete chat application with backend (Gemini 2.5 Pro), frontend (React), and n8n workflows. Region-based MCP server routing for agricultural AI assistant.",
+    "path": "n8n/eagleisbatman-ag-mcp-chat-app/",
+    "type": "repo",
+    "repoUrl": "https://github.com/eagleisbatman/ag-mcp-chat-app",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1429127911",
+    "title": "frm-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow exports for FRM assistant, marketing agent, and error handler",
+    "path": "n8n/fallenone269-frm-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/FallenOne269/frm-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1163512735",
+    "title": "n8n-manager-mcp",
+    "tool": "n8n",
+    "tags": [
+      "agent-framework",
+      "ai-agents",
+      "ai-automation",
+      "automation",
+      "claude-code",
+      "llm",
+      "llm-agents",
+      "local-first",
+      "mcp",
+      "mcp-registry",
+      "mcp-server",
+      "model-context-protocol",
+      "n8n",
+      "n8n-workflows",
+      "open-bricks",
+      "open-source",
+      "typescript",
+      "workflow-automation",
+      "workflow-management",
+      "zero-egress"
+    ],
+    "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
+    "path": "n8n/ellmos-ai-n8n-manager-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ellmos-ai/n8n-manager-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1414530530",
+    "title": "ai-video-pipeline",
+    "tool": "n8n",
+    "tags": [
+      "ai-video",
+      "automation",
+      "fastapi",
+      "ffmpeg",
+      "llm",
+      "n8n",
+      "opencv",
+      "postgres",
+      "typescript"
+    ],
+    "description": "Topic in, narrated documentary video out: n8n workflows in TypeScript and a FastAPI/FFmpeg/OpenCV worker. Runs end to end without API keys.",
+    "path": "n8n/kotiniiqq-ai-video-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kotiniiqq/ai-video-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1409503980",
+    "title": "n8n-workflow-kit",
+    "tool": "n8n",
+    "tags": [
+      "devops",
+      "infrastructure-as-code",
+      "n8n",
+      "typescript",
+      "workflow-automation"
+    ],
+    "description": "n8n workflows as TypeScript: tested Code-node modules, deterministic builds, validation, deploy with drift detection and rollback. Verified on n8n 2.40.",
+    "path": "n8n/kotiniiqq-n8n-workflow-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kotiniiqq/n8n-workflow-kit",
+    "source": "github-discovery"
   }
 ]
