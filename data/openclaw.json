@@ -25962,5 +25962,62 @@
     "type": "repo",
     "repoUrl": "https://github.com/jinzhezenggroup/computational-chemistry-agent-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1426040332",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "empiriolabs",
+      "hermes-agent",
+      "image-generation",
+      "openclaw",
+      "skills",
+      "text-to-speech",
+      "transcription",
+      "video-generation"
+    ],
+    "description": "Agent skills for EmpirioLabs AI: generate images, video and speech, transcribe audio, and pick models from the live catalog in OpenClaw, Hermes Agent, Claude Code, Codex and Cursor.",
+    "path": "openclaw/empiriolabs-ai-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/EmpirioLabs-AI/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1430505968",
+    "title": "ieum-kit",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Ieum Kit (이음 키트) - an OpenClaw skill that keeps an AI agent's relationship with its user across memory resets",
+    "path": "openclaw/ya-tongsin-ieum-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/YA-TONGSIN/ieum-kit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1221675186",
+    "title": "problem-solution-recorder-oss",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Agent skill + scripts for a Markdown problem-solution knowledge base: records, dual indexes, patterns, reviews; Codex, Claude, Cursor, OpenClaw.",
+    "path": "openclaw/rongyishuaige7-problem-solution-recorder-oss/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rongyishuaige7/problem-solution-recorder-oss",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1425497236",
+    "title": "uoink-agent-kit",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Uoink for AI agents: Claude Code plugin marketplace and the portable Uoink skill (Claude Code, Codex, pi, Hermes Agent, OpenClaw)",
+    "path": "openclaw/ryanbiddy-uoink-agent-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ryanbiddy/uoink-agent-kit",
+    "source": "github-discovery"
   }
 ]
