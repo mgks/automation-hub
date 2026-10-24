@@ -72289,5 +72289,153 @@
     "type": "repo",
     "repoUrl": "https://github.com/althorlabs/n8n-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422825739",
+    "title": "n8n-resilient-integrations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Synthetic n8n workflows demonstrating validation, bounded retries, recovery, and idempotency contracts",
+    "path": "n8n/santiagofeliu-n8n-resilient-integrations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SantiagoFeliu/n8n-resilient-integrations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1430403986",
+    "title": "placewise",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI layer for A/E/C recruiting: resume intake, hybrid RAG matching, evidence-backed shortlists, LangGraph agents, n8n workflows",
+    "path": "n8n/bprakashputta-placewise/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bprakashputta/placewise",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1328010020",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "path": "n8n/ggrace519-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ggrace519/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-957739368",
+    "title": "Portfolio",
+    "tool": "n8n",
+    "tags": [
+      "css",
+      "gsap",
+      "html",
+      "javascript",
+      "n8n",
+      "portfolio",
+      "threejs"
+    ],
+    "description": "My portfolio: a static HTML/CSS/JS site with a Three.js block-chain hero, self-drawing GSAP scenes and animated n8n workflow cards",
+    "path": "n8n/mayank-1024-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mayank-1024/Portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1431723148",
+    "title": "n8n-portfolio-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Self-hosted n8n portfolio: 3 importable workflows (lead capture, AI email triage, SupportPilot HTTP bridge). Self-built demo / AI-assisted.",
+    "path": "n8n/jionlin-n8n-portfolio-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JionLin/n8n-portfolio-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1431695096",
+    "title": "bali-2",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Bali 2: when Uluwatu turns on, this n8n workflow books the trip, sorts everyone's e-Visa, arrival card and Bali tax, and has Ketut waiting at Arrivals with your names on a sign.",
+    "path": "n8n/aaronparton2-sketch-bali-2/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aaronparton2-sketch/bali-2",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1404710004",
+    "title": "n8n-automation-projects",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "aiagents",
+      "automation",
+      "n8n",
+      "nocode",
+      "rag",
+      "whatsapp-bot",
+      "workflow-automation"
+    ],
+    "description": "AI automation workflows built in n8n: WhatsApp booking bot, RAG agent, onboarding automation and more. Each project includes the workflow JSON and a README.",
+    "path": "n8n/codewithnouman99-n8n-automation-projects/",
+    "type": "repo",
+    "repoUrl": "https://github.com/CodeWithNouman99/n8n-automation-projects",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1180323220",
+    "title": "awesome-n8n-templates",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "api-automation",
+      "automation",
+      "awesome",
+      "awesome-list",
+      "chatbot",
+      "crm-automation",
+      "integration",
+      "lead-generation",
+      "low-code",
+      "marketing-automation",
+      "n8n",
+      "n8n-community",
+      "n8n-templates",
+      "n8n-workflows",
+      "no-code",
+      "openai",
+      "web-scraping",
+      "workflow-automation",
+      "workflow-templates"
+    ],
+    "description": "🔥 The largest open-source collection of n8n workflow templates — 8,697+ ready-to-import workflows across 25 categories, 236 integrations, and 11 use cases.",
+    "path": "n8n/scrapernode-awesome-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ScraperNode/awesome-n8n-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1431644988",
+    "title": "RAG_QnA_Bot_GoogleDrive_Pinecone",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An end-to-end, Langchain-powered AI Agent built in n8n. This workflow bridges the gap between your cloud storage and conversational AI. It automatically syncs documents from Google Drive into a Pinecone vector database and serves a conversational agent that can answer questions based on the ingested content.",
+    "path": "n8n/hamza8481-rag_qna_bot_googledrive_pinecone/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hamza8481/RAG_QnA_Bot_GoogleDrive_Pinecone",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1431643907",
+    "title": "Multi_Query_RAG_Agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An advanced, Langchain-powered conversational AI agent built in n8n. This workflow employs a sophisticated Retrieval-Augmented Generation (RAG) pattern to ensure accurate, contextually relevant responses derived strictly from your internal vector database.",
+    "path": "n8n/hamza8481-multi_query_rag_agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hamza8481/Multi_Query_RAG_Agent",
+    "source": "github-discovery"
   }
 ]

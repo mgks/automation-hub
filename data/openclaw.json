@@ -26019,5 +26019,109 @@
     "type": "repo",
     "repoUrl": "https://github.com/ryanbiddy/uoink-agent-kit",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241651025",
+    "title": "genpark-hub",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "claude",
+      "cursor",
+      "llm-tools",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "skills",
+      "zero-dependency"
+    ],
+    "description": "GenPark & OpenClaw Premium Growth Hub, Showcase and Live Skill Generator.",
+    "path": "openclaw/alphaparkinc-genpark-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alphaparkinc/genpark-hub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1241651163",
+    "title": "genpark-hub",
+    "tool": "openclaw",
+    "tags": [
+      "genpark",
+      "growth-hub",
+      "kyoto-philosophy",
+      "landing-page",
+      "marketing-funnel",
+      "openclaw",
+      "skill-generator"
+    ],
+    "description": "GenPark & OpenClaw Premium Growth Hub, Showcase and Live Skill Generator.",
+    "path": "openclaw/alpha-park-genpark-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Alpha-Park/genpark-hub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1431738651",
+    "title": "excel-data-doctor",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "claude-code",
+      "data-quality",
+      "excel",
+      "openclaw",
+      "python",
+      "workbuddy"
+    ],
+    "description": "Excel/CSV data-quality checkup skill for AI agents: 10+ dirty-data detectors, 0-100 health score, one-shot cleaning + report. Works with WorkBuddy, OpenClaw, Claude Code.",
+    "path": "openclaw/lucasz97-excel-data-doctor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LucasZ97/excel-data-doctor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1158201074",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agent",
+      "clawhub",
+      "clv",
+      "crypto",
+      "kelly-criterion",
+      "openclaw",
+      "sports-betting"
+    ],
+    "description": "OpenClaw/ClawHub agent skills — sports-odds, kelly-criterion, clv-journal, portfolio-rebalancer, judge-audit, and more (17 skills).",
+    "path": "openclaw/ianalloway-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ianalloway/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1428639824",
+    "title": "asin-hhc-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-network",
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "llm",
+      "mcp",
+      "multi-agent-systems",
+      "open-source",
+      "openclaw"
+    ],
+    "description": "ASIN-HHC agent skills pack — join, verify, heartbeat, and escrow-review skills for the open agent network that can't be acquired.",
+    "path": "openclaw/dbottrader-asin-hhc-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dbottrader/asin-hhc-skills",
+    "source": "github-discovery"
   }
 ]
