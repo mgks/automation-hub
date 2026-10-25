@@ -26123,5 +26123,92 @@
     "type": "repo",
     "repoUrl": "https://github.com/dbottrader/asin-hhc-skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1430542224",
+    "title": "reverse-engineer-anything-self-learning-loop",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-skills",
+      "openclaw",
+      "reverse-engineering",
+      "self-improving-agents"
+    ],
+    "description": "Agent skill: examine a product you're authorised to rebuild, build your own, then test against the original and fix gaps until every must-have on a written checklist passes. Inspired by REA (@morluto), not affiliated. MIT.",
+    "path": "openclaw/speedrunlab-reverse-engineer-anything-self-learning-loop/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Speedrunlab/reverse-engineer-anything-self-learning-loop",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1376579939",
+    "title": "openclaw-desktop",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Desktop — a permanent local home for your AI: native MCP, 60 extensions, bundled llama.cpp, Hugging Face catalogue, skills and connectors. Click-to-run Windows. An overlay you add as a git submodule, not a fork.",
+    "path": "openclaw/abuz8studios-ship-it-openclaw-desktop/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abuz8studios-ship-it/openclaw-desktop",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1344610702",
+    "title": "marketplace",
+    "tool": "openclaw",
+    "tags": [
+      "agent-plugins",
+      "agent-skills",
+      "claude-code",
+      "clawhub",
+      "codex-plugins",
+      "cursor-plugins",
+      "openclaw"
+    ],
+    "description": "Agent plugins, tools and skills maintained by Arc Forge Labs.",
+    "path": "openclaw/arcforgelabs-marketplace/",
+    "type": "repo",
+    "repoUrl": "https://github.com/arcforgelabs/marketplace",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1432632324",
+    "title": "starling-banking-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "banking-api",
+      "openclaw",
+      "starling-bank"
+    ],
+    "description": "Unofficial Starling Bank Agent Skill with a guarded Node.js CLI, explicit confirmations and scoped permissions",
+    "path": "openclaw/rjaymacheteai-starling-banking-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rjaymacheteai/starling-banking-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1432530934",
+    "title": "grubtrack",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "fastapi",
+      "grocery",
+      "hermes-agent",
+      "openclaw",
+      "pantry",
+      "price-tracker",
+      "react",
+      "receipts",
+      "self-hosted"
+    ],
+    "description": "Self-hosted pantry, price book and grocery budget: receipt photos, price history by store, and an agent skill for OpenClaw and Hermes.",
+    "path": "openclaw/chungus-actual-grubtrack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chungus-actual/grubtrack",
+    "source": "github-discovery"
   }
 ]

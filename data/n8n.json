@@ -72437,5 +72437,132 @@
     "type": "repo",
     "repoUrl": "https://github.com/hamza8481/Multi_Query_RAG_Agent",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1432777314",
+    "title": "personal-assistant-case-study",
+    "tool": "n8n",
+    "tags": [
+      "ai-assistant",
+      "automation",
+      "claude",
+      "n8n",
+      "self-hosted",
+      "telegram-bot"
+    ],
+    "description": "Self-hosted Telegram assistant on n8n and Claude: the workflows, an audit of what broke and how it was fixed, tests, and a two-command install",
+    "path": "n8n/yusufabasi-personal-assistant-case-study/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Yusufabasi/personal-assistant-case-study",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1432778090",
+    "title": "zapflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "ZapFlow — Migrador AST de workflows do Zapier (.zip e .json) para n8n v1 com visualizador interativo, transpilador de expressões e simulador de ROI.",
+    "path": "n8n/jakemerson-zapflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jakemerson/zapflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1420924453",
+    "title": "n8n-dev",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "testing",
+      "workflow-automation"
+    ],
+    "description": "Test and review n8n workflows before they go live.",
+    "path": "n8n/winstonjuncong-n8n-dev/",
+    "type": "repo",
+    "repoUrl": "https://github.com/WinstonJunCong/n8n-dev",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1432734307",
+    "title": "checkout-incident-detection-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Event-driven checkout incident detection and automated triage using n8n, JavaScript, Google Sheets, and webhook integrations. Demonstrates workflow orchestration, severity classification, state management, and incident alerting.",
+    "path": "n8n/gopakumarcfnet-checkout-incident-detection-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gopakumarcfnet/checkout-incident-detection-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1282837026",
+    "title": "n8n-zapier-clone",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A modern n8n-inspired workflow automation platform built with Next.js, TypeScript, and Tailwind CSS. Design, connect, and automate workflows using a visual drag-and-drop editor with AI integrations and real-time execution monitoring.",
+    "path": "n8n/nhattruongniit-n8n-zapier-clone/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nhattruongniit/n8n-zapier-clone",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1432740879",
+    "title": "processo-rpa-n8n-python",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Desafio DIO: Assistente de Investimentos Automatizado com RPA em Python (BeautifulSoup), Workflows no n8n, IA Generativa (OpenAI GPT-4o), Gmail e Validador Automatizado.",
+    "path": "n8n/p-andrade-processo-rpa-n8n-python/",
+    "type": "repo",
+    "repoUrl": "https://github.com/p-andrade/processo-rpa-n8n-python",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1432737570",
+    "title": "n8n-automation-examples",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "hackernews",
+      "markdown",
+      "n8n",
+      "workflow"
+    ],
+    "description": "Automation workflow (designed to run on a schedule) that collects Hacker News stories and writes a Markdown feed file. n8n example.",
+    "path": "n8n/abdo4312-n8n-automation-examples/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abdo4312/n8n-automation-examples",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1405182370",
+    "title": "self-improving-ai-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production workflows & AI agents (n8n-native) that improve themselves every night — 1240+ skills, 7-stage build gates, consent-based federated updates. MIT.",
+    "path": "n8n/ezzeldinahmede31-bit-self-improving-ai-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ezzeldinahmede31-bit/self-improving-ai-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1432716102",
+    "title": "ai-agent-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Agent Portfolio - 9 n8n workflow agents powered by Claude across Healthcare, Transportation and Construction, tested with fictional data",
+    "path": "n8n/mythrip11-ai-agent-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mythrip11/ai-agent-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1432677426",
+    "title": "nour",
+    "tool": "n8n",
+    "tags": [],
+    "description": " A collection of n8n automation, Machine Learning, and Deep Learning projects focused on solving real-world problems. Includes automated workflows, API integrations, AI agents, predictive models, classification algorithms, and neural networks to build intelligent and efficient solutions.",
+    "path": "n8n/normoh884-commits-nour/",
+    "type": "repo",
+    "repoUrl": "https://github.com/normoh884-commits/nour",
+    "source": "github-discovery"
   }
 ]
