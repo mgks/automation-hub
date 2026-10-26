@@ -26210,5 +26210,91 @@
     "type": "repo",
     "repoUrl": "https://github.com/chungus-actual/grubtrack",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1385118846",
+    "title": "grill-my-thesis",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "MBA 硕士论文全流程 Agent Skills：grill 式选题拷问 → 开题辅导 → 写作一条龙（大纲/文献综述/研究设计/数据分析/科研绘图/参考文献）。Works with Claude Code / Codex / OpenClaw / any SKILL.md agent.",
+    "path": "openclaw/hgylabs-grill-my-thesis/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hgylabs/grill-my-thesis",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1433823663",
+    "title": "ai-answer-archive",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-search",
+      "ai-visibility",
+      "brand-monitoring",
+      "chatgpt",
+      "claude-code",
+      "codex",
+      "deepseek",
+      "doubao",
+      "generative-engine-optimization",
+      "geo",
+      "hermes-agent",
+      "openclaw"
+    ],
+    "description": "把豆包、ChatGPT、DeepSeek 分享链接里的回答完整存档，批量判品牌可见度，出可交付的原始记录索引（Agent Skill）",
+    "path": "openclaw/jiguang9-ai-answer-archive/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jiguang9/ai-answer-archive",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1339071939",
+    "title": "beatra-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-music",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "digital-human",
+      "douyin",
+      "image-generation",
+      "music-generation",
+      "rednote",
+      "talking-head",
+      "text-to-image",
+      "text-to-speech",
+      "text-to-video",
+      "tiktok",
+      "tts",
+      "video-generation",
+      "wechat",
+      "weixin",
+      "xiaohongshu"
+    ],
+    "description": "Agent Skills for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: AI image generation, text to speech, talking head video, AI music, and video generation skills that render on Beatra. 图片生成 · 配音 · 数字人 · AI 作曲",
+    "path": "openclaw/beatra-ai-beatra-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/beatra-ai/beatra-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1153236989",
+    "title": "aicompany",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "openclaw",
+      "orchestration",
+      "skill"
+    ],
+    "description": "Closed-loop AI company runtime: proposal -> mission -> steps -> execution -> verified outcome. Installable as a Claude Code skill.",
+    "path": "openclaw/hypetopher-aicompany/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hypetopher/aicompany",
+    "source": "github-discovery"
   }
 ]
