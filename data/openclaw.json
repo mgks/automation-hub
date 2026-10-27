@@ -26296,5 +26296,55 @@
     "type": "repo",
     "repoUrl": "https://github.com/hypetopher/aicompany",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1219021521",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "一个 OpenClaw + Claude Code Skills 集合仓库：80+ 可复用 skill，含飞书 / QQ / Discord / Spotify / Notion / Obsidian   等平台集成、工作流编排、内容创作、安全审计、Prompt 工程。CC BY-NC-SA 4.0 协议。",
+    "path": "openclaw/fan1959-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fan1959/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1435092074",
+    "title": "ui-foundry",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "codex",
+      "openclaw",
+      "ui-design",
+      "ux"
+    ],
+    "description": "UI Foundry · 界面工坊 — Design-lead Agent Skill for polished UI, lower-effort interactions, and evidence-based review.",
+    "path": "openclaw/theosunny-ui-foundry/",
+    "type": "repo",
+    "repoUrl": "https://github.com/theosunny/ui-foundry",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1148522772",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "A collection of skills for OpenClaw agents, with implementations and integrations across the MetaMask ecosystem.",
+    "path": "openclaw/metamask-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MetaMask/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1435098418",
+    "title": "uni-slides",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Generador de presentaciones universitarias con IA (Modo Profesor Guiado + Efectos Beatdeck + Consola de Presentador pulso a pulso + Skill para OpenClaw)",
+    "path": "openclaw/meloler-uni-slides/",
+    "type": "repo",
+    "repoUrl": "https://github.com/meloler/uni-slides",
+    "source": "github-discovery"
   }
 ]

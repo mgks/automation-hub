@@ -72713,5 +72713,144 @@
     "type": "repo",
     "repoUrl": "https://github.com/olivershepherd-dev/missed-call-crm-automation",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1435197105",
+    "title": "EdgeAgent.github.io",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-automation",
+      "automation-engineer",
+      "n8n",
+      "robot-orchestra",
+      "voice-ai"
+    ],
+    "description": "Kevin Doherty — EdgeAgent, AI Automation Engineer. Builder of Robot Orchestra, a local-first Windows multi-agent desktop copilot, plus multi-agent systems, AI voice receptionists, and workflow automation with n8n, Make, and GoHighLevel. Profile, projects, and contact — Robot Orchestra v0.6 live, voice 0.7 coming soon.",
+    "path": "n8n/edgeagent-edgeagent.github.io/",
+    "type": "repo",
+    "repoUrl": "https://github.com/EdgeAgent/EdgeAgent.github.io",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1435164216",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Portfolio of n8n workflows for API integrations, data processing, monitoring, lead management, and automation.",
+    "path": "n8n/agustiininicabral-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/agustiininicabral/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1435175556",
+    "title": "AI-Workflow-Automation-Agent-using-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered workflow automation using n8n, OpenAI, conversation memory, and Gmail integration.",
+    "path": "n8n/manishverma9419-arch-ai-workflow-automation-agent-using-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/manishverma9419-arch/AI-Workflow-Automation-Agent-using-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1435169592",
+    "title": "Automated-Job-Tracker",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A repository containing my workflow for tracking applied job updates in n8n",
+    "path": "n8n/timiniyi-automated-job-tracker/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TimiNiyi/Automated-Job-Tracker",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1435149984",
+    "title": "lead-outreach-automation-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A demo of a four-workflow outreach pipeline built in n8n. Verifies lead emails (AbstractAPI), generates pitches and follow-ups (Gemini), drafts them in Gmail, and posts reply alerts to Slack. Uses a Google Sheet as the database.",
+    "path": "n8n/deoh645-lead-outreach-automation-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Deoh645/lead-outreach-automation-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1435143086",
+    "title": "n8n-handover-docs",
+    "tool": "n8n",
+    "tags": [
+      "agency",
+      "automation",
+      "cli",
+      "client-handover",
+      "documentation",
+      "handover",
+      "n8n",
+      "n8n-workflows",
+      "nodejs",
+      "redaction"
+    ],
+    "description": "Generate client handover docs from n8n workflows: inventory, per-workflow pages and diagrams, with secrets redacted and a fail-closed final gate. Zero dependencies, works from exported JSON or the n8n API.",
+    "path": "n8n/waseemnasir2k26-n8n-handover-docs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/waseemnasir2k26/n8n-handover-docs",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1434818157",
+    "title": "YieldCue",
+    "tool": "n8n",
+    "tags": [
+      "htmx",
+      "incident-management",
+      "make",
+      "monitoring",
+      "n8n",
+      "nodejs",
+      "self-hosted",
+      "sqlite",
+      "workflows",
+      "zapier"
+    ],
+    "description": "Open-source outcome monitoring for business workflows - catch the \"green but wrong\" failures.",
+    "path": "n8n/gich-m-yieldcue/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Gich-M/YieldCue",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1429227754",
+    "title": "exampleabc-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Generic ExampleABC n8n workflow deployment templates. No API keys, tokens, passwords, or prospect names/emails.",
+    "path": "n8n/hakpilot-exampleabc-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hakpilot/exampleabc-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1167263311",
+    "title": "n8n-workflows-synergizeflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/qbons-n8n-workflows-synergizeflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/qbons/n8n-workflows-synergizeflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1435079651",
+    "title": "n8n-internal-context-pipeline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready n8n workflow pipeline for enterprise context orchestration. Automates the ingestion, routing, and synchronization of developer documentation into open-source vector storage and local data warehouses for real-time, token-governed AI agent retrieval.",
+    "path": "n8n/jkelleman-n8n-internal-context-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jkelleman/n8n-internal-context-pipeline",
+    "source": "github-discovery"
   }
 ]
