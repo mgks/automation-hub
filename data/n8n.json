@@ -72852,5 +72852,169 @@
     "type": "repo",
     "repoUrl": "https://github.com/jkelleman/n8n-internal-context-pipeline",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1136873580",
+    "title": "ffcs",
+    "tool": "n8n",
+    "tags": [],
+    "description": "FFCS automated course selection agent - Backend with n8n workflow automation",
+    "path": "n8n/shreev1120-ffcs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shreev1120/ffcs",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-798183229",
+    "title": "n8n-backups",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "backup",
+      "github",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "n8n workflow template that backs up all your n8n workflows to a GitHub repo on a schedule",
+    "path": "n8n/anilrajrimal1-n8n-backups/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anilrajrimal1/n8n-backups",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1145190668",
+    "title": "shadowflow",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "langchain",
+      "n8n",
+      "open-source",
+      "react-flow",
+      "typescript",
+      "workflow-automation"
+    ],
+    "description": "Shadow Flow: open-source (Apache 2.0) AI workflow automation with an n8n importer, 120+ templates, a prompt-to-flow copilot and a sandboxed task runner",
+    "path": "n8n/muhdfaisalwork-gif-shadowflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muhdfaisalwork-gif/shadowflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1436537538",
+    "title": "n8n-alternatives",
+    "tool": "n8n",
+    "tags": [
+      "ai-workflows",
+      "awesome-list",
+      "generative-ai",
+      "mcp",
+      "n8n",
+      "n8n-alternative",
+      "no-code",
+      "workflow-automation"
+    ],
+    "description": "n8n alternatives for AI image and video workflows as data: 6 platforms compared on visual editors, AI generation steps, inbound webhooks, MCP, public API, free plans and pricing basis, with n8n's own plans as the baseline and a vendor source beside every cell.",
+    "path": "n8n/a1adams-n8n-alternatives/",
+    "type": "repo",
+    "repoUrl": "https://github.com/a1adams/n8n-alternatives",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1436506731",
+    "title": "swarm-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Connect n8n workflows and AI agents to Swarm Spaces, shared knowledge, Tasks and Artifacts.",
+    "path": "n8n/blackscaletech-swarm-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/blackscaletech/swarm-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1436493115",
+    "title": "n8n-ecommerce-inventory-sync",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "docker-compose",
+      "ecommerce",
+      "inventory-management",
+      "n8n",
+      "postgresql",
+      "shopify",
+      "typescript",
+      "vercel",
+      "woocommerce"
+    ],
+    "description": "E-commerce order, inventory and shipping automation: 13 n8n workflows, atomic PostgreSQL reservations, TypeScript services and a credential-free public demo.",
+    "path": "n8n/shahyan360-n8n-ecommerce-inventory-sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Shahyan360/n8n-ecommerce-inventory-sync",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1423844851",
+    "title": "DaisyCare_Next",
+    "tool": "n8n",
+    "tags": [
+      "chatbot",
+      "data-analytics",
+      "fiap",
+      "healthtech",
+      "machine-learning",
+      "n8n",
+      "playwright",
+      "power-bi",
+      "whatsapp"
+    ],
+    "description": "🥇 Ouro no FIAP NEXT 2026 (melhor entre 10 projetos da turma de Data Science) · Assistente virtual da jornada do paciente (FIAP × Mater Dei): app e WhatsApp por voz e texto, cancelar e reagendar, fila de encaixe, 16 workflows n8n, ML e Power BI · 124 testes automatizados",
+    "path": "n8n/rn2812-daisycare_next/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Rn2812/DaisyCare_Next",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-982566136",
+    "title": "n8n_workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "this repositorie is for n8n worrkflows json",
+    "path": "n8n/gbessaya-joseph-n8n_workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Gbessaya-joseph/n8n_workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1346051797",
+    "title": "n8n-workflow-harness",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "claude-code",
+      "cursor",
+      "github-copilot",
+      "mcp",
+      "model-context-protocol",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "Claude Code / Copilot / Cursor harness for building n8n workflows: 20 n8n skills, both n8n-mcp servers pinned, and a dependency-free verification toolkit.",
+    "path": "n8n/mfrostbutter-n8n-workflow-harness/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mfrostbutter/n8n-workflow-harness",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1436455137",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/fireborncode-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Fireborncode/n8n-workflows",
+    "source": "github-discovery"
   }
 ]

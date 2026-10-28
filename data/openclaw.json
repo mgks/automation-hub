@@ -26346,5 +26346,69 @@
     "type": "repo",
     "repoUrl": "https://github.com/meloler/uni-slides",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1184075479",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "AI agent skills for content operations, knowledge management, and developer workflows. Compatible with Hermes Agent and OpenClaw.",
+    "path": "openclaw/thedavidweng-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/thedavidweng/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1338170220",
+    "title": "novel-skill-cards",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "小说创作辅助技能卡组 —— 11 张即插即用的 Agent Skills 技能卡（兼容 OpenClaw / Kimi 及所有 AgentSkills 规范系统），覆盖大纲、设定、开篇、卡点、节奏、穿帮检查、去AI味、文风指纹、取名、文案包装、拆书分析",
+    "path": "openclaw/luciferlihaoyu-novel-skill-cards/",
+    "type": "repo",
+    "repoUrl": "https://github.com/luciferlihaoyu/novel-skill-cards",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1182069239",
+    "title": "openclaw_skills_pool",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "专门用于龙虾workspace/skills下目录直接可复用的skills",
+    "path": "openclaw/opencare-skillhub-openclaw_skills_pool/",
+    "type": "repo",
+    "repoUrl": "https://github.com/opencare-skillhub/openclaw_skills_pool",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1183937613",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Awesome OpenClaw Skills.",
+    "path": "openclaw/tiwater-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tiwater/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1343920806",
+    "title": "priority-coach",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "ai-agent",
+      "claude-skills",
+      "coaching",
+      "focus",
+      "openclaw",
+      "personal-development",
+      "productivity"
+    ],
+    "description": "优先级教练 · 温和不压迫的个人成长教练 skill：从混乱里收敛出此刻最该优先的 1–3 件事，落到今天就能开始的最小动作。A gentle coach skill that turns overwhelm into 1–3 priorities and one smallest action.",
+    "path": "openclaw/bonniegeng-max-priority-coach/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bonniegeng-max/priority-coach",
+    "source": "github-discovery"
   }
 ]
