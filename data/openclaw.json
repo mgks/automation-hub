@@ -26410,5 +26410,94 @@
     "type": "repo",
     "repoUrl": "https://github.com/bonniegeng-max/priority-coach",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1169296519",
+    "title": "hhxg-top-hhxg-python",
+    "tool": "openclaw",
+    "tags": [
+      "a-share",
+      "ai-tools",
+      "china-stock",
+      "codex",
+      "codex-skill",
+      "daily-report",
+      "finance",
+      "market-data",
+      "open",
+      "openclaw",
+      "openclaw-skill",
+      "python",
+      "quantitative-finance",
+      "skills",
+      "stock",
+      "stock-data",
+      "stock-market",
+      "trading"
+    ],
+    "description": "skills：一句话获取 A 股每日市场数据 —   赚钱效应、热门题材、连板天梯、游资龙虎榜。零配置，无需注册，无需   Token。",
+    "path": "openclaw/niceck-hhxg-top-hhxg-python/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Niceck/hhxg-top-hhxg-python",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1156098474",
+    "title": "twitterapi-io-skill",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "claude-code",
+      "llm",
+      "openclaw",
+      "twitter",
+      "twitter-api",
+      "twitter-bot",
+      "twitterapi-io"
+    ],
+    "description": "TwitterAPI.io skill — make any LLM use Twitter/X. 59 endpoints with curl examples. Works with OpenClaw, Claude Code, GPT, Gemini, and any AI assistant.",
+    "path": "openclaw/dorukardahan-twitterapi-io-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dorukardahan/twitterapi-io-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1160409393",
+    "title": "orshot-agent-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code-plugin",
+      "codex-plugin",
+      "cursor-plugin",
+      "gemini-cli-extension",
+      "image-generation",
+      "mcp",
+      "openclaw-skills",
+      "pdf-generation",
+      "video-generation"
+    ],
+    "description": "Automate Videos, PDFs and Images from templates for marketing, post to social platforms, and track and grow engagement. Agent skills + hosted MCP server for Claude Code, Codex, Cursor, OpenClaw and Gemini CLI.",
+    "path": "openclaw/orshot-hq-orshot-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Orshot-HQ/orshot-agent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437891419",
+    "title": "synthszr-agent-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "ai-news",
+      "claude-code-skill",
+      "claude-skills",
+      "openclaw"
+    ],
+    "description": "Read Synthszr AI news and contribute independent, user-authorized takes. Instruction-only agent skill.",
+    "path": "openclaw/mattesmattes-synthszr-agent-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mattesmattes/synthszr-agent-skill",
+    "source": "github-discovery"
   }
 ]

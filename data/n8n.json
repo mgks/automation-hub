@@ -73016,5 +73016,149 @@
     "type": "repo",
     "repoUrl": "https://github.com/Fireborncode/n8n-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437914538",
+    "title": "ai-automation-audit",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI Automation Audit & Rescue — static analysis engine and service for diagnosing broken n8n, Make, and Zapier workflows. Includes client-ready report generation and website service page.",
+    "path": "n8n/topherloring-ai-automation-audit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TopherLoring/ai-automation-audit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437631872",
+    "title": "opsflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Field-service ops automation + AI reporting: trigger/filter/action engine, Gemini classification with grounding checks, signed webhooks, a real n8n workflow, OCR intake",
+    "path": "n8n/kabxxr7-jpg-opsflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kabxxr7-jpg/opsflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437917447",
+    "title": "n8n-gemini-ai-lead-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Enterprise-Grade AI Lead Automation Workflow for n8n & Google Gemini Pro",
+    "path": "n8n/2434141175s-code-n8n-gemini-ai-lead-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/2434141175s-code/n8n-gemini-ai-lead-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437886483",
+    "title": "SE-AI-B12-1-W4-D1-n8n-gmail-summariser",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n AI Agent workflow that fetches my latest 5 unread Gmail emails, summarises each in one line using an OpenAI chat model, and emails all five summaries back to me as one message. Nodes: Manual Trigger, Gmail (Get Many, Unread, Limit 5), AI Agent + OpenAI Chat Model, Aggregate, Gmail (Send). Hi everyone, I have successfully completed the project",
+    "path": "n8n/appu1029-spec-se-ai-b12-1-w4-d1-n8n-gmail-summariser/",
+    "type": "repo",
+    "repoUrl": "https://github.com/appu1029-spec/SE-AI-B12-1-W4-D1-n8n-gmail-summariser",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437900379",
+    "title": "n8n-server-watch",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that alerts on server downtime and IP changes, with an AI incident summary",
+    "path": "n8n/saddadnabbil-n8n-server-watch/",
+    "type": "repo",
+    "repoUrl": "https://github.com/saddadnabbil/n8n-server-watch",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1421084328",
+    "title": "research-automation",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "n8n",
+      "pdf-generation",
+      "research-automation"
+    ],
+    "description": "n8n multi-agent research and PDF reporting workflow",
+    "path": "n8n/nour2303-research-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nour2303/research-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437850821",
+    "title": "n8n-ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-automation",
+      "chatbot",
+      "cybersecurity",
+      "data-automation",
+      "google-gemini",
+      "langchain",
+      "n8n",
+      "n8n-workflows",
+      "portfolio",
+      "rag",
+      "supabase",
+      "telegram-bot-ai-assistant",
+      "workflow-automation"
+    ],
+    "description": "A collection of production-style AI automation workflows built with n8n covering AI agents, RAG, cybersecurity, data intelligence, finance operations, and content marketing. Portfolio project.",
+    "path": "n8n/zainabaznur-n8n-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zainabaznur/n8n-ai-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437824829",
+    "title": "ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "api-integration",
+      "artificial-intelligence",
+      "hotel-operations",
+      "javascript",
+      "lead-management",
+      "n8n",
+      "postgresql",
+      "travel-planning",
+      "workflow-automation"
+    ],
+    "description": "AI automation portfolio featuring n8n workflows, PostgreSQL, JavaScript, API integrations, and AI-assisted business systems.",
+    "path": "n8n/felixbix-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/felixbix/ai-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422875614",
+    "title": "aero-scout-n8n",
+    "tool": "n8n",
+    "tags": [
+      "javascript",
+      "n8n"
+    ],
+    "description": "n8n workflows for finding domestic and international flight deals from São Paulo, ranked by discount percentage and delivered through Telegram commands or daily searches.",
+    "path": "n8n/matheuscfbt-aero-scout-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MatheusCFBT/aero-scout-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437322200",
+    "title": "n8n-nodes-turbo-notify",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Turbo Notify: send and receive WhatsApp messages from your n8n workflows.",
+    "path": "n8n/turbo-notify-n8n-nodes-turbo-notify/",
+    "type": "repo",
+    "repoUrl": "https://github.com/turbo-notify/n8n-nodes-turbo-notify",
+    "source": "github-discovery"
   }
 ]
