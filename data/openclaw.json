@@ -26499,5 +26499,118 @@
     "type": "repo",
     "repoUrl": "https://github.com/mattesmattes/synthszr-agent-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1286339811",
+    "title": "rak-flowmind",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "FlowMind Skill SDK — 对龙虾(OpenClaw)及任意 Agent 友好的技能底座（MCP）：一次 @skill 定义即成为 MCP 工具，自带四段式因果推理链、可靠性指标与 trace_id。",
+    "path": "openclaw/vanexus-rak-flowmind/",
+    "type": "repo",
+    "repoUrl": "https://github.com/VANexus/rak-flowmind",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437343877",
+    "title": "chandra-fraymus",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Autonomous AI agent workspace — Chandra runtime + FRAYMUS master system. Ed25519 identity, 7-format encoding, v13 signed mesh, Ouroboros RSI, Hermes 30-skill fleet, Motor compute dispatch, OpenClaw gateway, Kuramoto phase sync. Full autonomy.",
+    "path": "openclaw/eyeoverthink-chandra-fraymus/",
+    "type": "repo",
+    "repoUrl": "https://github.com/eyeoverthink/chandra-fraymus",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437941962",
+    "title": "skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "MANOR Edge agent skill for skills.sh, Hermes and OpenClaw",
+    "path": "openclaw/getmanor-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/getmanor/skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1412961440",
+    "title": "open-source-openclaw-alternative-starter",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Open-source OpenClaw alternative starter: a Kortix project template (agents, skills, triggers, config) you own and self-host.",
+    "path": "openclaw/kortix-seo-open-source-openclaw-alternative-starter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kortix-seo/open-source-openclaw-alternative-starter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1179771822",
+    "title": "tuya-openclaw-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Tuya AI Skill Library for OpenClaw/TuyaClaw - An AI-driven skill set built for the development of Tuya's smart ecosystem (e.g., device control).",
+    "path": "openclaw/tuya-tuya-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tuya/tuya-openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1175583495",
+    "title": "proskills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Community-curated OpenClaw skill listings — browse, submit, and contribute to ProSkills.md",
+    "path": "openclaw/proskillsmd-proskills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ProSkillsMD/proskills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1190185088",
+    "title": "openclaw-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills"
+    ],
+    "description": "OpenClaw skills by Pangolinfo: Pangolinfo AI SERP (Google SERP + AI Overviews) and Pangolinfo Amazon Scraper.",
+    "path": "openclaw/pangolin-spg-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Pangolin-spg/openclaw-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1164324276",
+    "title": "openclaw-mslearn-mcp",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "azure",
+      "mcp",
+      "microsoft-learn",
+      "openclaw"
+    ],
+    "description": "📘 OpenClaw skill that grounds Azure, .NET, Microsoft 365 and Power Platform answers in official Microsoft Learn docs via Microsoft's free Learn MCP server. Native MCP, no API key, cited sources.",
+    "path": "openclaw/ricardodpalmeida-openclaw-mslearn-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ricardodpalmeida/openclaw-mslearn-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1164324259",
+    "title": "openclaw-excalidraw-diagrams",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "diagrams",
+      "excalidraw",
+      "obsidian",
+      "openclaw"
+    ],
+    "description": "✏️ OpenClaw skill: describe boxes and arrows, get clean hand-drawn Excalidraw diagrams for Obsidian or excalidraw.com. Deterministic layout and bindings, no hand-written JSON.",
+    "path": "openclaw/ricardodpalmeida-openclaw-excalidraw-diagrams/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ricardodpalmeida/openclaw-excalidraw-diagrams",
+    "source": "github-discovery"
   }
 ]

@@ -73160,5 +73160,115 @@
     "type": "repo",
     "repoUrl": "https://github.com/turbo-notify/n8n-nodes-turbo-notify",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1438869459",
+    "title": "The-n8n-Playground",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Playing around building out new workflows before we're in front of a client.",
+    "path": "n8n/ra-power-the-n8n-playground/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RA-Power/The-n8n-Playground",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1439257927",
+    "title": "n8n-ai-agency-workflows-kit-lite",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Interactive n8n AI Workflow & Docker Compose Builder",
+    "path": "n8n/skitoji-n8n-ai-agency-workflows-kit-lite/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Skitoji/n8n-ai-agency-workflows-kit-lite",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1424602961",
+    "title": "n8n-nodes-trawl",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Trawl — run web scraps and get their results from your n8n workflows",
+    "path": "n8n/comes-io-n8n-nodes-trawl/",
+    "type": "repo",
+    "repoUrl": "https://github.com/comes-io/n8n-nodes-trawl",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1266825793",
+    "title": "Ladipage",
+    "tool": "n8n",
+    "tags": [],
+    "description": "H? skill marketing-automation (clone-template, meta-tracking, lead-nurture) + n8n workflows",
+    "path": "n8n/ngoclongdz96-cloud-ladipage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ngoclongdz96-cloud/Ladipage",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1439217371",
+    "title": "uberllm-n8n-templates",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow templates for AI video with the UberLLM API: Veo 3.1, Kling, faceless Shorts, UGC ads, Gemini Veo drop-in",
+    "path": "n8n/psa-team-source-uberllm-n8n-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/PSA-Team-source/uberllm-n8n-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1414399567",
+    "title": "n8n-alternative-migration",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Open-source n8n alternative migration guide: workflow-to-agent mapping, a working kortix.yaml, and step-by-step migration. Kortix is the open-source AI Operating System.",
+    "path": "n8n/kortix-seo-n8n-alternative-migration/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kortix-seo/n8n-alternative-migration",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1410024119",
+    "title": "n8n-alternative-comparison",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An open-source n8n alternative: Kortix vs n8n, alternatives, self-hosting and FAQ — sourced comparisons for teams that outgrow a workflow builder.",
+    "path": "n8n/kortix-seo-n8n-alternative-comparison/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kortix-seo/n8n-alternative-comparison",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1438986310",
+    "title": "gen-suprareciclaje-ia",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow de n8n que genera tres propuestas de rediseño de una prenda con IA. Gen · Igriega.",
+    "path": "n8n/marieldiplo-g-gen-suprareciclaje-ia/",
+    "type": "repo",
+    "repoUrl": "https://github.com/marieldiplo-G/gen-suprareciclaje-ia",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1439198157",
+    "title": "n8n-linkedin-job-alert-scorer",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that scores LinkedIn job alerts with Claude and sends the best matches to Telegram.",
+    "path": "n8n/tiogeraldo-n8n-linkedin-job-alert-scorer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tiogeraldo/n8n-linkedin-job-alert-scorer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422805744",
+    "title": "n8n-ai-lead-qualifier",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that researches and scores inbound leads with Claude, sends good fits to HubSpot, and asks a person in Slack before anything unsure goes out.",
+    "path": "n8n/kobescak-kristian-n8n-ai-lead-qualifier/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kobescak-kristian/n8n-ai-lead-qualifier",
+    "source": "github-discovery"
   }
 ]
