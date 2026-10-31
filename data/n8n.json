@@ -73270,5 +73270,150 @@
     "type": "repo",
     "repoUrl": "https://github.com/kobescak-kristian/n8n-ai-lead-qualifier",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440463053",
+    "title": "analisador-de-vagas-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow n8n que compara uma vaga (texto ou link) com um currículo usando Gemini: extrai os requisitos, classifica cada um com evidência e calcula a nota técnica por regra.",
+    "path": "n8n/garaujo601-analisador-de-vagas-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/GAraujo601/analisador-de-vagas-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440461104",
+    "title": "blockchain-dex-screener-ai-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Project: Blockchain DEX Screener Insights Agent  Built an AI-powered Telegram automation workflow using n8n and OpenAI. The project is designed to retrieve blockchain token information through the DexScreener API and provide AI-generated insights directly through Telegram.  Technologies: n8n, OpenAI GPT-4o-mini, Telegram API.",
+    "path": "n8n/ashi3455-blockchain-dex-screener-ai-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ashi3455/blockchain-dex-screener-ai-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440135318",
+    "title": "news-headlines-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that collects and emails AI-selected news headlines.",
+    "path": "n8n/nadimmolla1010-news-headlines-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NadimMolla1010/news-headlines-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440424295",
+    "title": "model-sunset-scanner",
+    "tool": "n8n",
+    "tags": [
+      "anthropic",
+      "deprecation",
+      "migration",
+      "n8n",
+      "openai",
+      "workflow"
+    ],
+    "description": "Scan n8n/Make/workflows for OpenAI & Anthropic models that are shut down or scheduled to retire (verified rules only by default)",
+    "path": "n8n/paopao-studio-ai-model-sunset-scanner/",
+    "type": "repo",
+    "repoUrl": "https://github.com/paopao-studio-ai/model-sunset-scanner",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440407214",
+    "title": "kemet-the-nile-flow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-assisted Socratic learning platform & n8n workflow for Egyptian Secondary English",
+    "path": "n8n/kemetthenileflow-kemet-the-nile-flow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kemetthenileflow/kemet-the-nile-flow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440408721",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "agent-tools",
+      "ai-agents",
+      "automation",
+      "fax",
+      "fax-api",
+      "mcp",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow",
+      "workflow"
+    ],
+    "description": "n8n workflows for Fax for Agents: send a fax with human approval through HTTP Request nodes. Fax for Agents is a fax API, a hosted MCP server and SDKs built so AI agents can send and receive faxes. It is made by JSB Holdings LLC.",
+    "path": "n8n/faxforagents-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/faxforagents/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440273194",
+    "title": "n8n-ai-lead-automation",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "automation",
+      "crm",
+      "google-sheets",
+      "lead-generation",
+      "n8n",
+      "workflow"
+    ],
+    "description": "n8n workflows that qualify leads with AI, log them to a CRM, reply instantly and follow up",
+    "path": "n8n/josegbritto-n8n-ai-lead-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JoseGBritto/n8n-ai-lead-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440388505",
+    "title": "dtc-ops-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI ops agent for DTC e-commerce: KPI scorecards, launch checks, Klaviyo restock segments, bilingual support agent with human approval queue. n8n workflows included. Mock data only.",
+    "path": "n8n/z-ux777-dtc-ops-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/z-ux777/dtc-ops-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440386474",
+    "title": "n8n-multi-agent-supervisor",
+    "tool": "n8n",
+    "tags": [
+      "agentic-ai",
+      "generative-ai",
+      "google-gemini",
+      "langchain",
+      "multi-agent-systems",
+      "n8n",
+      "sentiment-analysis",
+      "workflow-automation"
+    ],
+    "description": "Enterprise-grade Multi-Agent Supervisor workflow built on n8n with LangChain nodes and Google Gemini 3.1 Flash-Lite for automated customer feedback analytics and quality control.",
+    "path": "n8n/saadtamer-n8n-multi-agent-supervisor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/saadtamer/n8n-multi-agent-supervisor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1438598820",
+    "title": "valen-integrations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Valen for n8n, Dify, Coze and LangChain: typed questions and probability-based branching in workflow and agent platforms",
+    "path": "n8n/valen-team-valen-integrations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Valen-Team/valen-integrations",
+    "source": "github-discovery"
   }
 ]
