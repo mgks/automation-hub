@@ -26739,5 +26739,73 @@
     "type": "repo",
     "repoUrl": "https://github.com/swarmdm/skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1433096115",
+    "title": "whetstone",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "claude-skills",
+      "clawhub",
+      "code-review",
+      "codex",
+      "openclaw",
+      "software-engineering",
+      "tdd",
+      "threat-modeling"
+    ],
+    "description": "Sharpen your coding agent. An Agent Skill that scales engineering care to the risk of each change: small edits stay small, risky ones get a tested way back, and every report says what was verified. Works with Claude Code, Codex, OpenClaw and any agent that reads SKILL.md.",
+    "path": "openclaw/ricardodpalmeida-whetstone/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ricardodpalmeida/whetstone",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1441439905",
+    "title": "openclaw-instagram-dm",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "instagram",
+      "openclaw",
+      "openclaw-skill"
+    ],
+    "description": "OpenClaw skill: read and watch Instagram DMs cheaply (one script call per read, model-free change watching, safe replies)",
+    "path": "openclaw/hlum-openclaw-instagram-dm/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hlum/openclaw-instagram-dm",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1441419713",
+    "title": "socratic-co-reading",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "苏格拉底式共读：防止在学习中把AI当权威的技能协议 | A Socratic co-reading skill for OpenClaw",
+    "path": "openclaw/david790527-max-socratic-co-reading/",
+    "type": "repo",
+    "repoUrl": "https://github.com/david790527-max/socratic-co-reading",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1174011280",
+    "title": "book-capture-obsidian-skill",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "books",
+      "goodreads",
+      "obsidian",
+      "openclaw"
+    ],
+    "description": "📚 OpenClaw skill: cover photo, barcode, ISBN or Goodreads export in, clean Obsidian book notes and a library dashboard out. Quota-safe: Open Library first, cached, Google Books only for gaps.",
+    "path": "openclaw/ricardodpalmeida-book-capture-obsidian-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ricardodpalmeida/book-capture-obsidian-skill",
+    "source": "github-discovery"
   }
 ]

@@ -73415,5 +73415,139 @@
     "type": "repo",
     "repoUrl": "https://github.com/Valen-Team/valen-integrations",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1439604881",
+    "title": "shorts-renderer",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "free",
+      "n8n",
+      "n8n-automation",
+      "n8n-template",
+      "n8n-workflow",
+      "n8n-workflows",
+      "video-generation"
+    ],
+    "description": "Free cloud renderer for the \"Ancient Answers\" n8n workflow. n8n sends a script -> this repo's GitHub Action renders a 1080x1920 Short -> publishes it as a Release asset -> calls n8n back.",
+    "path": "n8n/kamal-sorour-shorts-renderer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kamal-sorour/shorts-renderer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1441406787",
+    "title": "Retail-Performance-Reporting-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that reads a retail sales table from Google Sheets, cleans it, calculates month-over-month KPIs, draws four charts, asks an LLM to write short insights, and emails a designed HTML report. It runs with no manual steps.",
+    "path": "n8n/xanhnguyen186-retail-performance-reporting-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xanhnguyen186/Retail-Performance-Reporting-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440496414",
+    "title": "flow-health-monitor",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Catch silent & failing n8n workflows before clients do - live demo",
+    "path": "n8n/saitarun29-flow-health-monitor/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Saitarun29/flow-health-monitor",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440614813",
+    "title": "veoveo-mcp-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflows as a Veoveo server: runs as MCP Tasks, workflows from Lore, the editor on the server's own app origin",
+    "path": "n8n/veoveoai-veoveo-mcp-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/VeoveoAI/veoveo-mcp-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1439792175",
+    "title": "n8n-Workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/ays19-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ays19/n8n-Workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1006659534",
+    "title": "telegram-to-pdf-vectordb",
+    "tool": "n8n",
+    "tags": [
+      "pdf",
+      "pdf-converter",
+      "pdf-generation",
+      "telegram",
+      "telegram-to-pdf"
+    ],
+    "description": "Convert Telegram chat exports to AI-ready PDF files optimized for vector databases and n8n workflows. Features smart chunking, dynamic sizing (max 200KB), emoji conversion, and cross-platform support. One-click Windows launcher included. Perfect for personal AI assistants, chat analysis, and knowledge base creation",
+    "path": "n8n/nddev-technocracy-archive-telegram-to-pdf-vectordb/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NDDev-Technocracy-Archive/telegram-to-pdf-vectordb",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1441404208",
+    "title": "TalentIA",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated resume screening workflow built with n8n, AI, Gmail and Google Sheets.",
+    "path": "n8n/juliancr82-talentia/",
+    "type": "repo",
+    "repoUrl": "https://github.com/JulianCR82/TalentIA",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1441385539",
+    "title": "Placid-social-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that turns public articles into guarded daily Facebook post drafts.",
+    "path": "n8n/deoh645-placid-social-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Deoh645/Placid-social-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440102590",
+    "title": "lendloop",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A neighborhood tool-lending board. Next.js (App Router) + Clerk + Convex, with n8n workflows for request notifications and daily overdue reminders. Role-based access enforced in Convex, HMAC-signed webhooks in both directions, idempotent write-backs, and an error workflow for visible failures",
+    "path": "n8n/anopaishemeki-lendloop/",
+    "type": "repo",
+    "repoUrl": "https://github.com/anopaishemeki/lendloop",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1441378819",
+    "title": "quietpass-examples",
+    "tool": "n8n",
+    "tags": [
+      "api-examples",
+      "crm",
+      "n8n",
+      "phone-enrichment",
+      "phone-validation",
+      "postman-collection",
+      "quietpass",
+      "workflow-automation"
+    ],
+    "description": "QuietPass API quickstarts for JavaScript, Python, Postman and n8n, plus CRM and automation workflow guides.",
+    "path": "n8n/c9-ventures-ltd-quietpass-examples/",
+    "type": "repo",
+    "repoUrl": "https://github.com/c9-ventures-ltd/quietpass-examples",
+    "source": "github-discovery"
   }
 ]
