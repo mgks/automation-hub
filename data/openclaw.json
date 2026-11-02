@@ -26807,5 +26807,67 @@
     "type": "repo",
     "repoUrl": "https://github.com/Ricardodpalmeida/book-capture-obsidian-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1343354484",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "ai-phone-agent",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex-skills",
+      "cursor",
+      "customer-service",
+      "openclaw-skills",
+      "outbound-calling",
+      "skill-md",
+      "skills",
+      "voice-agent",
+      "whobot",
+      "workbuddy"
+    ],
+    "description": "WhoBot 呼波特官方 Agent Skills：AI 电话数字员工（whobot-phonecall-skill）等，适配 Claude Code、Codex、OpenClaw、WorkBuddy、Cursor | Official agent skills by WhoBot",
+    "path": "openclaw/whobot-ai-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/whobot-ai/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1442474723",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "browser",
+      "claude-code",
+      "codex",
+      "cursor",
+      "dashboard",
+      "macos",
+      "mcp",
+      "openclaw",
+      "skills"
+    ],
+    "description": "Banquish skill for AI agents: answer with live parts of real web pages on your Mac",
+    "path": "openclaw/banquish-app-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/banquish-app/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1172291003",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "一组为 Claude Code / OpenClaw 设计的自制 AI 技能合集，覆盖产品开发全流程、网络搜索增强、新闻简报生成及语音类工具。",
+    "path": "openclaw/icheer-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/icheer/skills",
+    "source": "github-discovery"
   }
 ]

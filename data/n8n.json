@@ -73549,5 +73549,161 @@
     "type": "repo",
     "repoUrl": "https://github.com/c9-ventures-ltd/quietpass-examples",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1439109160",
+    "title": "circuit-n8n",
+    "tool": "n8n",
+    "tags": [
+      "configuration-management",
+      "conn3x",
+      "conn3x-circuit",
+      "opentofu"
+    ],
+    "description": "Conn3x circuit: self-hosted n8n workflow automation in Podman, with SQLite or PostgreSQL, a host-generated encryption key and an optional owner",
+    "path": "n8n/conn3xorg-circuit-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/conn3xorg/circuit-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1442433480",
+    "title": "ai-workflows-hub",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-timeline",
+      "ai-workflows",
+      "awesome-list",
+      "comfyui",
+      "coze",
+      "dify",
+      "llm",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "AI ???????:??? AI ????????????????????? | Curated AI workflows across industries",
+    "path": "n8n/aeternacursor-ai-workflows-hub/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AeternaCursor/ai-workflows-hub",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1442469595",
+    "title": "thelemonshot-ai-pm-case",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Win. Match. Optimize. Case submission for The Lemon Shot's AI Product Manager (Data & AI Transformation) role: the deck plus the Creator Match workflow in n8n.",
+    "path": "n8n/kunanonj-thelemonshot-ai-pm-case/",
+    "type": "repo",
+    "repoUrl": "https://github.com/KunanonJ/thelemonshot-ai-pm-case",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1442459625",
+    "title": "n8n-workflows-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n automation portfolio: AI media and social publishing workflow case studies. Full workflow JSON remains private.",
+    "path": "n8n/notza0816581058-n8n-workflows-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/notza0816581058/n8n-workflows-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1435409701",
+    "title": "ai-lead-qualification-automation",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "crm-automation",
+      "docker",
+      "lead-qualification",
+      "n8n",
+      "ollama",
+      "postman",
+      "workflow-automation"
+    ],
+    "description": "Production-style n8n AI lead qualification workflow with automated scoring, Google Sheets logging, email notifications, API integrations, testing, and documentation.",
+    "path": "n8n/kwhesikeen-ai-lead-qualification-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kwhesikeen/ai-lead-qualification-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1442356640",
+    "title": "-customer-feedback-analyzer",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An intelligent customer feedback intake, classification, and reporting system built with n8n workflow automation and Gemini LLM.",
+    "path": "n8n/samueldeji--customer-feedback-analyzer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/samueldeji/-customer-feedback-analyzer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1430314140",
+    "title": "meridian-labs",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Meridian Labs: source-backed AI workflows in n8n and code, with review gates, evaluations and fictional examples.",
+    "path": "n8n/olilifts88-meridian-labs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/olilifts88/meridian-labs",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1442402415",
+    "title": "n8n-vps-cost-analysis",
+    "tool": "n8n",
+    "tags": [],
+    "description": "vps for n8n: Match the Plan to Your Workflow Load, Avoid the Webhook Trap, and Know What Renewal Actually Costs",
+    "path": "n8n/lcuu45-n8n-vps-cost-analysis/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lcuu45/n8n-vps-cost-analysis",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1442387902",
+    "title": "intake-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Intake routing for a telehealth dietitian practice: typed decision service, versioned policy knowledge base, mock CRM, n8n workflow",
+    "path": "n8n/hxlvvm-intake-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hxlvvm/intake-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1432627591",
+    "title": "b2b-quant-mcp-n8n-suite",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "apify",
+      "apify-actors",
+      "b2b-api",
+      "cisa-kev",
+      "claude-desktop",
+      "clinical-trials",
+      "cursor-mcp",
+      "gleif",
+      "kyb",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "n8n",
+      "n8n-workflows",
+      "openapi",
+      "rapidapi",
+      "sec-edgar",
+      "solana",
+      "x402"
+    ],
+    "description": "30 Production B2B MCP Servers, 36 n8n Workflows, x402 Solana USDC Gateway & OpenAPI 3.1 Suite for SEC EDGAR, SAM.gov, EU TED, UK FCA/Companies House, Sanctions AML, OSHA, SSL CT, GLEIF & Brazil BCB/Tax",
+    "path": "n8n/jesleytassili-glitch-b2b-quant-mcp-n8n-suite/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jesleytassili-glitch/b2b-quant-mcp-n8n-suite",
+    "source": "github-discovery"
   }
 ]
