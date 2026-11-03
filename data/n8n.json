@@ -73705,5 +73705,165 @@
     "type": "repo",
     "repoUrl": "https://github.com/jesleytassili-glitch/b2b-quant-mcp-n8n-suite",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1442795591",
+    "title": "german-construction-tenders-gaeb-api",
+    "tool": "n8n",
+    "tags": [
+      "apify-actor",
+      "ausschreibungen",
+      "construction-api",
+      "d83",
+      "gaeb",
+      "germany",
+      "mcp-server",
+      "n8n-workflow",
+      "public-procurement",
+      "vergabe",
+      "x83"
+    ],
+    "description": "German Public Procurement API: construction tenders from oeffentlichevergabe.de with GAEB bill of quantities (.x83 .d83 .p83) as JSON. n8n workflow template, MCP configs (Claude, Cursor, OpenAI) and examples for the Apify Actor.",
+    "path": "n8n/brsksr-german-construction-tenders-gaeb-api/",
+    "type": "repo",
+    "repoUrl": "https://github.com/brsksr/german-construction-tenders-gaeb-api",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1443813549",
+    "title": "german-insolvency-commercial-register-api",
+    "tool": "n8n",
+    "tags": [
+      "apify-actor",
+      "b2b-leads",
+      "commercial-register",
+      "germany",
+      "handelsregister",
+      "insolvency",
+      "insolvenzbekanntmachungen",
+      "kyc",
+      "mcp-server",
+      "n8n-workflow",
+      "xjustiz"
+    ],
+    "description": "German Corporate Insolvency API + Handelsregister API: insolvenzbekanntmachungen.de notices with administrator, claims deadline and XJustiz SI register data (share capital, managing directors) as JSON. n8n workflow, MCP configs, examples for the Apify Actor.",
+    "path": "n8n/brsksr-german-insolvency-commercial-register-api/",
+    "type": "repo",
+    "repoUrl": "https://github.com/brsksr/german-insolvency-commercial-register-api",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1398439516",
+    "title": "Assistant-IA-de-gestion-des-e-mails-et-de-prise-de-rendez-vous",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Le projet vise à développer un assistant intelligent capable de prendre en charge une partie de ces tâches de manière autonome ou semi-autonome, en s'appuyant sur l'intelligence artificielle générative et sur des workflows d'automatisation orchestrés via n8n.",
+    "path": "n8n/rayen43500-assistant-ia-de-gestion-des-e-mails-et-de-prise-de-rendez-vous/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rayen43500/Assistant-IA-de-gestion-des-e-mails-et-de-prise-de-rendez-vous",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-968513345",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My shared n8n Workflows",
+    "path": "n8n/mwaldegg-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mwaldegg/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1439434413",
+    "title": "workflow-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A portfolio of practical workflow automation projects built using n8n, AI agents, APIs, and third-party integrations. Showcasing real-world use cases involving lead management, invoice processing, CRM automation, data extraction, and business process automation. Continuously building, testing, and improving automation solutions.",
+    "path": "n8n/krishjaintech1-a11y-workflow-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/krishjaintech1-a11y/workflow-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1276573707",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "🛠️ Production-grade local n8n deployment guide backed by Cloudflare Tunnels. Features cost-optimized workflows, secure remote access, and ready-to-use automation templates.",
+    "path": "n8n/ritexlabs-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ritexlabs/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1443763248",
+    "title": "n8n-google-review-requests",
+    "tool": "n8n",
+    "tags": [
+      "google-reviews",
+      "google-sheets",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow"
+    ],
+    "description": "n8n workflow that emails a Google review request after each completed visit logged in Google Sheets: once per client, with quiet hours and a signed unsubscribe link.",
+    "path": "n8n/agenticsolutions-hq-n8n-google-review-requests/",
+    "type": "repo",
+    "repoUrl": "https://github.com/agenticsolutions-hq/n8n-google-review-requests",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1443737400",
+    "title": "ai-customer-support-copilot",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that turns a support ticket into a brief for a human agent: Claude for analysis, deterministic JavaScript for the rules that must always hold, and a second AI review. Nothing is ever sent to a customer.",
+    "path": "n8n/alirehman2210-ai-customer-support-copilot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/alirehman2210/ai-customer-support-copilot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1443717426",
+    "title": "n8n-production-skills",
+    "tool": "n8n",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "cursor",
+      "linter",
+      "n8n",
+      "n8n-workflow"
+    ],
+    "description": "Free Agent Skill + zero-dependency linter that makes Claude Code, Codex and Cursor ship correct n8n workflow JSON",
+    "path": "n8n/khmuhtadin-n8n-production-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/khmuhtadin/n8n-production-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1355517337",
+    "title": "blog",
+    "tool": "n8n",
+    "tags": [
+      "agentic-workflows",
+      "ai-agents",
+      "blog",
+      "durable-execution",
+      "llm-evaluation",
+      "markdown",
+      "n8n-alternative",
+      "tamtree",
+      "workflow-automation",
+      "workflow-orchestration",
+      "zapier-alternative"
+    ],
+    "description": "Source of the Tamtree blog: engineering and architecture posts on building an agent-first workflow orchestrator, and how it compares with n8n, Zapier and Make.",
+    "path": "n8n/tamtree-ai-blog/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tamtree-ai/blog",
+    "source": "github-discovery"
   }
 ]
