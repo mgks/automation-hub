@@ -73865,5 +73865,128 @@
     "type": "repo",
     "repoUrl": "https://github.com/tamtree-ai/blog",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1445149133",
+    "title": "n8n-nodes-kalpana",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Kalpana: fill templates with workflow data and render images and videos",
+    "path": "n8n/shreekaramtech-n8n-nodes-kalpana/",
+    "type": "repo",
+    "repoUrl": "https://github.com/shreekaramtech/n8n-nodes-kalpana",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1445144800",
+    "title": "renave-fiscal-lab",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Laboratório independente de RENAVE e NF-e: painel gráfico, NFePHP, workflows n8n, simulador e documentação de custos.",
+    "path": "n8n/italianod-renave-fiscal-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ItalianoD/renave-fiscal-lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1445096085",
+    "title": "n8n_feedback_project",
+    "tool": "n8n",
+    "tags": [],
+    "description": "The repository features an automated workflow created in n8n that shows the collection of user data through a feedback form and applying discounts for each user based on applied condition and putting the final data output in a Google spreadsheet",
+    "path": "n8n/sudeshna0102-n8n_feedback_project/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sudeshna0102/n8n_feedback_project",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1056076678",
+    "title": "n8n-django",
+    "tool": "n8n",
+    "tags": [
+      "crm",
+      "django",
+      "docker-compose",
+      "n8n",
+      "openai",
+      "postgis",
+      "postgresql",
+      "python-django",
+      "rest-api",
+      "ticketing-system",
+      "webhook-integration",
+      "workflow-automation"
+    ],
+    "description": "Django Ticketing System & PostGIS CRM integrated with n8n workflow automation and OpenAI summarization",
+    "path": "n8n/codewithmuh-n8n-django/",
+    "type": "repo",
+    "repoUrl": "https://github.com/codewithmuh/n8n-django",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1443429837",
+    "title": "Action-Ready---AI-Meeting-Assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Meeting notes → action plans, checked against reality. An n8n two-agent workflow extracts commitments, verifies them against the source notes, and checks each person's recorded workload and capacity before anything can be approved. Next.js front end, deterministic readiness checks, human approval required.",
+    "path": "n8n/rithikroyt-action-ready---ai-meeting-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Rithikroyt/Action-Ready---AI-Meeting-Assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228517193",
+    "title": "n8n-ecom",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n ecom automation bundle for Railway — 7 pre-built Shopify workflows",
+    "path": "n8n/amritasha-n8n-ecom/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Amritasha/n8n-ecom",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1445068494",
+    "title": "real-estate-lead-qualification",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that qualifies real estate leads based on budget and saves results to Google Sheets.",
+    "path": "n8n/fatimanasir66789-tech-real-estate-lead-qualification/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fatimanasir66789-tech/real-estate-lead-qualification",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1445045482",
+    "title": "empowertech-n8n-curriculum",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AMDR Foundation's n8n course: starter workflows, lab sheets, rubric, facilitator guide",
+    "path": "n8n/amdr-foundation-empowertech-n8n-curriculum/",
+    "type": "repo",
+    "repoUrl": "https://github.com/amdr-foundation/empowertech-n8n-curriculum",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1414173267",
+    "title": "n8n-alternative-starter",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Open-source, self-hosted starter that migrates a fixed n8n workflow into a Kortix agent + skill.",
+    "path": "n8n/kortix-seo-n8n-alternative-starter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kortix-seo/n8n-alternative-starter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1445010433",
+    "title": "n8n-ai-lead-gen",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow template: AI lead enrichment, scoring, and outreach drafting (OpenAI-compatible endpoints)",
+    "path": "n8n/hanzongbaobap-wq-n8n-ai-lead-gen/",
+    "type": "repo",
+    "repoUrl": "https://github.com/hanzongbaobap-wq/n8n-ai-lead-gen",
+    "source": "github-discovery"
   }
 ]

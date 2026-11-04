@@ -27111,5 +27111,127 @@
     "type": "repo",
     "repoUrl": "https://github.com/Alpha-Park/genpark-personal-agent-acoustic-efferent-olivocochlear-reflex-moc-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1445035527",
+    "title": "ninebot-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "九号电动车(Ninebot)状态查询 skill — 改造自官方 ClawHub skill，适配 Hermes/OpenClaw/Claude Code，双认证后端，零第三方依赖",
+    "path": "openclaw/hunterxing-ninebot-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HunterXing/ninebot-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1275910073",
+    "title": "ritual-open-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Free, standalone, task-native skills for OpenClaw/ClawHub. Rendered from the Ritual catalog. v1 publishes 10 curated engineering skills (gated).",
+    "path": "openclaw/ritual-work-ritual-open-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ritual-work/ritual-open-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1180779040",
+    "title": "openclaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Repo for OpenClaw. Only Skills for now",
+    "path": "openclaw/stevenho1394-openclaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/StevenHo1394/openclaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1169180193",
+    "title": "openclaw-ai-calls-china-phone",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agent",
+      "ai-calling",
+      "ai-outbound-calls",
+      "ai-receptionist",
+      "china",
+      "chinese",
+      "clawhub",
+      "openclaw",
+      "phone-agent",
+      "phone-call",
+      "voice-agent"
+    ],
+    "description": "ClawCall：面向 OpenClaw 的 AI 外呼、智能外呼与电话机器人 Skill，支持中文通话、呼入接待、转写和通话记录；执行时支持中国大陆手机号。",
+    "path": "openclaw/ustczz-openclaw-ai-calls-china-phone/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ustczz/openclaw-ai-calls-china-phone",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1445107048",
+    "title": "latinocreadore-post-social",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "12 skills para preparar, publicar, programar y verificar posts organicos en redes. Para Claude Code, Codex y OpenClaw.",
+    "path": "openclaw/soywalles-latinocreadore-post-social/",
+    "type": "repo",
+    "repoUrl": "https://github.com/soywalles/latinocreadore-post-social",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1196170491",
+    "title": "token-safety-checker",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw skill: scan openclaw.json for plaintext secrets and migrate to env vars",
+    "path": "openclaw/maoisdamao-token-safety-checker/",
+    "type": "repo",
+    "repoUrl": "https://github.com/maoisdamao/token-safety-checker",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1438075161",
+    "title": "ai-agent-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Tool-neutral reusable AI Agent skills collection for Cursor, Claude Code, Codex & OpenClaw | 多端通用 AI Agent 技能库",
+    "path": "openclaw/ppdbxdawj-ai-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ppdbxdawj/ai-agent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1160138563",
+    "title": "tweet-crafter",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Tweet Crafter | OpenClaw skill",
+    "path": "openclaw/austindixson-tweet-crafter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/austindixson/tweet-crafter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1160138732",
+    "title": "subagent-dashboard",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Subagent Dashboard | OpenClaw skill",
+    "path": "openclaw/austindixson-subagent-dashboard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/austindixson/subagent-dashboard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1160138506",
+    "title": "skill-tester",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Skill Tester | OpenClaw skill",
+    "path": "openclaw/austindixson-skill-tester/",
+    "type": "repo",
+    "repoUrl": "https://github.com/austindixson/skill-tester",
+    "source": "github-discovery"
   }
 ]
