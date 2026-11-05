@@ -73988,5 +73988,128 @@
     "type": "repo",
     "repoUrl": "https://github.com/hanzongbaobap-wq/n8n-ai-lead-gen",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1446540225",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/sekken-fukaxa-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sekken-fukaxa/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1418471594",
+    "title": "n8n-workflows-backup",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated daily backup repository for personal n8n automation workflows, AI agents, and enterprise integrations.",
+    "path": "n8n/mricky-n8n-workflows-backup/",
+    "type": "repo",
+    "repoUrl": "https://github.com/mricky/n8n-workflows-backup",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1442042722",
+    "title": "Ai-operations-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Portfolio of AI operations, n8n automation, API integrations, workflow monitoring, and testing projects.",
+    "path": "n8n/samlansford-ai-operations-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/SamLansford/Ai-operations-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1042169791",
+    "title": "n8n-ai-agents",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "Production n8n AI agent workflows — appointment booking, voice agent, sentiment analysis, content automation",
+    "path": "n8n/aiwithfahad-n8n-ai-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AiwithFahad/n8n-ai-agents",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1439035485",
+    "title": "n8n-mcp-cli",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-safe QA & workflow health platform for n8n. MCP server + CLI with credential boundary (read-only/external), trace analysis, failure classification, regression detection, and health scoring. TypeScript, stdio transport.",
+    "path": "n8n/souzix76-n8n-mcp-cli/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Souzix76/n8n-mcp-cli",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1446528319",
+    "title": "n8n-enquiry-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflows for a clinic's website enquiries: validation, CRM table, emails, weekday digest and error alerts",
+    "path": "n8n/shreyasnu7-n8n-enquiry-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Shreyasnu7/n8n-enquiry-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1446524981",
+    "title": "n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "path": "n8n/zuancrisp-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ZuanCrisp/n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1437431073",
+    "title": "AI-Agent-Workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Build an AI Agent Workflow Platform, a mini n8n/Zapier where AI agents do the work",
+    "path": "n8n/monika-wadhwani-ai-agent-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/monika-wadhwani/AI-Agent-Workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1446506368",
+    "title": "thordata-striking-distance-seo",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "google-search-console",
+      "n8n",
+      "n8n-workflow",
+      "seo",
+      "serp",
+      "thordata"
+    ],
+    "description": "An n8n workflow that finds striking-distance SEO pages with Thordata SERP API and Google Search Console, then turns them into prioritized, evidence-based actions.",
+    "path": "n8n/thordata-thordata-striking-distance-seo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Thordata/thordata-striking-distance-seo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1407406417",
+    "title": "n8n-automation-projects-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/rootrasel-n8n-automation-projects-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rootrasel/n8n-automation-projects-workflows",
+    "source": "github-discovery"
   }
 ]

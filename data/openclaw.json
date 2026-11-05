@@ -27233,5 +27233,101 @@
     "type": "repo",
     "repoUrl": "https://github.com/austindixson/skill-tester",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1446440531",
+    "title": "tessera",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Tessera: uma fonte, vários agentes. Sincroniza instruções, skills e MCP para Claude Code, Codex, OpenClaw e Hermes, com roteamento e pipelines entre agentes.",
+    "path": "openclaw/dheiver2-tessera/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dheiver2/tessera",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1156010429",
+    "title": "Openclaw-Skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skill / Use-case Repository",
+    "path": "openclaw/nextaltair-openclaw-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NEXTAltair/Openclaw-Skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1228972696",
+    "title": "OpenViking-zpg",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+    "path": "openclaw/g121370451-openviking-zpg/",
+    "type": "repo",
+    "repoUrl": "https://github.com/g121370451/OpenViking-zpg",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1444986792",
+    "title": "shadow-claw-light-meter",
+    "tool": "openclaw",
+    "tags": [
+      "a2a",
+      "a2ui",
+      "agent",
+      "agent-skills",
+      "agui",
+      "arduino",
+      "bluetooth-low-energy",
+      "clawdbot",
+      "harness",
+      "loops",
+      "mcp",
+      "moltbook",
+      "moltbot",
+      "openclaw",
+      "tinyduino",
+      "web-bluetooth",
+      "web-components",
+      "webmcp",
+      "webrtc",
+      "wokwi"
+    ],
+    "description": "Hardware light meter workbench and agentic sensory skills for TinyDuino, BLE112, and KY-018 photoresistor, powered by ShadowClaw.",
+    "path": "openclaw/xt-ml-shadow-claw-light-meter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xt-ml/shadow-claw-light-meter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1446465023",
+    "title": "roundtable",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw multi-AI roundtable skill: Lite / Plus / Pro, 2–6 models and 1–5 rounds",
+    "path": "openclaw/wenlicg-roundtable/",
+    "type": "repo",
+    "repoUrl": "https://github.com/WenLiCG/roundtable",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1410399967",
+    "title": "omni-learning-anything",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "deepseek-harness",
+      "dsh-plugin",
+      "education",
+      "latex",
+      "learning",
+      "openclaw"
+    ],
+    "description": "Omni Learning Anything: portable Agent Skill for personalized learning plans and illustrated daily lessons in files and cloud documents. 通用学习助手。",
+    "path": "openclaw/shawnren57-omni-learning-anything/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ShawnRen57/omni-learning-anything",
+    "source": "github-discovery"
   }
 ]
