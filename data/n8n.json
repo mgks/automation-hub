@@ -74111,5 +74111,162 @@
     "type": "repo",
     "repoUrl": "https://github.com/rootrasel/n8n-automation-projects-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1447835790",
+    "title": "epa-ai-helpline",
+    "tool": "n8n",
+    "tags": [],
+    "description": "\"Enterprise-grade AI Voice & Workflow Automation system built with n8n, Vapi AI, and OpenAI to handle government helpline calls, extract citizen complaints, log data, and route high-priority alerts to District Officers automatically.\"",
+    "path": "n8n/muhammadtanveer9614-sketch-epa-ai-helpline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/muhammadtanveer9614-sketch/epa-ai-helpline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1423432341",
+    "title": "prooftask-integrations",
+    "tool": "n8n",
+    "tags": [
+      "mcp",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "n8n workflows, MCP adapter and Agent API examples for delivery handover, client acceptance and verifiable delivery records.",
+    "path": "n8n/cognitive-emergence-prooftask-integrations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cognitive-emergence/prooftask-integrations",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1377811760",
+    "title": "crm-automation-backend",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "clean-architecture",
+      "crm",
+      "docker",
+      "gemini-ai",
+      "n8n",
+      "nestjs",
+      "postgresql",
+      "rabbitmq",
+      "typeorm",
+      "typescript"
+    ],
+    "description": "Enterprise AI CRM Automation backend service built with NestJS, Clean Architecture, TypeORM, PostgreSQL, RabbitMQ, and n8n Gemini AI workflows.",
+    "path": "n8n/tuananh-developer-crm-automation-backend/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tuananh-developer/crm-automation-backend",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1439117557",
+    "title": "ufc-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Documentation and sanitized snapshots of the UFC n8n automation system",
+    "path": "n8n/kevinofsydney-ufc-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kevinofsydney/ufc-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1447751714",
+    "title": "clevio-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Clevio & Agriana n8n production workflows, webhook handlers, and automation scripts",
+    "path": "n8n/lazverx-clevio-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lazverx/clevio-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1447441865",
+    "title": "n8n-2026",
+    "tool": "n8n",
+    "tags": [
+      "ai",
+      "apis",
+      "automation",
+      "cli",
+      "data-flow",
+      "development",
+      "integration-framework",
+      "integrations",
+      "ipaas",
+      "low-code",
+      "low-code-platform",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "n8n",
+      "no-code",
+      "self-hosted",
+      "typescript",
+      "workflow",
+      "workflow-automation"
+    ],
+    "description": "⭐️ Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations ⭐️",
+    "path": "n8n/chipstalker42-n8n-2026/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ChipStalker42/n8n-2026",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1447745639",
+    "title": "gmail-inbox-sorter-enquiry-capture",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that sorts a studio’s Gmail inbox into six routes and sends new client enquiries to a Google Sheet, with budgets as real numbers.",
+    "path": "n8n/paida-moyo-gmail-inbox-sorter-enquiry-capture/",
+    "type": "repo",
+    "repoUrl": "https://github.com/paida-moyo/gmail-inbox-sorter-enquiry-capture",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1357679529",
+    "title": "fallguard",
+    "tool": "n8n",
+    "tags": [
+      "aged-care",
+      "claude",
+      "fall-detection",
+      "hackathon",
+      "healthcare",
+      "n8n",
+      "streamlit",
+      "telegram-bot",
+      "yolov8"
+    ],
+    "description": "🏆 Best Business Use Case, n8n University Hackathon Sydney (Sep 2026). Camera fall detection: the carer gets a video clip of the fall within seconds, a Claude-written facts-only report, and an n8n care workflow (transfer pack, family notice, incident draft, nurse-approved information sheet) with every decision made by a person in the app.",
+    "path": "n8n/hollyhsu0808-fallguard/",
+    "type": "repo",
+    "repoUrl": "https://github.com/HollyHsu0808/fallguard",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1447727866",
+    "title": "n8n-vps-hosting-costs",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n vps hosting: what self-hosting n8n really costs per month, and how to pick a VPS that fits your workflows",
+    "path": "n8n/rjzqpxaj-n8n-vps-hosting-costs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rjzqpxaj/n8n-vps-hosting-costs",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1447727780",
+    "title": "n8n-automation-templates",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Four importable n8n workflows for lead capture, lead scoring, review summaries and invoice extraction. Built by Vixon Lab.",
+    "path": "n8n/vixonoffice-n8n-automation-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vixonoffice/n8n-automation-templates",
+    "source": "github-discovery"
   }
 ]
