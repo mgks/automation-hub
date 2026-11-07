@@ -27468,5 +27468,133 @@
     "type": "repo",
     "repoUrl": "https://github.com/WJZ-P/gemini-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1187635501",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "email-marketing",
+      "hermes-agent",
+      "marketing-automation",
+      "openclaw",
+      "sequenzy",
+      "skill-md",
+      "transactional-email"
+    ],
+    "description": "Agent skills for operating Sequenzy lifecycle, campaign, and transactional email workflows from Claude Code, Codex, Hermes, and OpenClaw-compatible agents.",
+    "path": "openclaw/sequenzy-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Sequenzy/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1416824096",
+    "title": "topxai-equity-research",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugins",
+      "claude-skills",
+      "codex",
+      "equity-research",
+      "financial-analysis",
+      "investment-research",
+      "openclaw",
+      "sec-edgar",
+      "skills",
+      "stock-analysis",
+      "topxai",
+      "xbrl"
+    ],
+    "description": "Institutional-grade equity research workflow for AI agents: filings-first data, falsifiable calls, bull/bear debate, adversarial audits and a settled call ledger. Agent skill + Claude Code plugin.",
+    "path": "openclaw/unbelievablet-topxai-equity-research/",
+    "type": "repo",
+    "repoUrl": "https://github.com/UnbelievableT/topxai-equity-research",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1347354283",
+    "title": "text-to-comic",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "ai-agent",
+      "claude-skills",
+      "comic",
+      "image-generation",
+      "infographic",
+      "openclaw",
+      "storyboard",
+      "text-to-image"
+    ],
+    "description": "把文字、对话、日记、照片笔记变成漫画 / 绘本 / 信息图 / 图文长图的 agent skill，自带分镜规划与 11 种画风预设。Turn text, dialog, diary entries, or photo notes into a comic, picture book, infographic, or hybrid long image.",
+    "path": "openclaw/bonniegeng-max-text-to-comic/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bonniegeng-max/text-to-comic",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1149949880",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "claude",
+      "claude-code",
+      "codex",
+      "openclaw",
+      "skills"
+    ],
+    "description": "A collection of independent, self-contained skills for AI agents. ",
+    "path": "openclaw/gabrielkoerich-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/gabrielkoerich/skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1268985879",
+    "title": "better-agent-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-memory",
+      "agent-skills",
+      "agent-starter",
+      "better-agent",
+      "openclaw-skill",
+      "token"
+    ],
+    "description": "Skill suite for better usage of  agent ( openclaw, hermes and more)",
+    "path": "openclaw/songhonglei-better-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Songhonglei/better-agent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1435382387",
+    "title": "skills",
+    "tool": "openclaw",
+    "tags": [
+      "aftercard",
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "hermes",
+      "mcp",
+      "openclaw",
+      "payments",
+      "skills-sh"
+    ],
+    "description": "Aftercard Agent Skills and native MCP integrations for purchasing, payments and saved details.",
+    "path": "openclaw/aftercard-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/aftercard/skills",
+    "source": "github-discovery"
   }
 ]
