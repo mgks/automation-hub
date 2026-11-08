@@ -74446,5 +74446,170 @@
     "type": "repo",
     "repoUrl": "https://github.com/zapzapapi/n8n-nodes-zapzap",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-997553489",
+    "title": "n8n-nodes-wiroai",
+    "tool": "n8n",
+    "tags": [
+      "3d-generation",
+      "ai",
+      "generative-ai",
+      "image-generation",
+      "llm",
+      "n8n",
+      "n8n-community-node",
+      "n8n-community-node-package",
+      "n8n-nodes",
+      "speech-to-text",
+      "text-to-speech",
+      "typescript",
+      "video-generation",
+      "wiro",
+      "wiro-ai",
+      "workflow-automation"
+    ],
+    "description": "n8n community nodes for Wiro AI. Generate video, images, speech and music, chat with LLMs and create 3D models in n8n workflows, one node per model.",
+    "path": "n8n/wiroai-n8n-nodes-wiroai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wiroai/n8n-nodes-wiroai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1449955829",
+    "title": "ai-ops-automation",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "fastapi",
+      "llamaindex",
+      "n8n",
+      "ollama",
+      "rag",
+      "typescript"
+    ],
+    "description": "Self-hosted AI ticket-triage automation: n8n workflows, HMAC-signed webhooks, PII redaction, LlamaIndex RAG, TypeScript dashboard. Local open-weight models (Ollama).",
+    "path": "n8n/ryannaidji-ai-ops-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ryannaidji/ai-ops-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1439408437",
+    "title": "yamet-ig-media",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Media siap posting untuk Instagram @yametpalembang (ipakai workflow n8n IG Publish)",
+    "path": "n8n/kampala08-dev-yamet-ig-media/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kampala08-dev/yamet-ig-media",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1449909746",
+    "title": "AI-Powered-CV-Screening-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An LLM-powered recruitment automation workflow built with n8n, featuring CV screening, candidate scoring, automated email responses, Google Sheets tracking, and scheduled HR reporting.",
+    "path": "n8n/madeehamajeed-ai-powered-cv-screening-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Madeehamajeed/AI-Powered-CV-Screening-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1449928346",
+    "title": "RAG-using-LLM-n8n-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that uses Retrieval-Augmented Generation (RAG) to answer questions using relevant information from a knowledge base. It retrieves matching content and provides it to a large language model (LLM) to generate a context-aware response.",
+    "path": "n8n/sharathmb07-rag-using-llm-n8n-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sharathmb07/RAG-using-LLM-n8n-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1440681408",
+    "title": "workflows",
+    "tool": "n8n",
+    "tags": [
+      "apify",
+      "b2b",
+      "n8n",
+      "workflows"
+    ],
+    "description": "Step-by-step B2B workflows with Apify Actors: guides, n8n templates and covers",
+    "path": "n8n/keyvwin-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/keyvwin/workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1421084149",
+    "title": "firm-assistant",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "postgresql",
+      "rag",
+      "workflow-automation"
+    ],
+    "description": "Three-workflow n8n RAG and read-only SQL assistant with semantic caching, guardrails, and automated evaluations",
+    "path": "n8n/nour2303-firm-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nour2303/firm-assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1449786659",
+    "title": "flowwolf",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "integrations",
+      "low-code",
+      "mcp",
+      "n8n",
+      "n8n-alternative",
+      "rust",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Workflow automation compatible with n8n — one Rust binary, 400+ integrations, AI agents, self-hosted. MIT licensed.",
+    "path": "n8n/wolfcastlede-flowwolf/",
+    "type": "repo",
+    "repoUrl": "https://github.com/WolfcastleDE/flowwolf",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1441703994",
+    "title": "n8n-gdrive-archive-bot",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "google-driv",
+      "n8n",
+      "n8n-workflow",
+      "telegram-bot",
+      "workflow-automation",
+      "workflow-template",
+      "zip-archiv"
+    ],
+    "description": "Сценарий n8n для автоматической архивации файлов из Google Drive в ZIP и выгрузки по команде в Telegram Topics: n8n, n8n-workflow, telegram-bot, google-drive, automation, zip-archive, workflow-automation",
+    "path": "n8n/tanakakodzhi-n8n-gdrive-archive-bot/",
+    "type": "repo",
+    "repoUrl": "https://github.com/TanakaKodzhi/n8n-gdrive-archive-bot",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1449870936",
+    "title": "n8n-antipatterns",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A cited catalog of recurring n8n workflow mistakes: symptom, why it hurts, the fix, and which n8n-lint rule catches it",
+    "path": "n8n/lorenzespinosa-n8n-antipatterns/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lorenzespinosa/n8n-antipatterns",
+    "source": "github-discovery"
   }
 ]

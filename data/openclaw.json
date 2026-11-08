@@ -27596,5 +27596,102 @@
     "type": "repo",
     "repoUrl": "https://github.com/aftercard/skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1449943526",
+    "title": "openclaw-mobile-game-skill",
+    "tool": "openclaw",
+    "tags": [
+      "adb",
+      "android-automation",
+      "maaassistantarknights",
+      "mobile-automation",
+      "openclaw"
+    ],
+    "description": "OpenClaw mobile game automation skill: daily task orchestration, emulator/ADB runbooks, and direct MAA Core adapters.",
+    "path": "openclaw/yuiffy-openclaw-mobile-game-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Yuiffy/openclaw-mobile-game-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1448224653",
+    "title": "api-key-leak-check",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "api-keys",
+      "clawhub",
+      "hermes-agent",
+      "leak-detection",
+      "openclaw",
+      "secrets-detection",
+      "security"
+    ],
+    "description": "Is your AI agent leaking your API keys? A free, read-only security check for OpenClaw and Hermes. Finds keys in agent memory, chat history, skills, settings and backups, explains it in plain words, and helps you fix it.",
+    "path": "openclaw/swytchcodehq-api-key-leak-check/",
+    "type": "repo",
+    "repoUrl": "https://github.com/swytchcodehq/api-key-leak-check",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1449922007",
+    "title": "miragea-voiceover-skills",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-dubbing",
+      "ai-voiceover",
+      "claude-skills",
+      "codex-skills",
+      "openclaw",
+      "skill-md",
+      "srt",
+      "subtitle-generator",
+      "subtitles",
+      "text-to-speech",
+      "tts",
+      "voice-cloning"
+    ],
+    "description": "AI voiceover & subtitle Agent Skills (SKILL.md) for Claude Code, Codex, OpenClaw — talking-head, movie recap, e-commerce, digital human, ads, audiobook. Powered by Miragea.",
+    "path": "openclaw/yanghhu-miragea-voiceover-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/yanghhu/miragea-voiceover-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1323727426",
+    "title": "agent-kit",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "cc-switch",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "dotfiles",
+      "mcp",
+      "openclaw",
+      "opencode",
+      "qwen-code"
+    ],
+    "description": "Public, versioned Agent Skills to safely bootstrap and sync Claude Code, Codex, Qwen Code, OpenCode, Pi, OpenClaw, and more.",
+    "path": "openclaw/cubxxw-agent-kit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cubxxw/agent-kit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1449382602",
+    "title": "yt2podcast",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "YouTube 视频 → 中文播客 → 小宇宙草稿：OpenClaw skill，NotebookLM Audio Overview 全自动流水线",
+    "path": "openclaw/seuwangcy-yt2podcast/",
+    "type": "repo",
+    "repoUrl": "https://github.com/seuwangcy/yt2podcast",
+    "source": "github-discovery"
   }
 ]
