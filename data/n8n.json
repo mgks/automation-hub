@@ -74770,5 +74770,148 @@
     "type": "repo",
     "repoUrl": "https://github.com/konstantinosmpouros/mAgenticX",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1452211620",
+    "title": "n8n-qa-assessment-prashant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Submission for the Automation & QA Developer assessment, featuring a QA bug report and n8n API automation workflows.",
+    "path": "n8n/prashantv04-n8n-qa-assessment-prashant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/prashantv04/n8n-qa-assessment-prashant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1451440497",
+    "title": "ai-voice-routing",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "customer-support",
+      "n8n",
+      "openai",
+      "voice-ai",
+      "workflow"
+    ],
+    "description": "AI-assisted n8n customer request routing with business hours, OpenAI classification and workflow tests",
+    "path": "n8n/mc-smail-ai-voice-routing/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mc-smail/ai-voice-routing",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1452255820",
+    "title": "n8n-nodes-plunk",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node for Plunk, the open-source email platform: send transactional emails, manage contacts and campaigns, and trigger workflows on Plunk events.",
+    "path": "n8n/krautnerds-n8n-nodes-plunk/",
+    "type": "repo",
+    "repoUrl": "https://github.com/krautnerds/n8n-nodes-plunk",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1452222463",
+    "title": "N8N--Note-Summarizer-",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This workflow takes long and tedious notes and summarizes them into readable and concise emails ",
+    "path": "n8n/olusegunolagunju07-tech-n8n--note-summarizer-/",
+    "type": "repo",
+    "repoUrl": "https://github.com/olusegunolagunju07-tech/N8N--Note-Summarizer-",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1398693211",
+    "title": "n8n-ticket-triage",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that triages support messages with a local LLM (Ollama) and logs a ticket.",
+    "path": "n8n/uzzitop-n8n-ticket-triage/",
+    "type": "repo",
+    "repoUrl": "https://github.com/uzzitop/n8n-ticket-triage",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1446424538",
+    "title": "awesome-workflow-templates",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "ai-workflows",
+      "automation",
+      "automation-templates",
+      "awesome",
+      "awesome-list",
+      "integrations",
+      "low-code",
+      "n8n",
+      "n8n-automation",
+      "n8n-template",
+      "n8n-workflow",
+      "n8n-workflows",
+      "no-code-automation",
+      "oomol",
+      "open-flow",
+      "workflow-automation",
+      "workflow-templates"
+    ],
+    "description": "Handpicked workflow templates and AI automations for n8n and Open Flow.",
+    "path": "n8n/oomol-lab-awesome-workflow-templates/",
+    "type": "repo",
+    "repoUrl": "https://github.com/oomol-lab/awesome-workflow-templates",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1444291060",
+    "title": "content-marketing-automation-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Content marketing workflows that automate repetitive tasks. All built on n8n and Google Apps Script, ready to import, adapt and scale.",
+    "path": "n8n/archanacontent-content-marketing-automation-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/archanacontent/content-marketing-automation-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1450947202",
+    "title": "woocommerce-abandoned-cart-n8n",
+    "tool": "n8n",
+    "tags": [
+      "abandoned-cart",
+      "automation",
+      "n8n",
+      "whatsapp-cloud-api",
+      "woocommerce",
+      "workflow-automation"
+    ],
+    "description": "Importable n8n workflows for WooCommerce: abandoned checkout recovery, COD confirmation over WhatsApp, review requests and daily Telegram revenue reports, with a validator.",
+    "path": "n8n/saizul-woocommerce-abandoned-cart-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/saizul/woocommerce-abandoned-cart-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1452200723",
+    "title": "n8n-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My n8n automation workflow",
+    "path": "n8n/m-hasieb-n8n-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/M-Hasieb/n8n-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1452196606",
+    "title": "smartbiz-n8n-hosting",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Online n8n deployment for SmartBiz AI automation workflows.",
+    "path": "n8n/jannatunnaher053-hub-smartbiz-n8n-hosting/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jannatunnaher053-hub/smartbiz-n8n-hosting",
+    "source": "github-discovery"
   }
 ]

@@ -27855,5 +27855,89 @@
     "type": "repo",
     "repoUrl": "https://github.com/cnyet/conversation-accuracy-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1322666519",
+    "title": "verificate-clawhub-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Verificate skill for ClawHub — the trust layer for OpenClaw. Verify AI-written code, plans and documents before you trust them. Free to try, no signup.",
+    "path": "openclaw/verificateai-verificate-clawhub-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/VerificateAI/verificate-clawhub-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1439924913",
+    "title": "saas-growth-agents",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "ai-agents",
+      "aisa",
+      "claude-code",
+      "codex",
+      "comments-scraper",
+      "douyin",
+      "grok",
+      "growth",
+      "saas",
+      "seo",
+      "social-media",
+      "xiaohongshu"
+    ],
+    "description": "Hand your SaaS growth chores to an agent: new-term radar, keyword-to-site discovery, competitor backlinks, directory submissions, plus a social analysis pack with a Douyin comments skill. Works with Grok Bot, Muse, Dot, Hermes, OpenClaw, Claude Code and Codex.",
+    "path": "openclaw/pluviobyte-saas-growth-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Pluviobyte/saas-growth-agents",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1452208060",
+    "title": "openany-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenAny skill for OpenClaw (ClawHub). Source: https://github.com/openanysi/openany-mcp",
+    "path": "openclaw/comunionio-openany-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ComunionIO/openany-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1369701265",
+    "title": "KingdeeExpenseFlow",
+    "tool": "openclaw",
+    "tags": [
+      "accounting",
+      "claude-skills",
+      "expense",
+      "finance",
+      "kingdee",
+      "local-first",
+      "openclaw",
+      "python",
+      "reimbursement",
+      "skill",
+      "workbuddy",
+      "workflow"
+    ],
+    "description": "金蝶云星空费用/差旅报销全流程提交 Skill｜员工发票→申请→下推报销→提交审批（expense/reimbursement flow）",
+    "path": "openclaw/littlebeaverstudio-kingdeeexpenseflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/LittleBeaverStudio/KingdeeExpenseFlow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1169803418",
+    "title": "My-Skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "OpenClaw Skills Collection - QQ Bot Voice Recognition and more",
+    "path": "openclaw/cindypapa-zy-my-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cindypapa-zy/My-Skills",
+    "source": "github-discovery"
   }
 ]
