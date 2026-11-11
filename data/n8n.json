@@ -74913,5 +74913,124 @@
     "type": "repo",
     "repoUrl": "https://github.com/jannatunnaher053-hub/smartbiz-n8n-hosting",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1296922532",
+    "title": "N8N-AGENTS",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Complete agents workflows created my past 1 year.",
+    "path": "n8n/numan-developer-2-n8n-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/numan-developer-2/N8N-AGENTS",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1338552843",
+    "title": "job-scrapper",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Python scraper for OnlineJobs.ph: freshest public listings per category with real posted timestamps, rate and how-to-apply, summarized by Gemini and posted as one Discord embed per job. Runs on GitHub Actions every 4 hours; migrating to an n8n workflow.",
+    "path": "n8n/potaterrr-job-scrapper/",
+    "type": "repo",
+    "repoUrl": "https://github.com/potaterrr/job-scrapper",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1431148886",
+    "title": "n8n-nodes-nevermanual",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n nodes for the Never Manual API: Studio workflows, Media, Slate posts",
+    "path": "n8n/nevermanual-n8n-nodes-nevermanual/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nevermanual/n8n-nodes-nevermanual",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1453429068",
+    "title": "N8N_Invoice-Workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automated Invoice Processing Workflow (N8N + AI + Google Workspace) An automated n8n workflow designed to extract data from PDF invoices using LLM capabilities and save structured record entries directly into Google Sheets.",
+    "path": "n8n/ahmed-cyber404-n8n_invoice-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Ahmed-cyber404/N8N_Invoice-Workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1453298812",
+    "title": "AUTOMATION-WORKFLOW-PORTFOLIO",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A portfolio of intelligent automation solutions, AI-powered workflows, and business process integrations designed to streamline operations and improve efficiency using n8n and emerging AI technologies.",
+    "path": "n8n/temmytee-bae-automation-workflow-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Temmytee-bae/AUTOMATION-WORKFLOW-PORTFOLIO",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1452866012",
+    "title": "n8n-nodes-cigalpay",
+    "tool": "n8n",
+    "tags": [
+      "bitcoin",
+      "cigalpay",
+      "crypto-payments",
+      "n8n",
+      "n8n-community-node",
+      "n8n-community-node-package",
+      "n8n-nodes",
+      "usdt-checkout"
+    ],
+    "description": "n8n community nodes for CigalPay: create crypto checkouts priced in USD or EUR, read payments, issue refunds, and start workflows from signed payment notifications. Accept BTC, ETH, USDT, LTC, SOL, TRX, DOGE and more, no code.",
+    "path": "n8n/cigalpay-n8n-nodes-cigalpay/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cigalpay/n8n-nodes-cigalpay",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1453384228",
+    "title": "n8n-nodes-bitavu",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Generate PDFs from saved Bitavu visual templates and workflow data",
+    "path": "n8n/bitavu-n8n-nodes-bitavu/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bitavu/n8n-nodes-bitavu",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1453397255",
+    "title": "pre-entrega-4-n8n-Atienza-daiana",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow de automatización inteligente con Agente de IA, CRM y Guardrails para agencia de seguros (Coderhouse).",
+    "path": "n8n/daianaatienza-dev-pre-entrega-4-n8n-atienza-daiana/",
+    "type": "repo",
+    "repoUrl": "https://github.com/daianaatienza-dev/pre-entrega-4-n8n-Atienza-daiana",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1028259815",
+    "title": "n8n-nodes-pdfvector",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This is an n8n community node. It lets you use PDF Vector in your n8n workflows.",
+    "path": "n8n/phuctm97-n8n-nodes-pdfvector/",
+    "type": "repo",
+    "repoUrl": "https://github.com/phuctm97/n8n-nodes-pdfvector",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1453395769",
+    "title": "n8n-job-application-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A showcase of my n8n workflow automation.",
+    "path": "n8n/jpamada-n8n-job-application-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jpamada/n8n-job-application-workflow",
+    "source": "github-discovery"
   }
 ]

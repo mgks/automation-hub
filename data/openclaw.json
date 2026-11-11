@@ -27939,5 +27939,68 @@
     "type": "repo",
     "repoUrl": "https://github.com/cindypapa-zy/My-Skills",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1158262032",
+    "title": "clawHub-skills",
+    "tool": "openclaw",
+    "tags": [
+      "ai-skills",
+      "openclaw"
+    ],
+    "description": "Repo of duplicate skill folders that are uploaded to `ClawHub` skills but still available to view on GitHub.",
+    "path": "openclaw/jhauga-clawhub-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jhauga/clawHub-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1453461229",
+    "title": "xuegao",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Evidence-based creator voice calibration: samples, trial drafts, feedback and versioned preferences. Portable Agent Skill for OpenClaw, Codex and Claude Code.",
+    "path": "openclaw/green1515-xuegao/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Green1515/xuegao",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1450945294",
+    "title": "cybercore-agent-skills",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Shared agent guardrails, rules, and skills for all Cybercore AI coding agents — OpenCode, Claude, Codex, Copilot, Crush, Gemini, Hermes, Kimi-Code, OpenClaw, Ollama, Pi, Ori, and Qwen.",
+    "path": "openclaw/cybercoretech-cybercore-agent-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/cybercoretech/cybercore-agent-skills",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1451899338",
+    "title": "skillscan",
+    "tool": "openclaw",
+    "tags": [
+      "agent-security",
+      "agent-skills",
+      "ai-agents",
+      "ai-security",
+      "cli",
+      "linter",
+      "mcp",
+      "model-context-protocol",
+      "openclaw",
+      "prompt-injection",
+      "python",
+      "security",
+      "skill-scanner",
+      "static-analysis",
+      "supply-chain-security"
+    ],
+    "description": "Scan an AI-agent skill or MCP server before you install it — deterministic rules, plain-English BLOCK / CAUTION / PASS verdict.",
+    "path": "openclaw/raktikoo-skillscan/",
+    "type": "repo",
+    "repoUrl": "https://github.com/RakTikoo/skillscan",
+    "source": "github-discovery"
   }
 ]
