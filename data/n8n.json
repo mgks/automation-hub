@@ -75032,5 +75032,123 @@
     "type": "repo",
     "repoUrl": "https://github.com/jpamada/n8n-job-application-workflow",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1454878451",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n automation workflows by Akash Dangwal: scrubbed exports, screenshots and write-ups",
+    "path": "n8n/akash-dangwal-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Akash-dangwal/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1422329500",
+    "title": "n8n-nodes-agentsearch",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n community node: free live web search for workflows and AI agents",
+    "path": "n8n/agentsearchhq-coder-n8n-nodes-agentsearch/",
+    "type": "repo",
+    "repoUrl": "https://github.com/agentsearchhq-coder/n8n-nodes-agentsearch",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1255120312",
+    "title": "Portofolio-Website",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Website portofolio interaktif milik Noval Abdillah — Full-Stack Developer & AI/n8n Workflow Automation Specialist dari Bekasi Utara, Jawa Barat.  Dibangun dengan Next.js 16 (App Router), Tailwind CSS, Supabase, animasi GSAP + Lenis, dan Three.js untuk elemen 3D interaktif. Dilengkapi CMS admin pribadi untuk mengelola proyek secara dinamis.",
+    "path": "n8n/noval-abdillah-portofolio-website/",
+    "type": "repo",
+    "repoUrl": "https://github.com/noval-abdillah/Portofolio-Website",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1453130461",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Tested n8n workflows from basitq.cloud",
+    "path": "n8n/qureshi-basit-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/qureshi-basit/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1454838519",
+    "title": "blind-vc-pitch-book-screener-1",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that removes identity bias from venture capital pitch book screening",
+    "path": "n8n/raghavsood89393-coder-blind-vc-pitch-book-screener-1/",
+    "type": "repo",
+    "repoUrl": "https://github.com/raghavsood89393-coder/blind-vc-pitch-book-screener-1",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1451555875",
+    "title": "nodify-ai-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Visual workflow automation platform (similar to n8n, Zapier, or Make) that enables users to build powerful automations through an intuitive canvas interface. Connect nodes to create workflows that can trigger webhooks, make HTTP requests, process data, interact with AI models, manipulate databases, and much more all without writing complex code.",
+    "path": "n8n/uglybeast906-nodify-ai-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/UglyBeast906/nodify-ai-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1454784450",
+    "title": "N8N-Workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production n8n workflows for MSP operations: automated client security reporting, PSA/RMM integrations, Microsoft 365 auditing, and reusable utilities. Sanitized exports with setup notes for each workflow.",
+    "path": "n8n/rehzonate-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/rehzonate/N8N-Workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1454823501",
+    "title": "claude-skills-pack",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Five Claude Code skills for n8n workflows, pipeline diagnostics, secrets hygiene and root-cause analysis.",
+    "path": "n8n/ashtonfeliciano-claude-skills-pack/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ashtonfeliciano/claude-skills-pack",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1454823128",
+    "title": "placidway-n8n-demo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow: daily PlacidWay content to Facebook post with guardrails, approval and alerts (assessment demo)",
+    "path": "n8n/asqyyy-placidway-n8n-demo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Asqyyy/placidway-n8n-demo",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1452869174",
+    "title": "reply-qc-workflows",
+    "tool": "n8n",
+    "tags": [
+      "deepseek",
+      "dify",
+      "dify-plugin",
+      "feishu",
+      "llm",
+      "n8n",
+      "workflow-automation"
+    ],
+    "description": "外贸 WhatsApp 回复的大模型质检：Python 代码版与 Dify 工作流 + n8n 版对照实现，附实测对比和 Dify 工具插件",
+    "path": "n8n/winkless213-reply-qc-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Winkless213/reply-qc-workflows",
+    "source": "github-discovery"
   }
 ]
