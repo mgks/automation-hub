@@ -75150,5 +75150,161 @@
     "type": "repo",
     "repoUrl": "https://github.com/Winkless213/reply-qc-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1451784941",
+    "title": "procurement-risk-and-mitigation-ai-agent",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered procurement risk agent combining external data pipelines, PostgreSQL, RAG, LangGraph, and n8n to assess supply risks, calculate financial exposure, and generate evidence-based reports. Demonstrates AI orchestration, data engineering, and workflow automation.",
+    "path": "n8n/sabrinaurriola-procurement-risk-and-mitigation-ai-agent/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sabrinaurriola/procurement-risk-and-mitigation-ai-agent",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1433512019",
+    "title": "iot-n8n-wind-turbine-predictive-maintenance",
+    "tool": "n8n",
+    "tags": [
+      "arima",
+      "condition-monitoring",
+      "fastapi",
+      "iot",
+      "jupyter-notebook",
+      "lstm",
+      "n8n",
+      "predictive-maintenance",
+      "pytorch",
+      "renewable-energy",
+      "scada",
+      "wind-forecasting",
+      "wind-turbine",
+      "workflow-automation"
+    ],
+    "description": "Wind turbine predictive maintenance with IoT data, ARIMA/LSTM/CNN-LSTM wind forecasting, a FastAPI service and an n8n workflow. Live demo, synthetic data.",
+    "path": "n8n/rishabh-bgp-iot-n8n-wind-turbine-predictive-maintenance/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Rishabh-bgp/iot-n8n-wind-turbine-predictive-maintenance",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1454933286",
+    "title": "leadflow",
+    "tool": "n8n",
+    "tags": [
+      "csv",
+      "email-outreach",
+      "google-sheets",
+      "lead-generation",
+      "marketing-automation",
+      "n8n",
+      "n8n-templates",
+      "n8n-workflow",
+      "no-code",
+      "sales-automation",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "LeadFlow - compliant lead generation in n8n: live browser demo + 3 free workflows (no scraping, no paid APIs)",
+    "path": "n8n/fejzadenis-leadflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fejzadenis/leadflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1456079796",
+    "title": "accounting-bank-reconciliation-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "\"n8n automation workflow to compare accounting and banking data sheets and automate email responses.\"",
+    "path": "n8n/abcdef50-accounting-bank-reconciliation-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/abcdef50/accounting-bank-reconciliation-workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1454495608",
+    "title": "healthcare-content-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Case study: AI-assisted content workflows for the healthcare sector using n8n, Python and Docker.",
+    "path": "n8n/isaiassolis-healthcare-content-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/isaiassolis/healthcare-content-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1391405409",
+    "title": "inquiry-desk-n8n-ai-automation",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "n8n",
+      "ollama",
+      "portfolio",
+      "python"
+    ],
+    "description": "AI inquiry processing portfolio: n8n workflows, local Qwen extraction, Python validation, deduplication, reply drafts and CSV export.",
+    "path": "n8n/helloyansquared-inquiry-desk-n8n-ai-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/helloyansquared/inquiry-desk-n8n-ai-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1456063688",
+    "title": "n8-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "コーヒー焙煎所の業務をNotion・Shopifyと連携して自動化するn8nワークフロー集（在庫管理・注文処理・送り状作成など）",
+    "path": "n8n/tatsuki051328-design-n8-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/tatsuki051328-design/n8-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1289968255",
+    "title": "workflow-lab",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Reusable GitHub Actions, composite workflows, and n8n automations for the Arise GenOps ecosystem",
+    "path": "n8n/dhe-cruzer69-workflow-lab/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dhe-cruzer69/workflow-lab",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1455016727",
+    "title": "n8n-lead-toolkit",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "csv",
+      "deduplication",
+      "email-finder",
+      "free",
+      "google-sheets",
+      "lead-generation",
+      "n8n",
+      "n8n-workflows",
+      "no-code",
+      "sales-automation"
+    ],
+    "description": "Free n8n workflows to clean a lead CSV, dedupe by email identity and generate candidate addresses - plus a single-file browser CSV cleaner. No scraping, no paid APIs.",
+    "path": "n8n/fejzadenis-n8n-lead-toolkit/",
+    "type": "repo",
+    "repoUrl": "https://github.com/fejzadenis/n8n-lead-toolkit",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1453016933",
+    "title": "ai-enquiry-approval-workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that classifies customer enquiries with AI and sends replies only after human approval.",
+    "path": "n8n/mayombwe93-ai-enquiry-approval-workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Mayombwe93/ai-enquiry-approval-workflow",
+    "source": "github-discovery"
   }
 ]
