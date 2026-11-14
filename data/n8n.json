@@ -75306,5 +75306,183 @@
     "type": "repo",
     "repoUrl": "https://github.com/Mayombwe93/ai-enquiry-approval-workflow",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1270822619",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-reliability",
+      "automation",
+      "llm",
+      "llm-evals",
+      "n8n",
+      "no-code",
+      "openai",
+      "rag",
+      "workflow-automation"
+    ],
+    "description": "59 production-style n8n automation workflows — AI agents, RAG chatbots, e-commerce & HR pipelines. Each in its own folder with a README, architecture diagram, and import-ready JSON. CI-validated.",
+    "path": "n8n/redsf-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Redsf/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1457350597",
+    "title": "n8n-nodes-arionpay",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "crypto-payments",
+      "n8n",
+      "n8n-community-node-package",
+      "webhooks"
+    ],
+    "description": "n8n community node for ArionPay: create and read crypto invoices, trigger workflows on signed webhooks.",
+    "path": "n8n/arionpay-dev-n8n-nodes-arionpay/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ArionPay-Dev/n8n-nodes-arionpay",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1457364080",
+    "title": "rag-chatbot-starter",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "chatbot",
+      "fastapi",
+      "llm",
+      "n8n",
+      "openai",
+      "python",
+      "rag"
+    ],
+    "description": "RAG chatbot over your documents: FastAPI, BM25 retrieval, pluggable LLM (OpenAI/Ollama/offline mock), web UI, Docker, n8n workflows",
+    "path": "n8n/trancongtien406-rag-chatbot-starter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/trancongtien406/rag-chatbot-starter",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1191000286",
+    "title": "braavolabs",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "byok",
+      "multi-agent",
+      "nextjs",
+      "postgres",
+      "prisma",
+      "self-hosted",
+      "typescript"
+    ],
+    "description": "Braavolabs — build, run & steer AI agent workflows, or connect your n8n/Make/Zapier automations, from one workspace. BYOK, spend-approval gated, fully audited. Next.js + Postgres + Prisma.",
+    "path": "n8n/kocakkmustafa-braavolabs/",
+    "type": "repo",
+    "repoUrl": "https://github.com/kocakkmustafa/braavolabs",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1307313344",
+    "title": "n8n_Agentic_Workflow",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This repository contains n8n workflow project files",
+    "path": "n8n/shammi2002-n8n_agentic_workflow/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Shammi2002/n8n_Agentic_Workflow",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1456823831",
+    "title": "free-n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "n8n",
+      "nocode",
+      "small-business",
+      "workflow"
+    ],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/newbeechong-glitch-free-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/newbeechong-glitch/free-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1127238949",
+    "title": "n8n-workflows-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n repos",
+    "path": "n8n/kadyan25-n8n-workflows-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Kadyan25/n8n-workflows-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1456339435",
+    "title": "n8n-nodes-socifyr",
+    "tool": "n8n",
+    "tags": [
+      "n8n",
+      "n8n-community-node-package",
+      "social-media",
+      "socifyr"
+    ],
+    "description": "n8n community node for Socifyr: publish and schedule social posts from n8n workflows",
+    "path": "n8n/socifyr-n8n-nodes-socifyr/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Socifyr/n8n-nodes-socifyr",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1457281607",
+    "title": "apify-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Import-ready n8n workflows: official Apify node to Google Sheets (TikTok trending, SEC 13D/13G, SEC Form 4 clusters)",
+    "path": "n8n/megastretch23-apify-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/MegaStretch23/apify-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1413451594",
+    "title": "nightshift",
+    "tool": "n8n",
+    "tags": [
+      "agent-orchestration",
+      "agent-workflows",
+      "agentic-workflow",
+      "ai-agents",
+      "automation",
+      "autonomous-agents",
+      "bun",
+      "claude-code",
+      "codex",
+      "flow-editor",
+      "human-on-the-loop",
+      "langgraph",
+      "local-first",
+      "mcp",
+      "opencode",
+      "react-flow",
+      "self-hosted",
+      "typescript",
+      "workflow-automation",
+      "workflow-engine"
+    ],
+    "description": "Stop babysitting your agents. A workflow builder like n8n, where a step can be an agent and a choice a decision model. Night Shift runs it on your own machines, for any kind of work, and asks you only what needs you.",
+    "path": "n8n/xiduzo-nightshift/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xiduzo/nightshift",
+    "source": "github-discovery"
   }
 ]
