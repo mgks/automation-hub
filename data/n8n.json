@@ -75484,5 +75484,126 @@
     "type": "repo",
     "repoUrl": "https://github.com/xiduzo/nightshift",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459546228",
+    "title": "n8n-zendesk-intercom-hubspot-unified-ticket-health-sync",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow syncing Zendesk tickets and Intercom conversations into a unified HubSpot ticket model and computing account health scores (open backlog, resolution time, CSAT, and sentiment) per company.",
+    "path": "n8n/dhrobinsystems-n8n-zendesk-intercom-hubspot-unified-ticket-health-sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dhrobinsystems/n8n-zendesk-intercom-hubspot-unified-ticket-health-sync",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459529045",
+    "title": "n8n-zoom-webinar-hubspot-engagement-sync",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Replay-safe n8n workflow that syncs Zoom webinar registrations, session attendance, and Q&A participation into HubSpot contact properties and custom timeline events with engagement scoring.",
+    "path": "n8n/dhrobinsystems-n8n-zoom-webinar-hubspot-engagement-sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dhrobinsystems/n8n-zoom-webinar-hubspot-engagement-sync",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459521772",
+    "title": "n8n-hubspot-partnerstack-deal-attribution-sync",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Production-ready n8n workflow syncing PartnerStack referral, affiliate, and reseller events to HubSpot deals, companies, and contacts with partner attribution, deal linking, and commission tracking.",
+    "path": "n8n/dhrobinsystems-n8n-hubspot-partnerstack-deal-attribution-sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dhrobinsystems/n8n-hubspot-partnerstack-deal-attribution-sync",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1245538528",
+    "title": "agentic-ai-portfolio-n8n",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Agentic AI workflow automation projects built with n8n.",
+    "path": "n8n/travoltah-agentic-ai-portfolio-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Travoltah/agentic-ai-portfolio-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459522040",
+    "title": "mp-n8n-toolbox",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Gives an ADI agent a door onto your n8n workflows over n8n's official instance-level MCP server.",
+    "path": "n8n/adi-family-mp-n8n-toolbox/",
+    "type": "repo",
+    "repoUrl": "https://github.com/adi-family/mp-n8n-toolbox",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459520535",
+    "title": "sms-spam-detector",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Intelligent agent that detects SMS spam with TF-IDF + Logistic Regression, a Flask API and an n8n workflow (Universidad de Ibagué)",
+    "path": "n8n/pavilion1322-sms-spam-detector/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Pavilion1322/sms-spam-detector",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459515168",
+    "title": "ruche-os",
+    "tool": "n8n",
+    "tags": [
+      "case-study",
+      "data-engineering",
+      "marketing-automation",
+      "meta-ads-api",
+      "n8n",
+      "postgresql",
+      "react",
+      "rls",
+      "supabase",
+      "typescript"
+    ],
+    "description": "Engineering case studies from Ruche OS: the internal operating system of a U.S. home-improvement lead-generation agency. Postgres as source of truth, ~40 n8n workflows, an AI call-quality layer, a multi-currency finance pipeline, and a React console used by 10 job roles.",
+    "path": "n8n/zuqueee-ruche-os/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Zuqueee/ruche-os",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459446557",
+    "title": "jolly-desktop-assistant",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Local autonomous desktop pet assistant built with Python (Tkinter), offline Spanish TTS, n8n workflow orchestration, PostgreSQL memory/notes, and Ollama local LLM inference.",
+    "path": "n8n/icaro98007-jolly-desktop-assistant/",
+    "type": "repo",
+    "repoUrl": "https://github.com/icaro98007/jolly-desktop-assistant",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459479127",
+    "title": "n8n-connecteam-field-checklist-hubspot-deal-updater",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that syncs Connecteam field checklists to matching HubSpot deals, attaches HTML Q&A and media notes, advances verified jobs to \"Ready for Invoicing\", and routes safety issues or unmatched submissions to Slack.",
+    "path": "n8n/dhrobinsystems-n8n-connecteam-field-checklist-hubspot-deal-updater/",
+    "type": "repo",
+    "repoUrl": "https://github.com/dhrobinsystems/n8n-connecteam-field-checklist-hubspot-deal-updater",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459468289",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My n8n automation workflows — real client-style projects that save businesses time: order forms, Google Sheets, email follow-ups, and AI.",
+    "path": "n8n/jim-khatun-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jim-khatun/n8n-workflows",
+    "source": "github-discovery"
   }
 ]

@@ -28534,5 +28534,93 @@
     "type": "repo",
     "repoUrl": "https://github.com/beatra-ai/viral-video-remake-skill",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459502872",
+    "title": "marketing-deep-research",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-skill",
+      "claude-code",
+      "codex-skill",
+      "openclaw"
+    ],
+    "description": "严格复刻 Aippt 营销 Agent 可观察 Deep Research 行为的证据约束型 Skill",
+    "path": "openclaw/zk-skills-marketing-deep-research/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zk-skills/marketing-deep-research",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459502391",
+    "title": "image-gen",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-skill",
+      "claude-code",
+      "codex-skill",
+      "openclaw"
+    ],
+    "description": "通用 AI 图像生成 Skill，支持 OpenAI / NewAPI 兼容协议",
+    "path": "openclaw/zk-skills-image-gen/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zk-skills/image-gen",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1458710817",
+    "title": "pdf-web-replica",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Portable PDF extraction, OCR and selectable web reconstruction skill for Hermes, Codex, OpenCode and OpenClaw",
+    "path": "openclaw/harisucici-pdf-web-replica/",
+    "type": "repo",
+    "repoUrl": "https://github.com/harisucici/pdf-web-replica",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1456410158",
+    "title": "netpaw",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Network-engineering skills for any AI agent. Subnet maths, firewall-rule analysis, RFC lookup and lab-topology checks, written once as open-standard Agent Skills plus MCP tools, and installed into Claude Code, Codex, Hermes Agent, OpenClaw and thClaws from a single source",
+    "path": "openclaw/supachai-j-netpaw/",
+    "type": "repo",
+    "repoUrl": "https://github.com/supachai-j/netpaw",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1426185635",
+    "title": "awesome-seo-geo-skills",
+    "tool": "openclaw",
+    "tags": [
+      "aeo",
+      "agent-skills",
+      "ai-search",
+      "ai-seo",
+      "ai-visibility",
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "doubao",
+      "generative-engine-optimization",
+      "geo",
+      "keyword-research",
+      "llms-txt",
+      "mcp",
+      "openclaw",
+      "seo",
+      "technical-seo"
+    ],
+    "description": "SEO 和 GEO Skill（技能包）精选：关键词、内容、技术审计、排名数据，以及让 ChatGPT、Perplexity、Google AI 概览、豆包、元宝、Kimi 引用你的 GEO，Claude Code、Codex、龙虾 OpenClaw 等智能体可用 | Curated agent skills for SEO and GEO (generative engine optimization): keyword research, technical audits and AI search visibility",
+    "path": "openclaw/underleveledbuilder-awesome-seo-geo-skills/",
+    "type": "repo",
+    "repoUrl": "https://github.com/UnderleveledBuilder/awesome-seo-geo-skills",
+    "source": "github-discovery"
   }
 ]
