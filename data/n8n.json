@@ -75605,5 +75605,139 @@
     "type": "repo",
     "repoUrl": "https://github.com/jim-khatun/n8n-workflows",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1381412166",
+    "title": "Marketplace-Watcher",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that monitors Carousell Malaysia for new listings and sends instant alerts to Discord. Uses Apify to bypass Cloudflare, with keyword filtering and duplicate detection.",
+    "path": "n8n/anasssaleh-marketplace-watcher/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AnassSaleh/Marketplace-Watcher",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1461002935",
+    "title": "n8n-product-image-pipeline",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "ecommerce",
+      "image-processing",
+      "n8n",
+      "workflow"
+    ],
+    "description": "n8n workflow that finds product images, removes the background and saves them to Drive",
+    "path": "n8n/amjad-r-n8n-product-image-pipeline/",
+    "type": "repo",
+    "repoUrl": "https://github.com/amjad-R/n8n-product-image-pipeline",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1456384592",
+    "title": "portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Automation portfolio: n8n and AI workflow projects",
+    "path": "n8n/emeraldknytt-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/emeraldknytt/portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1458912089",
+    "title": "project_group_recsys",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Project Group RecSys using N8N Workflow",
+    "path": "n8n/harshad-inarkar-project_group_recsys/",
+    "type": "repo",
+    "repoUrl": "https://github.com/harshad-inarkar/project_group_recsys",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1457529064",
+    "title": "n8n-discord-bot-quiz",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An n8n workflow that automatically posts daily quizzes to a Discord forum, grades user responses privately via ephemeral messages, and publishes the correct answers afterward.",
+    "path": "n8n/chocoasaurus-n8n-discord-bot-quiz/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chocoasaurus/n8n-discord-bot-quiz",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1373964509",
+    "title": "ai-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI automation and workflow engineering portfolio featuring n8n, Zapier, AI agents, APIs, webhooks, and business process automation.",
+    "path": "n8n/sanau0716-ai-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/sanau0716/ai-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1460911018",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "chatbot",
+      "n8n",
+      "openai",
+      "workflow-automation"
+    ],
+    "description": "Production-style n8n workflows: AI lead qualifier, AI support agent (Telegram), competitor price monitor. Importable JSON + unit-tested Code nodes.",
+    "path": "n8n/whdud-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/whdud/n8n-automation-portfolio",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1424773299",
+    "title": "n8n-python-ai-automation-vault",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "b2b",
+      "llm",
+      "n8n",
+      "n8n-workflows",
+      "python",
+      "rag",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "Awesome n8n Workflows & Python AI Automation Blueprints — Self-Hosted B2B Engines, RAG Pipelines & Agency Kits",
+    "path": "n8n/manny-ruesch-n8n-python-ai-automation-vault/",
+    "type": "repo",
+    "repoUrl": "https://github.com/manny-ruesch/n8n-python-ai-automation-vault",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1460861983",
+    "title": "AI-Customer-Support-Automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "An AI-powered platform combining RAG chatbots, lead qualification, appointment booking, CRM integration, and automated business workflows using FastAPI, LangGraph, and n8n.",
+    "path": "n8n/lalit7886-ai-customer-support-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lalit7886/AI-Customer-Support-Automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1131164341",
+    "title": "n8n-automation-portfolio",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A collection of real-world automation workflows built with n8n",
+    "path": "n8n/ahk1542001-wq-n8n-automation-portfolio/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ahk1542001-wq/n8n-automation-portfolio",
+    "source": "github-discovery"
   }
 ]
