@@ -75739,5 +75739,156 @@
     "type": "repo",
     "repoUrl": "https://github.com/ahk1542001-wq/n8n-automation-portfolio",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1461012308",
+    "title": "ai-wordpress-blog-automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI-powered WordPress blog content generation and publishing workflow using n8n",
+    "path": "n8n/syedaliabbashamdani-ai-wordpress-blog-automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/syedaliabbashamdani/ai-wordpress-blog-automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1461112409",
+    "title": "altek-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/lokkki777-altek-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Lokkki777/altek-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1462333319",
+    "title": "zapier-to-n8n-migration",
+    "tool": "n8n",
+    "tags": [
+      "automation",
+      "migration",
+      "n8n",
+      "workflow",
+      "zapier"
+    ],
+    "description": "Worked example of moving automations from Zapier to n8n: a migration planning tool and one Zap rebuilt as a tested n8n workflow.",
+    "path": "n8n/umesh-ai369-zapier-to-n8n-migration/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Umesh-ai369/zapier-to-n8n-migration",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459586871",
+    "title": "Business_proposal_automation",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Apex Software House – Responsive business website with enquiry form and n8n workflow automation integration.",
+    "path": "n8n/vaidsakina-business_proposal_automation/",
+    "type": "repo",
+    "repoUrl": "https://github.com/vaidsakina/Business_proposal_automation",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1458025271",
+    "title": "portfolio-website",
+    "tool": "n8n",
+    "tags": [
+      "ai-automation",
+      "claude",
+      "gohighlevel",
+      "n8n",
+      "portfolio",
+      "workflow-automation"
+    ],
+    "description": "Simeon Onabowale: AI automation portfolio (n8n, Claude, GoHighLevel) with eight demo workflows you can watch run",
+    "path": "n8n/ximeonleo-portfolio-website/",
+    "type": "repo",
+    "repoUrl": "https://github.com/XimeonLeo/portfolio-website",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1421835289",
+    "title": "google-sheets_Gmail",
+    "tool": "n8n",
+    "tags": [
+      "etl",
+      "gmail",
+      "google-sheets",
+      "javascript",
+      "n8n",
+      "reporting",
+      "workflow-automation"
+    ],
+    "description": "n8n workflow that reads student records from Google Sheets, formats them into a readable report with JavaScript, and emails it through Gmail.",
+    "path": "n8n/prasanth-sundararajan-google-sheets_gmail/",
+    "type": "repo",
+    "repoUrl": "https://github.com/prasanth-sundararajan/google-sheets_Gmail",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1430012373",
+    "title": "LinkedIn-Post-Approval-Workflow-Using-n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "ai-automation",
+      "content-automation",
+      "gmail",
+      "google-sheets",
+      "human-in-the-loop",
+      "linkedin",
+      "n8n",
+      "openai",
+      "workflow-automation"
+    ],
+    "description": "n8n human-in-the-loop content workflow: a writer agent drafts a LinkedIn post, a reviewer agent improves it, Gmail asks for approval, and approved posts are saved to Google Sheets.",
+    "path": "n8n/prasanth-sundararajan-linkedin-post-approval-workflow-using-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/prasanth-sundararajan/LinkedIn-Post-Approval-Workflow-Using-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459462743",
+    "title": "metaorbit-automation-showcase",
+    "tool": "n8n",
+    "tags": [],
+    "description": "MetaOrbit visual case studies for n8n workflow concepts.",
+    "path": "n8n/contactteamiqra-ai-metaorbit-automation-showcase/",
+    "type": "repo",
+    "repoUrl": "https://github.com/contactteamiqra-ai/metaorbit-automation-showcase",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1462276005",
+    "title": "n8n-portfolio-workflows",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "automation",
+      "langchain",
+      "mcp",
+      "n8n",
+      "openai",
+      "portfolio",
+      "workflow-automation"
+    ],
+    "description": "Portafolio de workflows n8n en producción: carga masiva config-driven, agente ChatOps con MCP y asistente personal de IA",
+    "path": "n8n/albertoduque1006-n8n-portfolio-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AlbertoDuque1006/n8n-portfolio-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1462246373",
+    "title": "n8n-hardening-demo",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Synthetic portfolio demo: hardening n8n workflows (retries, idempotency, error workflow) with a static linter and tests.",
+    "path": "n8n/zhan999-sb-n8n-hardening-demo/",
+    "type": "repo",
+    "repoUrl": "https://github.com/zhan999-sb/n8n-hardening-demo",
+    "source": "github-discovery"
   }
 ]

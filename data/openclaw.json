@@ -28738,5 +28738,101 @@
     "type": "repo",
     "repoUrl": "https://github.com/cavi-ai/plugins",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1462360821",
+    "title": "custom-nexus-agent-skill",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Manual skill for OpenClaw, Hermes, Grok, Claude and other agents, acting via a AssetsNexus.org agent identity",
+    "path": "openclaw/assetsnexus-custom-nexus-agent-skill/",
+    "type": "repo",
+    "repoUrl": "https://github.com/assetsnexus/custom-nexus-agent-skill",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1188895504",
+    "title": "mindfeed",
+    "tool": "openclaw",
+    "tags": [],
+    "description": "Spaced repetition for ideas — an OpenClaw skill",
+    "path": "openclaw/humanitylabs-org-mindfeed/",
+    "type": "repo",
+    "repoUrl": "https://github.com/humanitylabs-org/mindfeed",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1449866690",
+    "title": "marketing-openclaw-ai",
+    "tool": "openclaw",
+    "tags": [
+      "ai-agents",
+      "ecommerce",
+      "openclaw",
+      "python",
+      "shopify",
+      "streamlit"
+    ],
+    "description": "AI-powered marketing automation framework with OpenClaw skills for Shopify, Google Merchant Center, product optimization, feed diagnostics, and analytics.",
+    "path": "openclaw/tomas-corza-marketing-openclaw-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Tomas-Corza/marketing-openclaw-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1454006122",
+    "title": "skills-harness",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "chatgpt-history",
+      "claude-code",
+      "codex",
+      "cursor",
+      "deepseek",
+      "electron",
+      "gemini",
+      "hermes-agent",
+      "local-first",
+      "openclaw",
+      "prompt-engineering",
+      "skill-md",
+      "submodular-selection"
+    ],
+    "description": "Turn scattered AI chat histories (ChatGPT, Claude, Cursor, Codex, DeepSeek, etc.) into reusable Agent Skills (SKILL.md) locally. / 一键将各大 AI 对话历史提炼为本地 Agent 技能。",
+    "path": "openclaw/wyh302-skills-harness/",
+    "type": "repo",
+    "repoUrl": "https://github.com/WYH302/skills-harness",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1274327106",
+    "title": "AgentRepoRouter",
+    "tool": "openclaw",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "developer-tools",
+      "hermes",
+      "multi-cli",
+      "openai-codex",
+      "openclaw",
+      "opencode",
+      "repo-aware",
+      "repo-router",
+      "repository-management",
+      "skill-router"
+    ],
+    "description": "Repo-aware router skill for AI coding CLIs that maps tasks to the right repository, project skill/agent, and native CLI backend.",
+    "path": "openclaw/wufei-png-agentreporouter/",
+    "type": "repo",
+    "repoUrl": "https://github.com/wufei-png/AgentRepoRouter",
+    "source": "github-discovery"
   }
 ]
