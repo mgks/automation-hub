@@ -75890,5 +75890,139 @@
     "type": "repo",
     "repoUrl": "https://github.com/zhan999-sb/n8n-hardening-demo",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1463718319",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "My very first n8n projects collection.",
+    "path": "n8n/azoicembassy-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/AzoicEmbassy/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1433777615",
+    "title": "usami-workspace",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workspace local da Usami: infra n8n, exports de workflows, guias de agente e arquivos de referência",
+    "path": "n8n/usamivtuber-usami-workspace/",
+    "type": "repo",
+    "repoUrl": "https://github.com/UsamiVtuber/usami-workspace",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1463713979",
+    "title": "n8n-masterclass-automations-and-ai-agents",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Hands-on workflows, notes, and projects from CampusX's Complete n8n Masterclass (2026): building real-world automations and AI agents from scratch with n8n.",
+    "path": "n8n/bilalramzan01-n8n-masterclass-automations-and-ai-agents/",
+    "type": "repo",
+    "repoUrl": "https://github.com/bilalramzan01/n8n-masterclass-automations-and-ai-agents",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1463563933",
+    "title": "job-fit-analyzer",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n workflow that uses Claude to score job posts against my skills",
+    "path": "n8n/xdaniellet-job-fit-analyzer/",
+    "type": "repo",
+    "repoUrl": "https://github.com/xDanielleT/job-fit-analyzer",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1463541471",
+    "title": "n8n_pa_chlqeria_pos073",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Workflow n8n Asistente Chilaquería – POS073",
+    "path": "n8n/smndzcmx77-n8n_pa_chlqeria_pos073/",
+    "type": "repo",
+    "repoUrl": "https://github.com/smndzcmx77/n8n_pa_chlqeria_pos073",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1460098534",
+    "title": "woocommerce-hubspot-sync",
+    "tool": "n8n",
+    "tags": [
+      "crm",
+      "hubspot",
+      "integration",
+      "n8n",
+      "revops",
+      "woocommerce"
+    ],
+    "description": "WooCommerce → HubSpot sync with n8n: idempotent upserts, refunds, data-quality quarantine, retries, HubSpot workflows & dashboard. Verified against a real HubSpot account.",
+    "path": "n8n/arjonaenzo-woocommerce-hubspot-sync/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ArjonaEnzo/woocommerce-hubspot-sync",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1463631744",
+    "title": "automacao-juridica-zapsign-n8n",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "fpdf",
+      "gemini",
+      "n8n",
+      "python",
+      "redis",
+      "supabase",
+      "workflow-automation",
+      "zapsign-api"
+    ],
+    "description": "Workflows n8n multimodais (Gemini, Redis debounce, Supabase) sanitizados + gerador Python (FPDF) integrado a API REST ZapSign em modo dry-run seguro.",
+    "path": "n8n/jonathancusandei-glitch-automacao-juridica-zapsign-n8n/",
+    "type": "repo",
+    "repoUrl": "https://github.com/jonathancusandei-glitch/automacao-juridica-zapsign-n8n",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1463623391",
+    "title": "n8n-ai-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "AI lead scoring and support routing workflows for n8n",
+    "path": "n8n/ebrahim-almuzallam-n8n-ai-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/ebrahim-almuzallam/n8n-ai-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1359660303",
+    "title": "musfiraai-mcp",
+    "tool": "n8n",
+    "tags": [
+      "automations",
+      "claude",
+      "custom-tools",
+      "mcp",
+      "n8n",
+      "workflows"
+    ],
+    "description": "musfiraai-mcp: MCP server for Musfiraai, enabling free custom tool requests, status checks, and n8n workflow integration via Claude clients",
+    "path": "n8n/musman550-musfiraai-mcp/",
+    "type": "repo",
+    "repoUrl": "https://github.com/musman550/musfiraai-mcp",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1454699578",
+    "title": "Homelab-Automations",
+    "tool": "n8n",
+    "tags": [],
+    "description": "This repository contains the Docker Compose stacks, n8n workflows, and configuration for my two-node homelab setup.",
+    "path": "n8n/haroonstar2-homelab-automations/",
+    "type": "repo",
+    "repoUrl": "https://github.com/haroonstar2/Homelab-Automations",
+    "source": "github-discovery"
   }
 ]
