@@ -76175,5 +76175,171 @@
     "type": "repo",
     "repoUrl": "https://github.com/deeplyhumanlabs/n8n-slack-receipe-bot",
     "source": "github-discovery"
+  },
+  {
+    "id": "repo-1466206743",
+    "title": "vulntriage-ai",
+    "tool": "n8n",
+    "tags": [],
+    "description": "Vulnerability triage assistant for authorized pentest labs: n8n workflow, LangChain ReAct agent with RAG, and fuzzy-logic risk prioritization. UNAL AI Specialization project.",
+    "path": "n8n/jtoro19-vulntriage-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/Jtoro19/vulntriage-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1459212006",
+    "title": "evinor-n8n-workflows",
+    "tool": "n8n",
+    "tags": [
+      "evinor",
+      "hubspot",
+      "n8n",
+      "n8n-template",
+      "n8n-workflow",
+      "sales-automation"
+    ],
+    "description": "Ready-to-import n8n workflows that act on Evinor events (funding, layoffs, leadership changes, acquisitions)",
+    "path": "n8n/evinor-ai-evinor-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/evinor-ai/evinor-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1466203085",
+    "title": "guias",
+    "tool": "n8n",
+    "tags": [
+      "avalanche",
+      "bolivia",
+      "clerk",
+      "guias",
+      "hackathon",
+      "mujeres-en-tecnologia",
+      "n8n",
+      "supabase"
+    ],
+    "description": "Guías paso a paso: crear tus cuentas, importar workflows y armar tu proyecto con n8n.",
+    "path": "n8n/nodo-cero-bo-guias/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nodo-cero-bo/guias",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1466203038",
+    "title": "workflows",
+    "tool": "n8n",
+    "tags": [
+      "automatizacion",
+      "avalanche",
+      "bolivia",
+      "clerk",
+      "fuji",
+      "hackathon",
+      "ia",
+      "n8n",
+      "supabase",
+      "workflows"
+    ],
+    "description": "Workflows de n8n listos para importar: IA, Supabase, Clerk y Avalanche Fuji. Auditados para n8n 2.48.7.",
+    "path": "n8n/nodo-cero-bo-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/nodo-cero-bo/workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1056194528",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n-workflows",
+    "path": "n8n/brunosouza-modal-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/brunosouza-modal/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1466133569",
+    "title": "apify-b2b-and-agent-workflows",
+    "tool": "n8n",
+    "tags": [
+      "apify",
+      "b2b-lead-generation",
+      "email-deliverability",
+      "mcp",
+      "model-context-protocol",
+      "n8n",
+      "n8n-workflow",
+      "openapi-diff",
+      "osv",
+      "saas-pricing"
+    ],
+    "description": "Free n8n workflow templates, MCP configs (Cursor/Claude), and API quickstarts for B2B domain pre-flight enrichment, SaaS pricing/OpenAPI diff monitoring, and OSS dependency due-diligence.",
+    "path": "n8n/nooneahead-apify-b2b-and-agent-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/NoOneAhead/apify-b2b-and-agent-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1003364435",
+    "title": "awesome-n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "A curated collection of practical n8n workflows for automation enthusiasts",
+    "path": "n8n/lqshow-awesome-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/lqshow/awesome-n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1466161536",
+    "title": "n8n-workflows",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n Workflow Repository",
+    "path": "n8n/leoking714-n8n-workflows/",
+    "type": "repo",
+    "repoUrl": "https://github.com/leoking714/n8n-workflows",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1466108427",
+    "title": "gaming-newsroom-ai",
+    "tool": "n8n",
+    "tags": [],
+    "description": "n8n editorial workflows with Hermes, Telegram, and source verification.",
+    "path": "n8n/chasegrindy-gaming-newsroom-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/chasegrindy/gaming-newsroom-ai",
+    "source": "github-discovery"
+  },
+  {
+    "id": "repo-1192691221",
+    "title": "synapse-ai",
+    "tool": "n8n",
+    "tags": [
+      "ai-agents",
+      "custom-agents",
+      "custom-tools",
+      "directed-acyclic-graph",
+      "human-in-the-loop",
+      "llm-agent",
+      "mcp-client",
+      "mcp-server",
+      "mcp-servers",
+      "mcp-tools",
+      "multi-agent",
+      "multi-agent-orchestration",
+      "multi-agent-systems",
+      "n8n",
+      "rag",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "description": "SynapseOrch: AI workflows that follow the plan. Describe a job, approve the steps, run them on any model, local or cloud. MCP server included. Open source (AGPL-3.0).",
+    "path": "n8n/synapseorch-ai-synapse-ai/",
+    "type": "repo",
+    "repoUrl": "https://github.com/synapseorch-ai/synapse-ai",
+    "source": "github-discovery"
   }
 ]
